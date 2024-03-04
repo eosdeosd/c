@@ -29,7 +29,7 @@
 
 //{"key": "*点点","name": "*点点","type": 0,"api": "https://xx55zyapi.com/home/cjapi/ascf/mc/vod/xml","searchable": 1,"quickSearch": 1,"filterable": 0},
 
- {
+     {
       "key": "酷奇MV",
       "name": "🎸酷奇MV",
       "type": 3,
@@ -48,8 +48,8 @@
         "副标题": "target=\"play\">&&<",
         "搜索模式": "1",
         "搜索url": "https://www.kuqimv.com/search.php?key={wd}"
-      },
-
+      }
+    },
 
 
 
