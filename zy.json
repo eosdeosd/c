@@ -23,8 +23,7 @@
     
 
     
-    {"key": "P4_忍者","name": "💢┃忍者┃影视","type": 3,"api": "csp_AppRZ","playerType": "2","jar": "./libs/jar/P4.jar","ext": "http://rzys.xyz/"},
-    {"key": "P4_荐片","name": "🎬┃荐片┃影视","type": 3,"api": "csp_Jianpian","playerType": "2","jar": "./libs/jar/P4.jar","ext": "http://api2.rinhome.com"},
+ 
 
 
 //{"key": "*点点","name": "*点点","type": 0,"api": "https://xx55zyapi.com/home/cjapi/ascf/mc/vod/xml","searchable": 1,"quickSearch": 1,"filterable": 0},
