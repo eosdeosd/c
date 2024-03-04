@@ -28,7 +28,22 @@
       "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/MTV.json"
     },  
    
- 
+
+   
+  {
+      "key": "Bili",
+      "name": "Bili",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://agit.ai/dxawi/ray/raw/branch/master/json/bilibili.json"
+    },
     
 
     
