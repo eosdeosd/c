@@ -68,7 +68,7 @@
 
 
 
-{"key": "短视频","name": "📱┃网红┃美女","type": 3,"api": "csp_XBPQ","searchable": 0,"quickSearch": 0,"filterable": 0,"jar": "./libs/jar/HCCX.jar","ext": "./libs/hccx/短视频聚合.json"
+{
     }
   ], 
   "parses": [
