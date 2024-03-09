@@ -85,7 +85,21 @@
       "resource": 37488
     },
     
-   
+  {"key": "*大地","name": "*大地","type": 0,"api": "https://dadiapi.com/api.php/"},
+{"key": "*乐播","name": "*乐播","type": 0,"api": "https://lbapi9.com/api.php/provide/vod/at/xml"}, 
+
+
+
+
+
+
+
+
+
+
+
+
+
     
     {
       "key": "乐播18+",
