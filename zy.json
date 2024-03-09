@@ -70,7 +70,7 @@
 //{ "key": "b8b48f6e-9e96-5619-96ba-d884ef9cb442","name": "奥斯卡","api": "https://aosikazy.com/api.php/provide/vod/?ac=list", "playUrl": "https://aosikazy11.com/?url=", "group": "18+","search": 2, "status": false, "type": 1, "id": "98", "isActive": true, "resource": 87803 },
 
 
-
+ {"key": "chigua","name": "🌟┃吃┃瓜","type": 3,"api": "https://www.chiguafilm.com/api.php/v1.vod","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.chiguafilm.com/"},
      
 
 
