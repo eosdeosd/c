@@ -87,20 +87,11 @@
     
   {"key": "*大地","name": "*大地","type": 0,"api": "https://dadiapi.com/api.php/"},
 {"key": "*乐播","name": "*乐播","type": 0,"api": "https://lbapi9.com/api.php/provide/vod/at/xml"}, 
+{"key":"*色猫","name":"*色猫","type":1,"api":"https://api.maozyapi.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
+{"key":"*番号","name":"*番号","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"*KK","name":"*KK","type":1,"api":"https://kkzy.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
 
 
-
-
-
-
-
-
-
-
-
-
-
-    
     {
       "key": "乐播18+",
       "name": "乐播",
