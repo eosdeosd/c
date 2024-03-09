@@ -18,7 +18,7 @@
     {"key": "Auete","name": "🏝┃Auete┃直连","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://auete.pro/" },      
  
  
-{"key": "演唱会","name": "音乐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://download.kstore.space/download/2883/PY/1022music.json"},
+{"key": "演唱会","name": "音乐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/music.json"},
 
 
 
