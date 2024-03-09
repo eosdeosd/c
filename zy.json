@@ -67,19 +67,7 @@
     },
     
  
-//{
-      "key": "b8b48f6e-9e96-5619-96ba-d884ef9cb442",
-      "name": "奥斯卡",
-      "api": "https://aosikazy.com/api.php/provide/vod/?ac=list",
-      "playUrl": "https://aosikazy11.com/?url=",
-      "group": "18+",
-      "search": 2,
-      "status": false,
-      "type": 1,
-      "id": "98",
-      "isActive": true,
-      "resource": 87803
-    },
+//{ "key": "b8b48f6e-9e96-5619-96ba-d884ef9cb442","name": "奥斯卡","api": "https://aosikazy.com/api.php/provide/vod/?ac=list", "playUrl": "https://aosikazy11.com/?url=", "group": "18+","search": 2, "status": false, "type": 1, "id": "98", "isActive": true, "resource": 87803 },
 
 {
       "key": "快车资源",
