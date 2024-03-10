@@ -10,8 +10,8 @@
    "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
    "warningText": "资源来自网络，所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买。",
    "sites": [
-     {"key": "玩偶哥哥","name": "👽┃玩偶┃4K弹幕","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
-     {"key": "csp_KungFu404","name": "🔥设置Token","type": 3,"api": "csp_KungFu404","searchable": 0,"filterable": 0,"changeable": 0,"jar": "./libs/jar/Token.jar","ext": "http://127.0.0.1:9978/file/tvbox/token.txt"},
+     {"key": "玩偶哥哥","name": "👽┃玩偶┃4K（需要手机阿里云盘扫码）","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
+    // {"key": "csp_KungFu404","name": "🔥设置Token","type": 3,"api": "csp_KungFu404","searchable": 0,"filterable": 0,"changeable": 0,"jar": "./libs/jar/Token.jar","ext": "http://127.0.0.1:9978/file/tvbox/token.txt"},
     {"key": "Xinsj","name": "👓┃视觉┃直连（备用）","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.hdmyy.com/"},
    
     {"key": "Lib","name": "🌟┃Lib┃直连（推荐）","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.libvio.la/"},
@@ -39,7 +39,7 @@
    
    
    {
-      "key": "Bili",
+      "key": "Bili(B站)",
       "name": "Bili",
       "type": 3,
       "api": "csp_Bili",
@@ -97,7 +97,7 @@
 
  {"key": "UpYun","name": "🌤️┃阿里┃云搜","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd" },
     {"key": "PanSearch","name": "🏵️‍┃阿里┃PanS","type": 3,"api": "csp_PanSearch","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd" },
-//{"key": "*点点","name": "*点点","type": 0,"api": "https://xx55zyapi.com/home/cjapi/ascf/mc/vod/xml","searchable": 1,"quickSearch": 1,"filterable": 0},
+
 {"key": "无","name": "📱无","type": 3,"api": "csp_XBPQ","searchable": 0,"quickSearch": 0,"filterable": 0,"jar": "./libs/jar/HCCX.jar","ext": "./libs/hccx/短视频聚合.json"
     }
   ], 
