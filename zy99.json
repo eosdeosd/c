@@ -1,6 +1,6 @@
 //以下内容为互联网收集，只为自用。
 {
-  
+  //下面这一行是JAR的地址，我使用的绝对路径，huanzi989是我用户名称，https://gitee.com/是国内开源社区，你自己申请。
   "spider": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/Yoursmile.jar;md5;71B3AF5F2F3E4FB48B24EE16E6D574BC",
   
 
@@ -12,6 +12,10 @@
    "sites": [
      {"key": "玩偶哥哥","name": "👽┃玩偶┃4K弹幕","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
      {"key": "csp_KungFu404","name": "🔥设置Token","type": 3,"api": "csp_KungFu404","searchable": 0,"filterable": 0,"changeable": 0,"jar": "./libs/jar/Token.jar","ext": "http://127.0.0.1:9978/file/tvbox/token.txt"},
+  
+
+//这里使用是绝对路径，使用绝对路径的源是不会失效的，除非网站失效，但是这个源地址是直链，地址要解析都需要API地址
+//下面显示API地址是相对路径，需要配套JAR使用。  
     {"key": "Xinsj","name": "👓┃视觉┃直连","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.hdmyy.com/"},
    
     {"key": "Lib","name": "🌟┃Lib┃直连","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.libvio.la/"},
@@ -21,7 +25,7 @@
 
 
 
-
+//这里是一种获取方式，需要配合JAR里面的爬虫文件，配套
   {
       "key": "MTV",
       "name": "🎧明星┃MV",
@@ -36,7 +40,7 @@
       "changeable": 0,
       "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/MTV.json"
     },  
-   
+ //上面是使用我自己上传的绝对路径文件  
    
    {
       "key": "Bili",
@@ -52,7 +56,7 @@
       "changeable": 0,
       "ext": "https://agit.ai/dxawi/ray/raw/branch/master/json/bilibili.json"
     },
-
+//这里使用是别人上传的绝对路径文件
 
     {
       "key": "🗃综合音乐",
@@ -87,7 +91,12 @@
       "isActive": true,
       "resource": 37488
     },
-    
+
+
+
+//这是另外一种获取源方式，不需要JAR文件配合，直接添加进去就可以，有些网站提供API格式如下，按这种格式填上去，
+//这里使用的都是绝对路径
+
   {"key": "*大地","name": "*大地","type": 0,"api": "https://dadiapi.com/api.php/"},
 {"key": "*乐播","name": "*乐播","type": 0,"api": "https://lbapi9.com/api.php/provide/vod/at/xml"}, 
 {"key":"*色猫","name":"*色猫","type":1,"api":"https://api.maozyapi.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
