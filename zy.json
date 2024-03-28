@@ -7,7 +7,7 @@
   
   
   
-   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+   "wallpaper": "",
    "warningText": "资源来自网络，所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买。",
    "sites": [
      {"key": "玩偶哥哥","name": "👽┃玩偶┃4K（需要手机阿里云盘扫码）","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
