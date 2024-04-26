@@ -38,7 +38,7 @@
       "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/MTV.json"
     },  
    
- {"key":"cc_相声","name": "📻┃相声┃合集","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable": 1,"jar":"","ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/XS.json"},  
+ {"key":"cc_相声","name": "📻┃相声┃合集","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable": 1,"jar":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/Yoursmile.jar","ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/XS.json"},  
  
   
     
