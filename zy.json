@@ -36,8 +36,9 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/MTV.json"
-    },  
-   
+    }, 
+
+ {"key":"哔哩哔哩戏曲","name":"哔哩哔哩戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/BBXQ.json"}],  
    
  
   
