@@ -38,7 +38,7 @@
       "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/MTV.json"
     },  
    
- {"key":"cc_相声","name": "📻┃相声┃合集","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable": 1,"jar":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/XS.jar","ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/XS.json"},  
+   
  
   
     
@@ -70,6 +70,10 @@
 
  {"key": "UpYun","name": "🌤️┃阿里┃云搜","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd" },
     {"key": "PanSearch","name": "🏵️‍┃阿里┃PanS","type": 3,"api": "csp_PanSearch","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd" },
+
+
+//一个标准的链接格式，需要JAR和JSON{"key":"cc_相声","name": "📻┃相声┃合集","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable": 1,"jar":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/XS.jar","ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/XS.json"},  
+
 
 {"key": "无","name": "📱无","type": 3,"api": "csp_XBPQ","searchable": 0,"quickSearch": 0,"filterable": 0,"jar": "./libs/jar/HCCX.jar","ext": "./libs/hccx/短视频聚合.json"
     }
