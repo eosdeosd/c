@@ -40,7 +40,9 @@
 
  {"key":"戏曲","name":"戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/BBXQ.json"},  
    
+ {"key": "学堂","name": "🅰️学堂教育","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%AD%A6%E5%A0%82%E6%95%99%E8%82%B2.json"},
  
+  {"key": "少儿","name": "🅰️少儿合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%B0%91%E5%84%BF%E5%90%88%E9%9B%86.json"}, 
   
     
  
