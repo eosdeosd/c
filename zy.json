@@ -1,24 +1,31 @@
 //以下内容为互联网收集，只为自用。
 {
-  //"spider": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/fty.jar;md5;8b8d1018ca0b29c22cf681e2db55d38f",
+  //注释定义全局jar爬虫文件,先下载一个爬虫文件，然后上传到https://gitee.com/你申请的个人空间里面，然后把地址填入进去如下
+  //"spider": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/fty.jar",
+  //打开https://www.lige.fit/ua  网址，去里面寻找解密的源，自己复制修改使用。  能够打开的源，就说明有效使用。
  "spider": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/Yoursmile.jar;md5;71B3AF5F2F3E4FB48B24EE16E6D574BC",
   
 
   
   
-  
+  //这里一看就知道是什么，打开软件都可以看到弹窗信息
    "wallpaper": "",
    "warningText": "资源来自网络，所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买。",
+
+   //下面是源地址定义的地方，格式是固定的比如下面
+   //      {"key": "Lib","name": "🌟┃Lib┃直连（推荐）","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.libvio.fun/"},  api这里可以使用上面定义的全局爬虫文件里面的api，也可以使用绝对路径或者外链外面别人的爬虫文件api，ext后面就是地址源或者直接网站地址
    "sites": [
+   
+      {"key": "Lib","name": "🌟┃Lib┃直连（推荐）","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.libvio.fun/"},  
+   
      {"key": "玩偶哥哥","name": "👽┃玩偶┃4K（需要手机阿里云盘扫码）","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
   
-   {"key": "Lib","name": "🌟┃Lib┃直连（推荐）","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.libvio.fun/"},  
    
     // {"key": "csp_KungFu404","name": "🔥设置Token","type": 3,"api": "csp_KungFu404","searchable": 0,"filterable": 0,"changeable": 0,"jar": "./libs/jar/Token.jar","ext": "http://127.0.0.1:9978/file/tvbox/token.txt"},
     {"key": "Xinsj","name": "👓┃视觉┃直连（备用）","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.80yy3.com"},
    
     {"key": "Auete","name": "🏝┃Auete┃直连（有综艺）","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://auete.pro/" },      
- 
+//这里使用了绝对路径的JSON源地址，这个JSON源需要上传到你的空间，或者输入别人的绝对路径源地址 
 {"key": "演唱会","name": "🎧演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/music.json"},
 
 
@@ -69,19 +76,25 @@
    
   
  
- 
+//下面是搜索源格式如下，复制粘贴别人的就可以直接使用，如果有jar，别人使用的相对路径的时候，需要你自己找到别人的jar文件，下载下来，上传到你的个人空间，再复制地址填进去，如下。
 {"key":"影搜","name":"🌸影搜┃搜索","type":3,"api":"csp_Yingso","searchable":1,"filterable":0,"changeable":0,"jar":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/okjpg.txt","ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"},
+
+   {"key": "PanSearch","name": "🏵️‍┃阿里┃PanS","type": 3,"api": "csp_PanSearch","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd" },
+
+
 //{"token":"https://gitee.com/huanzi989/self-use---tv-box/blob/master/TV2.txt", "cookie":"file://TV/quark_cookie.txt"},"timeout":15},
- {"key": "UpYun","name": "🌤️┃阿里┃云搜","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd" },
-    {"key": "PanSearch","name": "🏵️‍┃阿里┃PanS","type": 3,"api": "csp_PanSearch","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd" },
+// {"key": "UpYun","name": "🌤️┃阿里┃云搜","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd" },
+
 
 
 //一个标准的链接格式，需要JAR和JSON{"key":"cc_相声","name": "📻┃相声┃合集","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable": 1,"jar":"okcaptain/kko/-/raw/main/okjpg.txt","ext": "okcaptain/kko/-/raw/main/tv.txt"},  
 
 
-{"key": "无","name": "📱无","type": 3,"api": "csp_XBPQ","searchable": 0,"quickSearch": 0,"filterable": 0,"jar": "./libs/jar/HCCX.jar","ext": "./libs/hccx/短视频聚合.json"
-    }
+{"key": "无","name": "📱无","type": 3,"api": "csp_XBPQ","searchable": 0,"quickSearch": 0,"filterable": 0,"jar": "./libs/jar/HCCX.jar","ext": "./libs/hccx/短视频聚合.json" }
   ], 
+
+
+  //这里是视频解析的地方，不建议修改。
   "parses": [
     {"name": "Json聚合","type": 3,"url": "Demo" },
     {"name": "Web聚合","type": 3,"url": "Web"},
@@ -131,11 +144,14 @@
     {"name": "nm","hosts": [  "toutiaovod.com"],"regex": [  "video/tos/cn"]},
     {"name": "cl","hosts": [  "magnet"],"regex": [  "最 新",  "直 播",  "更 新"]}
   ],
+
+  //这里是直播源，名字可以随便取。 url是直播地址的文件，都是txt后缀。 这里我使用外部地址，你也可以使用自己上传的文件，使用相对路径。
   "lives": [
     {"name": "huanzi989","type": 0,"url": "http://rihou.vip:55/lib/kx2024.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {"name": "SAO0","type": 0,"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+    //这里的url直播地址就使用了相对路径，但是这个地址是空的无效。
     {"name": "IPV6","type": 0,"url": "./lib/tv/ipv6.m3u","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ]
