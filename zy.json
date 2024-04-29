@@ -68,12 +68,12 @@
   
  
  
-{"key":"影搜","name":"🌸影搜┃搜索","type":3,"api":"csp_Yingso","searchable":1,"filterable":0,"changeable":0,"jar":"https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt","ext":{"token":"https://jihulab.com/okcaptain/kko/-/raw/main/tv.txt", "cookie":"file://TV/quark_cookie.txt"},"timeout":15},
+{"key":"影搜","name":"🌸影搜┃搜索","type":3,"api":"csp_Yingso","searchable":1,"filterable":0,"changeable":0,"jar":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/okjpg.txt","ext":{"token":"https://gitee.com/huanzi989/self-use---tv-box/blob/master/TV2.txt", "cookie":"file://TV/quark_cookie.txt"},"timeout":15},
  {"key": "UpYun","name": "🌤️┃阿里┃云搜","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd" },
     {"key": "PanSearch","name": "🏵️‍┃阿里┃PanS","type": 3,"api": "csp_PanSearch","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd" },
 
 
-//一个标准的链接格式，需要JAR和JSON{"key":"cc_相声","name": "📻┃相声┃合集","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable": 1,"jar":"https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt","ext": "https://jihulab.com/okcaptain/kko/-/raw/main/tv.txt"},  
+//一个标准的链接格式，需要JAR和JSON{"key":"cc_相声","name": "📻┃相声┃合集","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable": 1,"jar":"okcaptain/kko/-/raw/main/okjpg.txt","ext": "okcaptain/kko/-/raw/main/tv.txt"},  
 
 
 {"key": "无","name": "📱无","type": 3,"api": "csp_XBPQ","searchable": 0,"quickSearch": 0,"filterable": 0,"jar": "./libs/jar/HCCX.jar","ext": "./libs/hccx/短视频聚合.json"
