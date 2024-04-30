@@ -1,6 +1,6 @@
 {
   "tbl_site": [
-     {"key": "Lib","name": "🌟┃Lib┃直连（推荐）","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.libvio.fun/"},  
+     {"key": "Lib","name": "🌟┃Lib┃直连（推荐）","type": 3,"api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/Yoursmile.jar","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.libvio.fun/"},  
     {
       "key": "apiyhzy",
       "name": "念心自用 || 樱花动漫",
