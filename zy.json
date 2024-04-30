@@ -13,7 +13,7 @@
    "warningText": "资源来自网络，所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买。",
 
    //下面是源地址定义的地方，格式是固定的比如下面
-   //      {"key": "Lib","name": "🌟┃Lib┃直连（推荐）","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.libvio.fun/"},  api这里可以使用上面定义的全局爬虫文件里面的api，也可以使用绝对路径或者外链外面别人的爬虫文件api，ext后面就是地址源或者直接网站地址
+   //      {"key": "Lib","name": "🌟┃Lib┃直连（推荐）","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.libvio.fun/"},  api这里可以使用上面定义的全局爬虫文件里面的api，也可以使用绝对路径或者外链外面别人的爬虫文件api，ext后面就是数据源或者直接网站地址或者阿里云盘token保持链接
    "sites": [
    
       {"key": "Lib","name": "🌟┃Lib┃直连（推荐）","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.libvio.fun/"},  
@@ -76,9 +76,10 @@
    
   
  
-//下面是搜索源格式如下，复制粘贴别人的就可以直接使用，如果有jar，别人使用的相对路径的时候，需要你自己找到别人的jar文件，下载下来，上传到你的个人空间，再复制地址填进去，如下。
+//下面是搜索源格式如下，复制粘贴别人的就可以直接使用，如果有jar，别人使用的相对路径的时候，需要你自己找到别人的jar文件，下载下来，上传到你的个人空间，再复制地址填进去，如下。这里我为什么会增加一个jar呢。 那是因为最早的全局定义的jar爬虫里面没有这个搜索api所以，这里单独添加使用，比较常见于添加使用别人的搜索源
 {"key":"影搜","name":"🌸影搜┃搜索","type":3,"api":"csp_Yingso","searchable":1,"filterable":0,"changeable":0,"jar":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/okjpg.txt","ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"},
 
+//这里也是阿里搜索云盘，这里就直接使用全局定义的api爬虫就行了。只要api和jar文件是对应的就行。
    {"key": "PanSearch","name": "🏵️‍┃阿里┃PanS","type": 3,"api": "csp_PanSearch","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd" },
 
 
