@@ -7,7 +7,7 @@
     {
       "key": "wolongzyw",
       "name": "卧龙资源",
-      "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/zyplayer/wlzy.txt",
+      "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
       "playUrl": "",
       "search": 1,
       "group": "切片",
