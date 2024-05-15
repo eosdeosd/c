@@ -755,17 +755,7 @@ AMC 电影,http://61.221.215.25:8800/hls/43/index.m3u8
 纬来日本,rtmp://220.130.201.73/sat/tv771
 东森超视,rtmp://220.130.201.73/sat/tv331
 
-民视频道,rtmp://f13h.mine.nu/sat/tv051
-台视频道,rtmp://f13h.mine.nu/sat/tv071
-中视频道,rtmp://f13h.mine.nu/sat/tv091
-華視频道,rtmp://f13h.mine.nu/sat/tv111
-纬来体育,rtmp://f13h.mine.nu/sat/tv721
-纬来育乐,rtmp://f13h.mine.nu/sat/tv701
-纬来日本,rtmp://f13h.mine.nu/sat/tv771
-东森超视,rtmp://f13h.mine.nu/sat/tv331
-MoMo综合,rtmp://f13h.mine.nu/sat/tv761
-ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
-ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
+
 
 
 
