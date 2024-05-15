@@ -346,7 +346,7 @@
     {"name": "cl","hosts": [  "magnet"],"regex": [  "最 新",  "直 播",  "更 新"]}
   ],
   "lives": [
-    {"name": "huanzi989","type": 0,"url": "https://pan.baidu.com/s/1cWGspKpIAf8UAG3ue02_rQ?pwd=8888","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"
+    {"name": "huanzi989","type": 0,"url": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/333.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {"name": "SAO0","type": 0,"url": "","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"
     },
