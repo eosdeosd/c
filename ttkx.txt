@@ -877,6 +877,58 @@ MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 ELEVEN1台,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN2台,rtmp://f13h.mine.nu/sat/tv741
 
+中天新闻台,http://livetv.skycf.eu.org/live.m3u8?c=7
+中视新闻台,http://livetv.skycf.eu.org/live.m3u8?c=6
+镜新闻台,http://livetv.skycf.eu.org/live.m3u8?c=10
+三立新闻台,http://livetv.skycf.eu.org/live.m3u8?c=12
+华视新闻台,http://livetv.skycf.eu.org/live.m3u8?c=13
+三立新闻,http://107.174.133.144:2095/live.m3u8?c=3
+民视新闻,http://107.174.133.144:2095/live.m3u8?c=8
+
+台视频道,rtmp://220.130.201.73/sat/tv071
+民视频道,rtmp://220.130.201.73/sat/tv051
+纬来体育,rtmp://220.130.201.73/sat/tv721
+纬来日本,rtmp://220.130.201.73/sat/tv771
+东森超视,rtmp://220.130.201.73/sat/tv331
+
+民视频道,rtmp://f13h.mine.nu/sat/tv051
+台视频道,rtmp://f13h.mine.nu/sat/tv071
+中视频道,rtmp://f13h.mine.nu/sat/tv091
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
+纬来日本,rtmp://f13h.mine.nu/sat/tv771
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+MoMo综合,rtmp://f13h.mine.nu/sat/tv761
+ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
+ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
+
+八大第一台,http://61.221.215.25:8800/hls/55/index.m3u8
+八大戏剧台,http://61.221.215.25:8800/hls/39/index.m3u8
+三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8
+AMC 电影台,http://61.221.215.25:8800/hls/43/index.m3u8
+纬来精彩台,http://61.221.215.25:8800/hls/48/index.m3u8
+探索亚洲台,http://61.221.215.25:8800/hls/50/index.m3u8
+八大第一台,http://61.221.215.25:8800/hls/55/index.m3u8
+动物星球台,http://61.221.215.25:8800/hls/57/index.m3u8
+八大综合台,http://61.221.215.25:8800/hls/56/index.m3u8
+
+番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u
+
+番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u
+中天新闻,http://107.174.133.144:2095/live.m3u8?c=7
+东森新闻,http://107.174.133.144:2095/live.m3u8?c=6
+环宇新闻,http://107.174.133.144:2095/live.m3u8?c=4
+三立新闻,http://107.174.133.144:2095/live.m3u8?c=3
+民视新闻,http://107.174.133.144:2095/live.m3u8?c=8
+
+中视频道,rtmp://220.130.201.73/sat/tv091
+台视频道,rtmp://220.130.201.73/sat/tv071
+民视频道,rtmp://220.130.201.73/sat/tv051
+纬来体育,rtmp://220.130.201.73/sat/tv721
+纬来育乐,rtmp://220.130.201.73/sat/tv701
+纬来日本,rtmp://220.130.201.73/sat/tv771
+东森超视,rtmp://220.130.201.73/sat/tv331
+
 
 
 
