@@ -828,13 +828,12 @@ TVBS新闻,http://livetv.skycf.eu.org/live.m3u8?c=5
 中天新闻,https://s2.pub/cctv-17 
 台視,https://s2.pub/cctv-20 
 民視综合台,https://s2.pub/cctv-19 
-天映频道,https://epg.pw/stream/48616f573347fc1c017d6fc7c61e614d06aa4de174d540ad9b5ee8bf2e3147ba.ctv
+
 好消息,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
-台湾番薯台,https://epg.pw/stream/51cb56342f39e6110b315b4d3c3391ef7b96e4b8cb91bd1e0670393a6da2755f.m3u8
-台湾番薯台,https://epg.pw/stream/f60d0478b5c3b32b42dff1197b6499bb64e79ca1b9544d28dfb62fe1d84da582.m3u8
+
 台湾番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8?blog.ntnas.top
 大爱1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大爱2,https://epg.pw/stream/2b383d639b6b2eade22f2d085141a38ae48a98f24b8a06f485e23f7211bbf909.m3u8
+
 大爱2,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
 中天新闻,http://livetv.skycf.eu.org/live.m3u8?c=7
 三立新闻,http://livetv.skycf.eu.org/live.m3u8?c=12
