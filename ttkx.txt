@@ -738,12 +738,12 @@ HBtv老挝,http://hikvision.city:880/HBTV.m3u8
 环球频道,http://live.cgtn.com/500/prog_index.m3u8
 动物频道,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
-💝湾湾频道👉全网_666,#genre#
+💝弯弯频道👉全网,#genre#
 
 台视频道,rtmp://220.130.201.73/sat/tv071
 民视频道,rtmp://220.130.201.73/sat/tv051
 纬来体育,rtmp://220.130.201.73/sat/tv721
-纬来日本,rtmp://220.130.201.73/sat/tv771
+纬来小本,rtmp://220.130.201.73/sat/tv771
 东森超视,rtmp://220.130.201.73/sat/tv331
 
 民视频道,rtmp://f13h.mine.nu/sat/tv051
@@ -752,7 +752,7 @@ HBtv老挝,http://hikvision.city:880/HBTV.m3u8
 華視频道,rtmp://f13h.mine.nu/sat/tv111
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
-纬来日本,rtmp://f13h.mine.nu/sat/tv771
+纬来小本,rtmp://f13h.mine.nu/sat/tv771
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
@@ -781,7 +781,7 @@ CGTN,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 华視,rtmp://f13h.mine.nu/sat/tv111 
 纬来体育,rtmp://f13h.mine.nu/sat/tv721 
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701 
-纬来日本,rtmp://f13h.mine.nu/sat/tv771 
+纬来小本,rtmp://f13h.mine.nu/sat/tv771 
 东森超視,rtmp://f13h.mine.nu/sat/tv331 
 MoMo综合,rtmp://f13h.mine.nu/sat/tv761 
 ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731 
@@ -887,7 +887,7 @@ ELEVEN2台,rtmp://f13h.mine.nu/sat/tv741
 中视频道,rtmp://f13h.mine.nu/sat/tv091
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
-纬来日本,rtmp://f13h.mine.nu/sat/tv771
+纬来小本,rtmp://f13h.mine.nu/sat/tv771
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
@@ -917,7 +917,7 @@ AMC 电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 民视频道,rtmp://220.130.201.73/sat/tv051
 纬来体育,rtmp://220.130.201.73/sat/tv721
 纬来育乐,rtmp://220.130.201.73/sat/tv701
-纬来日本,rtmp://220.130.201.73/sat/tv771
+纬来小本,rtmp://220.130.201.73/sat/tv771
 东森超视,rtmp://220.130.201.73/sat/tv331
 
 民视频道,rtmp://f13h.mine.nu/sat/tv051
@@ -925,7 +925,7 @@ AMC 电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 中视频道,rtmp://f13h.mine.nu/sat/tv091
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
-纬来日本,rtmp://f13h.mine.nu/sat/tv771
+纬来小本,rtmp://f13h.mine.nu/sat/tv771
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
@@ -963,7 +963,7 @@ ELEVEN2台,rtmp://f13h.mine.nu/sat/tv741
 华视,rtmp://f13h.mine.nu/sat/tv111
 纬来体育,rtmp://f13h.mine.nu/sat/tv721 
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701 
-纬来日本,rtmp://f13h.mine.nu/sat/tv771 
+纬来小本,rtmp://f13h.mine.nu/sat/tv771 
 东森超视,rtmp://f13h.mine.nu/sat/tv331 
 MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731 
@@ -988,7 +988,7 @@ MOMO综合,rtmp://f13h.mine.nu/sat/tv761
 东森财经新闻,rtmp://f13h.mine.nu/sat/tv571
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
-纬来日本,rtmp://f13h.mine.nu/sat/tv771
+纬来小本,rtmp://f13h.mine.nu/sat/tv771
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 ELTA体育1,rtmp://f13h.mine.nu/sat/md051
 ELTA体育2,rtmp://f13h.mine.nu/sat/md041
@@ -1035,7 +1035,7 @@ TVBS新闻,http://livetv.skycf.eu.org/live.m3u8?c=5
 民视,rtmp://220.130.201.73/sat/tv051 
 纬来体育,rtmp://220.130.201.73/sat/tv721
 纬来育乐,rtmp://220.130.201.73/sat/tv701 
-纬来日本,rtmp://220.130.201.73/sat/tv771 
+纬来小本,rtmp://220.130.201.73/sat/tv771 
 东森超视,rtmp://220.130.201.73/sat/tv331 
 民视,rtmp://f13h.mine.nu/sat/tv051 
 台视,rtmp://f13h.mine.nu/sat/tv071 
