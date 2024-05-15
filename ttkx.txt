@@ -740,23 +740,7 @@ HBtv老挝,http://hikvision.city:880/HBTV.m3u8
 
 💝弯弯频道👉全网,#genre#
 
-台视频道,rtmp://220.130.201.73/sat/tv071
-民视频道,rtmp://220.130.201.73/sat/tv051
-纬来体育,rtmp://220.130.201.73/sat/tv721
-纬来小本,rtmp://220.130.201.73/sat/tv771
-东森超视,rtmp://220.130.201.73/sat/tv331
 
-民视频道,rtmp://f13h.mine.nu/sat/tv051
-台视频道,rtmp://f13h.mine.nu/sat/tv071
-中视频道,rtmp://f13h.mine.nu/sat/tv091
-華視频道,rtmp://f13h.mine.nu/sat/tv111
-纬来体育,rtmp://f13h.mine.nu/sat/tv721
-纬来育乐,rtmp://f13h.mine.nu/sat/tv701
-纬来小本,rtmp://f13h.mine.nu/sat/tv771
-东森超视,rtmp://f13h.mine.nu/sat/tv331
-MoMo综合,rtmp://f13h.mine.nu/sat/tv761
-ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
-ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u
 中天亚洲,http://livetv.skycf.eu.org/live.m3u8?c=3
