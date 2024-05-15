@@ -1009,29 +1009,7 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
-💝湖北频道👉全网,#genre#
-十堰新闻,http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
-十堰经济,https://p8.vzan.com/slowlive/701367497774448672/live.m3u8
-荆门新闻,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?zhubd
-荆门教育,http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
-江夏新闻,http://59.175.226.142:280/gb28181/xwzh.m3u8?zhubd
-麻城综合,http://119.36.30.199:8888/mctv1.m3u8
-武汉新闻,http://stream.appwuhan.com/1tzb/sd/live.m3u8
-武汉生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8
-武汉经济,http://stream.appwuhan.com/4tzb/sd/live.m3u8
-武汉教育,http://stream.appwuhan.com/jyzb/sd/live.m3u8
-荆门新闻,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
-荆门教育,http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
-十堰新闻,http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
-十堰新闻,https://p8.vzan.com/slowlive/034028687228317362/live.m3u8?zbid=351104&tpid=868100086
-十堰经济,https://p8.vzan.com/slowlive/701367497774448672/live.m3u8?zbid=351104&tpid=1550600621
-江夏新闻,http://59.175.226.142:280/gb28181/xwzh.m3u8
-池州综合,http://wjsp.chiznews.com:8037/live/xwzh.m3u8
-池州生活,http://wjsp.chiznews.com:8037/live/wjsh.m3u8
-扬州综合,https://cm-wshls.homecdn.com/live/8bb.m3u8
-扬州城市,https://cm-wshls.homecdn.com/live/8bd.m3u8
-扬州生活,https://cm-wshls.homecdn.com/live/8bf.m3u8
-扬州邗江,https://cm-wshls.homecdn.com/live/8c3.m3u8
+
 
 
 
