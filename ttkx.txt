@@ -2080,17 +2080,6 @@ UFC格斗精选,http://rihou.cc:55/lib/migu.php?id=ufcgdjx
 周杰伦现场,http://rihou.cc:55/lib/migu.php?id=zjlxc
 最强综艺趴,http://rihou.cc:55/lib/migu.php?id=zqzyp
 
-熊猫0,http://rihou.cc:55/lib/migu.php?id=xmpd 
-熊猫1,http://rihou.cc:55/lib/migu.php?id=xm1
-熊猫2,http://rihou.cc:55/lib/migu.php?id=xm2
-熊猫3,http://rihou.cc:55/lib/migu.php?id=xm3 
-熊猫4,http://rihou.cc:55/lib/migu.php?id=xm4
-熊猫5,http://rihou.cc:55/lib/migu.php?id=xm5 
-熊猫6,http://rihou.cc:55/lib/migu.php?id=xm6
-熊猫7,http://rihou.cc:55/lib/migu.php?id=xm7 
-熊猫8,http://rihou.cc:55/lib/migu.php?id=xm8 
-熊猫9,http://rihou.cc:55/lib/migu.php?id=xm9 
-熊猫10,http://rihou.cc:55/lib/migu.php?id=xm10
 
 龙胜龙脊梯田,http://rihou.cc:55/lib/migu.php?id=lsljtt 
 大藤峡,http://rihou.cc:55/lib/migu.php?id=dtx 
