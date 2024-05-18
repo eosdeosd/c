@@ -17,6 +17,14 @@
    "sites": [
    
 //{"key":"drpy_js_NT动漫","name":"😎动漫 |个人专用","type":3,"api":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/drpy2.min.js","ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/NT%E5%8A%A8%E6%BC%AB.js"},
+//{ "key": "多多玩偶", "name": "😊玩偶多多┃4K纯净", "type": 3, "api": "csp_XYQHikerAL", "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=玩偶多多" }, 
+
+{"key": "玩我哥哥","name":"🥰️┃开心┃玩我","type":3,"api":"csp_XYQHikerAL","searchable":1,
+"quickSearch":1,"filterable":1,
+"jar": "http://rihou.vip:55/lib/ttkx.jar;md5;c253e1930a210fa5141e5418f1f90949",
+"ext":"https://gitee.com/andyszou/tvbox/raw/master/libs/%E7%8E%A9%E6%88%91%E5%93%A5%E5%93%A5.json"},
+
+
 
 
 
