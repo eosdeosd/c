@@ -19,6 +19,11 @@
 
 //{ "key": "多多玩偶", "name": "😊玩偶多多┃4K纯净", "type": 3, "api": "csp_XYQHikerAL", "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=玩偶多多" }, 
 
+ { "key": "liangzizy", "name": "😎量子资源┃老人专用", "api": "https://cj.lziapi.com/api.php/provide/vod/",  "playUrl": "", "search": 1,  "group": "切片",
+     "status": true, "type": 1, "id": "3", "isActive": true, "resource": 85630 },
+
+
+
 
       {"key": "Lib","name": "🌟┃Lib┃直连（推荐）","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.libvio.fun/"},  
 
