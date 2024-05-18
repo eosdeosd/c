@@ -51,8 +51,31 @@
  
   {"key": "少儿","name": "🅰️少儿合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%B0%91%E5%84%BF%E5%90%88%E9%9B%86.json"}, 
   
+
+
+
     
  
+
+ { "key": "XYQH_影搜", "name": "🌍影搜┃搜索", "type": 3, "api": "csp_XYQHikerAL","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/csp_XYQHikerAL.jar", "playerType": 1, "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/csp_XYQHiker.txt" },
+ 
+  { "key": "XYQH_聚合", "name": "🈴聚合┃搜索", "type": 3, "api": "csp_XYQHikerAL","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/csp_XYQHikerAL.jar", "playerType": 1, "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/XYQHiker/聚合网盘.json" },
+  
+   { "key": "XYQH_云盘", "name": "🗃️云盘┃搜索", "type": 3, "api": "csp_XYQHikerAL","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/csp_XYQHikerAL.jar", "playerType": 1, "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/XYQHiker/yunpan.json" },
+   
+    { "key": "XYQH_土豆", "name": "😈土豆┃玩偶", "type": 3, "vip_thread_limit": 10, "api": "csp_XYQHikerAL","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/csp_XYQHikerAL.jar", "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/XYQHiker/土豆.json" },
+    
+
+
+        { "key": "csp_Zhaozy", "name": "⏱️找资源┃搜索", "type": 3, "api": "csp_Zhaozy", "jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/csp_XYQHikerAL.jar","ext": "{\"username\":\"zzygll2\",\"password\":\"zzy555555\",\"searchurl\":\"https://zhaoziyuan1.cc/so?filename={wd}\"}" }, 
+        
+      
+     
+
+
+
+
+
 
 
 
