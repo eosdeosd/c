@@ -79,6 +79,8 @@
 //下面是搜索源格式如下，复制粘贴别人的就可以直接使用，如果有jar，别人使用的相对路径的时候，需要你自己找到别人的jar文件，下载下来，上传到你的个人空间，再复制地址填进去，如下。这里我为什么会增加一个jar呢。 那是因为最早的全局定义的jar爬虫里面没有这个搜索api所以，这里单独添加使用，比较常见于添加使用别人的搜索源
 //{"key": "csp_XYQHiker_影搜","name":"📀影搜(搜索)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/YS.json"},http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$https://ys.yingso.fun/$$$弹
 
+{ "key": "Wexyingso", "name": "🎠影子┃综合┃搜", "type": 3, "api": "csp_Wexyingso", "searchable": 1, "changeable": 0 },
+
 
 {"key":"影搜","name":"🌸影搜┃搜索","type":3,"api":"csp_Yingso","searchable":1,"filterable":0,"changeable":0,"jar":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/YS.jar","ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/YS.json"},
 
