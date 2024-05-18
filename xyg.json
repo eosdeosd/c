@@ -1,8 +1,8 @@
 {
   "spider": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/xyg.php",
-  "wallpaper": "https://gitee.com/okjack/okk/raw/master/w1.jpg",
-  "logo": "https://8704.kstore.space/小鱼干logo.png",
-  "warningText": "失眠的夜：愿日子如熹光，温暖又明亮，你我都赤忱，欣喜在望。[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]",
+  "wallpaper": "",
+  "logo": "",
+  "warningText": "[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]",
   "sites": [
     {
       "key": "豆瓣",
@@ -25,46 +25,9 @@
         "ratio": 1.43
       }
     },
-    {
-      "key": "南瓜",
-      "name": "🎃南瓜┃直连",
-      "type": 3,
-      "api": "csp_Nangua",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 10
-    },
-    {
-      "key": "天天",
-      "name": "⛅️天天┃直连",
-      "type": 3,
-      "api": "csp_TianTian",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 10
-    },
-    {
-      "key": "酷看",
-      "name": "😎酷看┃直连",
-      "type": 3,
-      "api": "csp_Kkys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 10
-    },
-    {
-      "key": "小苹果",
-      "name": "🍎苹果┃直连",
-      "type": 3,
-      "api": "csp_Xpg",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 10
-    },
+   
+  
+   
     {
       "key": "玩偶",
       "name": "👽玩偶┃4K",
@@ -79,60 +42,11 @@
       },
       "timeout": 30
     },
-    {
-      "key": "韩圈",
-      "name": "🦄韩圈┃App",
-      "type": 3,
-      "api": "csp_HanXiaoQuan",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 10
-    },
-    {
-      "key": "厂长",
-      "name": "🌸厂长┃直连",
-      "type": 3,
-      "api": "csp_Czzy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 10
-    },
-    {
-      "key": "荐片",
-      "name": "🐭荐片┃手机",
-      "type": 3,
-      "api": "csp_Jianpian",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 10
-    },
-    {
-      "key": "JOJO",
-      "name": "🍭JOJO┃直连",
-      "type": 3,
-      "api": "csp_Jiohub",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 10
-    },
-    {
-      "key": "无忧短剧",
-      "name": "🌈无忧┃短剧",
-      "type": 3,
-      "api": "csp_Duanj",
-      "searchable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "timeout": 10
-    },
+   
+  
+  
+   
+   
     {
       "key": "我的阿里",
       "name": "🐱我的┃阿里",
@@ -197,123 +111,8 @@
       },
       "timeout": 25
     },
-    {
-      "key": "️爱看Bot",
-      "name": "⛅️爱看Bot┃直连",
-      "type": 3,
-      "api": "csp_Ikanbot",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 10
-    },
-    {
-      "key": "达达龟js",
-      "name": "🐢达达龟┃在线",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "https://gitee.com/okjack/okk/raw/master/drpy/drpy2.min.js",
-      "ext": "https://gitee.com/okjack/okk/raw/master/js/dadagui.js",
-      "timeout": 15
-    },
-    {
-      "key": "libvio_js",
-      "name": "🐰利播┃在线",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "https://gitee.com/okjack/okk/raw/master/drpy/drpy2.min.js",
-      "ext": "https://gitee.com/okjack/okk/raw/master/js/libvio.js",
-      "timeout": 15
-    },
-    {
-      "key": "ddys_js",
-      "name": "🍄低端┃在线",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "https://gitee.com/okjack/okk/raw/master/drpy/drpy2.min.js",
-      "ext": "https://gitee.com/okjack/okk/raw/master/js/ddys.js",
-      "timeout": 15
-    },
-    {
-      "key": "yhdm",
-      "name": "🌸樱花┃动漫",
-      "type": 3,
-      "api": "csp_Ying",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 15
-    },
-    {
-      "key": "动漫巴士",
-      "name": "🚌巴士┃动漫",
-      "type": 3,
-      "api": "csp_Dm84",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 10
-    },
-    {
-      "key": "新6V",
-      "name": "🧲新6V┃磁力",
-      "type": 3,
-      "api": "csp_Xb6v",
-      "searchable": 1,
-      "changeable": 0,
-      "timeout": 20
-    },
-    {
-      "key": "不太灵",
-      "name": "🍄不太灵┃磁力",
-      "type": 3,
-      "api": "csp_Bt0",
-      "searchable": 1,
-      "changeable": 0,
-      "timeout": 20
-    },
-    {
-      "key": "bili",
-      "name": "🅱哔哔┃合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "cookie": "file://TV/bili_cookie.txt",
-        "json": "https://gitee.com/okjack/okk/raw/master/bili.json"
-      },
-      "timeout": 20
-    },
-    {
-      "key": "biliych",
-      "name": "🅱哔哔┃歌曲",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "cookie": "file://TV/bili_cookie.txt",
-        "json": "https://gitee.com/okjack/okk/raw/master/biliych.json"
-      },
-      "timeout": 20
-    },
+    
+  
     {
       "key": "csp_AList",
       "name": "🦋AList",
@@ -328,138 +127,8 @@
       "ext": "file://TV/alist.json",
       "timeout": 15
     },
-    {
-      "key": "纸条",
-      "name": "🗞纸条┃搜索",
-      "type": 3,
-      "api": "csp_XiaoZhiTiao",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "token": "file://TV/ali_token.txt"
-      },
-      "timeout": 15
-    },
-    {
-      "key": "盘Se",
-      "name": "🙀盘Se┃搜索",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": {
-        "token": "file://TV/ali_token.txt"
-      },
-      "timeout": 15
-    },
-    {
-      "key": "找資源",
-      "name": "🐺找资源┃搜索",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": {
-        "token": "file://TV/ali_token.txt"
-      },
-      "timeout": 15
-    },
-    {
-      "key": "盘搜",
-      "name": "🦊盘搜┃搜索",
-      "type": 3,
-      "api": "csp_PanSou",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": {
-        "token": "file://TV/ali_token.txt"
-      },
-      "timeout": 15
-    },
-    {
-      "key": "易搜",
-      "name": "😹易搜┃搜索",
-      "type": 3,
-      "api": "csp_YiSo",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "JSESSIONID=FEAFA3BD405267C378C2455FBAD4A704;satoken=0f065aaa-1b6b-4b9b-9910-83a67fb14da2"
-      },
-      "timeout": 15
-    },
-    {
-      "key": "Up云搜",
-      "name": "😻Up搜┃搜索",
-      "type": 3,
-      "api": "csp_Upys",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": {
-        "token": "file://TV/ali_token.txt"
-      },
-      "timeout": 15
-    },
-    {
-      "key": "csp_QuPanSou",
-      "name": "🤓趣盘搜┃搜索",
-      "type": 3,
-      "api": "csp_QuPanSou",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "cookie": "file://TV/quark_cookie.txt"
-      },
-      "timeout": 15
-    },
-    {
-      "key": "csp_Qkpanso",
-      "name": "🐚夸克盘搜┃搜索",
-      "type": 3,
-      "api": "csp_Qkpanso",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "cookie": "file://TV/quark_cookie.txt"
-      },
-      "timeout": 15
-    },
-    {
-      "key": "csp_AiPanSou",
-      "name": "🥰爱盘搜┃搜索",
-      "type": 3,
-      "api": "csp_AiPanSou",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "cookie": "file://TV/quark_cookie.txt"
-      },
-      "timeout": 15
-    },
-    {
-      "key": "云盘4K",
-      "name": "🤖云盘4K┃搜索",
-      "type": 3,
-      "api": "csp_Yunpan4k",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt"
-      },
-      "timeout": 15
-    },
+ 
+ 
     {
       "key": "影搜",
       "name": "🌸影搜┃搜索",
@@ -505,51 +174,10 @@
         "danMu": "弹"
       }
     },
-    {
-      "key": "短剧",
-      "name": "🐟短剧-小鱼干",
-      "type": 3,
-      "api": "csp_Djuu",
-      "jar": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "酷看",
-      "name": "🐟酷看-蓝光",
-      "type": 3,
-      "api": "csp_Kkys",
-      "jar": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.php",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "原创",
-      "name": "🐟原创-蓝光",
-      "type": 3,
-      "api": "csp_YCyz",
-      "jar": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.php",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "厂长",
-      "name": "🐟厂长-蓝光",
-      "type": 3,
-      "api": "csp_NewCz",
-      "jar": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.php",
-      "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://czzy.top/"
-    },
+   
+  
+   
+  
     {
       "key": "视觉",
       "name": "🐟视觉-蓝光",
@@ -562,119 +190,16 @@
       "changeable": 1,
       "ext": "https://www.80yy3.com/"
     },
-    {
-      "key": "南瓜",
-      "name": "🐟南瓜-蓝光",
-      "type": 3,
-      "api": "csp_NanGua",
-      "jar": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.php",
-      "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "苹果",
-      "name": "🐟苹果-蓝光",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "jar": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "糯米",
-      "name": "🐟糯米-蓝光",
-      "type": 3,
-      "api": "csp_Nmys",
-      "jar": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.php",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "./lib/nmys.json"
-    },
-    {
-      "key": "小点",
-      "name": "🐟小点-蓝光",
-      "type": 3,
-      "api": "csp_Xdys",
-      "jar": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "热播",
-      "name": "🐟热播-蓝光",
-      "type": 3,
-      "api": "csp_AppTT",
-      "jar": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.php",
-      "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
-    },
-    {
-      "key": "萌米",
-      "name": "🐟萌米-蓝光",
-      "type": 3,
-      "api": "csp_AppTT",
-      "jar": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.php",
-      "timeout": 15,
-      "playerType": 1,
-      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
-    },
-    {
-      "key": "zxzj",
-      "name": "🐟在线-外剧",
-      "type": 3,
-      "api": "csp_Zxzj",
-      "jar": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.php",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.zxzjhd.com/"
-    },
-    {
-      "key": "低端",
-      "name": "🐟低端-外剧",
-      "type": 3,
-      "api": "csp_Ddrk",
-      "jar": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.php",
-      "playerType": "2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "毛驴",
-      "name": "🐟毛驴-蓝光",
-      "type": 3,
-      "api": "csp_MLYS",
-      "jar": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.php",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.maolvys.com/"
-    },
-    {
-      "key": "比特",
-      "name": "🐟比特-蓝光",
-      "type": 3,
-      "api": "csp_Bttwoo",
-      "jar": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+   
+   
+ 
+  
+   
+  
+ 
+   
+   
+ 
     {
       "key": "Lib",
       "name": "🐟立播-蓝光",
@@ -686,111 +211,13 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.libvio.pw/"
-    },
-    {
-      "key": "Auete",
-      "name": "🐟奥特-蓝光",
-      "type": 3,
-      "api": "csp_Auete",
-      "jar": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.php",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://auete.pro/"
-    },
-    {
-      "key": "新6V",
-      "name": "🐟6V-蓝光",
-      "type": 3,
-      "api": "csp_SixV",
-      "jar": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://www.xb6v.com/"
-    },
-    {
-      "key": "Dm84",
-      "name": "🐟巴士-动漫",
-      "type": 3,
-      "api": "csp_Dm84",
-      "jar": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "夸搜",
-      "name": "🐟夸克-4K｜搜索",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "jar": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "pan": "quark",
-        "quarkCookie": "tvfan/cookie.txt",
-        "from": "4k|auto|fhd"
-      }
-    },
-    {
-      "key": "YiSo",
-      "name": "🐟易搜-4K｜搜索",
-      "type": 3,
-      "api": "csp_YiSo",
-      "jar": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "aliToken": "tvfan/token.txt",
-        "from": "4k|auto|fhd"
-      }
-    },
-    {
-      "key": "PanSou",
-      "name": "🐟盘搜-4K｜搜索",
-      "type": 3,
-      "api": "csp_PanSou",
-      "jar": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "aliToken": "tvfan/token.txt",
-        "from": "4k|auto|fhd"
-      }
-    },
-    {
-      "key": "UpYun",
-      "name": "🐟UP-4K｜搜索",
-      "type": 3,
-      "api": "csp_UpYun",
-      "jar": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "aliToken": "tvfan/token.txt",
-        "from": "4k|auto|fhd"
-      }
-    },
-    {
-      "key": "PanSearch",
-      "name": "🐟盘Se-4K｜搜索",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "jar": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "aliToken": "tvfan/token.txt",
-        "from": "4k|auto|fhd"
-      }
     }
+   
+ 
+ 
+ 
+ 
+  
   ],
   "parses": [
     {
