@@ -81,7 +81,7 @@
 
 //{ "key": "Wexyingso", "name": "🎠影子┃综合┃搜", "type": 3, "api": "csp_Wexyingso", "searchable": 1, "changeable": 0 },
 
-{ "key": "Wexconfig", "name": "🐮配置┃中心🐮", "type": 3, "api": "csp_Wexconfig", "searchable": 0, "changeable": 0, "indexs": 0, "style": { "type": "rect", "ratio": 1.43 },"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd" }, 
+{ "key": "Wexconfig", "name": "🐮配置┃中心🐮", "type": 3, "api": "csp_Wexconfig", "searchable": 0, "changeable": 0, "indexs": 0, "style": { "type": "rect", "ratio": 1.43 } }, 
 
 
 {"key":"影搜","name":"🌸影搜┃搜索","type":3,"api":"csp_Wexyingso","searchable":1,"changeable":0,"jar":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/csp_Wexyingso.txt","ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"},
