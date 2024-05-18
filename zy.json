@@ -19,8 +19,24 @@
 
 //{ "key": "多多玩偶", "name": "😊玩偶多多┃4K纯净", "type": 3, "api": "csp_XYQHikerAL", "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=玩偶多多" }, 
 
- 
 
+ {
+      "key": "玩偶",
+      "name": "🐟玩偶-4K｜小鱼干",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "aliToken": "tvfan/token.txt",
+        "quarkCookie": "tvfan/cookie.txt",
+        "from": "4k|auto|fhd",
+        "siteUrl": "https://tv.yydsys.top/",
+        "danMu": "弹"
+      }
+    },
 
 
 
@@ -31,10 +47,10 @@
      {"key": "玩偶哥哥","name": "👽┃玩偶┃4K（需要手机阿里云盘扫码）","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
   
    
-    // {"key": "csp_KungFu404","name": "🔥设置Token","type": 3,"api": "csp_KungFu404","searchable": 0,"filterable": 0,"changeable": 0,"jar": "./libs/jar/Token.jar","ext": "http://127.0.0.1:9978/file/tvbox/token.txt"},
     {"key": "Xinsj","name": "👓┃视觉┃直连（备用）","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.80yy3.com"},
    
-    {"key": "Auete","name": "🏝┃Auete┃直连（有综艺）","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://auete.pro/" },      
+    {"key": "Auete","name": "🏝┃Auete┃直连（有综艺）","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://auete.pro/" },  
+
 //这里使用了绝对路径的JSON源地址，这个JSON源需要上传到你的空间，或者输入别人的绝对路径源地址 
 {"key": "演唱会","name": "🎧演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/music.json"},
 
@@ -94,8 +110,6 @@
   
  
 //下面是搜索源格式如下，复制粘贴别人的就可以直接使用，如果有jar，别人使用的相对路径的时候，需要你自己找到别人的jar文件，下载下来，上传到你的个人空间，再复制地址填进去，如下。这里我为什么会增加一个jar呢。 那是因为最早的全局定义的jar爬虫里面没有这个搜索api所以，这里单独添加使用，比较常见于添加使用别人的搜索源
-//{"key": "csp_XYQHiker_影搜","name":"📀影搜(搜索)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/YS.json"},http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$https://ys.yingso.fun/$$$弹
-
 
 // { "key": "影搜弹幕", "name": "🕵️影搜┃弹幕┃搜索", "type": 3, "api": "csp_Yingso", "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php", "searchable": 1, "filterable": 0, "changeable": 0, "ext": { "token": "file://TV/ali_token.txt", "cookie": "file://TV/quark_cookie.txt", "danmu": true }, "timeout": 15 }, { "key": "影搜", "name": "🕵️影搜┃搜索┃纯净", "type": 3, "api": "csp_XYQHiker", "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/csp_XYQHiker.txt" }, 
 
