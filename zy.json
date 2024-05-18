@@ -16,30 +16,11 @@
    //      {"key": "Lib","name": "🌟┃Lib┃直连（推荐）","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.libvio.fun/"},  api这里可以使用上面定义的全局爬虫文件里面的api，也可以使用绝对路径或者外链外面别人的爬虫文件api，但是注意使用外部链接可能地址会失效，网站会无法正常解析显示出来，ext后面就是数据源或者直接网站地址或者阿里云盘token链接。
    "sites": [
    
- {
-            "key": "NT动漫",
-            "name": "😊动漫 |NT动漫",
-            "type": 3,
-            "api": "https://www.yingm.cc//dm//js/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "https://www.yingm.cc//dm//js/NT%E5%8A%A8%E6%BC%AB.js"
- },
 
-
-
-
-
-
-
-//{"key":"drpy_js_NT动漫","name":"😎动漫 |个人专用","type":3,"api":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/drpy2.min.js","ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/NT%E5%8A%A8%E6%BC%AB.js"},
 //{ "key": "多多玩偶", "name": "😊玩偶多多┃4K纯净", "type": 3, "api": "csp_XYQHikerAL", "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=玩偶多多" }, 
 
 
       {"key": "Lib","name": "🌟┃Lib┃直连（推荐）","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.libvio.fun/"},  
-
 
 
    
@@ -55,20 +36,8 @@
 
 
 
-  {
-      "key": "MTV",
-      "name": "🎧明星┃MV",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/MTV.json"
-    }, 
+  { "key": "MTV",  "name": "🎧明星┃MV", "type": 3, "api": "csp_Bili", "style": { "type": "rect", "ratio": 1.597  }, "searchable": 0,
+ "quickSearch": 0, "changeable": 0, "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/MTV.json" }, 
 
  {"key":"戏曲","name":"戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/BBXQ.json"},  
    
@@ -79,15 +48,15 @@
 
 
 
-//{"key":"drpy_js_NT动漫","name":"😎动漫 |个人专用","type":3,"api":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/drpy2.min.js","ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/NT%E5%8A%A8%E6%BC%AB.js"},
-
 //API {https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js"},
 //ext {https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/NT%E5%8A%A8%E6%BC%AB.js}
 //{"key":"drpy_js_NT动漫","name":"😎动漫 |个人专用","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/NT%E5%8A%A8%E6%BC%AB.js"}, 
 
+ { "key": "NT动漫", "name": "😊NT┃动漫", "type": 3, "api": "https://www.yingm.cc//dm//js/drpy2.min.js", "searchable": 1,
+    "quickSearch": 1, "filterable": 1,"changeable": 1, "ext": "https://www.yingm.cc//dm//js/NT%E5%8A%A8%E6%BC%AB.js" },
 
 
-    
+
  
 
 
