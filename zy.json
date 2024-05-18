@@ -15,16 +15,11 @@
    //下面是源地址定义的地方，格式是固定的比如下面
    //      {"key": "Lib","name": "🌟┃Lib┃直连（推荐）","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.libvio.fun/"},  api这里可以使用上面定义的全局爬虫文件里面的api，也可以使用绝对路径或者外链外面别人的爬虫文件api，但是注意使用外部链接可能地址会失效，网站会无法正常解析显示出来，ext后面就是数据源或者直接网站地址或者阿里云盘token链接。
    "sites": [
-   
-
-{ "key": "多多玩偶", "name": "😊玩偶多多┃4K纯净", "type": 3, "api": "csp_XYQHikerAL", "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/wnlg.json" }, 
-
-
 
 
       {"key": "Lib","name": "🌟┃Lib┃直连（推荐）","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.libvio.fun/"},  
 
-
+{ "key": "多多玩偶", "name": "😊玩偶多多┃4K纯净", "type": 3, "api": "csp_XYQHikerAL", "jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/xpbq.php", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/wnlg.json" }, 
    
      {"key": "玩偶哥哥","name": "👽┃玩偶┃4K（需要手机阿里云盘扫码）","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
   
@@ -93,7 +88,6 @@
  
 //下面是搜索源格式如下，复制粘贴别人的就可以直接使用，如果有jar，别人使用的相对路径的时候，需要你自己找到别人的jar文件，下载下来，上传到你的个人空间，再复制地址填进去，如下。这里我为什么会增加一个jar呢。 那是因为最早的全局定义的jar爬虫里面没有这个搜索api所以，这里单独添加使用，比较常见于添加使用别人的搜索源
 
-// { "key": "影搜弹幕", "name": "🕵️影搜┃弹幕┃搜索", "type": 3, "api": "csp_Yingso", "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php", "searchable": 1, "filterable": 0, "changeable": 0, "ext": { "token": "file://TV/ali_token.txt", "cookie": "file://TV/quark_cookie.txt", "danmu": true }, "timeout": 15 }, { "key": "影搜", "name": "🕵️影搜┃搜索┃纯净", "type": 3, "api": "csp_XYQHiker", "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/csp_XYQHiker.txt" }, 
 
 
 //这里也是阿里搜索云盘，这里就直接使用全局定义的api爬虫就行了。只要api和jar文件是对应的就行。
