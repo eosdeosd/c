@@ -34,4 +34,4 @@ var rule={
         "tabs":"#menu0&&li",
         "lists":".movurl:eq(#id)&&li"},
     搜索:'*',
-}
+} 
