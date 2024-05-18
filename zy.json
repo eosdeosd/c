@@ -20,6 +20,7 @@
             "key": "NT动漫",
             "name": "NT┃动漫",
             "type": 3,
+            "jar": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/fan.jar",
             "api": "https://raw.githubusercontent.com/YANGkai989/huanzi989/main/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
