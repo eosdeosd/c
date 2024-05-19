@@ -25,14 +25,14 @@
       "key": "玩你老哥",
       "name": "🤴┃玩偶┃多多",
       "type": 3,
-      "api": "csp_Wnlg",
-      "jar":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/wnlg.jar",
+      "api": "csp_XYQHikerAL",
+      "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php", 
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
       "ext": {
         "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
-        "url": "https://tv.yydsys.top"
+        "url": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/wnlg.json"
       }
     },
 
