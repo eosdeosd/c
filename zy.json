@@ -30,11 +30,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": {
-         "url": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/wnlg.json",
-        "token": "http://127.0.0.1:9978/file/tvbox/token.txt"
-      }
-    },
+     "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/wnlg.json",
+     "token":"http://127.0.0.1:9978/file/TVBox/token.txt"},
 
 
 
