@@ -21,7 +21,7 @@
       {"key": "Lib","name": "🌟┃Lib┃直连（推荐）","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.libvio.fun/"}, 
 
 
-{"key":"阿里云盘登录","name":"🐲阿里┃云盘登录","type":3,"api":"csp_AliYunPan","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
+{"key":"阿里云盘登录","name":"🐲阿里┃云盘登录","type":3,"api":"csp_AliYunPan","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/kkw.jar","searchable":0,"quickSearch":0,"filterable":0, "ext":"http://127.0.0.1:9978/file/TVBox/token.txt"}
 
 
 {"key":"️玩偶妹","name":"❤️玩偶妹┃4K","type":3,"api":"csp_XYQHikerAL","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/kkw.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/kkwwnlg.json"},
