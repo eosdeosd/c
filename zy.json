@@ -22,7 +22,8 @@
 
 
 
- { "key": "多多玩偶", "name": "😊玩偶多多┃4K纯净", "type": 3, "api": "csp_XYQHikerAL", "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": { "token": "file://TV/ali_token.txt", "cookie": "file://TV/quark_cookie.txt"  }, "timeout": 15 },
+ { "key": "多多玩偶", "name": "😊玩偶多多┃4K纯净", "type": 3, "api": "csp_XYQHikerAL", "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": { "token":"http://我不是.摸鱼儿.top/by/jar/xpbq.php",
+ "token":"file://TV/ali_token.txt""cookie": "file://TV/quark_cookie.txt" }, "timeout": 15 },
       
 
 //{ "key": "多多玩偶", "name": "😊玩偶多多┃4K纯净", "type": 3, "api": "csp_XYQHikerAL", "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php", https://gitee.com/huanzi989/self-use---tv-box/blob/master/xpbq.php     "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/wnlg.json" }, http://我不是.摸鱼儿.top/api/moyu.php?file=玩偶多多
