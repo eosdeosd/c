@@ -21,15 +21,11 @@
       {"key": "Lib","name": "🌟┃Lib┃直连（推荐）","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.libvio.fun/"}, 
 
 
+{"key":"阿里云盘登录","name":"🐲阿里┃云盘登录","type":3,"api":"csp_AliYunPan","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
 
 
+{"key":"️玩偶妹","name":"❤️玩偶妹┃4K","type":3,"api":"csp_XYQHikerAL","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/kkw.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/kkwwnlg.json"},
 
-
-{"key":"️玩偶哥","name":"❤️玩偶哥┃4K","type":3,"api":"csp_XYQHikerAL","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/kkw.jar", "searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tv.nxog.top/m/json/wog.json"},
-{"key":"️玩偶弟","name":"❤️玩偶弟┃4K","type":3,"api":"csp_XYQHikerAL","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/kkw.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tv.nxog.top/m/json/wod.json"},
-{"key":"️玩偶姐","name":"❤️玩偶姐┃4K","type":3,"api":"csp_XYQHikerAL","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/kkw.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tv.nxog.top/m/json/woj.json"},
-{"key":"️玩偶妹","name":"❤️玩偶妹┃4K","type":3,"api":"csp_XYQHikerAL","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/kkw.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tv.nxog.top/m/json/wom.json"},
-{"key":"️玩偶歌","name":"❤️玩偶歌┃4K","type":3,"api":"csp_XYQHikerAL","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/kkw.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tv.nxog.top/m/json/wou.json"},
       
 
 //{ "key": "多多玩偶", "name": "😊玩偶多多┃4K纯净", "type": 3, "api": "csp_XYQHikerAL", "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php", https://gitee.com/huanzi989/self-use---tv-box/blob/master/xpbq.php     "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/wnlg.json" }, http://我不是.摸鱼儿.top/api/moyu.php?file=玩偶多多
