@@ -26,6 +26,7 @@
       "name": "🤴┃玩偶┃多多",
       "type": 3,
       "api": "csp_Wnlg",
+      "jar":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/wnlg.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
