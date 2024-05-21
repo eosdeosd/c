@@ -69,9 +69,9 @@
 //ext {https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/NT%E5%8A%A8%E6%BC%AB.js}
 //{"key":"drpy_js_NT动漫","name":"😎动漫 |个人专用","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/NT%E5%8A%A8%E6%BC%AB.js"}, 
 
-// { "key": "NT动漫", "name": "😊NT┃动漫", "type": 3, "api": "https://pan.shangui.cc/f/d46eto/drpy2.min.js", "searchable": 1,
-   // "quickSearch": 1, "filterable": 1,"changeable": 1, "ext": "https://pan.shangui.cc/f/ed3gSQ/NT%E5%8A%A8%E6%BC%AB.js" },
-    //https://pan.shangui.cc/(跑路云盘）
+ { "key": "NT动漫", "name": "😊NT┃动漫", "type": 3, "api": "https://pan.shangui.cc/f/d46eto/drpy2.min.js", "searchable": 1,
+    "quickSearch": 1, "filterable": 1,"changeable": 1, "ext": "https://pan.shangui.cc/f/ed3gSQ/NT%E5%8A%A8%E6%BC%AB.js" },
+
 
 
  
