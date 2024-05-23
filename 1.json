@@ -23,24 +23,27 @@
 //https://pan.shangui.cc/(跑路网盘）
 
 
- {"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG", "jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/fan.txt","searchable":1,"quickSearch":1,"changeable":0, "ext": {"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd","siteUrl":"https://www.wogg.link/","danMu":"弹"}}, 
-
-
-
-
-
-
-
-
-{"key":"阿里云盘登录","name":"🐲阿里┃云盘登录┃点击第一个扫码","type":3,"api":"csp_AliYunPan","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/kkw.jar","searchable":0,"quickSearch":0,"filterable":0, "ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
-
-
-
-
-
-
 {"key":"️玩偶妹妹","name":"😊玩偶妹妹┃4K纯净","type":3,"api":"csp_XYQHikerAL","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/kkw.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pan.shangui.cc/f/LgzPT3/wnlg.json",
 "token": "file://TV/ali_token.txt", "cookie": "file://TV/quark_cookie.txt"},//https://pan.shangui.cc/跑路网盘
+
+
+
+ {"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG", "jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/fan.txt","searchable":1,"quickSearch":1,"changeable":0, "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$https://www.wogg.link/$$$弹"},
+ //{"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd","siteUrl":"https://www.wogg.link/","danMu":"弹"}}, 
+
+
+
+
+
+
+
+
+
+//{"key":"阿里云盘登录","name":"🐲阿里┃云盘登录┃点击第一个扫码","type":3,"api":"csp_AliYunPan","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/kkw.jar","searchable":0,"quickSearch":0,"filterable":0, "ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
+
+
+
+
 
       
 
@@ -998,6 +1001,99 @@
     {"name": "nm","hosts": [  "toutiaovod.com"],"regex": [  "video/tos/cn"]},
     {"name": "cl","hosts": [  "magnet"],"regex": [  "最 新",  "直 播",  "更 新"]}
   ],
+
+
+
+
+
+ "ads": [
+        "mimg.0c1q0l.cn",
+        "www.googletagmanager.com",
+        "www.google-analytics.com",
+        "mc.usihnbcq.cn",
+        "mg.g1mm3d.cn",
+        "mscs.svaeuzh.cn",
+        "cnzz.hhttm.top",
+        "tp.vinuxhome.com",
+        "cnzz.mmstat.com",
+        "www.baihuillq.com",
+        "s23.cnzz.com",
+        "z3.cnzz.com",
+        "c.cnzz.com",
+        "stj.v1vo.top",
+        "z12.cnzz.com",
+        "img.mosflower.cn",
+        "tips.gamevvip.com",
+        "ehwe.yhdtns.com",
+        "xdn.cqqc3.com",
+        "www.jixunkyy.cn",
+        "sp.chemacid.cn",
+        "hm.baidu.com",
+        "s9.cnzz.com",
+        "z6.cnzz.com",
+        "um.cavuc.com",
+        "mav.mavuz.com",
+        "wofwk.aoidf3.com",
+        "z5.cnzz.com",
+        "xc.hubeijieshikj.cn",
+        "tj.tianwenhu.com",
+        "xg.gars57.cn",
+        "k.jinxiuzhilv.com",
+        "cdn.bootcss.com",
+        "ppl.xunzhuo123.com",
+        "xomk.jiangjunmh.top",
+        "img.xunzhuo123.com",
+        "z1.cnzz.com",
+        "s13.cnzz.com",
+        "xg.huataisangao.cn",
+        "z7.cnzz.com",
+        "xg.huataisangao.cn",
+        "z2.cnzz.com",
+        "s96.cnzz.com",
+        "q11.cnzz.com",
+        "thy.dacedsfa.cn",
+        "xg.whsbpw.cn",
+        "s19.cnzz.com",
+        "z8.cnzz.com",
+        "s4.cnzz.com",
+        "f5w.as12df.top",
+        "ae01.alicdn.com",
+        "www.92424.cn",
+        "k.wudejia.com",
+        "vivovip.mmszxc.top",
+        "qiu.xixiqiu.com",
+        "cdnjs.hnfenxun.com",
+        "cms.qdwght.com"
+    ],
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
   //这里是直播源，名字可以随便取。 url是直播地址的文件，都是txt后缀。 这里我使用外部地址，你也可以使用自己上传的文件，使用相对路径。
