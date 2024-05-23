@@ -73,6 +73,11 @@
 {"key": "软件","name": "🅰️软件教程","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"http://tv.nxog.top/m/Bilibili/软件教程.json"},
 
 
+ { "key": "drpy_js_博看听书", "name": "📖 博看听书 ", "type": 3, "api": "https://pan.shangui.cc/f/DBzDSz/drpy2.min.js", "ext": "https://yydf.540734621.xyz//QQ//js/%E5%8D%9A%E7%9C%8B%E5%90%AC%E4%B9%A6.js" },
+
+
+
+
 
 
 //API {https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js"},
