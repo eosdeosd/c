@@ -23,8 +23,8 @@
 //https://pan.shangui.cc/(跑路网盘）
 
 
-{"key":"️玩偶妹妹","name":"😊玩偶妹妹┃4K纯净","type":3,"api":"csp_XYQHikerAL","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/kkw.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pan.shangui.cc/f/LgzPT3/wnlg.json",
-"token": "file://TV/ali_token.txt", "cookie": "file://TV/quark_cookie.txt"},//https://pan.shangui.cc/跑路网盘
+{"key":"️玩偶妹妹","name":"😊玩偶妹妹┃4K纯净","type":3,"api":"csp_XYQHikerAL","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/kkw.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pan.shangui.cc/f/LgzPT3/wnlg.json", "aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd","siteUrl":"https://www.wogg.link/","danMu":"弹"}, 
+//"token": "file://TV/ali_token.txt", "cookie": "file://TV/quark_cookie.txt"},//https://pan.shangui.cc/跑路网盘
 
 
 
@@ -132,13 +132,7 @@
    
   { "key": "影搜","name": "🌸影搜┃搜索", "type": 3, "api": "csp_Yingso","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/xyg.php", "searchable": 1, "filterable": 0,"changeable": 0, "ext":  {"token": "file://TV/ali_token.txt", "cookie": "file://TV/quark_cookie.txt" ,"timeout": 15 }},   
    
-   
-  {   "key":"妮可",
-	    "name":"妮可动漫",
-		"type":3,
-		"api":"https://pan.shangui.cc/f/66k1up/drpy2.min.js",
-		"ext":"https://pan.shangui.cc/f/PM1JHK/%E5%A6%AE%E5%8F%AF%E5%8A%A8%E6%BC%AB.js"
-	}
+  {   "key":"妮可", "name":"妮可动漫","type":3,"api":"https://pan.shangui.cc/f/66k1up/drpy2.min.js","ext":"https://pan.shangui.cc/f/PM1JHK/%E5%A6%AE%E5%8F%AF%E5%8A%A8%E6%BC%AB.js"}
     
     
     
