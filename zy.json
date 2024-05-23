@@ -24,12 +24,18 @@
  "searchable": 1, "quickSearch": 1,"filterable": 1,"changeable": 1, "ext": "https://pan.shangui.cc/f/4wZAs0/NT%E5%8A%A8%E6%BC%AB.js"},
 
 
+
+ {"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG", "jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/fan.txt","searchable":1,"quickSearch":1,"changeable":0, "ext": {"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd","siteUrl":"https://www.wogg.link/","danMu":"弹"}},
+
+
+
+
 {"key":"️玩偶妹妹","name":"😊玩偶妹妹┃4K纯净","type":3,"api":"csp_XYQHikerAL","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/kkw.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pan.shangui.cc/f/LgzPT3/wnlg.json", "aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd","siteUrl":"https://www.wogg.link/","danMu":"弹"}, 
 //"token": "file://TV/ali_token.txt", "cookie": "file://TV/quark_cookie.txt"},//https://pan.shangui.cc/跑路网盘
 
 
 
- {"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG", "jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/fan.txt","searchable":1,"quickSearch":1,"changeable":0, "ext": {"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd","siteUrl":"https://www.wogg.link/","danMu":"弹"}},
+ 
  
 
     {"key": "Xinsj","name": "👓┃视觉┃直连（备用）","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.80yy3.com"},
