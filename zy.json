@@ -20,6 +20,11 @@
 
       {"key": "Lib","name": "🌟┃Lib┃直连（推荐）","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.libvio.fun/"}, 
 
+
+{"key":"原创","name":"☀原创┃不卡","type":3,"api":"csp_YCyz","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1}, 
+
+
+
  { "key": "NT动漫", "name":"😎动漫 |个人专用" , "type": 3, "api": "https://pan.shangui.cc/f/DBzDSz/drpy2.min.js",
  "searchable": 1, "quickSearch": 1,"filterable": 1,"changeable": 1, "ext": "https://pan.shangui.cc/f/4wZAs0/NT%E5%8A%A8%E6%BC%AB.js"},
 
