@@ -139,7 +139,7 @@
    
   { "key": "影搜","name": "🌸影搜┃搜索", "type": 3, "api": "csp_Yingso","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/xyg.php", "searchable": 1, "filterable": 0,"changeable": 0, "ext":  {"token": "file://TV/ali_token.txt", "cookie": "file://TV/quark_cookie.txt" ,"timeout": 15 }},   
    
-  {   "key":"妮可", "name":"妮可动漫","type":3,"api":"https://pan.shangui.cc/f/66k1up/drpy2.min.js","ext":"https://pan.shangui.cc/f/PM1JHK/%E5%A6%AE%E5%8F%AF%E5%8A%A8%E6%BC%AB.js"},
+  {   "key":"妮可", "name":"妮可动漫","type":3,"api":"https://pan.shangui.cc/f/66k1up/drpy2.min.js","ext":"https://pan.shangui.cc/f/PM1JHK/%E5%A6%AE%E5%8F%AF%E5%8A%A8%E6%BC%AB.js"}//,
     
 // { "key": "南瓜", "name": "1080P┃南瓜", "type": 3, "api": "csp_NanGua", "playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1 }   
     
