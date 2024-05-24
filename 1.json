@@ -22,6 +22,8 @@
       "ext": "https://pan.shangui.cc/f/EwgDuD/%E5%8D%97%E7%93%9C.js" },
 
 
+{ "key": "白嫖者", "name": "👶白嫖者联盟", "type": 3, "api": "csp_XBPQ", "jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/XBPQ.jar",
+ "ext": { "分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html", "分类": "电影$1#电视剧$2#动漫$4#综艺$3", "副标题": "class=\"pic-text text-right\"&&</span>",  "简介": "+剧情介绍：&&</p >"  } },
 
 
 
