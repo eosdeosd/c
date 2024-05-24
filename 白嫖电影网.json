@@ -1,3 +1,12 @@
 { "作者":"天天开心", "站名":"白嫖电影网", "主页url":"https://dy.gduan.com/", "简介":"&&",
 
-"导演":"导演：&&", "主演":"主演：&&", "影片状态":"备注：&&", "线路数组":"", "线路标题":"+>&&", "分类url":"https://dy.gduan.com/index.php/vod/type/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;ax", "分类":"电影$1#电视剧$2#综艺$3#动漫$4"}
+"导演":"导演：&&", "主演":"主演：&&", "影片状态":"备注：&&", "线路数组":"", "线路标题":"+>&&", "分类url":"https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html", "分类":"电影$1#电视剧$2#综艺$3#动漫$4"}
+
+
+
+
+
+
+//{ "作者":"天天开心", "站名":"白嫖电影网", "主页url":"https://dy.gduan.com/", "简介":"&&",
+
+//"导演":"导演：&&", "主演":"主演：&&", "影片状态":"备注：&&", "线路数组":"", "线路标题":"+>&&", "分类url":"https://dy.gduan.com/index.php/vod/type/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;ax", "分类":"电影$1#电视剧$2#综艺$3#动漫$4"}
