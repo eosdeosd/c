@@ -16,7 +16,7 @@
    //      {"key": "Lib","name": "🌟┃Lib┃直连（推荐）","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.libvio.fun/"},  api这里可以使用上面定义的全局爬虫文件里面的api，也可以使用绝对路径或者外链外面别人的爬虫文件api，但是注意使用外部链接可能地址会失效，网站会无法正常解析显示出来，ext后面就是数据源或者直接网站地址或者阿里云盘token链接。
    "sites": [
 
- { "key": "原创", "name": "推荐2-4k秒播", "type": 3, "api": "csp_YCyz", "timeout": 15, "searchable": 1, "quickSearch": 1, "jar":"https://k.hhyyqq.com/uploads/itvbox/jar/fan.txt", "changeable": 1 },
+ { "key": "原创", "name": "推荐2-4k秒播", "type": 3, "api": "csp_YCyz", "timeout": 15, "searchable": 1, "quickSearch": 1 },
 
 
 
