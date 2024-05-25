@@ -81,7 +81,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://mdxgh.tpddns.cn:9999/mdlib/voflix.json"
-        },
+        }
       
      
     
@@ -318,7 +318,7 @@
                 "8.1748",
                 "10.85"
             ]
-        },
+        }
      
     ],
 
