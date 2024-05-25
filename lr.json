@@ -61,16 +61,7 @@
       
    
      
-        {
-            "key": "csp_Voflix",
-            "name": "😄 | Voflix",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://mdxgh.tpddns.cn:9999/mdlib/voflix.json"
-        }
+  
       
      
     
