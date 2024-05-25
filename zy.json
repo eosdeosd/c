@@ -17,10 +17,7 @@
    "sites": [
 
 
-
-
-
-// { "key": "老人专用", "name": "推荐老人专用", "type":3, "api": "csp_YCyz",  "searchable": 1, "quickSearch": 1, "jar":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/fan0423.txt", "changeable": 1 }, 
+{ "key": "老人专用", "name": "推荐老人专用", "type": 3, "api": "csp_YCyz", "searchable": 1, "quickSearch": 1, "jar":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/fan0423.txt", "changeable": 1 }, 
     
     
       {"key": "Lib","name": "🌟┃Lib┃直连（推荐）","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.libvio.fun/"}, 
