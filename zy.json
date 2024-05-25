@@ -161,6 +161,10 @@
 
   //这里是视频解析的地方，不建议修改。
   "parses": [
+
+      {"name":"Json并发","type":2,"url":"Parallel"}, {"name":"Json轮询","type":2,"url":"Sequence"}, {"name":"解析聚合","type":3,"url":"Demo"}, 
+      
+      {"name":"聚合0","type":3,"url":"Web"},
     {"name": "Json聚合","type": 1,"url": "Demo" },
     {"name": "Web聚合","type": 1,"url": "Web"},
     {"name": "神秘的哥哥们","type": 3,"url": "http://api.888484.xyz/神秘哥哥/super.php?v=","ext": {  "flag": [    "qq",    "腾讯",    "qiyi",    "爱奇艺",    "奇艺",    "youku",    "优酷",    "tucheng",    "sohu",    "搜狐",    "letv",    "乐视",    "mgtv",    "芒果",    "tnmb",    "seven",    "yzm",    "aliyun",    "RJuMao",    "bilibili",    "1905",    "xinvip",    "XAL",    "qiqi",    "XALS",    "YuMi-vip"  ]}},
@@ -186,28 +190,7 @@
     {"name": "赞赞","type": 1,"url": "https://vip.yybjs.top/home/api?type=ys&uid=2691400&key=bcmqsvwyzACFIPY368&url=","ext": {"flag": [  "JMZN"],"header": {  "User-Agent": "okhttp/4.1.0"}}},
     {"name": "左岸","type": 1,"url": "http://122.228.84.103:5829/jx/?url=","ext": {"flag": [  "seven"],"header": {  "User-Agent": "okhttp/4.1.0"}}},
 
-{"name":"爱豆","type":0,"url":"https://jx.aidouer.net/?url=","ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36","referer":"https://jiejie.uk/"}}},
-
-
-{"name":"Json并发","type":2,"url":"Parallel"}, {"name":"Json轮询","type":2,"url":"Sequence"}, {"name":"解析聚合","type":3,"url":"Demo"}, {"name":"聚合0","type":3,"url":"Web"} ], "flags": [ "youku", "qq", "iqiyi", "qiyi", "letv", "sohu", "tudou", "pptv", "mgtv", "wasu", "bilibili", "renrenmi" ], "ijk":[ {"group":"硬解码","options":[ {"category":4,"name":"opensles","value":"0"}, {"category":4,"name":"overlay-format","value":"842225234"}, {"category":4,"name":"framedrop","value":"1"}, {"category":4,"name":"soundtouch","value":"1"}, {"category":4,"name":"start-on-prepared","value":"1"}, {"category":1,"name":"http-detect-range-support","value":"0"}, {"category":1,"name":"fflags","value":"fastseek"}, {"category":2,"name":"skip_loop_filter","value":"48"}, {"category":4,"name":"reconnect","value":"1"}, {"category":4,"name":"enable-accurate-seek","value":"0"}, {"category":4,"name":"mediacodec","value":"1"}, {"category":4,"name":"mediacodec-auto-rotate","value":"1"}, {"category":4,"name":"mediacodec-handle-resolution-change","value":"1"}, {"category":4,"name":"mediacodec-hevc","value":"1"}, {"category":1,"name":"dns_cache_timeout","value":"600000000"} ]}, {"group":"软解码","options":[ {"category":4,"name":"opensles","value":"0"}, {"category":4,"name":"overlay-format","value":"842225234"}, {"category":4,"name":"framedrop","value":"1"}, {"category":4,"name":"soundtouch","value":"1"}, {"category":4,"name":"start-on-prepared","value":"1"}, {"category":1,"name":"http-detect-range-support","value":"0"}, {"category":1,"name":"fflags","value":"fastseek"}, {"category":2,"name":"skip_loop_filter","value":"48"}, {"category":4,"name":"reconnect","value":"1"}, {"category":4,"name":"enable-accurate-seek","value":"0"}, {"category":4,"name":"mediacodec","value":"0"}, {"category":4,"name":"mediacodec-auto-rotate","value":"0"}, {"category":4,"name":"mediacodec-handle-resolution-change","value":"0"}, {"category":4,"name":"mediacodec-hevc","value":"0"}, {"category":1,"name":"dns_cache_timeout","value":"600000000"} ]}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+{"name":"爱豆","type":0,"url":"https://jx.aidouer.net/?url=","ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36","referer":"https://jiejie.uk/"}}}
 
 
 
