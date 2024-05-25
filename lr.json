@@ -7,14 +7,14 @@
         {
             "name": "live",
             "type": 0,
-            "url": "http://mdxgh.tpddns.cn:9999/new/mdlive.txt",
+            "url": "https://pan.shangui.cc/f/bdgZc1/kx2024.txt",
             "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
         }
     ],
     "sites": [
      
    
-   
+         {"key": "Lib","name": "🌟┃Lib┃直连（推荐）","type": 3,"api": "csp_Libvio","searchable": 1, "jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/XBPQ.jar","quickSearch": 1,"changeable": 1,"ext": "https://www.libvio.fun/"},  
       
     
      
