@@ -22,8 +22,8 @@
 
 
 
- { "key": "NT动漫", "name":"😎动漫 |个人专用" , "type": 3, "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/drpy2.min%20.js",
- "searchable": 1, "quickSearch": 1,"filterable": 1,"changeable": 1, "ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/NT%E5%8A%A8%E6%BC%AB.js"},
+ { "key": "NT动漫", "name":"😎动漫 |个人专用" , "type": 3, "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/NT%E5%8A%A8%E7%94%BB/drpy2.min.js",
+ "searchable": 1, "quickSearch": 1,"filterable": 1,"changeable": 1, "ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/NT%E5%8A%A8%E7%94%BB/NT%E5%8A%A8%E6%BC%AB.js"},
 
 
 
