@@ -134,7 +134,7 @@
    
   //{ "key": "影搜","name": "🌸影搜┃搜索", "type": 3, "api": "csp_Yingso","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/xyg.php", "searchable": 1, "filterable": 0,"changeable": 0, "ext": { "token": "file://TV/ali_token.txt", "cookie": "file://TV/quark_cookie.txt"  }, "timeout": 15 }   
    
-   {   "key":"妮可", "name":"妮可动漫┃当搜索源","type":3,"api":"https://pan.shangui.cc/f/66k1up/drpy2.min.js","ext":"https://pan.shangui.cc/f/PM1JHK/%E5%A6%AE%E5%8F%AF%E5%8A%A8%E6%BC%AB.js"},  
+   {   "key":"妮可", "name":"妮可动漫┃当搜索源","type":3,"api":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%A6%AE%E5%8F%AF%E5%8A%A8%E7%94%BB/drpy2.min.js","ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%A6%AE%E5%8F%AF%E5%8A%A8%E7%94%BB/%E5%A6%AE%E5%8F%AF%E5%8A%A8%E6%BC%AB.js"},  
    
 {   "key": "nangua", "name": "🎃┃南瓜影视┃当搜索库", "type": 3, "playerType": "1", "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/drpy2.min.js",
       "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/%E5%8D%97%E7%93%9C.js" }
