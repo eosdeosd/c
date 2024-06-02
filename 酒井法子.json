@@ -2,7 +2,7 @@
 
   "classes": [
 
-{"type_name":"UID331974627","type_id":"UID331974627"},{"type_name":"酒井法子MV","type_id":"酒井法子MV"}],
+{"type_name":"UID 331974627","type_id":"UID 331974627"},{"type_name":"酒井法子MV","type_id":"酒井法子MV"}],
 
 
 "filter": {
@@ -93,7 +93,7 @@
 
 
 
-"UID331974627": [{
+"UID 331974627": [{
 				"key": "order",
 				"name": "排序",
 				"value": [{
@@ -124,14 +124,14 @@
 				"key": "tid",
 				"name": "分类",
 				"value": [{
-						"n": "UID331974627",
-						"v": "UID331974627"
+						"n": "UID 331974627",
+						"v": "UID 331974627"
 					},
 				
                     	
 					{
-						"n": "UID331974627",
-						"v": "UID331974627"
+						"n": "UID 331974627",
+						"v": "UID 331974627"
 					}
 					
 			
