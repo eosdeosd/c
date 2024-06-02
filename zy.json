@@ -17,7 +17,7 @@
    "sites": [
 
     
-    // {"key": "Lib","name": "🌟┃Lib┃直连（推荐）","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.libvio.fun/"},
+     {"key": "Lib","name": "🌟┃Lib┃直连（推荐）","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.libvio.fun/"},
 
 
 { "key": "白嫖者", "name": "👶白嫖者联盟（推荐）", "type": 3, "api": "csp_XBPQ", "ext": {"分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"电影$1#电视剧$2#动漫$4#综艺$3","副标题":"class=\"pic-text text-right\"&&</span>","简介":"⚠️特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p >"}},
@@ -26,10 +26,10 @@
 { "key": "NT动漫", "name":"😎动漫 |个人专用" , "type": 3, "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/NT%E5%8A%A8%E7%94%BB/drpy2.min.js",                                          "searchable": 1, "quickSearch": 1,"filterable": 1,"changeable": 1, "ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/NT%E5%8A%A8%E7%94%BB/NT%E5%8A%A8%E6%BC%AB.js"},
 
 
-//{"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG", "jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/fan.txt","searchable":1,"quickSearch":1,"changeable":0, "ext": {"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd","siteUrl":"https://www.wogg.link/","danMu":"弹"}},
+{"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG", "jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/fan.txt","searchable":1,"quickSearch":1,"changeable":0, "ext": {"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd","siteUrl":"https://www.wogg.link/","danMu":"弹"}},
 
 
-//{"key":"️玩偶妹妹","name":"😊玩偶妹妹┃4K纯净","type":3,"api":"csp_XYQHikerAL","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/ttkx.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E7%8E%A9%E6%88%91%E5%93%A5%E5%93%A5.json"}, 
+{"key":"️玩偶妹妹","name":"😊玩偶妹妹┃4K纯净","type":3,"api":"csp_XYQHikerAL","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/ttkx.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E7%8E%A9%E6%88%91%E5%93%A5%E5%93%A5.json"}, 
 //"token": "file://TV/ali_token.txt", "cookie": "file://TV/quark_cookie.txt"},//https://pan.shangui.cc/跑路网盘 真跑路了
 
 
@@ -40,7 +40,7 @@
 
 
 
-//{"key":"阿里云盘登录","name":"🐲玩偶妹妹┃登录┃点击第一个扫码","type":3,"api":"csp_AliYunPan","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/kkw.jar","searchable":0,"quickSearch":0,"filterable":0, "ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
+{"key":"阿里云盘登录","name":"🐲玩偶妹妹┃登录┃点击第一个扫码","type":3,"api":"csp_AliYunPan","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/kkw.jar","searchable":0,"quickSearch":0,"filterable":0, "ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
 
 
 
@@ -54,23 +54,23 @@
    
 
    
-   {"key": "Auete","name": "🏝┃Auete┃直连（有综艺）","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://auete.pro/" }
+   {"key": "Auete","name": "🏝┃Auete┃直连（有综艺）","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://auete.pro/" },
 
 //这里使用了绝对路径的JSON源地址，这个JSON源需要上传到你的空间，或者输入别人的绝对路径源地址 
 //{"key": "演唱会","name": "🎧演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/music.json"},
 
 
 
- // { "key": "MTV",  "name": "🎧明星┃MV", "type": 3, "api": "csp_Bili", "style": { "type": "rect", "ratio": 1.597  }, "searchable": 0,                    "quickSearch": 0, "changeable": 0, "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/MTV.json" }, 
+ { "key": "MTV",  "name": "🎧明星┃MV", "type": 3, "api": "csp_Bili", "style": { "type": "rect", "ratio": 1.597  }, "searchable": 0,                    "quickSearch": 0, "changeable": 0, "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/MTV.json" }, 
 
-// {"key":"戏曲","name":"戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/BBXQ.json"},  
+ {"key":"戏曲","name":"戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/BBXQ.json"},  
    
-//{"key": "学堂","name": "🅰️学堂教育","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%AD%A6%E5%A0%82%E6%95%99%E8%82%B2.json"},
+{"key": "学堂","name": "🅰️学堂教育","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%AD%A6%E5%A0%82%E6%95%99%E8%82%B2.json"},
  
-//  {"key": "少儿","name": "🅰️少儿合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%B0%91%E5%84%BF%E5%90%88%E9%9B%86.json"}, 
+  {"key": "少儿","name": "🅰️少儿合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%B0%91%E5%84%BF%E5%90%88%E9%9B%86.json"}, 
 
 
-//{"key": "软件","name": "🅰️软件教程","type": 3,"api": "csp_Bili","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/ttkx.jar","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E9%85%92%E4%BA%95%E6%B3%95%E5%AD%90.json"},
+{"key": "软件","name": "🅰️软件教程","type": 3,"api": "csp_Bili","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/ttkx.jar","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E9%85%92%E4%BA%95%E6%B3%95%E5%AD%90.json"},
 //https://auete.pro/","http://tv.nxog.top/m/Bilibili/软件教程.json"
 
 
@@ -122,17 +122,17 @@
 
 
 //这里也是阿里搜索云盘，这里就直接使用全局定义的api爬虫就行了。只要api和jar文件是对应的就行。
- //  {"key": "PanSearch","name": "🏵️‍┃阿里┃PanS","type": 3,"api": "csp_PanSearch","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"},
+   {"key": "PanSearch","name": "🏵️‍┃阿里┃PanS","type": 3,"api": "csp_PanSearch","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"},
 
- //  { "key": "影搜","name": "🌸影搜┃搜索", "type": 3, "api": "csp_Yingso","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/xyg.php", "searchable": 1, "filterable": 0,"changeable": 0, "ext": { "token": "file://TV/ali_token.txt", "cookie": "file://TV/quark_cookie.txt"  }, "timeout": 15 },   
+  { "key": "影搜","name": "🌸影搜┃搜索", "type": 3, "api": "csp_Yingso","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/xyg.php", "searchable": 1, "filterable": 0,"changeable": 0, "ext": { "token": "file://TV/ali_token.txt", "cookie": "file://TV/quark_cookie.txt"  }, "timeout": 15 },   
    
   //{ "key": "影搜","name": "🌸影搜┃搜索", "type": 3, "api": "csp_Yingso","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/xyg.php", "searchable": 1, "filterable": 0,"changeable": 0, "ext": { "token": "file://TV/ali_token.txt", "cookie": "file://TV/quark_cookie.txt"  }, "timeout": 15 }   
    
-  // {   "key":"妮可", "name":"妮可动漫┃当搜索源","type":3,"api":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%A6%AE%E5%8F%AF%E5%8A%A8%E7%94%BB/drpy2.min.js","ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%A6%AE%E5%8F%AF%E5%8A%A8%E7%94%BB/%E5%A6%AE%E5%8F%AF%E5%8A%A8%E6%BC%AB.js"}, 
+   {   "key":"妮可", "name":"妮可动漫┃当搜索源","type":3,"api":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%A6%AE%E5%8F%AF%E5%8A%A8%E7%94%BB/drpy2.min.js","ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%A6%AE%E5%8F%AF%E5%8A%A8%E7%94%BB/%E5%A6%AE%E5%8F%AF%E5%8A%A8%E6%BC%AB.js"}, 
 
 
    
-//{   "key": "nangua", "name": "🎃┃南瓜影视┃当搜索库", "type": 3, "playerType": "1", "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/drpy2.min.js",                  "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/%E5%8D%97%E7%93%9C.js" }
+{   "key": "nangua", "name": "🎃┃南瓜影视┃当搜索库", "type": 3, "playerType": "1", "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/drpy2.min.js",                  "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/%E5%8D%97%E7%93%9C.js" }
    
    
 
