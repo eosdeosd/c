@@ -26,10 +26,10 @@
 { "key": "NT动漫", "name":"😎动漫 |个人专用" , "type": 3, "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/NT%E5%8A%A8%E7%94%BB/drpy2.min.js",                                          "searchable": 1, "quickSearch": 1,"filterable": 1,"changeable": 1, "ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/NT%E5%8A%A8%E7%94%BB/NT%E5%8A%A8%E6%BC%AB.js"},
 
 
-{"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG", "jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/fan.txt","searchable":1,"quickSearch":1,"changeable":0, "ext": {"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd","siteUrl":"https://www.wogg.link/","danMu":"弹"}},
+//{"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG", "jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/fan.txt","searchable":1,"quickSearch":1,"changeable":0, "ext": {"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd","siteUrl":"https://www.wogg.link/","danMu":"弹"}},
 
 
-{"key":"️玩偶妹妹","name":"😊玩偶妹妹┃4K纯净","type":3,"api":"csp_XYQHikerAL","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/ttkx.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E7%8E%A9%E6%88%91%E5%93%A5%E5%93%A5.json"}, 
+//{"key":"️玩偶妹妹","name":"😊玩偶妹妹┃4K纯净","type":3,"api":"csp_XYQHikerAL","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/ttkx.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E7%8E%A9%E6%88%91%E5%93%A5%E5%93%A5.json"}, 
 //"token": "file://TV/ali_token.txt", "cookie": "file://TV/quark_cookie.txt"},//https://pan.shangui.cc/跑路网盘 真跑路了
 
 
@@ -40,7 +40,7 @@
 
 
 
-{"key":"阿里云盘登录","name":"🐲玩偶妹妹┃登录┃点击第一个扫码","type":3,"api":"csp_AliYunPan","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/kkw.jar","searchable":0,"quickSearch":0,"filterable":0, "ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
+//{"key":"阿里云盘登录","name":"🐲玩偶妹妹┃登录┃点击第一个扫码","type":3,"api":"csp_AliYunPan","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/kkw.jar","searchable":0,"quickSearch":0,"filterable":0, "ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
 
 
 
