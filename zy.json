@@ -37,12 +37,11 @@
 
 
 
-{"key": "玩偶哥哥","name":"😊玩偶|哥哥","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E7%8E%A9%E5%81%B6%E5%93%A5%E5%93%A5.json"},
+{"key": "玩偶哥哥","name":"😊玩偶|哥哥","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E7%8E%A9%E5%81%B6%E5%93%A5%E5%93%A5.json","token": "file://TV/ali_token.txt"},
 
 
 
-{"key":"️玩偶妹妹","name":"😊玩偶妹妹┃4K纯净","type":3,"api":"csp_XYQHikerAL","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/ttkx.jar","searchable":1,"quickSearch":1,"filterable":1,//"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E7%8E%A9%E6%88%91%E5%93%A5%E5%93%A5.json",
-"ext":"http://127.0.0.1:9978/file/TVBox/token.txt"}, 
+{"key":"️玩偶妹妹","name":"😊玩偶妹妹┃4K纯净","type":3,"api":"csp_XYQHikerAL","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/ttkx.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E7%8E%A9%E6%88%91%E5%93%A5%E5%93%A5.json"}, 
 //"token": "file://TV/ali_token.txt", "cookie": "file://TV/quark_cookie.txt"},//https://pan.shangui.cc/跑路网盘 真跑路了
 
 
