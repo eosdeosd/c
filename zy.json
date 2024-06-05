@@ -37,7 +37,7 @@
 
 
 
-{"key": "玩偶哥哥","name":"😊玩偶|哥哥","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext": { "token": "file://TV/ali_token.txt", "cookie": "file://TV/quark_cookie.txt"  }, "timeout": 15 },
+{"key": "玩偶哥哥","name":"😊玩偶|哥哥","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":  "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E7%8E%A9%E5%81%B6%E5%93%A5%E5%93%A5.json","token": "file://TV/ali_token.txt", "cookie": "file://TV/quark_cookie.txt"},
 
 
 
