@@ -70,6 +70,11 @@
 
  { "key": "MTV",  "name": "🎧明星┃MV", "type": 3, "api": "csp_Bili", "style": { "type": "rect", "ratio": 1.597  }, "searchable": 0,                    "quickSearch": 0, "changeable": 0, "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/MTV.json" }, 
 
+
+{"key":"演唱会","name":"🎸演唱会","type":3,"api":"csp_Bili","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/yanchanghui.txt"},
+
+
+
  {"key":"戏曲","name":"戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/BBXQ.json"},  
    
 {"key": "学堂","name": "🅰️学堂教育","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%AD%A6%E5%A0%82%E6%95%99%E8%82%B2.json"},
