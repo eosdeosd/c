@@ -40,7 +40,7 @@
 
 
 
-{//"key": "配置中心","name": "🪪阿里夸克-配置中心","type": 3,  "api": "csp_Config","jar":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E4%BA%91%E7%9B%98%E6%90%9C%E7%B4%A2/xyg.php","searchable": 0, "changeable": 0, "indexs": 0, "style": { "type": "rect",  "ratio": 1.43 } },
+//{"key": "配置中心","name": "🪪阿里夸克-配置中心","type": 3,  "api": "csp_Config","jar":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E4%BA%91%E7%9B%98%E6%90%9C%E7%B4%A2/xyg.php","searchable": 0, "changeable": 0, "indexs": 0, "style": { "type": "rect",  "ratio": 1.43 } },
 
 //{"key":"阿里云盘登录","name":"🐲阿里┃云盘登录","type":3,"api":"csp_AliYunPan","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E7%8E%A9%E5%81%B64K/danmu.jar","ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
 
@@ -51,7 +51,7 @@
 
 
 
-{"key":"️玩偶弟弟","name":"😊玩偶弟弟┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E7%8E%A9%E5%81%B64K/ou.jar","ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E7%8E%A9%E5%81%B64K/%E7%8E%A9%E5%81%B6%E5%BC%9F%E5%BC%9F.json" },
+{"key":"️玩偶弟弟","name":"😊玩偶弟弟┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E7%8E%A9%E5%81%B64K/ou.jar","ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E7%8E%A9%E5%81%B64K/%E7%8E%A9%E5%81%B6%E5%BC%9F%E5%BC%9F.json"},
 
 
 
