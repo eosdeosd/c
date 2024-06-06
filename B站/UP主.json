@@ -5,8 +5,8 @@
   "classes": [
 
  {
-      "type_name": "喜欢KON都是朋友",
-      "type_id": "喜欢KON都是朋友"
+      "type_name": "笔记本维厮",
+      "type_id": "笔记本维厮"
     },
     {
       "type_name": "酒井法子",
@@ -18,7 +18,7 @@
 
   ],
   "filter": {
-    "喜欢KON都是朋友": [
+    "笔记本维厮": [
       {
         "key": "duration",
         "name": "时长",
