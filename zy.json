@@ -40,6 +40,13 @@
 
 
 
+{"key":"阿里云盘登录","name":"🐲阿里┃云盘登录","type":3,"api":"csp_AliYunPan","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
+{"key":"配置中心","name":"🐲配置中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597}},
+
+
+
+
+
 {"key":"️玩偶弟","name":"😊玩偶弟弟┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E7%8E%A9%E5%81%B64K/ou.jar","ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E7%8E%A9%E5%81%B64K/%E7%8E%A9%E5%81%B6%E5%BC%9F%E5%BC%9F.json"},
 
 
@@ -59,7 +66,7 @@
 
 
 
-{"key":"阿里云盘登录","name":"🐲玩偶妹妹┃登录┃点击第一个扫码","type":3,"api":"csp_AliYunPan","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/kkw.jar","searchable":0,"quickSearch":0,"filterable":0, "ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
+
 
 
 
