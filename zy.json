@@ -52,11 +52,7 @@
 
 
 
-//{"key": "玩偶哥哥","name":"😊玩偶|哥哥","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":  "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E7%8E%A9%E5%81%B6%E5%93%A5%E5%93%A5.json"},
-
-
-
-{"key":"️玩偶哥哥","name":"😊玩偶哥哥┃4K","type":3,"api":"csp_XYQHikerAL","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/ttkx.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E7%8E%A9%E5%81%B64K/%E7%8E%A9%E5%81%B6%E5%93%A5%E5%93%A5.json"}, 
+//{"key":"️玩偶哥哥","name":"😊玩偶哥哥┃4K","type":3,"api":"csp_XYQHikerAL","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/ttkx.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E7%8E%A9%E5%81%B64K/%E7%8E%A9%E5%81%B6%E5%93%A5%E5%93%A5.json"}, 
 //"token": "file://TV/ali_token.txt", "cookie": "file://TV/quark_cookie.txt"},//https://pan.shangui.cc/跑路网盘 真跑路了
 
 
@@ -70,11 +66,6 @@
 
 
 
-
-      
-
-//{ "key": "多多玩偶", "name": "😊玩偶多多┃4K纯净", "type": 3, "api": "csp_XYQHikerAL", "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php", https://gitee.com/huanzi989/self-use---tv-box/blob/master/xpbq.php     "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/wnlg.json" }, http://我不是.摸鱼儿.top/api/moyu.php?file=玩偶多多
-//https://gitee.com/huanzi989/self-use---tv-box/raw/master/kkwwnlg.json
 
 
   
@@ -167,7 +158,7 @@
 
   { "key": "影搜","name": "🌸影搜┃搜索", "type": 3, "api": "csp_Yingso","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/xyg.php", "searchable": 1, "filterable": 0,"changeable": 0, "ext": { "token": "file://TV/ali_token.txt", "cookie": "file://TV/quark_cookie.txt"  }, "timeout": 15 },   
    
-  //{ "key": "影搜","name": "🌸影搜┃搜索", "type": 3, "api": "csp_Yingso","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/xyg.php", "searchable": 1, "filterable": 0,"changeable": 0, "ext": { "token": "file://TV/ali_token.txt", "cookie": "file://TV/quark_cookie.txt"  }, "timeout": 15 }   
+
    
    {   "key":"妮可", "name":"妮可动漫┃当搜索源","type":3,"api":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%A6%AE%E5%8F%AF%E5%8A%A8%E7%94%BB/drpy2.min.js","ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%A6%AE%E5%8F%AF%E5%8A%A8%E7%94%BB/%E5%A6%AE%E5%8F%AF%E5%8A%A8%E6%BC%AB.js"}, 
 
