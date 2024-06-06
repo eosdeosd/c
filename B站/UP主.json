@@ -5,8 +5,8 @@
   "classes": [
 
  {
-      "type_name": "笔记本维厮",
-      "type_id": "笔记本维厮"
+      "type_name": "骁龙870",
+      "type_id": "骁龙870"
     },
     {
       "type_name": "酒井法子",
@@ -18,7 +18,7 @@
 
   ],
   "filter": {
-    "笔记本维厮": [
+    "骁龙870": [
       {
         "key": "duration",
         "name": "时长",
