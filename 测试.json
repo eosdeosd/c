@@ -1,11 +1,13 @@
 //以下内容为互联网收集，只为自用。
 {
   //注释定义全局jar爬虫文件,先下载一个爬虫文件，然后上传到https://gitee.com/你申请的个人空间里面，然后把地址填入进去如下
-  //"spider": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/fty.jar",
+ //"spider": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/fty.jar",
   //打开https://www.lige.fit/ua  网址，去里面寻找解密的源，自己复制修改使用。  能够打开的源，就说明有效使用。
- "spider": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/Yoursmile.jar;md5;71B3AF5F2F3E4FB48B24EE16E6D574BC",
-  
+ //"spider": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/Yoursmile.jar;md5;71B3AF5F2F3E4FB48B24EE16E6D574BC",
+"spider": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/ttkx.jar",
 
+
+  
   
   
   //这里一看就知道是什么，打开软件都可以看到弹窗信息
@@ -18,7 +20,48 @@
 
 
 
-      {"key": "Lib","name": "🌟┃Lib┃直连（推荐）","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.libvio.fun/"}, 
+//{"key":"星空影视2","name":"⭐星空福利","type":3,"api":"csp_XBPQ","ext":{"首页":"网红短剧","简介":"：+col-pd\">&&","线路数组":"#playlist&&","播放数组":"stui-content__playlist clearfix&&","跳转播放链接":"varurlDecode(var player_*url\":\"&&\")","搜索url":"https://www.nbhuiding.com/search/{wd}----------{pg}---.html","分类url":"https://www.nbhuiding.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html[https://www.nbhuiding.com/list/{cateId}.html]","分类":"剧集$2#网红短剧$34#国产剧$13#国产剧$13#香港剧$14#韩国剧$15#欧美剧$16#台湾剧$20#日本剧$21#其他剧$22#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$24#纪录片$23#综艺$3#大陆综艺$25#日韩综艺$26#港台综艺$27#欧美综艺$28#动漫$4#国产动漫$29#日韩动漫$30#欧美动漫$31#其他动漫$32#午夜剧场$33"}},   //副标题":"",
+
+
+
+
+
+//{ "key": "白嫖者", "name": "👶白嫖者联盟（推荐）", "type": 3, "api": "csp_XBPQ", "ext": {"分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"电影$1#电视剧$2#动漫$4#综艺$3","副标题":"class=\"pic-text text-right\"&&</span>","简介":"⚠️特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p >"}},
+
+    
+     {"key": "Lib","name": "🌟┃Lib┃直连（推荐）","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.libvio.fun/"},
+
+
+
+
+
+{ "key": "NT动漫", "name":"😎动漫 |个人专用" , "type": 3, "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/NT%E5%8A%A8%E7%94%BB/drpy2.min.js",                                          "searchable": 1, "quickSearch": 1,"filterable": 1,"changeable": 1, "ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/NT%E5%8A%A8%E7%94%BB/NT%E5%8A%A8%E6%BC%AB.js"},
+
+
+
+
+{"key":"阿里云盘登录","name":"🐲阿里┃云盘登录","type":3,"api":"csp_AliYunPan","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E7%8E%A9%E5%81%B64K/danmu.jar","ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
+
+{"key":"配置中心","name":"🐲配置中心","type":3,"api":"csp_Config","jar":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E7%8E%A9%E5%81%B64K/danmu.jar","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597}},
+
+
+
+
+
+{"key":"️玩偶弟弟","name":"😊玩偶弟弟┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E7%8E%A9%E5%81%B64K/ou.jar","ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E7%8E%A9%E5%81%B64K/%E7%8E%A9%E5%81%B6%E5%BC%9F%E5%BC%9F.json"},
+
+
+
+//{"key": "玩偶哥哥","name":"😊玩偶|哥哥","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":  "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E7%8E%A9%E5%81%B6%E5%93%A5%E5%93%A5.json"},
+
+
+
+{"key":"️玩偶哥哥","name":"😊玩偶哥哥┃4K","type":3,"api":"csp_XYQHikerAL","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/ttkx.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E7%8E%A9%E5%81%B64K/%E7%8E%A9%E5%81%B6%E5%93%A5%E5%93%A5.json"}, 
+//"token": "file://TV/ali_token.txt", "cookie": "file://TV/quark_cookie.txt"},//https://pan.shangui.cc/跑路网盘 真跑路了
+
+
+
+  {"key": "Xinsj","name": "👓┃视觉┃直连（备用）","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.80yy3.com"},
 
 
 
@@ -27,11 +70,6 @@
 
 
 
-
-{"key":"阿里云盘登录","name":"🐲阿里┃云盘登录┃点击第一个扫码","type":3,"api":"csp_AliYunPan","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/kkw.jar","searchable":0,"quickSearch":0,"filterable":0, "ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
-
-
-{"key":"️玩偶妹妹","name":"😊玩偶妹妹┃4K纯净","type":3,"api":"csp_XYQHikerAL","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/kkw.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/wnlg.json"},
 
       
 
@@ -39,42 +77,56 @@
 //https://gitee.com/huanzi989/self-use---tv-box/raw/master/kkwwnlg.json
 
 
-
-   
-     {"key": "玩偶哥哥","name": "👽┃玩偶┃4K（需要手机阿里云盘扫码）","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
   
    
-    {"key": "Xinsj","name": "👓┃视觉┃直连（备用）","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.80yy3.com"},
+
    
-    {"key": "Auete","name": "🏝┃Auete┃直连（有综艺）","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://auete.pro/" },  
+   {"key": "Auete","name": "🏝┃Auete┃直连（有综艺）","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://auete.pro/" },
 
 //这里使用了绝对路径的JSON源地址，这个JSON源需要上传到你的空间，或者输入别人的绝对路径源地址 
-{"key": "演唱会","name": "🎧演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/music.json"},
+
+{"key": "演唱会1","name": "🎧演唱会1","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/B%E7%AB%99/music.json"},
 
 
 
-  { "key": "MTV",  "name": "🎧明星┃MV", "type": 3, "api": "csp_Bili", "style": { "type": "rect", "ratio": 1.597  }, "searchable": 0,
- "quickSearch": 0, "changeable": 0, "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/MTV.json" }, 
+{"key":"演唱会2","name":"🎸演唱会2（可当搜索源  MV）","type":3,"api":"csp_Bili","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/B%E7%AB%99/%E6%BC%94%E5%94%B1%E4%BC%9A.txt"},
 
- {"key":"戏曲","name":"戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/BBXQ.json"},  
+
+
+
+ { "key": "MTV",  "name": "🎧明星┃MV", "type": 3, "api": "csp_Bili", "style": { "type": "rect", "ratio": 1.597  }, "searchable": 0,                    "quickSearch": 0, "changeable": 0, "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/B%E7%AB%99/MTV.json" }, 
+
+
+
+
+
+
+ {"key":"戏曲","name":"🅰️戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/B%E7%AB%99/%E6%88%8F%E6%9B%B2.json"},  
    
- {"key": "学堂","name": "🅰️学堂教育","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%AD%A6%E5%A0%82%E6%95%99%E8%82%B2.json"},
+{"key": "学堂","name": "🅰️学堂教育","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/B%E7%AB%99/%E5%AD%A6%E5%A0%82%E6%95%99%E8%82%B2.json"},
  
-  {"key": "少儿","name": "🅰️少儿合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%B0%91%E5%84%BF%E5%90%88%E9%9B%86.json"}, 
+  {"key": "少儿","name": "🅰️少儿合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/B%E7%AB%99/%E5%B0%91%E5%84%BF%E5%90%88%E9%9B%86.json"}, 
 
-{"key": "软件","name": "🅰️软件教程","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"http://tv.nxog.top/m/Bilibili/软件教程.json"},
+
+{"key": "硬件","name": "🅰️240元骁龙870电视盒子-支持杜比视界","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/B%E7%AB%99/%E9%85%92%E4%BA%95%E6%B3%95%E5%AD%90.json"},
+
+
+
+
+
+
+
+
 
 
 //API {https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js"},
 //ext {https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/NT%E5%8A%A8%E6%BC%AB.js}
 //{"key":"drpy_js_NT动漫","name":"😎动漫 |个人专用","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/NT%E5%8A%A8%E6%BC%AB.js"}, 
 
- { "key": "NT动漫", "name": "😊NT┃动漫", "type": 3, "api": "https://www.yingm.cc//dm//js/drpy2.min.js", "searchable": 1,
-    "quickSearch": 1, "filterable": 1,"changeable": 1, "ext": "https://www.yingm.cc//dm//js/NT%E5%8A%A8%E6%BC%AB.js" },
+ //{ "key": "NT动漫", "name": "😊NT┃动漫", "type": 3, "api": "https://www.yingm.cc//dm//js/drpy2.min.js", "searchable": 1,
+ //   "quickSearch": 1, "filterable": 1,"changeable": 1, "ext": "https://www.yingm.cc//dm//js/NT%E5%8A%A8%E6%BC%AB.js" },
 
 
-
- 
 
 
  
@@ -111,18 +163,23 @@
 
 
 //这里也是阿里搜索云盘，这里就直接使用全局定义的api爬虫就行了。只要api和jar文件是对应的就行。
-   {"key": "PanSearch","name": "🏵️‍┃阿里┃PanS","type": 3,"api": "csp_PanSearch","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"}
+   {"key": "PanSearch","name": "🏵️‍┃阿里┃PanS","type": 3,"api": "csp_PanSearch","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"},
+
+  { "key": "影搜","name": "🌸影搜┃搜索", "type": 3, "api": "csp_Yingso","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/xyg.php", "searchable": 1, "filterable": 0,"changeable": 0, "ext": { "token": "file://TV/ali_token.txt", "cookie": "file://TV/quark_cookie.txt"  }, "timeout": 15 },   
    
   //{ "key": "影搜","name": "🌸影搜┃搜索", "type": 3, "api": "csp_Yingso","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/xyg.php", "searchable": 1, "filterable": 0,"changeable": 0, "ext": { "token": "file://TV/ali_token.txt", "cookie": "file://TV/quark_cookie.txt"  }, "timeout": 15 }   
    
+   {   "key":"妮可", "name":"妮可动漫┃当搜索源","type":3,"api":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%A6%AE%E5%8F%AF%E5%8A%A8%E7%94%BB/drpy2.min.js","ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%A6%AE%E5%8F%AF%E5%8A%A8%E7%94%BB/%E5%A6%AE%E5%8F%AF%E5%8A%A8%E6%BC%AB.js"}, 
+
+
+   
+{   "key": "nangua", "name": "🎃┃南瓜影视┃当搜索库", "type": 3, "playerType": "1", "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/drpy2.min.js",                  "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/%E5%8D%97%E7%93%9C.js" }
    
    
+
+
    
-   
-   
-   
-   
-   ],
+    ],
 
 
 //{"token":"https://gitee.com/huanzi989/self-use---tv-box/blob/master/TV2.txt", "cookie":"file://TV/quark_cookie.txt"},"timeout":15},
@@ -134,18 +191,14 @@
 
 
 
-
   //这里是视频解析的地方，不建议修改。
   "parses": [
-    {"name": "Json聚合","type": 2,"url": "Demo" },
-    {"name": "Web聚合","type": 2,"url": "Web"},
-  {"name": "神秘的哥哥们","type": 2,"url": "http://api.888484.xyz/神秘哥哥/super.php?v=","ext": {  "flag": [    "qq",    "腾讯",    "qiyi",    "爱奇艺",    "奇艺",    "youku",    "优酷",    "tucheng",    "sohu",    "搜狐",    "letv",    "乐视",    "mgtv",    "芒果",    "tnmb",    "seven",    "yzm",    "aliyun",    "RJuMao",    "bilibili",    "1905",    "xinvip",    "XAL",    "qiqi",    "XALS",    "YuMi-vip" ] }}],
-    
-   
-   
+     {"name": "Json聚合","type": 3,"url": "Demo" },
+    {"name": "Web聚合","type": 3,"url": "Web"},
+    {"name": "神秘的哥哥们","type": 1,"url": "http://api.888484.xyz/神秘哥哥/super.php?v=","ext": {  "flag": [    "qq",    "腾讯",    "qiyi",    "爱奇艺",    "奇艺",    "youku",    "优酷",    "tucheng",    "sohu",    "搜狐",    "letv",    "乐视",    "mgtv",    "芒果",    "tnmb",    "seven",    "yzm",    "aliyun",    "RJuMao",    "bilibili",    "1905",    "xinvip",    "XAL",    "qiqi",    "XALS",    "YuMi-vip"  ]}}
+  
 
-
-
+  ],
   "doh": [
     {"name": "Google","url": "https://dns.google/dns-query","ips": [  "8.8.4.4",  "8.8.8.8"]},
     {"name": "Cloudflare","url": "https://cloudflare-dns.com/dns-query","ips": [  "1.1.1.1",  "1.0.0.1",  "2606:4700:4700::1111",  "2606:4700:4700::1001"]},
@@ -167,10 +220,15 @@
     {"name": "cl","hosts": [  "magnet"],"regex": [  "最 新",  "直 播",  "更 新"]}
   ],
 
+
+  
+
+
+
   //这里是直播源，名字可以随便取。 url是直播地址的文件，都是txt后缀。 这里我使用外部地址，你也可以使用自己上传的文件，使用相对路径。
   "lives": [
     {"name": "huanzi989","type": 0,"url": "http://rihou.vip:55/lib/kx2024.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
+    },//http://rihou.vip:55/lib/kx2024.txt
     {"name": "gat","type": 0,"url": "http://rihou.vip:55/lib/kx2024.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     //这里的url直播地址就使用了相对路径，但是这个地址是空的无效。
