@@ -36,14 +36,11 @@
   { "key": "苹果", "name": "🍎苹果┃不卡", "type": 3, "api": "csp_LiteApple","searchable": 1, "quickSearch": 1, "changeable": 1  },
 
 
- { "key": "天天影视", "name": "天天🍦影视", "type": 3, "api": "csp_AppTT", "jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/nmys%E5%A4%A9%E5%A4%A9%E5%BD%B1%E8%A7%86.jar",
-     "searchable": 1,"quickSearch": 1, "filterable": 1 },
+ { "key": "天天影视", "name": "天天🍦影视", "type": 3, "api": "csp_AppTT", "jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/nmys%E5%A4%A9%E5%A4%A9%E5%BD%B1%E8%A7%86.jar", "searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "http://op.ysdqjs.cn" },
 
 
 
 
- // { "key": "天天影视", "name": "💡天天┃影视", "type": 3, "api": "csp_TTian", "jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E5%A4%A9%E5%A4%A9.php", "ext": "http://op.ysdqjs.cn" },
-  //"jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E5%A4%A9%E5%A4%A9.php",
 
 
  
