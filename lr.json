@@ -2,7 +2,7 @@
 {
     "spider": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/ttkx.jar",
     "wallpaper": "https://tool.weetai.cn/api",
-    "warningText": "",
+   "warningText": "资源来自网络，所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买。",
     "lives": [
         {
             "name": "live",
@@ -15,7 +15,7 @@
      
 
 
-{"key":"drpy_js_豆瓣","name":"豆瓣😘 | 请设置为默认首页","type":3,"api":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%B1%86%E7%93%A3/drpy2.min.js","ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%B1%86%E7%93%A3/%E8%B1%86%E7%93%A3.js"},
+{"key":"drpy_js_豆瓣","name":"海报墙😘 | 请设置为默认首页","type":3,"api":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%B1%86%E7%93%A3/drpy2.min.js","ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%B1%86%E7%93%A3/%E8%B1%86%E7%93%A3.js"},
 
 
 
