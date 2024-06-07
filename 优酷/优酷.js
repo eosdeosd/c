@@ -1,5 +1,5 @@
 var rule = {
-    title:'',
+    title:'优酷',
     host:'https://www.%79%6f%75%6b%75.com',
     homeUrl:'',
     searchUrl:'https://search.%79%6f%75%6b%75.com/api/search?pg=fypage&keyword=**',
