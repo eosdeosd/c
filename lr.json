@@ -23,6 +23,12 @@
 
 
 
+
+ { "key": "酷看","name": "💡酷看", "type": 3, "api": "csp_Kkys", "timeout": 15,"searchable": 1, "quickSearch": 1, "changeable": 1 },
+
+
+
+
 //{"key":"drpy_js_优酷","name":"优酷","type":3,"api":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E4%BC%98%E9%85%B7/drpy2.min.js","ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E4%BC%98%E9%85%B7/%E4%BC%98%E9%85%B7.js"},
 
 
