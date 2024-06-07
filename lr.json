@@ -83,8 +83,10 @@
     {"name": "Web聚合","type": 3,"url": "Web"},
     {"name": "神秘的哥哥们","type": 1,"url": "http://api.888484.xyz/神秘哥哥/super.php?v=","ext": {  "flag": [    "qq",    "腾讯",    "qiyi",    "爱奇艺",    "奇艺",    "youku",    "优酷",    "tucheng",    "sohu",    "搜狐",    "letv",    "乐视",    "mgtv",    "芒果",    "tnmb",    "seven",    "yzm",    "aliyun",    "RJuMao",    "bilibili",    "1905",    "xinvip",    "XAL",    "qiqi",    "XALS",    "YuMi-vip"  ]}},
 
-{"name":"8090","url":"https://www.8090.la/8090/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}}
+{"name":"8090","url":"https://www.8090.la/8090/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
 
+
+{"name":"-虾米-","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"}}}
 
 
 
