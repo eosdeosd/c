@@ -19,14 +19,14 @@
 
 
 
-//{"key":"苹果","name":"🍎苹果┃无广","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"ua": "okhttp/3.15","quickSearch":1,"changeable":1},
+{"key":"苹果","name":"🍎苹果┃无广","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"ua": "okhttp/3.15","quickSearch":1,"changeable":1},
 
 
- {  "key": "蛋蛋剧", "name": "👉蛋蛋┃剧", "type": 3, "searchable": 1,"quickSearch": 1, "filterable": 1,
- "api": "csp_XBPQ", "ext": { "嗅探词": "v3.toutiaovod.com#v3-dy-o.zjcdn#.m3u8#/tos/#.mp4","请求头": "手机#Referer$https://www.dandanju.cc/",
- "分类url": "https://www.dandanju.cc/show/{cateId}--------{catePg}---2023.html", "分类": "电影$1#剧集$2#动漫$4#综艺$4",
-  "数组": " <li class=\"col-md-6 col-sm-4 col-xs-3&&</li", "搜索模式": "1", "搜索url": "https://www.dandanju.cc/search/{wd}----------1---.html",
-     "搜索数组": "<li class=\"active clearfix&&</li" } },//"jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E8%9B%8B%E8%9B%8B%E5%89%A7.txt",
+{"key":"剧圈圈","name":"🎦剧圈圈","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"ext":"./lib/剧圈圈.json"},
+
+
+ //{  "key": "蛋蛋剧", "name": "👉蛋蛋┃剧", "type": 3, "searchable": 1,"quickSearch": 1, "filterable": 1,"api": "csp_XBPQ", "ext": { "嗅探词": "v3.toutiaovod.com#v3-dy-o.zjcdn#.m3u8#/tos/#.mp4","请求头": "手机#Referer$https://www.dandanju.cc/","分类url": "https://www.dandanju.cc/show/{cateId}--------{catePg}---2023.html", "分类": "电影$1#剧集$2#动漫$4#综艺$4", "数组": " <li class=\"col-md-6 col-sm-4 col-xs-3&&</li", "搜索模式": "1", "搜索url": "https://www.dandanju.cc/search/{wd}----------1---.html", "搜索数组": "<li class=\"active clearfix&&</li" } },
+ //"jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E8%9B%8B%E8%9B%8B%E5%89%A7.txt",
 
 
 
@@ -60,24 +60,10 @@
 
 
 
-         {
-            "key": "csp_xBPQ_九八",
-            "name": "九八",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "playerType": "1",
-            "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/98.json"
-        },      
+         {  "key": "csp_xBPQ_九八", "name": "九八", "type": 3, "api": "csp_XBPQ", "playerType": "1",  "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/98.json"  },      
      
      
-        {
-            "key": "达达龟",
-            "name": "😋 | 达龟",
-            "type": 3,
-            "api": "csp_XBPQ",  
-            "playerType": "1",
-            "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/dadagui.json"
-        },
+       // { "key": "达达龟",  "name": "😋 | 达龟", "type": 3,  "api": "csp_XBPQ",   "playerType": "1", "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/dadagui.json"  },
      
 
 
