@@ -238,6 +238,11 @@
  { "name": "26db",  "type": 0, "url": "http://vip.26db.cn/g/?url="  },
 
 
+  {  "name": "帅", "type": 1,  "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url=" },
+ { "name": "小", "type": 1, "url": "http://xxjx.qqwx.ren/?url=" },
+ {  "name": "王", "type": 1, "url": "http://43.136.176.188:91/api/?key=f99226916774bfa29c9af99b2c736fd9&url=" },
+
+
 
 
 
