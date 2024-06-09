@@ -1,9 +1,5 @@
 {
-"urls":[
-{"url":"https://gitjs.wokaotianshi123.cloudns.org/https://raw.githubusercontent.com/wokaotianshi123/wokaotianshi123.github.io/main/pglblb/0618.txt","name":"自建"},
-
-
-
+"urls":[{"url":"https://gitjs.wokaotianshi123.cloudns.org/https://raw.githubusercontent.com/wokaotianshi123/wokaotianshi123.github.io/main/pglblb/0618.txt","name":"自建"},
 {"url":"https://notabug.org/wc/3/raw/master/100.json","name":"影视仓接口2"},
 {"url":"https://gitlab.com/dokiss1/tvbox/-/raw/master/K.json","name":"K"},
 {"url":"https://gitlab.com/dokiss1/tvbox/-/raw/master/Yu.json","name":"业余"},
