@@ -3,14 +3,9 @@
     "spider": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/ttkx.jar",
     "wallpaper": "https://tool.weetai.cn/api",
    "warningText": "资源来自网络，所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买。",
-    "lives": [
-        {
-            "name": "live",
-            "type": 0,
-            "url": "http://rihou.vip:55/lib/kx2024.txt",
-            "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
-        }
-    ],
+    "lives": [  {   "name": "live",  "type": 0,  "url": "http://rihou.vip:55/lib/kx2024.txt", "epg": "http://epg.112114.eu.org/?ch={name}&date={date}" } ],
+
+
     "sites": [
      
 
@@ -109,9 +104,9 @@
     
     ],
     "parses": [
-        {"name":"Json并发","type":3,"url":"Parallel"},
-        {"name":"Json轮询","type":3,"url":"Sequence"},
-        {"name":"解析聚合","type":3,"url":"Demo"},
+       // {"name":"Json并发","type":3,"url":"Parallel"},
+       // {"name":"Json轮询","type":3,"url":"Sequence"},
+       // {"name":"解析聚合","type":3,"url":"Demo"},
         {"name":"Web聚合","type":3,"url":"Web"},
 
         {"name":"-咸鱼-","type":0,"url":"https://jx.xyflv.cc/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36","referer":"https://www.xyflv.cc/"}}},
