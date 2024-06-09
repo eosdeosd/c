@@ -25,7 +25,7 @@
 {"key":"csp_xBPQ_COKEMV","name":"️COKEMV(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"分类url":"https://cokemv.co/vodshow/{cateId}-{area}-time-{class}-{lang}----{catePg}---.html;;lr","分类":"电影$1#连续剧$2#动漫$3#综艺$4"}},
 {"key":"csp_xBPQ_影视工厂","name":"️影视工厂(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"分类url":"https://www.ysgc.fun/vodshow/{cateId}-{area}-time-{class}-{lang}----{catePg}---{year}.html;;lr","分类":"电影$1#连续剧$2#综艺$3#动漫$4"}},
 
-{"key":"csp_Jianpian","name":"荐片(爬虫)","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"http://api2.rinhome.com"},
+
 {"key":"酷看","name":"酷看(爬虫)","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://gitee.com/xiaomei5201/xiaomeitv/raw/master/jar/kukan.jar"},
 {"key":"Vidhub2","name":"Vid影视","type":3,"api":"csp_Vidhub2","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://gitee.com/xiaomei5201/xiaomeitv/raw/master/jar/NoV7kPc7_PandaQ240416.jar"},
 {"key":"huawen","name":"华文(爬虫)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"http://zytv.eztv.video/api.php/app/","categories":["电影","连续剧","综艺","动漫"]},
