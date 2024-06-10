@@ -74,10 +74,10 @@
 
 
 
-        {  "key": "csp_xBPQ_九八", "name": "九八", "type": 3, "api": "csp_XBPQ", "playerType": "1",  "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/98.json"  },      
+       // {  "key": "csp_xBPQ_九八", "name": "九八", "type": 3, "api": "csp_XBPQ", "playerType": "1",  "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/98.json"  },      
      
      
-       { "key": "达达龟",  "name": "😋 | 达龟", "type": 3,  "api": "csp_XBPQ",   "playerType": "1", "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/dadagui.json"  },
+      // { "key": "达达龟",  "name": "😋 | 达龟", "type": 3,  "api": "csp_XBPQ",   "playerType": "1", "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/dadagui.json"  },
      
 
 
@@ -89,7 +89,7 @@
 
 
 
- {"key":"csp_Ikanbot","name": "Ikanbot","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://v.aikanbot.com"}
+// {"key":"csp_Ikanbot","name": "Ikanbot","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://v.aikanbot.com"}
       
 
 
@@ -106,10 +106,11 @@
     "parses": [
         //{"name":"Json并发","type":3,"url":"Parallel"},
         //{"name":"Json轮询","type":3,"url":"Sequence"},
-       {"name":"解析聚合","type":3,"url":"Demo"},
+       //{"name":"解析聚合","type":3,"url":"Demo"},
         {"name":"Web聚合","type":3,"url":"Web"},
 
         {"name":"-虾米-","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"}}},
+        {"name":"jsonplayer","type":0,"url":"https://jx.jsonplayer.com/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
      {"name":"-咸鱼-","type":0,"url":"https://jx.xyflv.cc/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36","referer":"https://www.xyflv.cc/"}}}
 
 
