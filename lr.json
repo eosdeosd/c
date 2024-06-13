@@ -60,7 +60,7 @@
 
  
 
- {"key": "热播", "name": "📺热播┃多线", "type": 3, "api": "csp_AppTT", "timeout": 15, "playerType": 3, "searchable": 1, "quickSearch": 1,"changeable": 1,"ext": "AO7TcBkd8I/B5wQc4Qma+pU=" },//AO7TcBkd8I/B5wQc4Qma+pU=
+ {"key": "热播", "name": "📺热播┃多线", "type": 3, "api": "csp_AppTT", "timeout": 15, "playerType": 0, "searchable": 1, "quickSearch": 1,"changeable": 1,"ext": "AO7TcBkd8I/B5wQc4Qma+pU=" },//AO7TcBkd8I/B5wQc4Qma+pU=
 
 
 
