@@ -3,18 +3,6 @@
 
   
 
- {
-     
-      "name": "豆瓣",
-      "type": 3,
-      "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/drpy_dzlive/drpy_libs/drpy2.min.js",
-    
-      "search": 1,
-    
-      "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/asset/js/douban_open.js"
-   
-    },
-
 
 
 
@@ -32,18 +20,7 @@
       "isActive": true,
       "status": true
     },
-    {
-      "id": "Rm3OiYQ5c0XBczEtbsYXu",
-      "name": "菜狗[官]",
-      "type": 7,
-      "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/drpy_dzlive/drpy_libs/drpy2.min.js",
-      "group": "hipy",
-      "search": 1,
-      "categories": null,
-      "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/drpy_dzlive/drpy_js/菜狗[官].js",
-      "isActive": true,
-      "status": true
-    },
+   
     {
       "id": "JKPc0BGvb3YLh9hSiaimi",
       "name": "奇异[官]",
