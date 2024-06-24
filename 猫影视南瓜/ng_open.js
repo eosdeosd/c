@@ -1,4 +1,4 @@
-import { Crypto, jinja2, _ } from 'https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/drpy2.min.js';
+import { Crypto, jinja2, _ } from 'https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/cheerio.min.js';
 
 let key = '南瓜影视';
 let HOST = 'http://ys.changmengyun.com';
