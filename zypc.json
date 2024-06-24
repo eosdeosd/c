@@ -1,5 +1,11 @@
 {
   "tbl_site": [
+
+   { "key": "douban", "name": "🍭豆瓣", "type": 3, "indexs": 1,
+      "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/asset/js/douban_open.js"  },
+
+
+
     {
       "id": "JZfCXs5fNAGX43PoWL17e",
       "name": "360[官]",
