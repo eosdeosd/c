@@ -349,18 +349,6 @@
       "status": true
     },
     {
-      "id": "SC3ZkhK2BRT6PFE3iEchB",
-      "name": "哈皮影视[优]",
-      "type": 7,
-      "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/drpy_dzlive/drpy_libs/drpy2.min.js",
-      "group": "hipy",
-      "search": 1,
-      "categories": null,
-      "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/drpy_dzlive/drpy_js/哈皮影视[优].js",
-      "isActive": true,
-      "status": true
-    },
-    {
       "id": "0TmbItmsJHf9Sf34k3IND",
       "name": "海外剧汇",
       "type": 7,
