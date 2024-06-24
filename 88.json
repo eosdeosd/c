@@ -35,7 +35,7 @@
      //   "ext": "https://www.394tv.com/api.php/provide/vod/" },
 
 // { "key": "languang",  "name": "🐾 蓝光 | 摸摸🐟", "type": 3,
-     "api": "assets://js/caiji.js", "ext": "http://www.zzrhgg.com/api.php/provide/vod/" },
+    // "api": "assets://js/caiji.js", "ext": "http://www.zzrhgg.com/api.php/provide/vod/" },
 
  //{"key": "lehuo","name": "🐾 乐活 | 摸摸🐟", "type": 3,
       // "api": "assets://js/caiji.js", "ext": "https://cj.vodimg.top/api.php/provide/vod/"},
@@ -57,7 +57,7 @@
     //    "ext": "https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8/" },
 
 // {"key": "qihu", "name": "🐾 奇虎 | 摸摸🐟", "type": 3, "api": "assets://js/caiji.js",
-        "ext": "https://caiji.qhzyapi.com/api.php/provide/vod/from/qhm3u8/" },
+       // "ext": "https://caiji.qhzyapi.com/api.php/provide/vod/from/qhm3u8/" },
 
 // { "key": "duboku2",  "name": "🐾 独播国内 | 摸摸🐟🌻", "type": 3, "api": "assets://js/duboku2_open.js" },
 
