@@ -97,7 +97,7 @@
 
  { "key": "MTV",  "name": "🎧明星┃MV", "type": 3, "api": "csp_Bili", "style": { "type": "rect", "ratio": 1.597  }, "searchable": 0,                    "quickSearch": 0, "changeable": 0, "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/B%E7%AB%99/MTV.json" }, 
 
-
+ { "key": "sharenice", "name": "🐾短视频📲",  "type": 3, "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E7%8C%AB%E5%BD%B1%E8%A7%86%E5%8D%97%E7%93%9C/%E7%9F%AD%E8%A7%86%E9%A2%91sharenice_open.js"   }, 
 
 
 
