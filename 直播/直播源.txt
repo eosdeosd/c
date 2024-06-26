@@ -1190,20 +1190,6 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 风云音乐标清,http://113.64.147.55:8081/hls/88/index.m3u8
 风云文化标清,http://113.64.147.55:8081/hls/33/index.m3u8
 
-💝广东频道👉全网,#genre#
-广州生活,https://tv.cry33.com/gztv.php?id=gzsh
-潮州综合,http://time-vod-qhlive.sobeylive.com/czbtv2019/czzhpd.m3u8
-潮州民生,http://time-vod-qhlive.sobeylive.com/czbtv2019/czggpd.m3u8
-汕头小公园,https://gctxyc.liveplay.myqcloud.com/gc/bsszjs_1_md.m3u8
-
-广州综合,http://r.jdshipin.com/snhya
-广州影视,http://r.jdshipin.com/sFw4S
-云浮综合,https://livestream.oeeee.com/slive/17806.m3u8
-云浮文旅,https://livestream.oeeee.com/slive/17807.m3u8
-河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
-河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
-潮州综合,http://time-vod-qhlive.sobeylive.com/czbtv2019/czzhpd.m3u8
-潮州民生,http://time-vod-qhlive.sobeylive.com/czbtv2019/czggpd.m3u8
 
 
 
