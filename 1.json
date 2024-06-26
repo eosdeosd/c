@@ -20,7 +20,7 @@
         "key": "douban",
         "name": "豆瓣(公众号:SoEasy同学)",
         "type": 3,
-        "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/asset/js/bb_douban_open.js"
+        "api": "assets://js/bb_douban_open.js"
       },
 
 
