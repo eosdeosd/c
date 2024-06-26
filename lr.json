@@ -3,7 +3,7 @@
    "spider": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/ttkx.jar",
  
     "wallpaper": "https://tool.weetai.cn/api",
-   "warningText": "资源来自网络，所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买。",
+   "warningText": "此源请搭配月光宝盒MAX3.10版软件使用，软件设置里面开启自动换源。资源来自网络，所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买。",
     "lives": [  {   "name": "live",  "type": 0,  "url": "http://rihou.vip:55/lib/kx2024.txt", "epg": "http://epg.112114.eu.org/?ch={name}&date={date}" } ],
 
 
