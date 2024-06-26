@@ -4,9 +4,9 @@
  
     "wallpaper": "https://tool.weetai.cn/api",
    "warningText": "此源请搭配月光宝盒MAX3.10版软件使用，软件设置里面开启自动换源。资源来自网络，所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买。",
-    "lives": [  {   "name": "live",  "type": 0,  "url": "http://rihou.vip:55/lib/kx2024.txt", "epg": "http://epg.112114.eu.org/?ch={name}&date={date}" } ],
+    "lives": [  {   "name": "live",  "type": 0,  "url": "https://pan.shangui.cc/f/bdgZc1/kx2024.txt", "epg": "http://epg.112114.eu.org/?ch={name}&date={date}" } ],
 
-
+//http://rihou.vip:55/lib/kx2024.txt
     "sites": [
      
 
