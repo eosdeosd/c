@@ -61,28 +61,22 @@ CCTV14,http://60.6.255.8:2180/live/cctv14/index.m3u8
 CCTV15,http://60.6.255.8:2180/live/cctv15/index.m3u8
 CCTV17,http://60.6.255.8:2180/live/cctv17/index.m3u8
 
-CCTV-4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
-CCTV-4K,https://tv.cry33.com/ys4k.php?id=4k
-CCTV-8K,https://tv.cry33.com/ys4k.php?id=8k
-CCTV1,http://dp.sxtv.top:88/md/migu.php?id=cctv1 
-CCTV2,http://dp.sxtv.top:88/md/migu.php?id=cctv2 
-CCTV3,http://dp.sxtv.top:88/md/migu.php?id=cctv3 
-CCTV4,http://dp.sxtv.top:88/md/migu.php?id=cctv4 
-CCTV4,http://dp.sxtv.top:88/md/migu.php?id=cctv4a 
- CCTV4,http://dp.sxtv.top:88/md/migu.php?id=cctv4o 
-CCTV5,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel5/1300.m3u8
-CCTV5+,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel13/1300.m3u8
-CCTV6,http://dp.sxtv.top:88/md/migu.php?id=cctv6 
-CCTV7,http://dp.sxtv.top:88/md/migu.php?id=cctv7 
-CCTV8,http://dp.sxtv.top:88/md/migu.php?id=cctv8 
-CCTV9,http://dp.sxtv.top:88/md/migu.php?id=cctv9 
-CCTV10,http://dp.sxtv.top:88/md/migu.php?id=cctv10
-CCTV11,http://dp.sxtv.top:88/md/migu.php?id=cctv11 
-CCTV12,http://dp.sxtv.top:88/md/migu.php?id=cctv12 
-CCTV13,http://dp.sxtv.top:88/md/migu.php?id=cctv13 
-CCTV14,http://dp.sxtv.top:88/md/migu.php?id=cctv14 
-CCTV15,http://dp.sxtv.top:88/md/migu.php?id=cctv15 
-CCTV17,http://dp.sxtv.top:88/md/migu.php?id=cctv17 
+CCTV1,http://112.235.200.126:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://112.235.200.126:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://59.62.8.250:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://112.235.200.126:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://113.57.103.216:9000/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+,http://112.235.200.126:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://59.62.8.250:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://59.62.8.250:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://59.62.8.250:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://59.62.8.250:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10,http://59.62.8.250:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11,hhttp://59.62.8.250:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://59.62.8.250:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://59.62.8.250:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14,http://59.62.8.250:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15,http://59.62.8.250:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 
