@@ -1,6 +1,14 @@
 {
   "video": {
     "sites": [
+      {
+        "key": "douban",
+        "name": "豆瓣(公众号:SoEasy同学)",
+        "type": 3,
+        "api": "assets://js/bb_douban_open.js"
+      },
+
+
    {
         "key": "kkys",
         "name": "🐾 快看 | 摸摸🐟",
