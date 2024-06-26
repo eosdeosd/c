@@ -1012,7 +1012,49 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 
 
 
+💝广东揭阳👉电信,#genre# 
+无线星河高清,http://113.64.147.55:8081/hls/135/index.m3u8
+凤凰资讯高清,http://113.64.147.55:8081/hls/36/index.m3u8
+凤凰卫视高清,http://113.64.147.55:8081/hls/37/index.m3u8
+凤凰香港高清,http://113.64.147.55:8081/hls/38/index.m3u8
+揭西综合高清,http://113.64.147.55:8081/hls/39/index.m3u8
+揭西综合标清,http://113.64.147.55:8081/hls/19/index.m3u8
+北京卫视高清,http://113.64.147.55:8081/hls/45/index.m3u8
+天津卫视高清,http://113.64.147.55:8081/hls/48/index.m3u8
+广西卫视高清,http://113.64.147.55:8081/hls/60/index.m3u8
+山东卫视高清,http://113.64.147.55:8081/hls/75/index.m3u8
+黑龙江视高清,http://113.64.147.55:8081/hls/50/index.m3u8
+重庆卫视标清,http://113.64.147.55:8081/hls/76/index.m3u8
+宁夏卫视标清,http://113.64.147.55:8081/hls/71/index.m3u8
+新疆卫视标清,http://113.64.147.55:8081/hls/82/index.m3u8
+动作电影标清,http://113.64.147.55:8081/hls/62/index.m3u8
+经典电影标清,http://113.64.147.55:8081/hls/61/index.m3u8
+热播剧场标清,http://113.64.147.55:8081/hls/63/index.m3u8
+乐游综合高清,http://113.64.147.55:8081/hls/66/index.m3u8
+深都市道高清,http://113.64.147.55:8081/hls/68/index.m3u8
+深电视剧高清,http://113.64.147.55:8081/hls/69/index.m3u8
+深电视剧高清,http://113.64.147.55:8081/hls/18/index.m3u8
+山东教育标清,http://113.64.147.55:8081/hls/72/index.m3u8
+现代教育标清,http://113.64.147.55:8081/hls/109/index.m3u8
+优漫卡通标清,http://113.64.147.55:8081/hls/128/index.m3u8
+风云音乐高清,http://113.64.147.55:8081/hls/117/index.m3u8
+风云音乐标清,http://113.64.147.55:8081/hls/88/index.m3u8
+风云文化标清,http://113.64.147.55:8081/hls/33/index.m3u8
 
+💝广东频道👉全网,#genre#
+广州生活,https://tv.cry33.com/gztv.php?id=gzsh
+潮州综合,http://time-vod-qhlive.sobeylive.com/czbtv2019/czzhpd.m3u8
+潮州民生,http://time-vod-qhlive.sobeylive.com/czbtv2019/czggpd.m3u8
+汕头小公园,https://gctxyc.liveplay.myqcloud.com/gc/bsszjs_1_md.m3u8
+
+广州综合,http://r.jdshipin.com/snhya
+广州影视,http://r.jdshipin.com/sFw4S
+云浮综合,https://livestream.oeeee.com/slive/17806.m3u8
+云浮文旅,https://livestream.oeeee.com/slive/17807.m3u8
+河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
+河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
+潮州综合,http://time-vod-qhlive.sobeylive.com/czbtv2019/czzhpd.m3u8
+潮州民生,http://time-vod-qhlive.sobeylive.com/czbtv2019/czggpd.m3u8
 
 
 
