@@ -98,7 +98,7 @@
 
 
 
-{"key":"演唱会2","name":"🎸演唱会2（可当搜索源  MV）","type":3,"api":"csp_Bili","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/B%E7%AB%99/%E6%BC%94%E5%94%B1%E4%BC%9A.txt"},
+{"key":"演唱会2","name":"🎸演唱会2（可当搜索源  MV）","type":3,"api":"csp_Bili","searchable":0,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/B%E7%AB%99/%E6%BC%94%E5%94%B1%E4%BC%9A.txt"},
 
 
 
@@ -174,7 +174,7 @@
 //这里也是阿里搜索云盘，这里就直接使用全局定义的api爬虫就行了。只要api和jar文件是对应的就行。
   
 
-  { "key": "影搜","name": "🌸影搜┃搜索", "type": 3, "api": "csp_Yingso","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E4%BA%91%E7%9B%98%E6%90%9C%E7%B4%A2/xyg.php", "searchable": 1, "filterable": 0,"changeable": 0, "ext": { "token": "file://TV/ali_token.txt", "cookie": "file://TV/quark_cookie.txt"  }, "timeout": 15 },   
+ // { "key": "影搜","name": "🌸影搜┃搜索", "type": 3, "api": "csp_Yingso","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E4%BA%91%E7%9B%98%E6%90%9C%E7%B4%A2/xyg.php", "searchable": 1, "filterable": 0,"changeable": 0, "ext": { "token": "file://TV/ali_token.txt", "cookie": "file://TV/quark_cookie.txt"  }, "timeout": 15 },   
    
 
    
