@@ -43,25 +43,23 @@ TVB星河台,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 TVB娱乐新闻台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 
 💝央视频道👉开心,#genre#
-CCTV1,http://ygbh.live/migu.php?id=cctv1
-CCTV2,http://ygbh.live/migu.php?id=cctv2
-CCTV3,http://ygbh.live/migu.php?id=cctv3
-CCTV4,http://ygbh.live/migu.php?id=cctv4
-CCTV4,http://ygbh.live/migu.php?id=cctv4a
-CCTV4,http://ygbh.live/migu.php?id=cctv4o
-CCTV5,http://ygbh.live/migu.php?id=cctv5
-CCTV5+,http://ygbh.live/migu.php?id=cctv5p
-CCTV6,http://ygbh.live/migu.php?id=cctv6
-CCTV7,http://ygbh.live/migu.php?id=cctv7
-CCTV8,http://ygbh.live/migu.php?id=cctv8
-CCTV9,http://ygbh.live/migu.php?id=cctv9
-CCTV10,http://ygbh.live/migu.php?id=cctv10
-CCTV11,http://ygbh.live/migu.php?id=cctv11
-CCTV12,http://ygbh.live/migu.php?id=cctv12
-CCTV13,http://ygbh.live/migu.php?id=cctv13
-CCTV14,http://ygbh.live/migu.php?id=cctv14
-CCTV15,http://ygbh.live/migu.php?id=cctv15
-CCTV17,http://ygbh.live/migu.php?id=cctv17
+CCTV1,http://60.6.255.8:2180/live/cctv1/index.m3u8
+CCTV2,http://60.6.255.8:2180/live/cctv2/index.m3u8
+CCTV3,http://60.6.255.8:2180/live/cctv3/index.m3u8
+CCTV4,http://60.6.255.8:2180/live/cctv4/index.m3u8
+CCTV5,http://60.6.255.8:2180/live/cctv5/index.m3u8
+CCTV5+,http://60.6.255.8:2180/live/cctv5q/index.m3u8
+CCTV6,http://60.6.255.8:2180/live/cctv6/index.m3u8
+CCTV7,http://60.6.255.8:2180/live/cctv7/index.m3u8
+CCTV8,http://60.6.255.8:2180/live/cctv8/index.m3u8
+CCTV9,http://60.6.255.8:2180/live/cctv9/index.m3u8
+CCTV10,http://60.6.255.8:2180/live/cctv10/index.m3u8
+CCTV11,http://60.6.255.8:2180/live/cctv11/index.m3u8
+CCTV12,http://60.6.255.8:2180/live/cctv12/index.m3u8
+CCTV13,http://60.6.255.8:2180/live/cctv13/index.m3u8
+CCTV14,http://60.6.255.8:2180/live/cctv14/index.m3u8
+CCTV15,http://60.6.255.8:2180/live/cctv15/index.m3u8
+CCTV17,http://60.6.255.8:2180/live/cctv17/index.m3u8
 
 
 
