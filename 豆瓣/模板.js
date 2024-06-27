@@ -20,7 +20,7 @@ function getMubans() {
             // homeUrl:'/',
             url: '/vodshow/fyclass--------fypage---.html',
             searchUrl: '/vodsearch/**----------fypage---.html',
-            searchable: 1,//是否启用全局搜索,  2
+            searchable: 2,//是否启用全局搜索,  2
             quickSearch: 1,//是否启用快速搜索,  0
             filterable: 1,//是否启用分类筛选,   0
             headers: {//网站的请求头,完整支持所有的,常带ua和cookies
@@ -49,7 +49,7 @@ function getMubans() {
             host: '',
             url: '/show/fyclass--------fypage---.html',
             searchUrl: '/search/**----------fypage---.html',
-            searchable: 1,//是否启用全局搜索,  2
+            searchable: 2,//是否启用全局搜索,  2
             quickSearch: 1,//是否启用快速搜索,0
             filterable: 1,//是否启用分类筛选,0
             class_parse: '.nav-menu-items&&li;a&&Text;a&&href;.*/(.*?).html',
@@ -74,7 +74,7 @@ function getMubans() {
             host: '',
             url: '/vodshow/fyclass--------fypage---/',
             searchUrl: '/vodsearch/**----------fypage---.html',
-            searchable: 1,//是否启用全局搜索,2
+            searchable: 2,//是否启用全局搜索,2
             quickSearch: 1,//是否启用快速搜索,0
             filterable: 1,//是否启用分类筛选,0
             headers: {//网站的请求头,完整支持所有的,常带ua和cookies
@@ -103,7 +103,7 @@ function getMubans() {
             host: '',
             url: '/list/fyclass-fypage.html',
             searchUrl: '/vodsearch/**----------fypage---.html',
-            searchable: 1,//是否启用全局搜索,2
+            searchable: 2,//是否启用全局搜索,2
             quickSearch: 1,//是否启用快速搜索,0
             filterable: 1,//是否启用分类筛选,0
             headers: {
@@ -135,7 +135,7 @@ function getMubans() {
             host: '',
             url: '/vodshow/fyclass--------fypage---.html',
             searchUrl: '/vodsearch/-------------.html?wd=**',
-            searchable: 1,//是否启用全局搜索,2
+            searchable: 2,//是否启用全局搜索,2
             quickSearch: 1,//是否启用快速搜索,0
             filterable: 1,//是否启用分类筛选,0
             headers: {
@@ -151,7 +151,7 @@ function getMubans() {
             host: '',
             url: '/index.php/vod/show/id/fyclass/page/fypage.html',
             searchUrl: '/index.php/vod/search/page/fypage/wd/**.html',
-            searchable: 1,//是否启用全局搜索,2
+            searchable: 2,//是否启用全局搜索,2
             quickSearch: 1,//是否启用快速搜索,0
             filterable: 1,//是否启用分类筛选,0
             headers: {
@@ -201,7 +201,7 @@ function getMubans() {
                 "lists": ".hl-plays-list:eq(#id)&&li"
             },
             搜索: '.hl-list-item;a&&title;a&&data-original;.remarks&&Text;a&&href',
-            searchable: 1,//是否启用全局搜索,2
+            searchable: 2,//是否启用全局搜索,2
             quickSearch: 1,//是否启用快速搜索,0
             filterable: 1,//是否启用分类筛选,0
         },
@@ -230,7 +230,7 @@ function getMubans() {
                 "lists": ".play_list_box:eq(#id)&&li"
             },
             搜索: '.search-list;a&&title;.lazy&&data-original;.deployment&&Text;a&&href',
-            searchable: 1,//是否启用全局搜索,2
+            searchable: 2,//是否启用全局搜索,2
             quickSearch: 1,//是否启用快速搜索,0
             filterable: 1,//是否启用分类筛选,0
         },
@@ -240,7 +240,7 @@ function getMubans() {
             // homeUrl:'/',
             url: '/channel/fyclass-fypage.html',
             searchUrl: '/search.html?wd=**',
-            searchable: 1,//是否启用全局搜索,2
+            searchable: 2,//是否启用全局搜索,2
             quickSearch: 1,//是否启用快速搜索,0
             filterable: 1,//是否启用分类筛选,0
             headers: {//网站的请求头,完整支持所有的,常带ua和cookies
