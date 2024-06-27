@@ -83,7 +83,7 @@
 //"token": "file://TV/ali_token.txt", "cookie": "file://TV/quark_cookie.txt"},//https://pan.shangui.cc/跑路网盘 真跑路了
   //{"key": "Xinsj","name": "👓┃视觉┃直连（备用）","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.80yy3.com"},
 
-{ "key": "subaibai", "name": "🎬️素白白", "type": 3,"api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/asset/js/subaibai_open.js" },
+{ "key": "subaibai", "name": "🎬️素白白", "type": 3,"api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E7%8C%AB%E5%BD%B1%E8%A7%86%E5%8D%97%E7%93%9C/subaibai_open.js" },
 
 
  { "key": "Zx4k", "name": "专线", "type": 3, "api": "csp_Zx4k", "timeout": 15, "playerType": 2,"jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/cc%EF%BC%88%E4%B8%93%E7%BA%BF%EF%BC%89.jar",  "searchable": 1, "quickSearch": 1,  "changeable": 1 },
