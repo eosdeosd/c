@@ -1,6 +1,6 @@
 // 搜索数字验证
 // 20230812 变更 分类&筛选
-import { Crypto, load, _ } from './lib/cat.js';
+import { Crypto, load, _ } from 'https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E7%8C%AB%E5%BD%B1%E8%A7%86%E5%8D%97%E7%93%9C/cat.js';
 let key = "素白白",
     url = "https://www.subaibaiys.com",
     siteKey = "",
