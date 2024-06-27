@@ -91,7 +91,7 @@
      
       // { "key": "达达龟",  "name": "😋 | 达龟", "type": 3,  "api": "csp_XBPQ",   "playerType": "1", "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/dadagui.json"  },
 
-{ "key": "subaibai", "name": "🎬️素白白", "type": 3,"api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E7%8C%AB%E5%BD%B1%E8%A7%86%E5%8D%97%E7%93%9C/subaibai_open.js" },
+{ "key": "subaibai", "name": "🎬️素白白", "type": 3,"api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/asset/js/subaibai_open.js" },
 
 
 {"key":"原创","name":"⭐原创┃无广","type":3,"api":"csp_YCyz","searchable":1,"quickSearch":1,"playerType":1,"changeable":1},
