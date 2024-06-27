@@ -20,9 +20,9 @@ function getMubans() {
             // homeUrl:'/',
             url: '/vodshow/fyclass--------fypage---.html',
             searchUrl: '/vodsearch/**----------fypage---.html',
-            searchable: 2,//是否启用全局搜索,  2
-            quickSearch: 1,//是否启用快速搜索,  0
-            filterable: 1,//是否启用分类筛选,   0
+            searchable: 2,//是否启用全局搜索,
+            quickSearch: 0,//是否启用快速搜索,
+            filterable: 0,//是否启用分类筛选,
             headers: {//网站的请求头,完整支持所有的,常带ua和cookies
                 'User-Agent': 'MOBILE_UA',
                 // "Cookie": "searchneed=ok"
@@ -49,9 +49,9 @@ function getMubans() {
             host: '',
             url: '/show/fyclass--------fypage---.html',
             searchUrl: '/search/**----------fypage---.html',
-            searchable: 2,//是否启用全局搜索,  2
-            quickSearch: 1,//是否启用快速搜索,0
-            filterable: 1,//是否启用分类筛选,0
+            searchable: 2,//是否启用全局搜索,
+            quickSearch: 0,//是否启用快速搜索,
+            filterable: 0,//是否启用分类筛选,
             class_parse: '.nav-menu-items&&li;a&&Text;a&&href;.*/(.*?).html',
             play_parse: true,
             lazy: '',
@@ -74,9 +74,9 @@ function getMubans() {
             host: '',
             url: '/vodshow/fyclass--------fypage---/',
             searchUrl: '/vodsearch/**----------fypage---.html',
-            searchable: 2,//是否启用全局搜索,2
-            quickSearch: 1,//是否启用快速搜索,0
-            filterable: 1,//是否启用分类筛选,0
+            searchable: 2,//是否启用全局搜索,
+            quickSearch: 0,//是否启用快速搜索,
+            filterable: 0,//是否启用分类筛选,
             headers: {//网站的请求头,完整支持所有的,常带ua和cookies
                 'User-Agent': 'MOBILE_UA',
                 // "Cookie": "searchneed=ok"
@@ -103,9 +103,9 @@ function getMubans() {
             host: '',
             url: '/list/fyclass-fypage.html',
             searchUrl: '/vodsearch/**----------fypage---.html',
-            searchable: 2,//是否启用全局搜索,2
-            quickSearch: 1,//是否启用快速搜索,0
-            filterable: 1,//是否启用分类筛选,0
+            searchable: 2,//是否启用全局搜索,
+            quickSearch: 0,//是否启用快速搜索,
+            filterable: 0,//是否启用分类筛选,
             headers: {
                 'User-Agent': 'UC_UA',
                 // "Cookie": ""
@@ -135,9 +135,9 @@ function getMubans() {
             host: '',
             url: '/vodshow/fyclass--------fypage---.html',
             searchUrl: '/vodsearch/-------------.html?wd=**',
-            searchable: 2,//是否启用全局搜索,2
-            quickSearch: 1,//是否启用快速搜索,0
-            filterable: 1,//是否启用分类筛选,0
+            searchable: 2,//是否启用全局搜索,
+            quickSearch: 0,//是否启用快速搜索,
+            filterable: 0,//是否启用分类筛选,
             headers: {
                 'User-Agent': 'MOBILE_UA',
             },
@@ -151,9 +151,9 @@ function getMubans() {
             host: '',
             url: '/index.php/vod/show/id/fyclass/page/fypage.html',
             searchUrl: '/index.php/vod/search/page/fypage/wd/**.html',
-            searchable: 2,//是否启用全局搜索,2
-            quickSearch: 1,//是否启用快速搜索,0
-            filterable: 1,//是否启用分类筛选,0
+            searchable: 2,//是否启用全局搜索,
+            quickSearch: 0,//是否启用快速搜索,
+            filterable: 0,//是否启用分类筛选,
             headers: {
                 'User-Agent': 'UC_UA',
             },
@@ -201,9 +201,9 @@ function getMubans() {
                 "lists": ".hl-plays-list:eq(#id)&&li"
             },
             搜索: '.hl-list-item;a&&title;a&&data-original;.remarks&&Text;a&&href',
-            searchable: 2,//是否启用全局搜索,2
-            quickSearch: 1,//是否启用快速搜索,0
-            filterable: 1,//是否启用分类筛选,0
+            searchable: 2,//是否启用全局搜索,
+            quickSearch: 0,//是否启用快速搜索,
+            filterable: 0,//是否启用分类筛选,
         },
         海螺2: {
             title: '',
@@ -230,9 +230,9 @@ function getMubans() {
                 "lists": ".play_list_box:eq(#id)&&li"
             },
             搜索: '.search-list;a&&title;.lazy&&data-original;.deployment&&Text;a&&href',
-            searchable: 2,//是否启用全局搜索,2
-            quickSearch: 1,//是否启用快速搜索,0
-            filterable: 1,//是否启用分类筛选,0
+            searchable: 2,//是否启用全局搜索,
+            quickSearch: 0,//是否启用快速搜索,
+            filterable: 0,//是否启用分类筛选,
         },
         短视: {
             title: '',
@@ -240,9 +240,9 @@ function getMubans() {
             // homeUrl:'/',
             url: '/channel/fyclass-fypage.html',
             searchUrl: '/search.html?wd=**',
-            searchable: 2,//是否启用全局搜索,2
-            quickSearch: 1,//是否启用快速搜索,0
-            filterable: 1,//是否启用分类筛选,0
+            searchable: 2,//是否启用全局搜索,
+            quickSearch: 0,//是否启用快速搜索,
+            filterable: 0,//是否启用分类筛选,
             headers: {//网站的请求头,完整支持所有的,常带ua和cookies
                 'User-Agent': 'MOBILE_UA',
                 // "Cookie": "searchneed=ok"
@@ -271,11 +271,11 @@ function getMubans() {
             class_name:'电影&电视剧&综艺&动漫',
             class_url:'1&2&3&4',
             searchUrl: '/index.php/ajax/suggest?mid=1&wd=**&limit=50',
-            searchable: 1,
-            quickSearch: 1,
+            searchable: 2,
+            quickSearch: 0,
             headers:{'User-Agent':'MOBILE_UA'},
             url: '/index.php/api/vod#type=fyclass&page=fypage',
-            filterable:1,//是否启用分类筛选,
+            filterable:0,//是否启用分类筛选,
             filter_url:'',
             filter: {},
             filter_def:{},
