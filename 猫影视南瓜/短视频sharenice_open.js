@@ -1,5 +1,5 @@
 // 搜索滑块验证
-import { load, _ } from './lib/cat.js';
+import { load, _ } from '/lib/cat.js';
 
 let key = '短视频';
 let HOST = 'http://www.sharenice.net';
