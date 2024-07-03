@@ -188,10 +188,14 @@
    
 
    
-   {   "key":"妮可", "name":"妮可动漫┃当海报墙","type":3,"searchable": 0,"api":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%A6%AE%E5%8F%AF%E5%8A%A8%E7%94%BB/drpy2.min.js","ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%A6%AE%E5%8F%AF%E5%8A%A8%E7%94%BB/%E5%A6%AE%E5%8F%AF%E5%8A%A8%E6%BC%AB.js"} 
+   {   "key":"妮可", "name":"妮可动漫┃当海报墙","type":3,"searchable": 0,"api":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%A6%AE%E5%8F%AF%E5%8A%A8%E7%94%BB/drpy2.min.js","ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%A6%AE%E5%8F%AF%E5%8A%A8%E7%94%BB/%E5%A6%AE%E5%8F%AF%E5%8A%A8%E6%BC%AB.js"}, 
 
 
- 
+  {"key":"csp_Upyunso","name":"📀UP云搜(搜索)","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"}, 
+
+ {"key": "csp_XYQHiker_影搜","name":"📀影搜(搜索)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E4%BA%91%E7%9B%98%E6%90%9C%E7%B4%A2/%E5%BD%B1%E6%90%9C.json"}  
+
+
    
    
 
