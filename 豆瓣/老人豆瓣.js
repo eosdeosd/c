@@ -1,6 +1,6 @@
 var rule = {
     title:'豆瓣',
-    host:'https://frodo.douban.com',
+    host:'https://movie.douban.com/',   //https://frodo.douban.com
     apidoc:'https://www.doubanapi.com',
     homeUrl:'',
     searchUrl:'',
