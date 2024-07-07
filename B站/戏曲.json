@@ -1,6 +1,14 @@
 {
     "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
     "classes": [
+
+    {
+            "type_name": "琼剧（海南剧）",
+            "type_id": "琼剧（海南剧）"
+        },
+
+
+
         {
             "type_name": "潮剧",
             "type_id": "潮剧"
