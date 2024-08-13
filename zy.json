@@ -184,19 +184,24 @@
 //这里也是阿里搜索云盘，这里就直接使用全局定义的api爬虫就行了。只要api和jar文件是对应的就行。
   
 
- // { "key": "影搜","name": "🌸影搜┃搜索", "type": 3, "api": "csp_Yingso","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E4%BA%91%E7%9B%98%E6%90%9C%E7%B4%A2/xyg.php", "searchable": 1, "filterable": 0,"changeable": 0, "ext": { "token": "file://TV/ali_token.txt", "cookie": "file://TV/quark_cookie.txt"  }, "timeout": 15 },   
+ { "key": "影搜","name": "🌸影搜┃搜索", "type": 3, "api": "csp_Yingso","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E4%BA%91%E7%9B%98%E6%90%9C%E7%B4%A2/xyg.php", "searchable": 1, "filterable": 0,"changeable": 0, "ext": { "token": "file://TV/ali_token.txt", "cookie": "file://TV/quark_cookie.txt"  }, "timeout": 15 },   
    
 
-   
-   {   "key":"妮可", "name":"妮可动漫┃当海报墙","type":3,"searchable": 0,"api":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%A6%AE%E5%8F%AF%E5%8A%A8%E7%94%BB/drpy2.min.js","ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%A6%AE%E5%8F%AF%E5%8A%A8%E7%94%BB/%E5%A6%AE%E5%8F%AF%E5%8A%A8%E6%BC%AB.js"}, 
+{ "key": "夸搜", "name": "🐌夸搜┃搜索┃纯净", "type": 3, "api": "csp_PanSearch", "searchable": 1, "quickSearch": 1, "changeable": 0, "ext": { "pan": "quark", "Cloud-drive": "tvfan/Cloud-drive.txt", "from": "4k|auto" } },   
+
 
 
   {"key":"csp_Upyunso","name":"📀UP云搜(搜索)","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"}, 
 
- {"key": "csp_XYQHiker_影搜","name":"📀影搜(搜索)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E4%BA%91%E7%9B%98%E6%90%9C%E7%B4%A2/%E5%BD%B1%E6%90%9C.json"}  
+ {"key": "csp_XYQHiker_影搜","name":"📀影搜(搜索)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E4%BA%91%E7%9B%98%E6%90%9C%E7%B4%A2/%E5%BD%B1%E6%90%9C.json"}
 
 
-   
+
+
+
+
+
+
    
 
 
