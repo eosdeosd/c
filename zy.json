@@ -200,18 +200,14 @@
 
 
 
-	{"key":"云盘资源分享","name":"云盘｜分享","type":3,"api":"csp_XYQHikerAL","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E4%BA%91%E7%9B%98/spider.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E4%BA%91%E7%9B%98/%E4%BA%91%E7%9B%98%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB.json"},
+	{"key":"云盘资源分享","name":"云盘｜分享","type":3,"api":"csp_XYQHikerAL","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E4%BA%91%E7%9B%98/spider.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E4%BA%91%E7%9B%98/%E4%BA%91%E7%9B%98%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB.json"}
 
  
 
 
- {  "key": "夸克蜡笔弹幕",  "name": "蜡笔｜4K弹幕",  "type": 3, "api":"csp_Wobg", "jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E4%BA%91%E7%9B%98/danmu.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":
-    {"token":"http://127.0.0.1:9978/file/TVBox/token.txt", "cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt",
-     "site":"https://duopan.fun"} },
+// {  "key": "夸克蜡笔弹幕",  "name": "蜡笔｜4K弹幕",  "type": 3, "api":"csp_Wobg", "jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E4%BA%91%E7%9B%98/danmu.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"token":"http://127.0.0.1:9978/file/TVBox/token.txt", "cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt", "site":"https://duopan.fun"} },
 
-  { "key": "夸克至臻弹幕", "name": "至臻｜4K弹幕", "type": 3,"api": "csp_Wobg", "jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E4%BA%91%E7%9B%98/danmu.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":{
-     "token": "http://127.0.0.1:9978/file/TVBox/token.txt", "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-     "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt", "site": "https://mihdr.top"} }
+ // { "key": "夸克至臻弹幕", "name": "至臻｜4K弹幕", "type": 3,"api": "csp_Wobg", "jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E4%BA%91%E7%9B%98/danmu.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":{ "token": "http://127.0.0.1:9978/file/TVBox/token.txt", "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt", "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt", "site": "https://mihdr.top"} }
 
 
 
