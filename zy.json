@@ -38,9 +38,9 @@
 
 
 
-{  "key": "夸克蜡笔弹幕",  "name": "蜡笔｜4K弹幕",  "type": 3, "api":"csp_Wobg", "jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E4%BA%91%E7%9B%98/danmu.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"token":"http://127.0.0.1:9978/file/TVBox/token.txt", "cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt", "site":"https://duopan.fun"} },
+{  "key": "夸克蜡笔弹幕",  "name": "蜡笔4K｜UC云盘",  "type": 3, "api":"csp_Wobg", "jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E4%BA%91%E7%9B%98/danmu.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"token":"http://127.0.0.1:9978/file/TVBox/token.txt", "cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt", "site":"https://duopan.fun"} },
 
-  { "key": "夸克至臻弹幕", "name": "至臻｜4K弹幕", "type": 3,"api": "csp_Wobg", "jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E4%BA%91%E7%9B%98/danmu.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":{ "token": "http://127.0.0.1:9978/file/TVBox/token.txt", "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt", "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt", "site": "https://mihdr.top"} },
+  { "key": "夸克至臻弹幕", "name": "至臻4K｜UC云盘", "type": 3,"api": "csp_Wobg", "jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E4%BA%91%E7%9B%98/danmu.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":{ "token": "http://127.0.0.1:9978/file/TVBox/token.txt", "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt", "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt", "site": "https://mihdr.top"} },
 
 
 
