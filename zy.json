@@ -34,9 +34,7 @@
 {"key": "csp_KungFu404","name":"🐲阿里设置","type": 3, "api": "csp_KungFu404", "searchable":1,"filterable": 0, "changeable":0,"jar":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E4%BA%91%E7%9B%98%E6%90%9C%E7%B4%A2/alibaba.jar","ext":"http://127.0.0.1:9978/tvbox/tok.txt+4k|fhd|auto"},
 
 
-{ "key": "我的夸克", "name": "我的｜夸克", "类型": 3, "api":"csp_MyQuark", "searchable":0,"quickSearch":0,"filterable":0,"ext":{ "cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt" } },
 
- { "key": "我的UC", "name": "我的｜UC", "类型": 3, "api":"csp_MyUc","searchable":0,"quickSearch":0,"filterable":0,"ext":{"uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt" } },
 
 
 
