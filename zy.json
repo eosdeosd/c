@@ -3,7 +3,7 @@
   //注释定义全局jar爬虫文件,先下载一个爬虫文件，然后上传到https://gitee.com/你申请的个人空间里面，然后把地址填入进去如下
  //"spider": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/fty.jar",
   //打开https://www.lige.fit/ua  网址，去里面寻找解密的源，自己复制修改使用。  能够打开的源，就说明有效使用。
-"spider": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E4%BA%91%E7%9B%98/ttkx2.jar",
+"spider": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/ttkx2.jar",
 //https://gitee.com/huanzi989/self-use---tv-box/raw/master/ttkx.jar
   
   
@@ -66,7 +66,7 @@
 {"key":"原创","name":"⭐原创┃无广","type":3,"api":"csp_YCyz","searchable":1,"quickSearch":1,"playerType":1,"changeable":1},
 
 
-{"key":"Lib","name":"🌟┃Lib┃直连（秒播）","type":3,"api":"csp_Jpys","jar":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E4%BA%91%E7%9B%98/ttkx2.jar","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"Lib","name":"🌟┃Lib┃直连（秒播）","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 
 
     // {"key": "Lib","name": "🌟┃Lib┃直连（推荐）","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.libvio.fun/"},
