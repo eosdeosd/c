@@ -56,7 +56,7 @@
 {"key":"原创","name":"⭐原创┃无广（推荐）","type":3,"api":"csp_YCyz","searchable":1,"quickSearch":1,"playerType":1,"changeable":1},
 
 
-{"key":"文采","name":"🎦文采┃秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"Lib","name":"🌟┃Lib┃直连（推荐）","type":3,"api":"csp_Jpys","jar":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E4%BA%91%E7%9B%98/ttkx2.jar","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 
 
     // {"key": "Lib","name": "🌟┃Lib┃直连（推荐）","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.libvio.fun/"},
