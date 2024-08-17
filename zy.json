@@ -56,9 +56,10 @@
 {"key":"原创","name":"⭐原创┃无广（推荐）","type":3,"api":"csp_YCyz","searchable":1,"quickSearch":1,"playerType":1,"changeable":1},
 
 
+{"key":"文采","name":"🌟┃Lib┃直连（推荐）","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 
 
-     {"key": "Lib","name": "🌟┃Lib┃直连（推荐）","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.libvio.fun/"},
+    // {"key": "Lib","name": "🌟┃Lib┃直连（推荐）","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.libvio.fun/"},
 
 {"key":"剧圈圈","name":"👉剧圈圈","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E5%89%A7%E5%9C%88%E5%9C%88.json"},
 
@@ -66,11 +67,6 @@
 
 
 
-
-
-
-
-{ "key": "NT动漫", "name":"😎动漫" , "type": 3, "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/NT%E5%8A%A8%E7%94%BB/drpy2.min.js",                                          "searchable": 0, "quickSearch": 1,"filterable": 1,"changeable": 1, "ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/NT%E5%8A%A8%E7%94%BB/NT%E5%8A%A8%E6%BC%AB.js"},
 
 
 {   "key": "nangua", "name": "🎃┃南瓜影视┃有综艺", "type": 3, "playerType": "1","ua": "okhttp/3.15",  "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/drpy2.min.js",                  "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/%E5%8D%97%E7%93%9C.js" },
