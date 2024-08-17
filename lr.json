@@ -16,6 +16,8 @@
 
 {"key":"年轻人豆瓣","name":"年轻人使用海报墙😘 | 请设置为默认首页","type":3,"playerType":1,"api":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%B1%86%E7%93%A3/drpy2.min.js","ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%B1%86%E7%93%A3/%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%B1%86%E7%93%A3.js"},
 
+{ "key": "NT动漫", "name":"😎动漫" , "type": 3, "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/NT%E5%8A%A8%E7%94%BB/drpy2.min.js",                                          "searchable": 0, "quickSearch": 1,"filterable": 1,"changeable": 1, "ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/NT%E5%8A%A8%E7%94%BB/NT%E5%8A%A8%E6%BC%AB.js"},
+
 
      {"key": "Lib","name": "🌟┃Lib┃直连","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.libvio.fun/"},
 
