@@ -104,15 +104,14 @@
  { "key": "Zx4k", "name": "专线", "type": 3, "api": "csp_Zx4k", "timeout": 15, "playerType": 2,"jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/cc%EF%BC%88%E4%B8%93%E7%BA%BF%EF%BC%89.jar",  "searchable": 1, "quickSearch": 1,  "changeable": 1 },
 
 
- {  "key": "wolongzyw",  "name": "卧龙资源", "api": "https://collect.wolongzyw.com/api.php/provide/vod/", "playUrl": "",
-      "search": 1, "group": "切片", "status": true,  "type": 1,  "id": "3", "isActive": true,  "resource": 65402  },
+// {  "key": "wolongzyw",  "name": "卧龙资源", "api": "https://collect.wolongzyw.com/api.php/provide/vod/", "playUrl": "", "search": 1, "group": "切片", "status": true,  "type": 1,  "id": "3", "isActive": true,  "resource": 65402  },
 
 
 
    
 
    
-   //{"key": "Auete","name": "🏝┃Auete┃直连（有综艺）","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://auete.pro/" },
+  {"key": "Auete","name": "🏝┃Auete┃直连（有综艺）","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://auete.pro/" },
 
 //这里使用了绝对路径的JSON源地址，这个JSON源需要上传到你的空间，或者输入别人的绝对路径源地址 
 
