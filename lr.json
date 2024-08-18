@@ -6,7 +6,7 @@
    "warningText": "此源请搭配月光宝盒MAX3.10版软件使用，软件设置里面开启自动换源。资源来自网络，所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买。",
     "lives": [  {   "name": "live",  "type": 0,  "url": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E7%9B%B4%E6%92%AD/kx2024.txt", "epg": "http://epg.112114.eu.org/?ch={name}&date={date}" } ],
 
-//http://rihou.vip:55/lib/kx2024.txt
+
     "sites": [
      
 
@@ -32,7 +32,7 @@
 {"key":"苹果","name":"🍎苹果┃无广","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"ua": "okhttp/3.15","quickSearch":1,"changeable":1},
 
 
-{"key":"剧圈圈","name":"👉剧圈圈","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E5%89%A7%E5%9C%88%E5%9C%88.json"},
+//{"key":"剧圈圈","name":"👉剧圈圈","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E5%89%A7%E5%9C%88%E5%9C%88.json"},
 //"ua": "okhttp/3.15"
 
 
@@ -56,7 +56,7 @@
 
  //{  "key": "Dygang",  "name": "电影港[边下边播]","type": 3, "api": "csp_Dygang","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/fix240524.jar" },
 
- { "key": "Zx4k", "name": "专线", "type": 3, "api": "csp_Zx4k", "timeout": 15, "playerType": 2,"jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/cc%EF%BC%88%E4%B8%93%E7%BA%BF%EF%BC%89.jar",  "searchable": 1, "quickSearch": 1,  "changeable": 1 },
+ //{ "key": "Zx4k", "name": "专线", "type": 3, "api": "csp_Zx4k", "timeout": 15, "playerType": 2,"jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/cc%EF%BC%88%E4%B8%93%E7%BA%BF%EF%BC%89.jar",  "searchable": 1, "quickSearch": 1,  "changeable": 1 },
 
 
 
@@ -68,10 +68,10 @@
 
 
 
-  { "key": "苹果", "name": "🍎苹果┃不卡", "type": 3, "api": "csp_LiteApple","searchable": 1, "quickSearch": 1, "changeable": 1  },
+  //{ "key": "苹果", "name": "🍎苹果┃不卡", "type": 3, "api": "csp_LiteApple","searchable": 1, "quickSearch": 1, "changeable": 1  },
 
 
- { "key": "天天影视", "name": "天天🍦影视", "type": 3, "api": "csp_AppTT", "jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/nmys%E5%A4%A9%E5%A4%A9%E5%BD%B1%E8%A7%86.jar", "searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "http://op.ysdqjs.cn" },
+ //{ "key": "天天影视", "name": "天天🍦影视", "type": 3, "api": "csp_AppTT", "jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/nmys%E5%A4%A9%E5%A4%A9%E5%BD%B1%E8%A7%86.jar", "searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "http://op.ysdqjs.cn" },
 
 
 
@@ -100,10 +100,8 @@
      
       // { "key": "达达龟",  "name": "😋 | 达龟", "type": 3,  "api": "csp_XBPQ",   "playerType": "1", "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/dadagui.json"  },
 
-{ "key": "subaibai", "name": "🎬️素白白", "type": 3,"api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E7%8C%AB%E5%BD%B1%E8%A7%86%E5%8D%97%E7%93%9C/subaibai_open.js" },
+//{ "key": "subaibai", "name": "🎬️素白白", "type": 3,"api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E7%8C%AB%E5%BD%B1%E8%A7%86%E5%8D%97%E7%93%9C/subaibai_open.js" },
 
-
-{"key":"原创","name":"⭐原创┃无广","type":3,"api":"csp_YCyz","searchable":1,"quickSearch":1,"playerType":1,"changeable":1},
 
 
 
@@ -119,9 +117,6 @@
 
 
  { "key": "MTV",  "name": "🎧明星┃MV", "type": 3, "api": "csp_Bili", "style": { "type": "rect", "ratio": 1.597  }, "searchable": 0,                    "quickSearch": 0, "changeable": 0, "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/B%E7%AB%99/MTV.json" }, 
-
- { "key": "sharenice", "name": "🐾短视频📲",  "type": 3, "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E7%8C%AB%E5%BD%B1%E8%A7%86%E5%8D%97%E7%93%9C/%E7%9F%AD%E8%A7%86%E9%A2%91sharenice_open.js"   }, 
-
 
 
 
