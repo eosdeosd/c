@@ -21,8 +21,7 @@
 
 {"key":"Lib","name":"🌟┃Lib┃直连（秒播无广告）","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 
-{"key": "采集之王[合]","name": "采集┃大全[合]","type": 3,"api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E9%87%87%E9%9B%86/drpy2.min.js","searchable": 1,"quickSearch": 1,
-"filterable": 1,"order_num": 210,"ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E9%87%87%E9%9B%86/%E9%87%87%E9%9B%86%E4%B9%8B%E7%8E%8B.js?type=url&params=https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E9%87%87%E9%9B%86/%E9%87%87%E9%9B%86%E9%9D%99%E6%80%81.json"},
+
 
 
 
@@ -32,7 +31,7 @@
 {"key":"苹果","name":"🍎苹果┃无广","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"ua": "okhttp/3.15","quickSearch":1,"changeable":1},
 
 
-//{"key":"剧圈圈","name":"👉剧圈圈","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E5%89%A7%E5%9C%88%E5%9C%88.json"},
+{"key":"剧圈圈","name":"👉剧圈圈","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E5%89%A7%E5%9C%88%E5%9C%88.json"},
 //"ua": "okhttp/3.15"
 
 
@@ -56,7 +55,7 @@
 
  //{  "key": "Dygang",  "name": "电影港[边下边播]","type": 3, "api": "csp_Dygang","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/fix240524.jar" },
 
- //{ "key": "Zx4k", "name": "专线", "type": 3, "api": "csp_Zx4k", "timeout": 15, "playerType": 2,"jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/cc%EF%BC%88%E4%B8%93%E7%BA%BF%EF%BC%89.jar",  "searchable": 1, "quickSearch": 1,  "changeable": 1 },
+ { "key": "Zx4k", "name": "专线", "type": 3, "api": "csp_Zx4k", "timeout": 15, "playerType": 2,"jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/cc%EF%BC%88%E4%B8%93%E7%BA%BF%EF%BC%89.jar",  "searchable": 1, "quickSearch": 1,  "changeable": 1 },
 
 
 
@@ -68,10 +67,10 @@
 
 
 
-  //{ "key": "苹果", "name": "🍎苹果┃不卡", "type": 3, "api": "csp_LiteApple","searchable": 1, "quickSearch": 1, "changeable": 1  },
+  { "key": "苹果", "name": "🍎苹果┃不卡", "type": 3, "api": "csp_LiteApple","searchable": 1, "quickSearch": 1, "changeable": 1  },
 
 
- //{ "key": "天天影视", "name": "天天🍦影视", "type": 3, "api": "csp_AppTT", "jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/nmys%E5%A4%A9%E5%A4%A9%E5%BD%B1%E8%A7%86.jar", "searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "http://op.ysdqjs.cn" },
+ { "key": "天天影视", "name": "天天🍦影视", "type": 3, "api": "csp_AppTT", "jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/nmys%E5%A4%A9%E5%A4%A9%E5%BD%B1%E8%A7%86.jar", "searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "http://op.ysdqjs.cn" },
 
 
 
