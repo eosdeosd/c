@@ -18,13 +18,7 @@
 
 
 
-//{"key":"星空影视2","name":"⭐星空福利","type":3,"api":"csp_XBPQ","ext":{"首页":"网红短剧","简介":"：+col-pd\">&&","线路数组":"#playlist&&","播放数组":"stui-content__playlist clearfix&&","跳转播放链接":"varurlDecode(var player_*url\":\"&&\")","搜索url":"https://www.nbhuiding.com/search/{wd}----------{pg}---.html","分类url":"https://www.nbhuiding.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html[https://www.nbhuiding.com/list/{cateId}.html]","分类":"剧集$2#网红短剧$34#国产剧$13#国产剧$13#香港剧$14#韩国剧$15#欧美剧$16#台湾剧$20#日本剧$21#其他剧$22#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$24#纪录片$23#综艺$3#大陆综艺$25#日韩综艺$26#港台综艺$27#欧美综艺$28#动漫$4#国产动漫$29#日韩动漫$30#欧美动漫$31#其他动漫$32#午夜剧场$33"}},   //副标题":"",
 
-
-
-
-
-//{ "key": "白嫖者", "name": "👶白嫖者联盟（推荐）", "type": 3, "api": "csp_XBPQ", "ext": {"分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"电影$1#电视剧$2#动漫$4#综艺$3","副标题":"class=\"pic-text text-right\"&&</span>","简介":"⚠️特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p >"}},
 
 
 {"key":"年轻人豆瓣","name":"海报墙😘 | 请设置为默认首页","type":3,"playerType":1,"api":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%B1%86%E7%93%A3/drpy2.min.js","ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%B1%86%E7%93%A3/%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%B1%86%E7%93%A3.js"},
@@ -33,24 +27,7 @@
 
 
 
-
-
-
-
-
-
-
-
 {"key": "csp_KungFu404","name":"🐲阿里设置","type": 3, "api": "csp_KungFu404", "searchable":1,"filterable": 0, "changeable":0,"jar":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E4%BA%91%E7%9B%98%E6%90%9C%E7%B4%A2/alibaba.jar","ext":"http://127.0.0.1:9978/tvbox/tok.txt+4k|fhd|auto"},
-
-
-
-
-
-
-{  "key": "夸克蜡笔弹幕",  "name": "蜡笔4K｜UC云盘",  "type": 3, "api":"csp_Wobg", "jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E4%BA%91%E7%9B%98/danmu.jar", "searchable": 1, "quickSearch": 1, "changeable": 1,"filterable": 1, "ext":  {"token":"http://127.0.0.1:9978/file/TVBox/token.txt", "cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt", "site":"https://duopan.fun"} },
-
-  { "key": "夸克至臻弹幕", "name": "至臻4K｜UC云盘", "type": 3,"api": "csp_Wobg", "jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E4%BA%91%E7%9B%98/danmu.jar","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"ext":{ "token": "http://127.0.0.1:9978/file/TVBox/token.txt", "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt", "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt", "site": "https://mihdr.top"} },
 
 
 
@@ -63,7 +40,7 @@
 
 
 
-{"key":"Lib","name":"🌟┃Lib┃直连（秒播）","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"Lib","name":"🌟┃Lib┃直连（秒播无广告）","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 
 {"key": "采集之王[合]","name": "采集┃大全[合]","type": 3,"api": "./采集/drpy2.min.js","searchable": 1,"quickSearch": 1,
 "filterable": 1,"order_num": 210,"ext": "./采集/采集之王.js?type=url&params=./lib/采集静态.json"},
@@ -106,20 +83,16 @@
 //"token": "file://TV/ali_token.txt", "cookie": "file://TV/quark_cookie.txt"},//https://pan.shangui.cc/跑路网盘 真跑路了
   //{"key": "Xinsj","name": "👓┃视觉┃直连（备用）","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.80yy3.com"},
 
-{ "key": "subaibai", "name": "🎬️素白白", "type": 3,"api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E7%8C%AB%E5%BD%B1%E8%A7%86%E5%8D%97%E7%93%9C/subaibai_open.js" },
-
-
- { "key": "Zx4k", "name": "专线", "type": 3, "api": "csp_Zx4k", "timeout": 15, "playerType": 2,"jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/cc%EF%BC%88%E4%B8%93%E7%BA%BF%EF%BC%89.jar",  "searchable": 1, "quickSearch": 1,  "changeable": 1 },
-
-
-// {  "key": "wolongzyw",  "name": "卧龙资源", "api": "https://collect.wolongzyw.com/api.php/provide/vod/", "playUrl": "", "search": 1, "group": "切片", "status": true,  "type": 1,  "id": "3", "isActive": true,  "resource": 65402  },
 
 
 
-   
+//{ "key": "subaibai", "name": "🎬️素白白", "type": 3,"api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E7%8C%AB%E5%BD%B1%E8%A7%86%E5%8D%97%E7%93%9C/subaibai_open.js" },
 
-   
-  {"key": "Auete","name": "🏝┃Auete┃直连（有综艺）","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://auete.pro/" },
+
+ //{ "key": "Zx4k", "name": "专线", "type": 3, "api": "csp_Zx4k", "timeout": 15, "playerType": 2,"jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/cc%EF%BC%88%E4%B8%93%E7%BA%BF%EF%BC%89.jar",  "searchable": 1, "quickSearch": 1,  "changeable": 1 },
+
+
+
 
 //这里使用了绝对路径的JSON源地址，这个JSON源需要上传到你的空间，或者输入别人的绝对路径源地址 
 
@@ -203,6 +176,15 @@
 
 // { "key": "影搜","name": "🌸影搜┃搜索", "type": 3, "api": "csp_Yingso","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E4%BA%91%E7%9B%98%E6%90%9C%E7%B4%A2/xyg.php", "searchable": 1, "filterable": 0,"changeable": 0, "ext": { "token": "file://TV/ali_token.txt", "cookie": "file://TV/quark_cookie.txt"  }, "timeout": 15 },   
    
+
+{  "key": "夸克蜡笔弹幕",  "name": "蜡笔4K｜UC云盘",  "type": 3, "api":"csp_Wobg", "jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E4%BA%91%E7%9B%98/danmu.jar", "searchable": 1, "quickSearch": 1, "changeable": 1,"filterable": 1, "ext":  {"token":"http://127.0.0.1:9978/file/TVBox/token.txt", "cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt", "site":"https://duopan.fun"} },
+
+  { "key": "夸克至臻弹幕", "name": "至臻4K｜UC云盘", "type": 3,"api": "csp_Wobg", "jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E4%BA%91%E7%9B%98/danmu.jar","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"ext":{ "token": "http://127.0.0.1:9978/file/TVBox/token.txt", "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt", "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt", "site": "https://mihdr.top"} },
+
+
+
+
+
 
 
 
