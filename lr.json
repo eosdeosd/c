@@ -19,6 +19,9 @@
 //{ "key": "NT动漫", "name":"😎动漫" , "type": 3, "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/NT%E5%8A%A8%E7%94%BB/drpy2.min.js",                                          "searchable": 0, "quickSearch": 1,"filterable": 1,"changeable": 1, "ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/NT%E5%8A%A8%E7%94%BB/NT%E5%8A%A8%E6%BC%AB.js"},
 
 
+{"key":"Lib","name":"🌟┃Lib┃直连（秒播无广告）","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.libvio.fun/"},
+
+
 { "key": "Free","name": "Free（适合老人源）", "type": 3, "api": "csp_XBPQ", "searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/Free.json" },
 
 
