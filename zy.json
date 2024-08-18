@@ -65,7 +65,7 @@
 
 {"key":"Lib","name":"🌟┃Lib┃直连（秒播）","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 
-{"key": "hipy_js_采集之王[合]","name": "🇹┃天微采集┃大全","type": 3,"api": "./lib/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,
+{"key": "采集之王[合]","name": "采集┃大全[合]","type": 3,"api": "./lib/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,
 "filterable": 1,"order_num": 210,"ext": "./lib/采集之王.js?type=url&params=./lib/采集静态.json"},
 
 
