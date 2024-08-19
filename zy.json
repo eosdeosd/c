@@ -38,7 +38,7 @@
 
 //{"key": "玩偶哥哥","name":"😊玩偶|哥哥4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E4%BA%91%E7%9B%98%E6%90%9C%E7%B4%A2/%E7%8E%A9%E5%81%B6%E5%93%A5%E5%93%A5.json"},
 
-{"key":"Lib","name":"🌟┃Lib┃直连（秒播无广告）","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.libvio.fun/"},
+{"key":"Lib","name":"🌟┃Lib┃直连（秒播无广告）","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.libvio.fun/","Cloud-drive": "tvfan/Cloud-drive.txt", "from": "4k|auto" },
 
 
  //{ "key": "Free","name": "Free（适合老人源）", "type": 3, "api": "csp_XBPQ", "searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/Free.json" },
