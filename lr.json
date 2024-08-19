@@ -44,7 +44,7 @@
 //{"key":"348影视","name":"👉348┃秒播","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/348.json"},
 
 
-{"key":"搜狗","name":"👉搜狗(官)","type":3,"ua": "okhttp/3.15", "playerType": 1,"api":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E6%90%9C%E7%8B%97/drpy2.min.js","ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E6%90%9C%E7%8B%97/%E6%90%9C%E7%8B%97.js"},
+//{"key":"搜狗","name":"👉搜狗(官)","type":3,"ua": "okhttp/3.15", "playerType": 1,"api":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E6%90%9C%E7%8B%97/drpy2.min.js","ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E6%90%9C%E7%8B%97/%E6%90%9C%E7%8B%97.js"},
 
 
  //{  "key": "Dygang",  "name": "电影港[边下边播]","type": 3, "api": "csp_Dygang","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/fix240524.jar" },
