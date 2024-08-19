@@ -134,8 +134,6 @@
      
 
 
- { "key": "非凡资源", "name": "非凡｜资源", "type": 1, "api": "http://cj.ffzyapi.com/api.php/provide/vod/",  "searchable": 1, "changeable": 1,
-  "categories": [ "当搜索源"] },
 
 
 
