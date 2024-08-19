@@ -129,7 +129,7 @@
 
 
  { "key": "wolongzyw", "name": "卧龙资源", "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
-      "playUrl": "", "search": 1,  "type": 1, "id": "3",  "isActive": true, "resource": 65402 },
+      "playUrl": "https://jx.wolongm3u8.com:65/m3u8.php?url=", "search": 1,  "type": 1, "id": "3" },
 
 
 
