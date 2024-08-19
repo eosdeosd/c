@@ -126,6 +126,16 @@
 {"key": "硬件","name": "🅰️240元骁龙870电视盒子-支持杜比视界","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/B%E7%AB%99/%E9%85%92%E4%BA%95%E6%B3%95%E5%AD%90.json"},
 
      
+
+
+ { "key": "wolongzyw", "name": "卧龙资源", "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
+      "playUrl": "", "search": 1,  "type": 1, "id": "3",  "isActive": true, "resource": 65402 },
+
+
+
+
+
+
      
       {   "key": "nangua", "name": "🎃┃南瓜影视┃当搜索库", "type": 3, "playerType": "1", "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/drpy2.min.js",
       "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/%E5%8D%97%E7%93%9C.js" }
