@@ -128,7 +128,7 @@
      
      
       {   "key": "nangua", "name": "🎃┃南瓜影视┃当搜索库", "type": 3, "playerType": "1", "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/drpy2.min.js",
-      "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/%E5%8D%97%E7%93%9C.js" }
+      "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/%E5%8D%97%E7%93%9C.js" },
 
 
 
@@ -137,7 +137,7 @@
    
    //{  "key": "wolongzyw",  "name": "卧龙资源", "api": "https://collect.wolongzyw.com/api.php/provide/vod/", "playUrl": "", "search": 1, "group": "切片", "status": true,  "type": 1,  "id": "3", "isActive": true,  "resource": 65402  }
 
-
+{ "name": "卧龙资源", "url": "https://collect.wolongzy.cc", "cate_exclude": "^电影片$|^连续剧$|^综艺片$|^动漫片$","class_name": "H4sIAAAAAAAAAFWR0VLCQAxF/6bfqXQsbB9omYEq2JEHKqtQ2iIC0nbxZ5pk+Qt303VG307uZnJvsjQ9gtqTGHr6+4WaHQjpUdNqUVsNwjdst446lTIlqWmyRKM9+g9McgKXxhLex3iXcJ+Q7hVHT10tWHtWXS2tx209x6+SafluZEuYS7qOLUFU4eXK2uMrpjnT8QxZYkkXFagZ+y53LhxNmz8GHPt3niv6Qa4w1lHV7+kCuAIyeZsHrsBD9S+ak4lvpuVKl58e+iEOFuxdnKDu80SZXvHqMA4g+uAjDHJKJhw6LEltmMqCYt/r2jXFAf/B6WAFs5Yx/QEG4wmPmwEAAA==", "class_url": "1&2&3&4&5&6&7&8&9&10&11&12&13&14&15&16&17&18&22&23&24&25&26&27&30&31&32&33&37&38&39&42&43&44&45&46&48&49&51&54"}
 
 
   
