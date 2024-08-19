@@ -28,9 +28,10 @@
 { "key": "Free","name": "Free（适合老人源）", "type": 3, "api": "csp_XBPQ", "searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/Free.json" },
 
 
- { "key": "freeok","name": "┃freeok线┃秒播", "type": 3,"click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();", "api": "csp_XBPQ" },
 
-// { "key": "freeok","name": "┃freeok线┃秒播", "type": 3, "jar": "./lib/xm.jar","click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();", "api": "csp_FreeOK" },
+{ "key": "freeok","name": "┃freeok线┃秒播", "type": 3, "jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%85%84%E5%BC%9F%E5%BD%B1%E8%A7%86/freeok.jar","click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();", "api": "csp_FreeOK" },
+
+
 
 
 
