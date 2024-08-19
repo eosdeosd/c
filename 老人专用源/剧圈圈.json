@@ -50,7 +50,7 @@
     "分类url":"https://www.jqqzx.cc/vodshow/{area}/by/{by}/id/{cateId}/lang/{lang}/page/{catePg}.html[https://www.jqqzx.cc/vodshow/id/{cateId}.html]",
     
     "分类":"电影$1#电视剧$2#动漫$3#综艺$4#纪录片$5",
-    
+    "分类值": "1&juji&dongman&zongyi&jilupian",
     "筛选":{
     "1":[
     {"key":"class","name":"剧情","value":[
