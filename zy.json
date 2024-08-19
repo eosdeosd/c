@@ -51,34 +51,10 @@
 
 
 
-   {"key": "LibBBB","name": "🌟┃Lib┃直连（推荐）","type": 3,"api": "csp_Libvio", "jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/fty.jar","searchable": 1,"quickSearch": 1,"changeable": 1,    
-   "categories": [
-        "动作片",
-        "喜剧片",
-        "科幻片",
-        "恐怖片",
-        "爱情片",
-        "剧情片",
-        "战争片",
-        "记录片",
-        "国产剧",
-        "欧美剧",
-        "香港剧",
-        "韩国剧",
-        "台湾剧",
-        "日本剧",
-        "海外剧",
-        "泰国剧",
-        "国产动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺"
-      ],"ext": "https://www.libvio.fun/" },
+   //{"key": "Lib","name": "🌟┃Lib┃直连（推荐）","type": 3,"api": "csp_Libvio", "searchable": 1,"quickSearch": 1,"changeable": 1, "ext": "https://www.libvio.fun/" },
+
+
+
 
 //{"key":"剧圈圈","name":"👉剧圈圈","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E5%89%A7%E5%9C%88%E5%9C%88.json"},
 
