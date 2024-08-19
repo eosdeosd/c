@@ -128,14 +128,14 @@
      
      
       {   "key": "nangua", "name": "🎃┃南瓜影视┃当搜索库", "type": 3, "playerType": "1", "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/drpy2.min.js",
-      "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/%E5%8D%97%E7%93%9C.js" },
+      "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/%E5%8D%97%E7%93%9C.js" }
 
 
 
 //{"key":"csp_Ikanbot","name": "Ikanbot","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://v.aikanbot.com"}
 
    
-   {  "key": "wolongzyw",  "name": "卧龙资源", "api": "https://collect.wolongzyw.com/api.php/provide/vod/", "playUrl": "", "search": 1, "group": "切片", "status": true,  "type": 1,  "id": "3", "isActive": true,  "resource": 65402  }
+   //{  "key": "wolongzyw",  "name": "卧龙资源", "api": "https://collect.wolongzyw.com/api.php/provide/vod/", "playUrl": "", "search": 1, "group": "切片", "status": true,  "type": 1,  "id": "3", "isActive": true,  "resource": 65402  }
 
 
 
