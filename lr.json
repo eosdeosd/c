@@ -23,10 +23,6 @@
 
 
 
-
-
- { "key": "vod_木耳资源", "name": "木耳资源", "type": 1,  "api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list",
-      "searchable":1,"quickSearch":1,"changeable":1 },
       
 
     { "key": "vod_海外资源",  "name": "海外资源", "type": 1,  "api": "https://hw8.live/api.php/provide/vod/",
