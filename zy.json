@@ -42,7 +42,17 @@
 
 
 
-{ "key": "兄弟影视","name": "🌟┃兄弟影视┃备选（无广告）","type": 3, "api": "csp_Xdys", "searchable": 1, "quickSearch": 1, "filterable": 1,"jar":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%85%84%E5%BC%9F%E5%BD%B1%E8%A7%86/fm.jar"},
+{ "key": "兄弟影视","name": "┃兄弟影视┃（无广告）","type": 3, "api": "csp_Xdys", "searchable": 1, "quickSearch": 1, "filterable": 1,"jar":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%85%84%E5%BC%9F%E5%BD%B1%E8%A7%86/fm.jar"},
+
+
+
+
+	{"key": "1080P采集","name": "1080P采集","type": 3,"api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/lr%E9%87%87%E9%9B%86/drpy2.min.js",
+	"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/lr%E9%87%87%E9%9B%86/%E9%BB%91%E6%9C%A8%E8%80%B3%E8%B5%84%E6%BA%90%5B%E8%B5%84%5D.js"},
+
+
+
+
 
 
 
@@ -52,8 +62,8 @@
 
   
 
-{"key": "采集之王[合]","name": "采集┃大全[合]","type": 3,"api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E9%87%87%E9%9B%86/drpy2.min.js","searchable": 1,"quickSearch": 1,
-"filterable": 1,"order_num": 210,"ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E9%87%87%E9%9B%86/%E9%87%87%E9%9B%86%E8%B5%84%E6%BA%90.js?type=url&params=https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E9%87%87%E9%9B%86/%E9%87%87%E9%9B%86%E8%B5%84%E6%BA%90%E9%9D%99%E6%80%81.json"},
+   //{"key": "采集之王[合]","name": "采集┃大全[合]","type": 3,"api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E9%87%87%E9%9B%86/drpy2.min.js","searchable": 1,"quickSearch": 1,
+    //"filterable": 1,"order_num": 210,"ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E9%87%87%E9%9B%86/%E9%87%87%E9%9B%86%E8%B5%84%E6%BA%90.js?type=url&params=https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E9%87%87%E9%9B%86/%E9%87%87%E9%9B%86%E8%B5%84%E6%BA%90%E9%9D%99%E6%80%81.json"},
 
  
 
