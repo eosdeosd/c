@@ -28,7 +28,8 @@
 
 
 
-    { "key": "drjs_雷蒙资源","name": "雷蒙影视 | 😎雷蒙资源", "type": 3, "api": "https://gh.con.sh/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+    { "key": "drjs_雷蒙资源","name": "雷蒙影视 | 😎雷蒙资源", "type": 3, "api": "https://gh.con.sh/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js","searchable": 1,"quickSearch": 1,
+"filterable": 1,"order_num": 210,
       "ext": "https://gh.con.sh/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/%E9%9B%B7%E8%92%99%E8%B5%84%E6%BA%90.js?type=url&params=http://tv.850930.xyz/%E9%9B%B7%E8%92%99%E8%B5%84%E6%BA%90%E9%9D%99%E6%80%81.json$1" },
 
 
