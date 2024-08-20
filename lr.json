@@ -85,15 +85,15 @@
 
 
 
-   {"key":"荐片","name":"👉荐片┃秒播","type":3,"ua": "okhttp/3.15","api":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E6%90%9C%E7%8B%97/drpy2.min.js","ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E8%8D%90%E7%89%87.js"},
+    //{"key":"荐片","name":"👉荐片┃秒播","type":3,"ua": "okhttp/3.15","api":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E6%90%9C%E7%8B%97/drpy2.min.js","ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E8%8D%90%E7%89%87.js"},
 
 
-  {"key":"冷曦影视","name":"冷曦｜影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E5%86%B7%E6%9B%A6%E5%BD%B1%E8%A7%86.json"},
+      //{"key":"冷曦影视","name":"冷曦｜影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E5%86%B7%E6%9B%A6%E5%BD%B1%E8%A7%86.json"},
 
 
 
 
-   { "key": "苹果", "name": "🍎苹果┃不卡", "type": 3, "api": "csp_LiteApple","searchable": 1, "quickSearch": 1, "changeable": 1 },
+        //{ "key": "苹果", "name": "🍎苹果┃不卡", "type": 3, "api": "csp_LiteApple","searchable": 1, "quickSearch": 1, "changeable": 1 },
 
 
    //{ "key": "天天影视", "name": "天天🍦影视", "type": 3, "api": "csp_AppTT", "jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/nmys%E5%A4%A9%E5%A4%A9%E5%BD%B1%E8%A7%86.jar", "searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "http://op.ysdqjs.cn" },
@@ -105,27 +105,27 @@
 
  
 
- //{"key": "热播", "name": "📺热播┃多线", "type": 3, "api": "csp_AppTT", "timeout": 15, "playerType": 1, "searchable": 1, "quickSearch": 1,"changeable": 1,"ext": "AO7TcBkd8I/B5wQc4Qma+pU=" },//AO7TcBkd8I/B5wQc4Qma+pU=
+       {"key": "热播", "name": "📺热播┃多线", "type": 3, "api": "csp_AppTT", "timeout": 15, "playerType": 1, "searchable": 1, "quickSearch": 1,"changeable": 1,"ext": "AO7TcBkd8I/B5wQc4Qma+pU=" },//AO7TcBkd8I/B5wQc4Qma+pU=
 
 
 
 
-//{"key":"drpy_js_优酷","name":"优酷","type":3,"api":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E4%BC%98%E9%85%B7/drpy2.min.js","ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E4%BC%98%E9%85%B7/%E4%BC%98%E9%85%B7.js"},
+     {"key":"drpy_js_优酷","name":"优酷","type":3,"api":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E4%BC%98%E9%85%B7/drpy2.min.js","ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E4%BC%98%E9%85%B7/%E4%BC%98%E9%85%B7.js"},
 
 
 
 
-//{"key":"drpy_js_爱奇艺","name":"爱奇艺","type":3, "api":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E7%88%B1%E5%A5%87%E8%89%BA/drpy2.min.js","ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E7%88%B1%E5%A5%87%E8%89%BA/%E7%88%B1%E5%A5%87%E8%89%BA.js"},
+     {"key":"drpy_js_爱奇艺","name":"爱奇艺","type":3, "api":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E7%88%B1%E5%A5%87%E8%89%BA/drpy2.min.js","ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E7%88%B1%E5%A5%87%E8%89%BA/%E7%88%B1%E5%A5%87%E8%89%BA.js"},
 
 
 
 
-       // {  "key": "csp_xBPQ_九八", "name": "九八", "type": 3, "api": "csp_XBPQ", "playerType": "1",  "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/98.json"  },      
+           {  "key": "csp_xBPQ_九八", "name": "九八", "type": 3, "api": "csp_XBPQ", "playerType": "1",  "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/98.json"  },      
      
      
-      // { "key": "达达龟",  "name": "😋 | 达龟", "type": 3,  "api": "csp_XBPQ",   "playerType": "1", "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/dadagui.json"  },
+          { "key": "达达龟",  "name": "😋 | 达龟", "type": 3,  "api": "csp_XBPQ",   "playerType": "1", "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/dadagui.json"  },
 
-//{ "key": "subaibai", "name": "🎬️素白白", "type": 3,"api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E7%8C%AB%E5%BD%B1%E8%A7%86%E5%8D%97%E7%93%9C/subaibai_open.js" },
+    { "key": "subaibai", "name": "🎬️素白白", "type": 3,"api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E7%8C%AB%E5%BD%B1%E8%A7%86%E5%8D%97%E7%93%9C/subaibai_open.js" },
 
 
 
