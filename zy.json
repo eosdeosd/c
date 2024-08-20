@@ -62,8 +62,8 @@
 
   
 
-   //{"key": "采集之王[合]","name": "采集┃大全[合]","type": 3,"api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E9%87%87%E9%9B%86/drpy2.min.js","searchable": 1,"quickSearch": 1,
-    //"filterable": 1,"order_num": 210,"ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E9%87%87%E9%9B%86/%E9%87%87%E9%9B%86%E8%B5%84%E6%BA%90.js?type=url&params=https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E9%87%87%E9%9B%86/%E9%87%87%E9%9B%86%E8%B5%84%E6%BA%90%E9%9D%99%E6%80%81.json"},
+   {"key": "采集之王[合]","name": "采集┃大全[合]","type": 3,"api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E9%87%87%E9%9B%86/drpy2.min.js","searchable": 1,"quickSearch": 1,
+    "filterable": 1,"order_num": 210,"ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E9%87%87%E9%9B%86/%E9%87%87%E9%9B%86%E8%B5%84%E6%BA%90.js?type=url&params=https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E9%87%87%E9%9B%86/%E9%87%87%E9%9B%86%E8%B5%84%E6%BA%90%E9%9D%99%E6%80%81.json"},
 
  
 
