@@ -245,7 +245,7 @@ var rule = {
                 vod_remarks: `版本:${rule.version}`,
                 vod_play_from: '采集静态',
                 // vod_play_url: '嗅探播放$https://resource-cdn.tuxiaobei.com/video/10/8f/108fc9d1ac3f69d29a738cdc097c9018.mp4',
-                vod_play_url: '雷蒙影视主题曲$https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CTVThemeSong2.mp4',
+                vod_play_url: '采集静态主题曲$https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CTVThemeSong2.mp4',
             };
         } else {
             if (rule.classes) {
