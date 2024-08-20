@@ -22,7 +22,7 @@
 {"key":"Lib","name":"🌟┃Lib┃直连（推荐）","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.libvio.fun/"},
 
 
-{ "key": "兄弟影视","name": "兄弟影视（1080P）","type": 3, "api": "csp_Xdys", "searchable": 1, "quickSearch": 1, "filterable": 1,"jar":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%85%84%E5%BC%9F%E5%BD%B1%E8%A7%86/fm5.jar"},
+{ "key": "兄弟影视","name": "兄弟影视（1080P）","type": 3, "api": "csp_Xdys", "searchable": 1, "quickSearch": 1, "filterable": 1,"jar":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%85%84%E5%BC%9F%E5%BD%B1%E8%A7%86/fm.jar"},
 
 
 { "key": "Free","name": "Free（低码率）", "type": 3, "api": "csp_XBPQ", "searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/Free.json" },
