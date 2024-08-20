@@ -243,7 +243,7 @@ var rule = {
                 type_name: '雷蒙资源',
                 vod_pic: 'https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/POSTER1.png',
                 vod_remarks: `版本:${rule.version}`,
-                vod_play_from: '雷蒙影视',
+                vod_play_from: '采集之王',
                 // vod_play_url: '嗅探播放$https://resource-cdn.tuxiaobei.com/video/10/8f/108fc9d1ac3f69d29a738cdc097c9018.mp4',
                 vod_play_url: '雷蒙影视主题曲$https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CTVThemeSong2.mp4',
             };
@@ -259,7 +259,7 @@ var rule = {
                 let data = json.list;
                 VOD = data[0];
                 if (current_vod && current_vod.type_name) {
-                    VOD.vod_play_from = VOD.vod_play_from.split('$$$').map(it => '雷蒙影视 | ' + it).join('$$$')
+                    VOD.vod_play_from = VOD.vod_play_from.split('$$$').map(it => '采集之王 | ' + it).join('$$$')
                 }
             }
         }
