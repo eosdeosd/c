@@ -36,49 +36,8 @@
 {"key":"Lib","name":"🌟┃Lib┃直连（推荐）","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.libvio.fun/"},
 
 
-
-
-{"name": "黑木耳资源", "url": "https://www.heimuer.tv", "parse_url": "", "cate_exclude": "^电影$|^电视剧$|^综艺$|^动漫$",
- "class_name": "H4sIAIZsnmYC/0WS63KCQAyF34bnRB2u1YIdBqtS7bQyFIu36ehYVuzLsBfeomw2aX/t+bLZJCcgkzNvTpZMzqpweVBYPPwQt09LspsKaquPiJEjA0/H2yYD5T518xJUPBZ2ASrN+lRQuce/mVZiEAs7hdiyaetCVxfXgz66dQk0y+EYVjKdwpNRKIYLreTg3i3uoPwTjiDDg2y2oIopNunHkgmT6GK9g3pfR3ASwSGqQt4fQaXHrqzgyrm0LIXYbqz8FfT2n9s6gOos4s4VVDOVLMPq/SO+H/37wRVpS9ERQRtbNnQzy0VWEcAYBDBJPyetGeYhiDbq3UEvah6LwQNCZ7vqbUcuzdYMyHylTltK8yYyWSPwzaRlHqWVP+oSEiQZ379S2q1W9l/TeMz3L3RjbGNTs0zzjxh/CMY5An5wTIMFEZBzyoTqBLHfLV3T6hdIXkh0mQIAAA==",
-    "class_url": "1&2&3&4&6&7&8&9&10&11&12&13&14&15&16&20&21&22&23&24&25&26&27&28&29&30&31&32&33&34&35&36&37&38&39&40&41&42&43&44&45&46&47&48&49&50&51&52&53&54&55&56&57&58&59&60&61&62&63&64",
-    "cate_excludes": ["电影", "电视剧", "动漫",  "综艺",  "短剧", "其它片",  "新马泰综艺","悬疑短剧",  "神豪短剧", "复仇短剧", "强者短剧", "萌宝短剧",
-      "韩国动漫", "新马泰动漫", "其它动漫" ] },
-
-  { "name": "海外资源", "url": "https://hw8.live", "parse_url": "","cate_exclude": "",
-    "class_name": "H4sIAIZsnmYC/02PYXKCMBCFb5NzKgwK1CnQ0rS1TP2lEYtF6+hYIJwmycItmizJTH+9722Wtw/Ir5KfiVw8je8lREsiI6b8ACneC15YgrwFu5qu1IzhmBZ6G2m7lL+tITVP1YwieRXQDMmPlbdGOq6G8NMQzPtx3SOFZ3sQWGZTIK6BH5DaRAZ3JJ5BW9gSKnwTTWTGottBusCF/DqwhW5EVMWgf0R63RoZN6URmZxweEGRH1w0DAf3GoWexrLCp+AmWooU71X3pWt0Q9QQwZ8H74dAc5D8BW/W35D6ZLhdjJiKWhSth7qRwYMrMmXoLqbHZOxx+4KHTS3rdZ/EGdvl/2e2zRToDJ5yxgU6j4HWTIHWwOaof/MPw42TdwYCAAA=",
-    "class_url": "20&22&24&26&28&30&32&34&36&38&40&42&44&46&48&50&52&54&56&58&60&62&64&66&68&70&72&74&76&78&80&82&84&86&88&90&92&94&96&98&100&102&104&106&108&110&112&114&116&118&120",
-    "cate_excludes": [ "电影",  "电视剧",  "动漫", "综艺", "篮球",  "足球",  "网球", "斯诺克", "新马泰动漫", "新马泰综艺", "其他综艺" ] },
-
-  { "name": "华为资源", "url": "http://nikanba.live", "parse_url": "", "cate_exclude": "",
-    "class_name": "H4sIAIZsnmYC/02PYXKCMBCFb5NzKgwK1CnQ0rS1TP2lEYtF6+hYIJwmycItmizJTH+9722Wtw/Ir5KfiVw8je8lREsiI6b8ACneC15YgrwFu5qu1IzhmBZ6G2m7lL+tITVP1YwieRXQDMmPlbdGOq6G8NMQzPtx3SOFZ3sQWGZTIK6BH5DaRAZ3JJ5BW9gSKnwTTWTGottBusCF/DqwhW5EVMWgf0R63RoZN6URmZxweEGRH1w0DAf3GoWexrLCp+AmWooU71X3pWt0Q9QQwZ8H74dAc5D8BW/W35D6ZLhdjJiKWhSth7qRwYMrMmXoLqbHZOxx+4KHTS3rdZ/EGdvl/2e2zRToDJ5yxgU6j4HWTIHWwOaof/MPw42TdwYCAAA=",
-    "class_url": "20&22&24&26&28&30&32&34&36&38&40&42&44&46&48&50&52&54&56&58&60&62&64&66&68&70&72&74&76&78&80&82&84&86&88&90&92&94&96&98&100&102&104&106&108&110&112&114&116&118&120",
-    "cate_excludes": [ "电影", "电视剧", "动漫", "综艺", "篮球", "足球",  "网球",  "斯诺克", "新马泰动漫",  "新马泰综艺", "其他综艺"  ] },
-
-
-  { "name": "优质资源", "url": "https://api.1080zyku.com","parse_url": "", "cate_exclude": "","api": "/inc/api_mac10.php", "class_name": "H4sIAIZsnmYC/0VQW26DMBC8jc+ZPkIxHwXUhDQqSqQqwUShDTSKWiBOL8N6zS1qr7H65XlYO7OLiwvIhunfDfYfwAXD/qp5xyAq1fVon0HmyJ8YZLmxLcKwUQ9zQiKFtrdI3SVqltE/LiZXha9Dx0l7k0Mn7HSIa9XeLBq3ByNbpCqBt2fSirX6OZF2rr272qu8omZFDOGB6c8a5JLGRiUuXPzlG3YZBcyOmATk7sS4DqZ17Ni49mS1N+meULrf2hV1u7tvnriSE6FpnrjsiSQbrFKz3HloE2Yuq0XAVCO1LBhu7YFNLZiXbHx/hDSyPf/RIF/0/dcff/xQy5IBAAA=",
-    "class_url": "1&2&3&4&5&6&7&8&9&10&11&12&13&14&15&16&17&18&19&20&41&54&61&62&63&64&65&66&67&68&69&70&78&79&80&81&83&92&93&94",
-    "cate_excludes": [ "电影", "连续剧", "综艺", "动漫", "港台动漫","海外动漫", "预告片" ] },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 //{ "key": "兄弟影视","name": "兄弟影视（无广）","type": 3, "api": "csp_Xdys", "searchable": 1, "quickSearch": 1, "filterable": 1,"jar":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%85%84%E5%BC%9F%E5%BD%B1%E8%A7%86/fm.jar"},
+
 
 
 
@@ -210,7 +169,8 @@
 
 
      
-    {   "key": "nangua", "name": "🎃┃南瓜影视┃低码率", "type": 3, "playerType": "1", "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/drpy2.min.js", "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/%E5%8D%97%E7%93%9C.js" }
+      {   "key": "nangua", "name": "🎃┃南瓜影视┃低码率", "type": 3, "playerType": "1", "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/drpy2.min.js",
+      "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/%E5%8D%97%E7%93%9C.js" }
 
 
 
