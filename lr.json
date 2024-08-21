@@ -47,7 +47,7 @@
 
 
 
-    { "key": "vod_华为资源",  "name": "华为资源", "type": 1,  "api": "http://nikanba.live/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1 },
+    //{ "key": "vod_华为资源",  "name": "华为资源", "type": 1,  "api": "http://nikanba.live/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1 },
 
 
 
