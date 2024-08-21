@@ -27,7 +27,9 @@
 
 //{ "key": "白嫖者", "name": "👶白嫖者联盟（推荐）", "type": 3, "api": "csp_XBPQ", "ext": {"分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"电影$1#电视剧$2#动漫$4#综艺$3","副标题":"class=\"pic-text text-right\"&&</span>","简介":"⚠️特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p >"}},
 
-{"key":"drpy_js_豆瓣","name":"海报墙😘 | 请设置为默认首页","type":3,"api":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%B1%86%E7%93%A3/drpy2.min.js","ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%B1%86%E7%93%A3/%E6%B5%8B%E8%AF%95%E8%B1%86%E7%93%A3.js"},
+
+
+{"key":"年轻人豆瓣","name":"年轻人使用海报墙😘 | 请设置为默认首页","type":3,"playerType":1,"api":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%B1%86%E7%93%A3/drpy2.min.js","ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%B1%86%E7%93%A3/%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%B1%86%E7%93%A3.js"},
 
 
 
