@@ -48,7 +48,7 @@
 
 
 
-    { "key": "华为资源",  "name": "华为资源", "type": 1,  "api": "https://hw8.live/api.php/provide/vod/ ","searchable":1,"quickSearch":1,"changeable":1 },//https://hw8.live/api.php/provide/vod/  
+    { "key": "华为资源",  "name": "华为资源", "type": 1,  "api": "https://hw8.live/api.php/provide/vod/ ","searchable":1,"quickSearch":1,"changeable":1 },
 
 
   //{ "key": "heimuer资源",  "name": "heimuer资源", "type": 1,  "api": "https://heimuer.tv/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1 },
