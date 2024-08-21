@@ -50,7 +50,7 @@
 
 
 
-    { "key": "华为资源",  "name": "华为资源", "type": 1,  "api": "https://hw8.live/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1 },
+    { "key": "华为资源",  "name": "华为资源", "type": 1,  "api": "https://cjhwba.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"changeable":1 },
 
 
 
