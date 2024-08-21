@@ -44,8 +44,6 @@
 //{"key": "csp_LiteApple", "name": "苹果🍎影视", "type": 3,"playerType": "2", "api": "csp_LiteApple","searchable": 1, "quickSearch": 1, "filterable": 1 },
 
 
-{ "key": "Free","name": "Free（有广告告诉我）", "type": 3, "api": "csp_XBPQ", "searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/Free.json" },
-
 
 
     { "key": "华为资源",  "name": "华为资源", "type": 1,  "api": "https://hw8.live/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1 },
@@ -85,6 +83,7 @@
 
 
 
+{ "key": "Free","name": "Free（有广告告诉我）", "type": 3, "api": "csp_XBPQ", "searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/Free.json" },
 
 
              {"key": "nangua", "name": "🎃┃南瓜影视┃有综艺", "type": 3, "playerType": "1","ua": "okhttp/3.15",  "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/drpy2.min.js",                                    "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/%E5%8D%97%E7%93%9C.js" },
