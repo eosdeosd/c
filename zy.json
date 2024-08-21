@@ -53,7 +53,7 @@
 
 
 
- { "key": "黑木耳",  "name": "黑木耳资源", "type": 1,  "api": "https://json.heimuer.xyz/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1 }, 
+ { "key": "黑木耳",  "name": "黑木耳资源", "type": 1,  "api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"changeable":1 }, 
 
 
 //{ "key": "兄弟影视","name": "┃兄弟影视┃（无广告）","type": 3, "api": "csp_Xdys", "searchable": 1, "quickSearch": 1, "filterable": 1,"jar":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%85%84%E5%BC%9F%E5%BD%B1%E8%A7%86/fm.jar"},
