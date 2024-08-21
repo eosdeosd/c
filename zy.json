@@ -44,13 +44,13 @@
 //{"key": "csp_LiteApple", "name": "苹果🍎影视", "type": 3,"playerType": "2", "api": "csp_LiteApple","searchable": 1, "quickSearch": 1, "filterable": 1 },
 
 
-  { "key": "NRTFIY星球", "name": "⚡NETFIY┃APP", "type": 3, "api": "csp_AppYsV2", "searchable": 1,"quickSearch": 1, "filterable": 1, "ext": "https://www.netfly.tv/api.php/app/" },
+  { "key": "NRTFIY星球", "name": "⚡NETFIY┃APP", "type": 3, "api": "csp_AppYsV2", "jar":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/APP/spider.jar","searchable": 1,"quickSearch": 1, "filterable": 1, "ext": "https://www.netfly.tv/api.php/app/" },
 
 
 
 
 
-    { "key": "华为资源",  "name": "华为资源", "type": 1,  "api": "https://cjhwba.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"changeable":1 },
+    { "key": "华为资源",  "name": "华为资源", "type": 2,  "api": "https://cjhwba.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"changeable":1 },
 
 
 
