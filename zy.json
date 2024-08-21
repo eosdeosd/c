@@ -57,7 +57,7 @@
 
 
 
-        {"key": "黑木耳采集","name": "采集资源2","type":3,"api":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/lr%E9%87%87%E9%9B%86/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/lr%E9%87%87%E9%9B%86/%E9%BB%91%E6%9C%A8%E8%80%B3%E8%B5%84%E6%BA%90%5B%E8%B5%84%5D.js"},
+//{"key": "黑木耳采集","name": "采集资源2","type":3,"api":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/lr%E9%87%87%E9%9B%86/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/lr%E9%87%87%E9%9B%86/%E9%BB%91%E6%9C%A8%E8%80%B3%E8%B5%84%E6%BA%90%5B%E8%B5%84%5D.js"},
 
 
 
@@ -260,7 +260,7 @@
  { "name": "虾米1", "url": "https://jx.xmflv.cc/?url=", "type": 0, "ext": { "flag": [  "qiyi",  "imgo", "搜狐","爱奇艺", "奇艺",   "qq", "qq 预告及花絮","腾讯", "youku",  "优酷", "pptv", "PPTV","letv", "乐视","rx","1905","ltnb","哔哩","哔哩哔哩","bilibili", "leshi", "mgtv", "芒果", "sohu","xigua", "fun","风行" ] } },
 
 
-  {"name":"虾米2","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","imgo","rx","ltnb","bilibili","1905","xigua","fun","风行","哔哩","哔哩哔哩","leshi","pptv","PPTV"]}},
+  {"name":"虾米2","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","imgo","rx","ltnb","bilibili","1905","xigua","fun","风行","哔哩","哔哩哔哩","leshi","pptv","PPTV"]}}
 
 
 
@@ -269,7 +269,6 @@
 
 
 
-{"name":"8090g","type":0,"url":"https://www.8090g.cn/jiexi/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","imgo","rx","ltnb","bilibili","1905","xigua","fun","风行","哔哩","哔哩哔哩","leshi","pptv","PPTV"]}},
 
 
 
