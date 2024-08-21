@@ -52,16 +52,12 @@
 
 
 
-
- { "key": "黑木耳",  "name": "黑木耳资源", "type": 1,  "api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"changeable":1 }, 
-
-
-//{ "key": "兄弟影视","name": "┃兄弟影视┃（无广告）","type": 3, "api": "csp_Xdys", "searchable": 1, "quickSearch": 1, "filterable": 1,"jar":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%85%84%E5%BC%9F%E5%BD%B1%E8%A7%86/fm.jar"},
+{ "key": "兄弟影视","name": "┃兄弟影视┃（无广告）","type": 3, "api": "csp_Xdys", "searchable": 1, "quickSearch": 1, "filterable": 1,"jar":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%85%84%E5%BC%9F%E5%BD%B1%E8%A7%86/fm.jar"},
 
 
 
 
-        //{"key": "黑木耳采集","name": "采集资源2","type":3,"api":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/lr%E9%87%87%E9%9B%86/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/lr%E9%87%87%E9%9B%86/%E9%BB%91%E6%9C%A8%E8%80%B3%E8%B5%84%E6%BA%90%5B%E8%B5%84%5D.js"},
+        {"key": "黑木耳采集","name": "采集资源2","type":3,"api":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/lr%E9%87%87%E9%9B%86/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/lr%E9%87%87%E9%9B%86/%E9%BB%91%E6%9C%A8%E8%80%B3%E8%B5%84%E6%BA%90%5B%E8%B5%84%5D.js"},
 
 
 
