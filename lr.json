@@ -31,7 +31,16 @@
 
 
 
-
+ {
+      "key": "xxys",
+      "name": "新新┃影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://4k.953365.cn:8090/xgapp.php/v3/"
+    },
 
 
 
