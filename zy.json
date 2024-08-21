@@ -48,7 +48,7 @@
 
 
 
-    { "key": "华为资源",  "name": "华为资源", "type": 1,  "api": "https://hw8.live/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1 },
+    { "key": "华为资源",  "name": "华为资源", "type": 1,  "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/lr%E9%87%87%E9%9B%86/%E5%8D%8E%E4%B8%BA%E8%B5%84%E6%BA%90API","searchable":1,"quickSearch":1,"changeable":1 },
 
 
 
