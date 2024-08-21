@@ -51,6 +51,10 @@
     { "key": "华为资源",  "name": "华为资源", "type": 1,  "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/lr%E9%87%87%E9%9B%86/%E5%8D%8E%E4%B8%BA%E8%B5%84%E6%BA%90API","searchable":1,"quickSearch":1,"changeable":1 },//https://hw8.live/api.php/provide/vod/  
 
 
+  { "key": "heimuer资源",  "name": "heimuer资源", "type": 1,  "api": "https://heimuer.tv/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1 },
+
+
+
 
 //{ "key": "兄弟影视","name": "┃兄弟影视┃（无广告）","type": 3, "api": "csp_Xdys", "searchable": 1, "quickSearch": 1, "filterable": 1,"jar":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%85%84%E5%BC%9F%E5%BD%B1%E8%A7%86/fm.jar"},
 
