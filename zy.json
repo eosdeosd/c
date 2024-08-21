@@ -87,7 +87,7 @@
 
 
 
-             //{"key": "nangua", "name": "🎃┃南瓜影视┃有综艺", "type": 3, "playerType": "1","ua": "okhttp/3.15",  "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/drpy2.min.js",                                    "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/%E5%8D%97%E7%93%9C.js" },
+             {"key": "nangua", "name": "🎃┃南瓜影视┃有综艺", "type": 3, "playerType": "1","ua": "okhttp/3.15",  "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/drpy2.min.js",                                    "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/%E5%8D%97%E7%93%9C.js" },
 
 
 //{"key": "配置中心","name": "🪪阿里夸克-配置中心","type": 3,  "api": "csp_Config","jar":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E4%BA%91%E7%9B%98%E6%90%9C%E7%B4%A2/xyg.php","searchable": 0, "changeable": 0, "indexs": 0, "style": { "type": "rect",  "ratio": 1.43 } },
@@ -260,7 +260,20 @@
  { "name": "虾米1", "url": "https://jx.xmflv.cc/?url=", "type": 0, "ext": { "flag": [  "qiyi",  "imgo", "搜狐","爱奇艺", "奇艺",   "qq", "qq 预告及花絮","腾讯", "youku",  "优酷", "pptv", "PPTV","letv", "乐视","rx","1905","ltnb","哔哩","哔哩哔哩","bilibili", "leshi", "mgtv", "芒果", "sohu","xigua", "fun","风行" ] } },
 
 
-  {"name":"虾米2","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","imgo","rx","ltnb","bilibili","1905","xigua","fun","风行","哔哩","哔哩哔哩","leshi","pptv","PPTV"]}}
+  {"name":"虾米2","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","imgo","rx","ltnb","bilibili","1905","xigua","fun","风行","哔哩","哔哩哔哩","leshi","pptv","PPTV"]}},
+
+
+
+
+
+{ "name": "华为资源", "url": "https://player.hw8.lol/player?url=", "type": 0, "ext": { "flag": [  "qiyi",  "imgo", "搜狐","爱奇艺", "奇艺",   "qq", "qq 预告及花絮","腾讯", "youku", "优酷", "pptv", "PPTV","letv", "乐视","rx","1905","ltnb","哔哩","哔哩哔哩","bilibili", "leshi", "mgtv", "芒果", "sohu","xigua", "fun","风行" ] } },
+
+
+
+
+
+
+  { "name": "快看", "url": "https://kkzyplayer.com/player/?url=", "type": 0, "ext": { "flag": [  "qiyi",  "imgo", "搜狐","爱奇艺", "奇艺",   "qq", "qq 预告及花絮","腾讯", "youku",  "优酷", "pptv", "PPTV","letv", "乐视","rx","1905","ltnb","哔哩","哔哩哔哩","bilibili", "leshi", "mgtv", "芒果", "sohu","xigua", "fun","风行" ] } }
 
 
 
