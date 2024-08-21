@@ -52,12 +52,9 @@
 
 
 
-{ "key": "Free","name": "Free（低码率有广告）", "type": 3, "api": "csp_XBPQ", "searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/Free.json" },
+{ "key": "Free","name": "Free（有广告告诉我）", "type": 3, "api": "csp_XBPQ", "searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/Free.json" },
 
   
-
-{ "key": "freeok","name": "freeok(1080P有广告)", "type": 3, "jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%85%84%E5%BC%9F%E5%BD%B1%E8%A7%86/freeok.jar","click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();", "api": "csp_FreeOK" },
-
 
 
 
@@ -155,7 +152,7 @@
   {"key": "少儿","name": "🅰️少儿合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/B%E7%AB%99/%E5%B0%91%E5%84%BF%E5%90%88%E9%9B%86.json"}, 
 
 
-{"key": "硬件","name": "🅰️240元骁龙870电视盒子-支持杜比视界","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/B%E7%AB%99/%E9%85%92%E4%BA%95%E6%B3%95%E5%AD%90.json"},
+{"key": "硬件","name": "🅰️240元骁龙870电视盒子-支持杜比视界","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/B%E7%AB%99/%E9%85%92%E4%BA%95%E6%B3%95%E5%AD%90.json"}
 
      
 
@@ -166,7 +163,7 @@
 
 
      
-      {   "key": "nangua", "name": "🎃┃南瓜影视┃", "type": 3, "playerType": "1", "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/drpy2.min.js", "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/%E5%8D%97%E7%93%9C.js" }
+      //{   "key": "nangua", "name": "🎃┃南瓜影视┃", "type": 3, "playerType": "1", "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/drpy2.min.js", "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/%E5%8D%97%E7%93%9C.js" }
 
 
 
