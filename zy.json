@@ -96,7 +96,7 @@
 //{ "key": "Free","name": "备用（有广告）", "type": 3, "api": "csp_XBPQ", "searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/Free.json" },
 
 
-             {"key": "nangua", "name": "🎃很笨┃南瓜", "type": 3, "playerType": "1","ua": "okhttp/3.15",  "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/drpy2.min.js",                                    "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/%E5%8D%97%E7%93%9C.js" },
+             {"key": "nangua", "name": "🎃南瓜┃备用", "type": 3, "playerType": "1","ua": "okhttp/3.15",  "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/drpy2.min.js",                                    "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/%E5%8D%97%E7%93%9C.js" },
 
 
 //{"key": "配置中心","name": "🪪阿里夸克-配置中心","type": 3,  "api": "csp_Config","jar":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E4%BA%91%E7%9B%98%E6%90%9C%E7%B4%A2/xyg.php","searchable": 0, "changeable": 0, "indexs": 0, "style": { "type": "rect",  "ratio": 1.43 } },
