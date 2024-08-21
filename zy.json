@@ -44,10 +44,10 @@
 //{"key": "csp_LiteApple", "name": "苹果🍎影视", "type": 3,"playerType": "2", "api": "csp_LiteApple","searchable": 1, "quickSearch": 1, "filterable": 1 },
 
 
+{ "key": "Free","name": "Free（有广告告诉我）", "type": 3, "api": "csp_XBPQ", "searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/Free.json" },
 
 
-
-    { "key": "vod_华为资源",  "name": "华为资源", "type": 1,  "api": "https://hw8.live/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1 },
+    { "key": "vod_华为资源",  "name": "采集资源1", "type": 1,  "api": "https://hw8.live/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1 },
 
 
 
@@ -59,7 +59,7 @@
 
 
 
-{"key": "1080P采集","name": "1080P采集","type":3,"api":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/lr%E9%87%87%E9%9B%86/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/lr%E9%87%87%E9%9B%86/%E9%BB%91%E6%9C%A8%E8%80%B3%E8%B5%84%E6%BA%90%5B%E8%B5%84%5D.js"},
+{"key": "黑木耳采集","name": "采集资源2","type":1,"api":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/lr%E9%87%87%E9%9B%86/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/lr%E9%87%87%E9%9B%86/%E9%BB%91%E6%9C%A8%E8%80%B3%E8%B5%84%E6%BA%90%5B%E8%B5%84%5D.js"},
 
 
 
