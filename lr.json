@@ -17,14 +17,14 @@
 
 
 
-{"key":"","name":"","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.libvio.fun/"},//🌟┃Lib┃推荐（直连）
+{"key":" ","name":"","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.libvio.fun/"},//🌟┃Lib┃推荐（直连）
 
 
 //{ "key": "很厉害的南瓜","name": "🎃很厉害┃南瓜","type": 3, "api": "csp_NanGua", "jar":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/%E5%8D%97%E7%93%9C.txt","playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1 },
 
 
 
-   { "key": "","name": "", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1,"ext": "https://www.netfly.tv/api.php/app/" },//⚡NETFIY┃APP
+   { "key": " ","name": "", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1,"ext": "https://www.netfly.tv/api.php/app/" },//⚡NETFIY┃APP
 
 
 
@@ -47,7 +47,7 @@
 
 
 
-   { "key": "",  "name": "", "type": 1,  "api": "http://nikanba.live/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1 }//华为资源
+   { "key": " ",  "name": "", "type": 1,  "api": "http://nikanba.live/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1 }//华为资源
 
 
 
