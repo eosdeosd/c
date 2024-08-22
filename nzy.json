@@ -1,12 +1,12 @@
 {
   "urls": [
     {
-      "url": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/zy.json",
-      "name": "年轻人使用"
-    },
-    {
       "url": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/lr.json",
       "name": "老人专用"
+    },
+    {
+      "url": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/zy.json",
+      "name": "年轻人专用"
     }
    
   ]
