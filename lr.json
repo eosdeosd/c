@@ -14,9 +14,7 @@
 {"key":"drpy_js_豆瓣","name":"长辈使用海报墙😘 | 请设置为默认首页","type":3,"playerType":1,"api":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%B1%86%E7%93%A3/drpy2.min.js","ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%B1%86%E7%93%A3/%E8%80%81%E4%BA%BA%E8%B1%86%E7%93%A3.js"},
 
 
-{"key":"年轻人豆瓣","name":"年轻人使用海报墙😘 | 请设置为默认首页","type":3,"playerType":1,"api":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%B1%86%E7%93%A3/drpy2.min.js","ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%B1%86%E7%93%A3/%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%B1%86%E7%93%A3.js"},
 
-//{ "key": "NT动漫", "name":"😎动漫" , "type": 3, "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/NT%E5%8A%A8%E7%94%BB/drpy2.min.js",                                          "searchable": 0, "quickSearch": 1,"filterable": 1,"changeable": 1, "ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/NT%E5%8A%A8%E7%94%BB/NT%E5%8A%A8%E6%BC%AB.js"},
 
 
 {"key":"Lib","name":"🌟┃Lib┃推荐（直连）","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.libvio.fun/"},
@@ -159,28 +157,12 @@
 
 
 
-
-{"key": "演唱会1","name": "🎧演唱会1","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/B%E7%AB%99/music.json"},
-
-
-
-{"key":"演唱会2","name":"🎸演唱会2","type":3,"api":"csp_Bili","searchable":0,"ua": "okhttp/3.15","quickSearch":0,"filterable":1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/B%E7%AB%99/%E6%BC%94%E5%94%B1%E4%BC%9A.txt"},
-
-
-
-
- { "key": "MTV",  "name": "🎧明星┃MV", "type": 3, "api": "csp_Bili", "style": { "type": "rect", "ratio": 1.597  }, "searchable": 0,                    "quickSearch": 0, "changeable": 0, "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/B%E7%AB%99/MTV.json" }, 
-
-
-
  {"key":"戏曲","name":"🅰️戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/B%E7%AB%99/%E6%88%8F%E6%9B%B2.json"},  
    
 {"key": "学堂","name": "🅰️学堂教育","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/B%E7%AB%99/%E5%AD%A6%E5%A0%82%E6%95%99%E8%82%B2.json"},
  
   {"key": "少儿","name": "🅰️少儿合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/B%E7%AB%99/%E5%B0%91%E5%84%BF%E5%90%88%E9%9B%86.json"}, 
 
-
-{"key": "硬件","name": "🅰️240元骁龙870电视盒子-支持杜比视界","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/B%E7%AB%99/%E9%85%92%E4%BA%95%E6%B3%95%E5%AD%90.json"},
 
      
 
