@@ -24,7 +24,7 @@
 
 
 
-   { "key": "NRTFIY星球","name": "⚡NETFIY┃APP", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1,"ext": "https://www.netfly.tv/api.php/app/" },
+   { "key": "NRTFIY星球","name": "", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1,"ext": "https://www.netfly.tv/api.php/app/" },//⚡NETFIY┃APP
 
 
 
@@ -47,7 +47,7 @@
 
 
 
-   { "key": "vod_华为资源",  "name": "华为资源", "type": 1,  "api": "http://nikanba.live/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1 },
+   { "key": "vod_华为资源",  "name": "", "type": 1,  "api": "http://nikanba.live/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1 },//华为资源
 
 
 
@@ -167,8 +167,8 @@
 
 
 
-     
-      {   "key": "nangua", "name": "🎃┃南瓜┃备用", "type": 3, "playerType": "1", "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/drpy2.min.js", "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/%E5%8D%97%E7%93%9C.js" }
+    //🎃┃南瓜┃备用 
+      {   "key": "nangua", "name": "", "type": 3, "playerType": "1", "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/drpy2.min.js", "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/%E5%8D%97%E7%93%9C.js" }
 
 
 
