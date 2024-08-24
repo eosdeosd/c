@@ -168,7 +168,7 @@
 
 
     //🎃┃南瓜┃备用 
-      {   "key": "nangua", "name": "🎃┃南瓜┃备用", "type": 3, "playerType": "1", "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/drpy2.min.js", "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/%E5%8D%97%E7%93%9C.js" }
+      {   "key": "nangua", "name": "🎃┃南瓜┃备用", "type": 3, "playerType": "1", "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/drpy2.min.js", "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/%E5%8D%97%E7%93%9C.js" },
 
 
 
@@ -177,7 +177,26 @@
    
   
 
+{"key": "演唱会1","name": "🎧演唱会1","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/B%E7%AB%99/music.json"},
 
+
+
+{"key":"演唱会2","name":"🎸演唱会2（可当搜索源  MV）","type":3,"api":"csp_Bili","searchable":0,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/B%E7%AB%99/%E6%BC%94%E5%94%B1%E4%BC%9A.txt"},
+
+
+
+
+ { "key": "MTV",  "name": "🎧明星┃MV", "type": 3, "api": "csp_Bili", "style": { "type": "rect", "ratio": 1.597  }, "searchable": 0,                    "quickSearch": 0, "changeable": 0, "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/B%E7%AB%99/MTV.json" }, 
+
+
+
+
+
+ {"key":"戏曲","name":"🅰️戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/B%E7%AB%99/%E6%88%8F%E6%9B%B2.json"},  
+   
+{"key": "学堂","name": "🅰️学堂教育","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/B%E7%AB%99/%E5%AD%A6%E5%A0%82%E6%95%99%E8%82%B2.json"},
+ 
+  {"key": "少儿","name": "🅰️少儿合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/B%E7%AB%99/%E5%B0%91%E5%84%BF%E5%90%88%E9%9B%86.json"}
 
 
   
