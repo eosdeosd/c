@@ -1,0 +1,3632 @@
+{
+  "tbl_site": [
+    {
+      "id": "k4wR5lotJsStjrdepi_a-",
+      "name": "🎃南瓜影视（海报墙）",
+      "type": 7,
+      "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/drpy_dzlive2/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/drpy_dzlive2/drpy_js/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86%5B%E4%BC%98%5D.js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "74IgMEr7iHu5ZFcvwfuQv",
+      "name": "⚡花子动漫（1080P日漫）",
+      "type": 7,
+      "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/drpy_dzlive2/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/drpy_dzlive2/drpy_js/%E8%8A%B1%E5%AD%90%E5%8A%A8%E6%BC%AB%5B%E6%BC%AB%5D.js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "joV2erzjNjGRF5oNUeFO6",
+      "name": "去南瓜里面找影片名称",
+      "type": 7,
+      "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/drpy_dzlive2/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/drpy_dzlive2/drpy_js/%E9%BB%91%E6%9C%A8%E8%80%B3%E8%B5%84%E6%BA%90%5B%E8%B5%84%5D.js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "name": "点击上面，搜索全站，输入片名",
+      "api": "http://nikanba.live/api.php/provide/vod/",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "id": "4abb1bc3-e189-4dae-89ce-dd80d2fc588d"
+    },
+    {
+      "name": "最后只选择，采集资源或者华为采集片源，都是1080P",
+      "api": "http://w",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "id": "6e4c2c50-65bd-4381-acc5-180050144337"
+    }
+  ],
+  "tbl_iptv": [
+    {
+      "id": "OOu12VaiWN1tcIIEBfhYF",
+      "name": "稳定github直播",
+      "type": "remote",
+      "isActive": true,
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt"
+    }
+  ],
+  "tbl_channel": [
+    {
+      "name": "CCTV1",
+      "url": "http://111.225.49.66:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "2olWSxiiEJbzIee_1MtH0"
+    },
+    {
+      "name": "CCTV1",
+      "url": "http://101.229.227.246:7777/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "jZAY7KgNLlBUtjUOBtWGT"
+    },
+    {
+      "name": "CCTV1",
+      "url": "http://113.57.20.158:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "TtMQiyKfCn3n3MDLviHbl"
+    },
+    {
+      "name": "CCTV1",
+      "url": "http://58.57.21.166:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "nLoyAz_M3p5kuu_aXZr-o"
+    },
+    {
+      "name": "CCTV1",
+      "url": "http://182.117.136.23:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "cHK4uyR3rAghq0xEaaha9"
+    },
+    {
+      "name": "CCTV1",
+      "url": "http://59.173.243.210:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "RWNaGqCzoYcGOvNCPkLhk"
+    },
+    {
+      "name": "CCTV1",
+      "url": "http://111.225.49.176:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "NskjC0P_5xsMTuGmzDQ8i"
+    },
+    {
+      "name": "CCTV1",
+      "url": "http://222.71.95.178:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "Ap_MTwvT3dzIvHsY-bnfN"
+    },
+    {
+      "name": "CCTV2",
+      "url": "http://111.225.49.66:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "EKs8ccn9Lmv6J9VbKREpe"
+    },
+    {
+      "name": "CCTV2",
+      "url": "http://222.71.95.178:9901/tsfile/live/0001_2.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "9JpvXX9IO7ITKwahIQEdD"
+    },
+    {
+      "name": "CCTV2",
+      "url": "http://118.81.98.130:9999/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "kk63SrNEXWDmf-7mqMa53"
+    },
+    {
+      "name": "CCTV2",
+      "url": "http://58.19.38.162:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "OZWRJPnkT0aFTjmn5QLZ9"
+    },
+    {
+      "name": "CCTV2",
+      "url": "http://59.173.243.210:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "FmKFQkvVXDy55nYUxT1uz"
+    },
+    {
+      "name": "CCTV2",
+      "url": "http://61.136.172.236:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "SaDwBWh7H1zXHjYOSdzVV"
+    },
+    {
+      "name": "CCTV2",
+      "url": "http://101.229.227.246:7777/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "X0fUObTZ-fDBNoZhrSXAt"
+    },
+    {
+      "name": "CCTV2",
+      "url": "http://111.225.49.176:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "3ETbGrJ0om7kZSCajdL7N"
+    },
+    {
+      "name": "CCTV3",
+      "url": "http://101.229.227.246:7777/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "aOgj5tdZQEdC0iIlE2ABr"
+    },
+    {
+      "name": "CCTV3",
+      "url": "http://123.129.70.178:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "W904D1HaCmnGyK5sMNoSb"
+    },
+    {
+      "name": "CCTV3",
+      "url": "http://222.71.95.178:9901/tsfile/live/0001_3.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "I052OcgBxd_oAMaCk8q8u"
+    },
+    {
+      "name": "CCTV3",
+      "url": "http://118.81.98.130:9999/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "YV5mwjJDcm5ttYrF59oUm"
+    },
+    {
+      "name": "CCTV3",
+      "url": "http://182.117.136.23:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "2__ECNOp-1HjBJFqhwQFH"
+    },
+    {
+      "name": "CCTV3",
+      "url": "http://61.136.172.236:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "WAOuvNeble2z66nh0sC4m"
+    },
+    {
+      "name": "CCTV3",
+      "url": "http://175.0.34.214:8081/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "2Z7tJMg10Dtu-7hR-u2mA"
+    },
+    {
+      "name": "CCTV3",
+      "url": "http://58.19.38.162:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "61gaee-7zhQ1WGXqhjAi6"
+    },
+    {
+      "name": "CCTV4",
+      "url": "http://101.229.227.246:7777/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "mVcGlZHtm6pIcgfullAx2"
+    },
+    {
+      "name": "CCTV4",
+      "url": "http://58.19.38.162:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "0GzJKnkrxfqjwmXO-zJGV"
+    },
+    {
+      "name": "CCTV4",
+      "url": "http://113.57.20.158:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "MTt1mWY7hhGFGuY8S-dru"
+    },
+    {
+      "name": "CCTV4",
+      "url": "http://111.225.49.176:9901/tsfile/live/faacts/0004_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "h5eP3RxPFZpys7IJKsxvw"
+    },
+    {
+      "name": "CCTV4",
+      "url": "http://119.163.199.98:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "acA5p23nM6yON4hLSJQUo"
+    },
+    {
+      "name": "CCTV4",
+      "url": "http://222.71.95.178:9901/tsfile/live/0001_4.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "V4vckP0e5bxrzksK3cA8m"
+    },
+    {
+      "name": "CCTV4",
+      "url": "http://175.0.34.214:8081/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "olkmotdahR_0IN-u1xPH5"
+    },
+    {
+      "name": "CCTV4",
+      "url": "http://118.81.98.130:9999/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "zH5mLbpVvOoZOweiWR8JE"
+    },
+    {
+      "name": "CCTV5",
+      "url": "http://59.173.243.210:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "efiOdAK69qMrmuB6_WUuv"
+    },
+    {
+      "name": "CCTV5",
+      "url": "http://101.229.227.246:7777/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "mPEnFIK9YaS1f-MU0rVwU"
+    },
+    {
+      "name": "CCTV5",
+      "url": "http://119.163.199.98:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "dq9kjRrmvJQ6o8DCFQ0HI"
+    },
+    {
+      "name": "CCTV5",
+      "url": "http://210.22.75.86:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "32te_fv6UN1Eevu9b-37Z"
+    },
+    {
+      "name": "CCTV5",
+      "url": "http://175.0.34.214:8081/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "x3pHaSrRlmnmX3pK4NeFW"
+    },
+    {
+      "name": "CCTV5",
+      "url": "http://218.3.138.25:1111/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "eoUwehH4eTTSs-i0UgEY5"
+    },
+    {
+      "name": "CCTV5",
+      "url": "http://222.71.95.178:9901/tsfile/live/0001_5.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "4pFBuTfCiZUf5q27glAUp"
+    },
+    {
+      "name": "CCTV5",
+      "url": "http://118.81.98.130:9999/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "6LTHTJBCy-P7FJPCrCtOc"
+    },
+    {
+      "name": "CCTV5+",
+      "url": "http://101.229.227.246:7777/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "NbP82qrXycNbPMo9qyfoY"
+    },
+    {
+      "name": "CCTV5+",
+      "url": "http://59.173.243.210:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "o5P7f7n-resoN99_3PHIa"
+    },
+    {
+      "name": "CCTV5+",
+      "url": "http://61.136.172.236:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "7DMUgMrarKfi_CnSHkRop"
+    },
+    {
+      "name": "CCTV5+",
+      "url": "http://58.19.38.162:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "bmo7vOYO9f__m7NJA4xlU"
+    },
+    {
+      "name": "CCTV5+",
+      "url": "http://119.163.199.98:9901/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "61XoFVQ5RElvl7I8QiLsz"
+    },
+    {
+      "name": "CCTV5+",
+      "url": "http://111.225.49.176:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "vsbHYuIxO7bvoJPgtvHAi"
+    },
+    {
+      "name": "CCTV5+",
+      "url": "http://222.71.95.178:9901/tsfile/live/0001_28.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "YTYvwDByPLvtq44job9Um"
+    },
+    {
+      "name": "CCTV5+",
+      "url": "http://123.189.36.7:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "9TFglsRQLwU3Lq9T0XRLj"
+    },
+    {
+      "name": "CCTV5综合体育",
+      "url": "http://111.225.49.176:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "COclFBLmhPPYtYv-MwnLR"
+    },
+    {
+      "name": "CCTV6",
+      "url": "http://59.173.243.210:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "mMZHx2Uzf60sZ6_GAmkHi"
+    },
+    {
+      "name": "CCTV6",
+      "url": "http://58.19.38.162:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "dZudvDgnLgaKADuiSRj8W"
+    },
+    {
+      "name": "CCTV6",
+      "url": "http://101.229.227.246:7777/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "rDgLTeqpRq3L_NFXVf8bY"
+    },
+    {
+      "name": "CCTV6",
+      "url": "http://111.225.49.176:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "m39m4TR15fWPG_fz_DDF2"
+    },
+    {
+      "name": "CCTV6",
+      "url": "http://175.0.34.214:8081/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "-xZGrAKfwiPcGMgHBoe8u"
+    },
+    {
+      "name": "CCTV6",
+      "url": "http://118.81.98.130:9999/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "FG01fXn10Bb3_2gy9TGIc"
+    },
+    {
+      "name": "CCTV6",
+      "url": "http://222.71.95.178:9901/tsfile/live/0001_6.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "UZBKOUBjDbnvf-nCTgNCf"
+    },
+    {
+      "name": "CCTV6",
+      "url": "http://202.100.46.58:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "BK9urxdluHR_YE8TguPiU"
+    },
+    {
+      "name": "CCTV7",
+      "url": "http://123.129.70.178:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "9gOnPwAD0X3b8fSLjFMcH"
+    },
+    {
+      "name": "CCTV7",
+      "url": "http://210.22.75.86:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "KfUHs-mrhO0Cpr-T5wlpO"
+    },
+    {
+      "name": "CCTV7",
+      "url": "http://175.0.34.214:8081/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "lZqeOjtTaGJxaxUOKdx2A"
+    },
+    {
+      "name": "CCTV7",
+      "url": "http://222.71.95.178:9901/tsfile/live/0001_7.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "G8WQFIJ_5jzJdTme58PiO"
+    },
+    {
+      "name": "CCTV7",
+      "url": "http://223.112.219.174:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "mcgdmyeNUW4c5h2tL2z6U"
+    },
+    {
+      "name": "CCTV7",
+      "url": "http://118.81.98.130:9999/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "MtBYKMBykNhOpkYCqwZ7m"
+    },
+    {
+      "name": "CCTV7",
+      "url": "http://123.138.216.44:9902/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "g7owKyPM5xGXYCj4VhT5j"
+    },
+    {
+      "name": "CCTV7",
+      "url": "http://123.189.36.7:9901/tsfile/live/1159_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "TW3_F0t6Thpvtx86bOeQh"
+    },
+    {
+      "name": "CCTV8",
+      "url": "http://111.225.49.66:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "NXRAIzf0WeNeQexerzIds"
+    },
+    {
+      "name": "CCTV8",
+      "url": "http://111.225.49.176:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "-qmHbFnu8syvkvegF_TY4"
+    },
+    {
+      "name": "CCTV8",
+      "url": "http://210.22.75.86:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "hkXfgI8psxtYs0vQTiB2n"
+    },
+    {
+      "name": "CCTV8",
+      "url": "http://123.129.70.178:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "8E3-kZSrrKiPFU0cCkGSw"
+    },
+    {
+      "name": "CCTV8",
+      "url": "http://101.229.227.246:7777/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "ILfTK7AGaBZoZfVTFfjc7"
+    },
+    {
+      "name": "CCTV8",
+      "url": "http://175.0.34.214:8081/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "evo6Bae1gplDgTwvDYexq"
+    },
+    {
+      "name": "CCTV8",
+      "url": "http://61.136.172.236:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "osoN0gWM7zkvSyqRioJiN"
+    },
+    {
+      "name": "CCTV8",
+      "url": "http://222.71.95.178:9901/tsfile/live/0001_8.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "Er-u_0WXcCNPLRRC_66_w"
+    },
+    {
+      "name": "CCTV9",
+      "url": "http://101.229.227.246:7777/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "FJQ9yv0_PJjS45Z1KNgef"
+    },
+    {
+      "name": "CCTV9",
+      "url": "http://111.225.49.66:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "m4etbsvTRed_g9XuE64Ni"
+    },
+    {
+      "name": "CCTV9",
+      "url": "http://111.225.49.176:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "sVeEUdBFvyF-Z-3OFgwo7"
+    },
+    {
+      "name": "CCTV9",
+      "url": "http://123.129.70.178:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "4FLkQNigqiXrz-R2PwMu7"
+    },
+    {
+      "name": "CCTV9",
+      "url": "http://59.173.243.210:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "9_JDM6m8D5UJ5Ve8mVdx0"
+    },
+    {
+      "name": "CCTV9",
+      "url": "http://222.71.95.178:9901/tsfile/live/0001_9.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "iS6k5Eo4s0AwJTeqx3BPV"
+    },
+    {
+      "name": "CCTV9",
+      "url": "http://118.81.98.130:9999/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "K1GZXJ78LuijnVBSqPc-B"
+    },
+    {
+      "name": "CCTV9",
+      "url": "http://175.0.34.214:8081/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "DgKYLyG01vzSpO_yeqHVd"
+    },
+    {
+      "name": "CCTV10",
+      "url": "http://101.229.227.246:7777/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "0RFfWdI7AT6P1eqHUjkml"
+    },
+    {
+      "name": "CCTV10",
+      "url": "http://111.225.49.176:9901/tsfile/live/faacts/0010_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "x_dnYgKk0CIL20vjcgnDi"
+    },
+    {
+      "name": "CCTV10",
+      "url": "http://222.134.245.16:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "CFvG07afUsUMy7du_qXxb"
+    },
+    {
+      "name": "CCTV10",
+      "url": "http://182.117.136.23:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "Sn6pKK0iF6CHPu-NmsZ4y"
+    },
+    {
+      "name": "CCTV10",
+      "url": "http://113.57.20.158:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "RLZaV0x0_1pYzvOkfISvI"
+    },
+    {
+      "name": "CCTV10",
+      "url": "http://58.19.38.162:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "Ayp0CPd4VgvXLRWcxChfN"
+    },
+    {
+      "name": "CCTV10",
+      "url": "http://59.173.243.210:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "YDQ_75ZbIl5fbjwUTDVw-"
+    },
+    {
+      "name": "CCTV10",
+      "url": "http://175.0.34.214:8081/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "-UfzVDsszMmh33Z0cQIBd"
+    },
+    {
+      "name": "CCTV11",
+      "url": "http://111.225.49.176:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "ea1541r7cBktaIe-rJdFp"
+    },
+    {
+      "name": "CCTV11",
+      "url": "http://101.229.227.246:7777/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "zuN5Og4JOS7yryeji-yfO"
+    },
+    {
+      "name": "CCTV11",
+      "url": "http://111.225.49.66:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "sPzJmNQaiF8n8Uz16KhdM"
+    },
+    {
+      "name": "CCTV11",
+      "url": "http://123.129.70.178:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "QxPESuvSVIOiWR3P1MlaF"
+    },
+    {
+      "name": "CCTV11",
+      "url": "http://59.173.243.210:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "pMZiO507Yyp5QqOS57KpZ"
+    },
+    {
+      "name": "CCTV11",
+      "url": "http://175.0.34.214:8081/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "k76jYut7koQP9iL4nhOVt"
+    },
+    {
+      "name": "CCTV11",
+      "url": "http://118.81.98.130:9999/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "UD0ofHvdO-kbLzRtzw6J4"
+    },
+    {
+      "name": "CCTV11",
+      "url": "http://222.71.95.178:9901/tsfile/live/0001_11.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "CRARF_vPiGtVKolQBBS6Q"
+    },
+    {
+      "name": "CCTV12",
+      "url": "http://59.173.243.210:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "c4F04r4PodKE7eY-b6BdZ"
+    },
+    {
+      "name": "CCTV12",
+      "url": "http://210.22.75.86:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "I4TQ01wrhep4Oal6g8elU"
+    },
+    {
+      "name": "CCTV12",
+      "url": "http://101.229.227.246:7777/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "kANH07GvLrqI9d7KaXnsw"
+    },
+    {
+      "name": "CCTV12",
+      "url": "http://222.71.95.178:9901/tsfile/live/0001_12.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "j9YZED7_MuaQonnA_PZKu"
+    },
+    {
+      "name": "CCTV12",
+      "url": "http://118.81.98.130:9999/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "fyYbMEEVFFfHei5bU8Cns"
+    },
+    {
+      "name": "CCTV12",
+      "url": "http://111.225.49.176:9901/tsfile/live/faacts/0012_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "3EAmXuYAvi-4FMyRUdDMR"
+    },
+    {
+      "name": "CCTV12",
+      "url": "http://223.112.219.174:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "yY_AqNUcpZ2TzncB51q6p"
+    },
+    {
+      "name": "CCTV12",
+      "url": "http://111.225.49.66:9901/tsfile/live/faacts/0012_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "uBlUV2_34pkdzGxAB10q-"
+    },
+    {
+      "name": "CCTV13",
+      "url": "http://101.229.227.246:7777/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "frtmbiemRtuwFKH5biTXf"
+    },
+    {
+      "name": "CCTV13",
+      "url": "http://222.71.95.178:9901/tsfile/live/0001_13.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "6FuXg2gULCQ-CmXlykOqw"
+    },
+    {
+      "name": "CCTV13",
+      "url": "http://113.57.20.158:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "zGxR1cSF51omXiYn0msU1"
+    },
+    {
+      "name": "CCTV13",
+      "url": "http://111.225.49.176:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "fFkQKzF0KzzWvNmGgj5yz"
+    },
+    {
+      "name": "CCTV13",
+      "url": "http://175.0.34.214:8081/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "a3LfTHUI-TiCAx26Ew9cW"
+    },
+    {
+      "name": "CCTV13",
+      "url": "http://58.216.229.130:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "TTr0rKvtU5OgkDncuZbNv"
+    },
+    {
+      "name": "CCTV13",
+      "url": "http://202.100.46.58:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "uDTg-IULD5s7r3pgu9CkQ"
+    },
+    {
+      "name": "CCTV13",
+      "url": "http://123.138.216.44:9902/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "Chx1NIRGnzjke7IR2-ett"
+    },
+    {
+      "name": "CCTV14",
+      "url": "http://210.22.75.86:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "oCddNKMvOauGu31FM7tuO"
+    },
+    {
+      "name": "CCTV14",
+      "url": "http://101.229.227.246:7777/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "J4uXghqpv9hc_1XkGRsfX"
+    },
+    {
+      "name": "CCTV14",
+      "url": "http://123.129.70.178:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "HxJsBe0z-9Mz27WqWFAEz"
+    },
+    {
+      "name": "CCTV14",
+      "url": "http://119.163.199.98:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "JXF5O1ZO0Kdcm_J71YFvJ"
+    },
+    {
+      "name": "CCTV14",
+      "url": "http://175.0.34.214:8081/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "jUO1lpX7JlDA7PJXDYc4A"
+    },
+    {
+      "name": "CCTV14",
+      "url": "http://111.225.49.176:9901/tsfile/live/faacts/0014_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "Lqt_t5UnIKyjFveCgyZMA"
+    },
+    {
+      "name": "CCTV14",
+      "url": "http://58.19.38.162:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "k9SmXgI9JeaNMMZaWhKyx"
+    },
+    {
+      "name": "CCTV14",
+      "url": "http://222.71.95.178:9901/tsfile/live/0001_14.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "G6E-0S4h5rYZ0_MZI5Hqc"
+    },
+    {
+      "name": "CCTV15",
+      "url": "http://58.19.38.162:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "rHiEC6TT50D-Wq2w0I1O_"
+    },
+    {
+      "name": "CCTV15",
+      "url": "http://101.229.227.246:7777/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "h7MAlsOyMuQxVEd2QSnTQ"
+    },
+    {
+      "name": "CCTV15",
+      "url": "http://111.225.49.176:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "dLj2kOVbZBfNTbUPKAzsd"
+    },
+    {
+      "name": "CCTV15",
+      "url": "http://175.0.34.214:8081/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "_0fqLu2K56-UQEdGvY325"
+    },
+    {
+      "name": "CCTV15",
+      "url": "http://222.71.95.178:9901/tsfile/live/0001_15.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "LOyRgvh4Gyr55Yve6F5OG"
+    },
+    {
+      "name": "CCTV15",
+      "url": "http://111.225.49.66:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "RUPDk2bB0WeZuyHuprDEP"
+    },
+    {
+      "name": "CCTV15",
+      "url": "http://59.173.243.210:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "JFDmzaNqkdsyAbq9I-DEj"
+    },
+    {
+      "name": "CCTV15",
+      "url": "http://118.81.98.130:9999/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "_fp2v7rytez8z-MUkNYHI"
+    },
+    {
+      "name": "CCTV16",
+      "url": "http://101.229.227.246:7777/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "ADPjBF8E_Rq0Es5g6Zdno"
+    },
+    {
+      "name": "CCTV16",
+      "url": "http://202.100.46.58:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "bjYGqF249JmJKtzaA2QJ2"
+    },
+    {
+      "name": "CCTV16",
+      "url": "http://123.189.36.7:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "_VBmJQ1sK8eMJw2Toixds"
+    },
+    {
+      "name": "CCTV16",
+      "url": "http://123.189.36.155:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "0gfSpR08MvngRENXxIOxo"
+    },
+    {
+      "name": "CCTV17",
+      "url": "http://59.173.243.210:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "HpnAq8bS1u1jsyiMmtWRy"
+    },
+    {
+      "name": "CCTV17",
+      "url": "http://222.134.245.16:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "HvT3wZuq-Dl7c9uRtYr-e"
+    },
+    {
+      "name": "CCTV17",
+      "url": "http://101.229.227.246:7777/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "mZ5Xf_h9J74nscKxTboa1"
+    },
+    {
+      "name": "CCTV17",
+      "url": "http://111.225.49.176:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "0GTgskpoVjARrRZEWcnHn"
+    },
+    {
+      "name": "CCTV17",
+      "url": "http://222.71.95.178:9901/tsfile/live/0001_16.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "IRgErPHCqI4cXPk5NCSK3"
+    },
+    {
+      "name": "CCTV17",
+      "url": "http://111.225.49.66:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "YwwsNYSKZ2pvPgtqPv2Mw"
+    },
+    {
+      "name": "CCTV17",
+      "url": "http://123.189.36.155:9901/tsfile/live/1164_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "bKnX_DwsHAgH8qWVtFkbu"
+    },
+    {
+      "name": "CCTV17",
+      "url": "http://36.35.16.98:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0",
+      "group": "央视频道",
+      "id": "n63pOpiRS07jzJwCTwgP5"
+    },
+    {
+      "name": "CCTVNEWS",
+      "url": "http://113.57.20.158:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "央视频道",
+      "id": "5ZYt2aJ3NyCPUX60NW4oc"
+    },
+    {
+      "name": "三沙卫视",
+      "url": "http://101.229.227.246:7777/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "6ANjxK4Ozi7nENYJROaj0"
+    },
+    {
+      "name": "三沙卫视",
+      "url": "http://117.27.190.42:9998/tsfile/live/23250_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "aH48q3k-7TYC_F7gGYAaG"
+    },
+    {
+      "name": "上海卫视",
+      "url": "http://118.81.98.130:9999/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "WEDXNQhPL4tDjxkbdtaj1"
+    },
+    {
+      "name": "上海卫视",
+      "url": "http://113.57.20.158:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "zN7pul7wiiu4G4Ag-_P8u"
+    },
+    {
+      "name": "东南卫视",
+      "url": "http://101.229.227.246:7777/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "_VVtymhvt8Q3vPUYK_JBT"
+    },
+    {
+      "name": "东南卫视",
+      "url": "http://59.173.243.210:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "x6Ms0PBKJnnh1fYBnAzHQ"
+    },
+    {
+      "name": "东南卫视",
+      "url": "http://58.19.38.162:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "A8EUFAjxW18rN4sl-YZiT"
+    },
+    {
+      "name": "东南卫视",
+      "url": "http://113.57.20.158:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "iheoik1kmkP6eiO7jsg6O"
+    },
+    {
+      "name": "东南卫视",
+      "url": "http://222.71.95.178:9901/tsfile/live/0001_31.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "5ZdTlg3hpvr208I_hwX5N"
+    },
+    {
+      "name": "东南卫视",
+      "url": "http://175.0.34.214:8081/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "FwcYy8xzkb8mturuPHzQY"
+    },
+    {
+      "name": "东南卫视",
+      "url": "http://58.216.229.130:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "-CNNRvhoqsfAfAYJVw2cI"
+    },
+    {
+      "name": "东南卫视",
+      "url": "http://202.100.46.58:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "M_o216t2HyKvb1xdP_Icb"
+    },
+    {
+      "name": "东方卫视",
+      "url": "http://101.229.227.246:7777/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "pbNvFYfVfI948yGF0e2Bf"
+    },
+    {
+      "name": "东方卫视",
+      "url": "http://111.225.49.176:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "wdB7uQTT343EYZR_AGfFw"
+    },
+    {
+      "name": "东方卫视",
+      "url": "http://175.0.34.214:8081/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "I159RZfRwSoTj_bOP9-1D"
+    },
+    {
+      "name": "东方卫视",
+      "url": "http://202.100.46.58:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "72AFzeHO0IXJpz9V3HmU5"
+    },
+    {
+      "name": "东方卫视",
+      "url": "http://223.112.219.174:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "gnmCXmxy7XpOEGZa0mnus"
+    },
+    {
+      "name": "东方卫视",
+      "url": "http://60.12.183.46:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0",
+      "group": "卫视频道",
+      "id": "Fop6c7MwGv9MNmiTizWon"
+    },
+    {
+      "name": "东方卫视",
+      "url": "http://218.3.138.25:1111/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "FhFHYkOlj8MCJlNEDOy4b"
+    },
+    {
+      "name": "东方卫视",
+      "url": "http://36.35.16.98:9901/tsfile/live/0001_34.m3u8?key=txiptv&playlive=0&authid=0",
+      "group": "卫视频道",
+      "id": "2ayEiL4EzEEoBxvKqHRg5"
+    },
+    {
+      "name": "云南卫视",
+      "url": "http://101.229.227.246:7777/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "uhlZJL-5UftLDuWJ7hezB"
+    },
+    {
+      "name": "云南卫视",
+      "url": "http://210.22.75.86:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "q3IaEDO4yycJtD3pkw3nQ"
+    },
+    {
+      "name": "云南卫视",
+      "url": "http://123.189.36.155:9901/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "uyloX7MKkgwQG4xEXpD6w"
+    },
+    {
+      "name": "云南卫视",
+      "url": "http://60.12.183.46:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=0&authid=0",
+      "group": "卫视频道",
+      "id": "Sb8uqE0KFFWWZQpbk5tMk"
+    },
+    {
+      "name": "云南卫视",
+      "url": "http://58.23.27.171:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "fhpodMlldxhb3Om-K9hmQ"
+    },
+    {
+      "name": "云南卫视",
+      "url": "http://222.134.245.16:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "of_b9OnzVyrfXfVnXvYSh"
+    },
+    {
+      "name": "兵团卫视",
+      "url": "http://101.229.227.246:7777/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "HkNMEJsAaPmneAC8SFJKj"
+    },
+    {
+      "name": "兵团卫视",
+      "url": "http://123.189.36.7:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "vYvuBYcvIHBbWVV8t9Sb3"
+    },
+    {
+      "name": "兵团卫视",
+      "url": "http://123.189.36.155:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "WIn7dbWHeL8D1aeok59Sk"
+    },
+    {
+      "name": "内蒙古卫视",
+      "url": "http://111.225.49.66:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "kC2EHK7k77rBm45blwHIb"
+    },
+    {
+      "name": "内蒙古卫视",
+      "url": "http://101.229.227.246:7777/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "NHb5JhUavuVWrxCgGNC1c"
+    },
+    {
+      "name": "内蒙古卫视",
+      "url": "http://175.0.34.214:8081/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "nqQBJLJBgF-TKil1KYTde"
+    },
+    {
+      "name": "内蒙古卫视",
+      "url": "http://123.189.36.7:9901/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "d9_KnmpcI1zb0xkEiV4m3"
+    },
+    {
+      "name": "内蒙古卫视",
+      "url": "http://222.134.245.16:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "FEuH4FhWAimqOfsnphclb"
+    },
+    {
+      "name": "农林卫视",
+      "url": "http://123.189.36.7:9901/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "z7jpjEfeGQ1ONZtZiweZh"
+    },
+    {
+      "name": "农林卫视",
+      "url": "http://123.189.36.155:9901/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "s6CFMTtI5HLgg4KjwVtE2"
+    },
+    {
+      "name": "北京卫视",
+      "url": "http://58.19.38.162:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "HDDjXCHUCMY9YrwGvDeAt"
+    },
+    {
+      "name": "北京卫视",
+      "url": "http://210.22.75.86:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "d7wOANw6yDjgyVSrBhFwz"
+    },
+    {
+      "name": "北京卫视",
+      "url": "http://175.0.34.214:8081/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "YIuiklr9IYi2AZhpSljOM"
+    },
+    {
+      "name": "北京卫视",
+      "url": "http://123.129.70.178:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "P6RD2SRpFnBaOdoljaasb"
+    },
+    {
+      "name": "北京卫视",
+      "url": "http://59.173.243.210:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "SIy8Vn7WSQwr3MUvMKK_f"
+    },
+    {
+      "name": "北京卫视",
+      "url": "http://101.229.227.246:7777/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "sjDyLLd8QtKBR_IobVNaJ"
+    },
+    {
+      "name": "北京卫视",
+      "url": "http://202.100.46.58:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "p3rovBMWSsy355cha8oGc"
+    },
+    {
+      "name": "北京卫视",
+      "url": "http://223.112.219.174:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "z0a7iKe2XYIT1WxRwsHTS"
+    },
+    {
+      "name": "南方卫视",
+      "url": "http://175.0.34.214:8081/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "Diy8Il8Q7c_YjVCx1U4gQ"
+    },
+    {
+      "name": "厦门卫视",
+      "url": "http://202.100.46.58:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "d0Q9Q81Z6OPH0hsEcpibE"
+    },
+    {
+      "name": "厦门卫视",
+      "url": "http://123.189.36.155:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "a1W-VTIm3EJKPAm6aG87Q"
+    },
+    {
+      "name": "吉林卫视",
+      "url": "http://59.173.243.210:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "jiMBHtbXt_Fr2etCfYsX5"
+    },
+    {
+      "name": "吉林卫视",
+      "url": "http://101.229.227.246:7777/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "DdFUcxzOqBYgjEv6-CDFM"
+    },
+    {
+      "name": "吉林卫视",
+      "url": "http://210.22.75.86:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "8_gDBc1d-P4TzLy7sTnnP"
+    },
+    {
+      "name": "吉林卫视",
+      "url": "http://175.0.34.214:8081/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "rK4zQiGAqchUbzPlZQMQP"
+    },
+    {
+      "name": "吉林卫视",
+      "url": "http://58.216.229.130:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "JAyiQhiVTLBY3E8ZXkmtl"
+    },
+    {
+      "name": "吉林卫视",
+      "url": "http://60.12.183.46:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0",
+      "group": "卫视频道",
+      "id": "HyaGjUXHq_BeZWZ3t17lp"
+    },
+    {
+      "name": "吉林卫视",
+      "url": "http://117.27.190.42:9998/tsfile/live/23258_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "Y3uI--JFMQxY1TH0rMsEp"
+    },
+    {
+      "name": "吉林卫视",
+      "url": "http://58.23.27.47:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "4OL8k_dnGW1t6Ge9Z6dbX"
+    },
+    {
+      "name": "四川卫视",
+      "url": "http://222.134.245.16:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "U94756u2LCrBtFXxvwdMb"
+    },
+    {
+      "name": "四川卫视",
+      "url": "http://210.22.75.86:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "jMZQuXPH7b-Fur4fQjJ4H"
+    },
+    {
+      "name": "四川卫视",
+      "url": "http://118.81.98.130:9999/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "dTSzYEiY2tOnBYWqEFKWA"
+    },
+    {
+      "name": "四川卫视",
+      "url": "http://101.229.227.246:7777/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "QxEVdbiEIgz6lIlyV1f_e"
+    },
+    {
+      "name": "四川卫视",
+      "url": "http://59.173.243.210:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "omuwS0n9eg713_etqVoLP"
+    },
+    {
+      "name": "四川卫视",
+      "url": "http://222.71.95.178:9901/tsfile/live/0001_29.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "yYLs9WT5NXRNmVw2tF23G"
+    },
+    {
+      "name": "四川卫视",
+      "url": "http://175.0.34.214:8081/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "Br4nQ3QrsDUBH511_KuSf"
+    },
+    {
+      "name": "四川卫视",
+      "url": "http://202.100.46.58:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "V2qN35uvUzKNXQfLmKdA3"
+    },
+    {
+      "name": "天津卫视",
+      "url": "http://58.19.38.162:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "EJ0q5PEnj8yIgZ4FDV-CR"
+    },
+    {
+      "name": "天津卫视",
+      "url": "http://59.173.243.210:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "Tuz7SxSgacIN8_1aeYKUW"
+    },
+    {
+      "name": "天津卫视",
+      "url": "http://101.229.227.246:7777/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "O7dAqXQzuRbH81gP53W5u"
+    },
+    {
+      "name": "天津卫视",
+      "url": "http://175.0.34.214:8081/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "bpfCiHLSkmT6o3R082RMw"
+    },
+    {
+      "name": "天津卫视",
+      "url": "http://111.225.49.66:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "6wN2bFGUYy5HWi0VSmYif"
+    },
+    {
+      "name": "天津卫视",
+      "url": "http://118.81.98.130:9999/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "-kY38NGbafoSQs-fq1I1W"
+    },
+    {
+      "name": "天津卫视",
+      "url": "http://202.100.46.58:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "hXaV8tDikmr1mXjQVqfNI"
+    },
+    {
+      "name": "天津卫视",
+      "url": "http://123.138.216.44:9902/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "Q5Cq4zWJutzEGLjIbn7lt"
+    },
+    {
+      "name": "宁夏卫视",
+      "url": "http://113.57.20.158:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "BWEzkSFuFrhLMLE4CUzsm"
+    },
+    {
+      "name": "宁夏卫视",
+      "url": "http://111.225.49.66:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "5adaO1zTiE4m9_rW8VLHv"
+    },
+    {
+      "name": "宁夏卫视",
+      "url": "http://101.229.227.246:7777/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "xpaP6hPfKxLFWy3yBwJNO"
+    },
+    {
+      "name": "宁夏卫视",
+      "url": "http://175.0.34.214:8081/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "z2jWQbWf1BlHr1RtM7P-f"
+    },
+    {
+      "name": "宁夏卫视",
+      "url": "http://202.100.46.58:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "q7BEhydOQhn8-c-AxLx7B"
+    },
+    {
+      "name": "宁夏卫视",
+      "url": "http://123.138.216.44:9902/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "x6ynO9gorOWUeB_ozYMOo"
+    },
+    {
+      "name": "宁夏卫视",
+      "url": "http://123.189.36.155:9901/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "t9cp6aAh21QwGK6_2gXme"
+    },
+    {
+      "name": "宁夏卫视",
+      "url": "http://36.35.16.98:9901/tsfile/live/0001_6.m3u8?key=txiptv&playlive=0&authid=0",
+      "group": "卫视频道",
+      "id": "_Vt_22GlbPtD9wkzqFg_5"
+    },
+    {
+      "name": "安徽卫视",
+      "url": "http://111.225.49.66:9901/tsfile/live/faacts/0130_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "GCo96dgpbuwrC423pe59e"
+    },
+    {
+      "name": "安徽卫视",
+      "url": "http://61.136.172.236:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "kBoOFZvi2aL50UIrg9XNN"
+    },
+    {
+      "name": "安徽卫视",
+      "url": "http://175.0.34.214:8081/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "wfFRbNG1U_5zL0b_Nc_Z8"
+    },
+    {
+      "name": "安徽卫视",
+      "url": "http://222.134.245.16:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "cwrJacv6jjdkK1SYvdUEN"
+    },
+    {
+      "name": "安徽卫视",
+      "url": "http://101.229.227.246:7777/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "NnKOqguFm3AjvwSRRxwNM"
+    },
+    {
+      "name": "安徽卫视",
+      "url": "http://222.71.95.178:9901/tsfile/live/0001_32.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "RPjo28S1W0G4Nd-XxNydq"
+    },
+    {
+      "name": "安徽卫视",
+      "url": "http://202.100.46.58:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "fkSe7SmIep0TStV0f8sFS"
+    },
+    {
+      "name": "安徽卫视",
+      "url": "http://123.138.216.44:9902/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "4glDmKtbxUmu2EUYCtufj"
+    },
+    {
+      "name": "山东卫视",
+      "url": "http://58.19.38.162:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "fxrlCUQgoABJN81bb7u-Z"
+    },
+    {
+      "name": "山东卫视",
+      "url": "http://111.225.49.66:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "kEX3Eglu7iZgZ5-OhM4PN"
+    },
+    {
+      "name": "山东卫视",
+      "url": "http://101.229.227.246:7777/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "NsypDKiZh1nyyfBCrRWFE"
+    },
+    {
+      "name": "山东卫视",
+      "url": "http://175.0.34.214:8081/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "JGN2jfNWtfH0Mg2bg34-z"
+    },
+    {
+      "name": "山东卫视",
+      "url": "http://222.71.95.178:9901/tsfile/live/0001_27.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "wBkCoDo3IfJSgd1ZKm5pe"
+    },
+    {
+      "name": "山东卫视",
+      "url": "http://58.216.229.130:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "PyyCxqXuZCCCwa6M7HOfQ"
+    },
+    {
+      "name": "山东卫视",
+      "url": "http://202.100.46.58:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "43rJUQ4ni8qqWyonJRpTf"
+    },
+    {
+      "name": "山东卫视",
+      "url": "http://60.12.183.46:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0",
+      "group": "卫视频道",
+      "id": "khA5GpitFR1KQcAeNaFcH"
+    },
+    {
+      "name": "山西卫视",
+      "url": "http://222.134.245.16:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "-hUidX3fid6HUtrqFMLro"
+    },
+    {
+      "name": "山西卫视",
+      "url": "http://210.22.75.86:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "bnxRzU7WvZAZnemy0GE7s"
+    },
+    {
+      "name": "山西卫视",
+      "url": "http://111.225.49.66:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "OHt4Lew9POrh3Hpxzf_Ox"
+    },
+    {
+      "name": "山西卫视",
+      "url": "http://101.229.227.246:7777/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "tPtlCaaK8-rJ7fh7lKRgb"
+    },
+    {
+      "name": "山西卫视",
+      "url": "http://175.0.34.214:8081/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "GVQTfpNGYRMYZRelGY99p"
+    },
+    {
+      "name": "山西卫视",
+      "url": "http://123.189.36.7:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "O5vQz6NPiCi3xmJi_ySml"
+    },
+    {
+      "name": "山西卫视",
+      "url": "http://123.189.36.155:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "l0UXK01LR7WVQZ9yTHO-v"
+    },
+    {
+      "name": "山西卫视",
+      "url": "http://60.12.183.46:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0",
+      "group": "卫视频道",
+      "id": "g3fgNl1lLolLh5HnbB0gi"
+    },
+    {
+      "name": "广东卫视",
+      "url": "http://59.173.243.210:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "8imKXRapfr8M-E5IlPwfa"
+    },
+    {
+      "name": "广东卫视",
+      "url": "http://210.22.75.86:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "9ZX6zZGblvzwxoi6w9vEY"
+    },
+    {
+      "name": "广东卫视",
+      "url": "http://222.71.95.178:9901/tsfile/live/0001_25.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "9c7B_jY2f1Z1kFvKx-d0E"
+    },
+    {
+      "name": "广东卫视",
+      "url": "http://111.225.49.66:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "OxfSQkMQvnqVOPnCd_HGp"
+    },
+    {
+      "name": "广东卫视",
+      "url": "http://175.0.34.214:8081/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "UAZD_lRSyTKIqbLH7lh74"
+    },
+    {
+      "name": "广东卫视",
+      "url": "http://101.229.227.246:7777/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "o2mOYx1L_yCIe_IvhcPO7"
+    },
+    {
+      "name": "广东卫视",
+      "url": "http://60.12.183.46:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0",
+      "group": "卫视频道",
+      "id": "d3WXP_I6UmEHCEY1G6qxU"
+    },
+    {
+      "name": "广东卫视",
+      "url": "http://36.35.16.98:9901/tsfile/live/0001_27.m3u8?key=txiptv&playlive=0&authid=0",
+      "group": "卫视频道",
+      "id": "XWLny2hT62ffhVWOzJ2r4"
+    },
+    {
+      "name": "广西卫视",
+      "url": "http://111.225.49.66:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "UhknmGuPpsh-gHF9Fg6uf"
+    },
+    {
+      "name": "广西卫视",
+      "url": "http://222.134.245.16:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "wsCVlaW7BEw8G22w7ufGL"
+    },
+    {
+      "name": "广西卫视",
+      "url": "http://113.57.20.158:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "f1AF22-V_1o8e8C-7Vz_7"
+    },
+    {
+      "name": "广西卫视",
+      "url": "http://210.22.75.86:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "c7DIMAo48ZYg5Cxq16QYL"
+    },
+    {
+      "name": "广西卫视",
+      "url": "http://175.0.34.214:8081/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "PJoLHLsXj3tlYRy82BQgP"
+    },
+    {
+      "name": "广西卫视",
+      "url": "http://101.229.227.246:7777/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "OvpUbMdQ76U3WP4RZtmeI"
+    },
+    {
+      "name": "广西卫视",
+      "url": "http://60.12.183.46:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0",
+      "group": "卫视频道",
+      "id": "nOzC3j-ffqvgGXNtgm6rv"
+    },
+    {
+      "name": "广西卫视",
+      "url": "http://36.35.16.98:9901/tsfile/live/0001_9.m3u8?key=txiptv&playlive=0&authid=0",
+      "group": "卫视频道",
+      "id": "3QwJFDaQyi0_HwzuXfDkN"
+    },
+    {
+      "name": "新疆卫视",
+      "url": "http://111.225.49.176:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "V5384eqvddSz5yHy9SASK"
+    },
+    {
+      "name": "新疆卫视",
+      "url": "http://111.225.49.66:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "v_DLLv_9HZlmRR8_X2SVx"
+    },
+    {
+      "name": "新疆卫视",
+      "url": "http://222.134.245.16:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "PtSLS9hV8_eJ94OhSjkwB"
+    },
+    {
+      "name": "新疆卫视",
+      "url": "http://175.0.34.214:8081/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "DdOqflYLVlYRsP4Uk6SNk"
+    },
+    {
+      "name": "新疆卫视",
+      "url": "http://101.229.227.246:7777/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "UiTqrrmLY0by-PZRepjIT"
+    },
+    {
+      "name": "新疆卫视",
+      "url": "http://123.189.36.7:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "mIrKKg6mxgqDCKhT44xNa"
+    },
+    {
+      "name": "新疆卫视",
+      "url": "http://123.189.36.155:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "zBLx2IU6sCH3gh1lMcwSR"
+    },
+    {
+      "name": "新疆卫视",
+      "url": "http://36.35.16.98:9901/tsfile/live/0001_15.m3u8?key=txiptv&playlive=0&authid=0",
+      "group": "卫视频道",
+      "id": "5MTBOuHeVAUkPXPdLWlAe"
+    },
+    {
+      "name": "旅游卫视",
+      "url": "http://36.35.16.98:9901/tsfile/live/0001_10.m3u8?key=txiptv&playlive=0&authid=0",
+      "group": "卫视频道",
+      "id": "WBs96DyDgU-ZVvvgxlDNT"
+    },
+    {
+      "name": "旅游卫视",
+      "url": "http://113.57.20.158:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "vhaFZKj49tBbUpWb3eYKe"
+    },
+    {
+      "name": "江苏卫视",
+      "url": "http://111.225.49.66:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "pXYZfTdSCQTNkvTEIWslq"
+    },
+    {
+      "name": "江苏卫视",
+      "url": "http://113.57.20.158:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "g4ApozkWnAFtyNBmUhPtd"
+    },
+    {
+      "name": "江苏卫视",
+      "url": "http://59.173.243.210:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "Gqyj0rY4wml78EBNtQKvd"
+    },
+    {
+      "name": "江苏卫视",
+      "url": "http://61.136.172.236:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "lOJae2Kf8Tpk6hN0mlHJQ"
+    },
+    {
+      "name": "江苏卫视",
+      "url": "http://58.19.38.162:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "bjuQQq9KkbU8fpqMJMvpu"
+    },
+    {
+      "name": "江苏卫视",
+      "url": "http://175.0.34.214:8081/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "JTBe3sTNuHlxerWURxe3E"
+    },
+    {
+      "name": "江苏卫视",
+      "url": "http://101.229.227.246:7777/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "ufHhHyYHAs0lrumqFJdfO"
+    },
+    {
+      "name": "江苏卫视",
+      "url": "http://222.71.95.178:9901/tsfile/live/0001_22.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "m39Npov3vyTkAVlCe2M8U"
+    },
+    {
+      "name": "江西卫视",
+      "url": "http://101.229.227.246:7777/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "B2HLNp6enjGmKvUOM4iYS"
+    },
+    {
+      "name": "江西卫视",
+      "url": "http://119.163.199.98:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "68WA3hH_kiSDz-_YPwik4"
+    },
+    {
+      "name": "江西卫视",
+      "url": "http://59.173.243.210:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "Z0kGJDn-z8BRfrJQYrg1k"
+    },
+    {
+      "name": "江西卫视",
+      "url": "http://222.134.245.16:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "2a6xTjIwt7sUpcBdfW0dt"
+    },
+    {
+      "name": "江西卫视",
+      "url": "http://58.19.38.162:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "BI1zrO7KbEcMsnWQdGlUr"
+    },
+    {
+      "name": "江西卫视",
+      "url": "http://175.0.34.214:8081/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "oldYzyoD4JP3Blb-WruSy"
+    },
+    {
+      "name": "江西卫视",
+      "url": "http://202.100.46.58:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "rfWuZgjMKgmnBhXnhhsum"
+    },
+    {
+      "name": "江西卫视",
+      "url": "http://123.189.36.7:9901/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "WVANrukSWM5McDW2nuzPG"
+    },
+    {
+      "name": "河北卫视",
+      "url": "http://101.229.227.246:7777/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "venZovfJy_MCD8SK2n6hi"
+    },
+    {
+      "name": "河北卫视",
+      "url": "http://111.225.49.66:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "a2BRKZmH8L8umTd9poZye"
+    },
+    {
+      "name": "河北卫视",
+      "url": "http://123.129.70.178:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "eT7PIymdiQf-YTkV_GLCP"
+    },
+    {
+      "name": "河北卫视",
+      "url": "http://61.136.172.236:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "MynJ36xY0aGxPqFlEkPqy"
+    },
+    {
+      "name": "河北卫视",
+      "url": "http://175.0.34.214:8081/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "wB1hbH-aMgn32QeY9UPch"
+    },
+    {
+      "name": "河北卫视",
+      "url": "http://123.189.36.7:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "m9EovGr8FRuAExI1YEAIe"
+    },
+    {
+      "name": "河北卫视",
+      "url": "http://123.189.36.155:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "bqV5yro2PU7hFRNwRdREt"
+    },
+    {
+      "name": "河北卫视",
+      "url": "http://60.12.183.46:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=0&authid=0",
+      "group": "卫视频道",
+      "id": "7RxDVAX_1Xdt6fMK9CO5d"
+    },
+    {
+      "name": "河南卫视",
+      "url": "http://59.173.243.210:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "nmop9cizoD8PL02_TjsIC"
+    },
+    {
+      "name": "河南卫视",
+      "url": "http://113.57.20.158:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "F91ud_2X0a9aRi69gNXE1"
+    },
+    {
+      "name": "河南卫视",
+      "url": "http://222.71.95.178:9901/tsfile/live/0001_30.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "x7rssMPFn0i3I9FO40TzN"
+    },
+    {
+      "name": "河南卫视",
+      "url": "http://101.229.227.246:7777/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "QCz4y9TscNYmQRwCgmu1P"
+    },
+    {
+      "name": "河南卫视",
+      "url": "http://175.0.34.214:8081/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "T8GJ5O2LgZWbDIpJeX2LL"
+    },
+    {
+      "name": "河南卫视",
+      "url": "http://202.100.46.58:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "tELolOuGJd56loi1J50hf"
+    },
+    {
+      "name": "河南卫视",
+      "url": "http://123.189.36.7:9901/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "OKt_8rSly2FhG6r0zGZXS"
+    },
+    {
+      "name": "河南卫视",
+      "url": "http://123.189.36.155:9901/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "n_gPivqtNtiyvcc_tEAwr"
+    },
+    {
+      "name": "浙江卫视",
+      "url": "http://101.229.227.246:7777/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "02gv_Z7GMrzw3C1hblAs7"
+    },
+    {
+      "name": "浙江卫视",
+      "url": "http://210.22.75.86:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "nae249TEC_0bPwgEKrUXm"
+    },
+    {
+      "name": "浙江卫视",
+      "url": "http://222.134.245.16:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "N_0a-wYKZ-drrvRT3SDAI"
+    },
+    {
+      "name": "浙江卫视",
+      "url": "http://119.163.199.98:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "bCKG3QYYdY0tImGC8aShQ"
+    },
+    {
+      "name": "浙江卫视",
+      "url": "http://222.71.95.178:9901/tsfile/live/0001_23.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "rK2efrvymxVFBagnctMP6"
+    },
+    {
+      "name": "浙江卫视",
+      "url": "http://223.112.219.174:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "kzpfj1ztwzKs81u-W8Ccf"
+    },
+    {
+      "name": "浙江卫视",
+      "url": "http://59.173.243.210:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "SBBH5MDj_CiSR4OY7XYwn"
+    },
+    {
+      "name": "浙江卫视",
+      "url": "http://111.225.49.66:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "lng6KGLCRpYAMlLA1iNa-"
+    },
+    {
+      "name": "海南卫视",
+      "url": "http://111.225.49.66:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "5p2D6Txtc_9EXCC6TMV3O"
+    },
+    {
+      "name": "海南卫视",
+      "url": "http://101.229.227.246:7777/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "lp2Hz8I1F4QC87THy1zeH"
+    },
+    {
+      "name": "海南卫视",
+      "url": "http://111.225.49.176:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "clPoTqadYMcUVKJcS7ADB"
+    },
+    {
+      "name": "海南卫视",
+      "url": "http://175.0.34.214:8081/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "KDenpdeanQmOBT4-pohQ-"
+    },
+    {
+      "name": "海南卫视",
+      "url": "http://59.173.243.210:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "tIoOio2YAH5ASno2hBzta"
+    },
+    {
+      "name": "海南卫视",
+      "url": "http://123.189.36.7:9901/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "pZ3LCWyt1BUpka9FyLOh0"
+    },
+    {
+      "name": "海南卫视",
+      "url": "http://123.189.36.155:9901/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "qdzzPZqWf55kzQ1MDYi-t"
+    },
+    {
+      "name": "海南卫视",
+      "url": "http://117.27.190.42:9998/tsfile/live/23272_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "rs88ywI3KOVvGUY-kglwR"
+    },
+    {
+      "name": "海峡卫视",
+      "url": "http://117.27.190.42:9998/tsfile/live/23283_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "o5cIIZX1ielNo1o3CDDBv"
+    },
+    {
+      "name": "深圳卫视",
+      "url": "http://59.173.243.210:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "M5-bVqhFL4-qqqoi7QZHy"
+    },
+    {
+      "name": "深圳卫视",
+      "url": "http://101.229.227.246:7777/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "876jnl3brAIpb_3_PCo01"
+    },
+    {
+      "name": "深圳卫视",
+      "url": "http://222.71.95.178:9901/tsfile/live/0001_24.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "1TJK2l6B6bANFpjGISSCf"
+    },
+    {
+      "name": "深圳卫视",
+      "url": "http://111.225.49.176:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "8gQhNaACVlc2NFJN0ddjb"
+    },
+    {
+      "name": "深圳卫视",
+      "url": "http://118.81.98.130:9999/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "msxXMrQOXrmWFRF_OfMXz"
+    },
+    {
+      "name": "深圳卫视",
+      "url": "http://210.22.75.86:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "tANh9taaOc-w06epJnxny"
+    },
+    {
+      "name": "深圳卫视",
+      "url": "http://175.0.34.214:8081/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "NbA61R2BlUBkEyoWCFOdn"
+    },
+    {
+      "name": "深圳卫视",
+      "url": "http://58.19.38.162:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "5E8sZM1vc7AU4Xq2pBMuc"
+    },
+    {
+      "name": "湖北卫视",
+      "url": "http://61.136.172.236:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "NDMAsPjbrc3QJ1oKI8ENw"
+    },
+    {
+      "name": "湖北卫视",
+      "url": "http://59.173.243.210:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "ZiGq0oEVQ50_-yNL-IjOO"
+    },
+    {
+      "name": "湖北卫视",
+      "url": "http://222.134.245.16:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "VZCBbm-CExObz584IwVAN"
+    },
+    {
+      "name": "湖北卫视",
+      "url": "http://175.0.34.214:8081/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "6iHXZKGhqiMdLTybv7X9z"
+    },
+    {
+      "name": "湖北卫视",
+      "url": "http://101.229.227.246:7777/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "V1wr6XZ_MIt0cty6IKmsS"
+    },
+    {
+      "name": "湖北卫视",
+      "url": "http://202.100.46.58:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "pAZFrdIKiAAzwC8t2sr-E"
+    },
+    {
+      "name": "湖北卫视",
+      "url": "http://60.12.183.46:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0",
+      "group": "卫视频道",
+      "id": "GmA4l-EnU2yNDyKV8b6uD"
+    },
+    {
+      "name": "湖北卫视",
+      "url": "http://36.35.16.98:9901/tsfile/live/0001_26.m3u8?key=txiptv&playlive=0&authid=0",
+      "group": "卫视频道",
+      "id": "dZfsiqdgIsG0hzYGeZmJD"
+    },
+    {
+      "name": "湖南卫视",
+      "url": "http://101.229.227.246:7777/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "xACq7rjpNsRiZoCw9ENoW"
+    },
+    {
+      "name": "湖南卫视",
+      "url": "http://222.134.245.16:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "eq1ZasJfzij1upjV1sMJi"
+    },
+    {
+      "name": "湖南卫视",
+      "url": "http://61.136.172.236:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "_ZV6M4_VwtHKSkFK93AAq"
+    },
+    {
+      "name": "湖南卫视",
+      "url": "http://118.81.98.130:9999/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "7HnmNSIUUmAViO9Q2FPWf"
+    },
+    {
+      "name": "湖南卫视",
+      "url": "http://175.0.34.214:8081/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "Ky8cgiQae4LVVtjqvNQO1"
+    },
+    {
+      "name": "湖南卫视",
+      "url": "http://222.71.95.178:9901/tsfile/live/0001_26.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "Pw-sxiph3FnloGfAF0N3D"
+    },
+    {
+      "name": "湖南卫视",
+      "url": "http://202.100.46.58:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "0QYAxVo_6DvvCAafHN69N"
+    },
+    {
+      "name": "湖南卫视",
+      "url": "http://123.138.216.44:9902/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "fMlPVYxy251mhlCsYEbMc"
+    },
+    {
+      "name": "甘肃卫视",
+      "url": "http://101.229.227.246:7777/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "UsI1gRupoYo9Kx4Pi6Vk8"
+    },
+    {
+      "name": "甘肃卫视",
+      "url": "http://202.100.46.58:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "BI1XdGILeK0gm-1yZkpn8"
+    },
+    {
+      "name": "甘肃卫视",
+      "url": "http://123.138.216.44:9902/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "sXrvfBq_9UTdDwVIUNe7-"
+    },
+    {
+      "name": "甘肃卫视",
+      "url": "http://123.189.36.7:9901/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "08q6BYUdNQk-LLiapodgW"
+    },
+    {
+      "name": "甘肃卫视",
+      "url": "http://123.189.36.155:9901/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "W8ksrvkFVxWjpmklPbdPh"
+    },
+    {
+      "name": "甘肃卫视",
+      "url": "http://117.27.190.42:9998/tsfile/live/23277_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "hSg6Xh0h-jWB09ySWb_bI"
+    },
+    {
+      "name": "甘肃卫视",
+      "url": "http://222.134.245.16:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "2YwSZjECyJKzUcvEGQXaT"
+    },
+    {
+      "name": "西藏卫视",
+      "url": "http://111.225.49.176:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "HkjzrnFJY1lV4E1AeCRON"
+    },
+    {
+      "name": "西藏卫视",
+      "url": "http://111.225.49.66:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "kmWERkR0pex2EE03-oz6G"
+    },
+    {
+      "name": "西藏卫视",
+      "url": "http://175.0.34.214:8081/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "C9ZikyVxM_65kJ1oPKVqs"
+    },
+    {
+      "name": "西藏卫视",
+      "url": "http://101.229.227.246:7777/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "0Z6-y2yZ7hVVd_2qNevzh"
+    },
+    {
+      "name": "西藏卫视",
+      "url": "http://123.189.36.7:9901/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "b9gp-URNqP98_DB8_UWAa"
+    },
+    {
+      "name": "贵州卫视",
+      "url": "http://101.229.227.246:7777/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "V00tACmmlpmzUJzUZIxPI"
+    },
+    {
+      "name": "贵州卫视",
+      "url": "http://58.19.38.162:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "mwlAL-D4CuiQ3ZKNTk19O"
+    },
+    {
+      "name": "贵州卫视",
+      "url": "http://222.134.245.16:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "tTPXx6ApnjYalrN6ef2jT"
+    },
+    {
+      "name": "贵州卫视",
+      "url": "http://210.22.75.86:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "xQuzm35NAPFD7eDhfkf2U"
+    },
+    {
+      "name": "贵州卫视",
+      "url": "http://175.0.34.214:8081/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "AHyg5yAvrlR-kiaqi1xsV"
+    },
+    {
+      "name": "贵州卫视",
+      "url": "http://202.100.46.58:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "23Ab1gRx1LvSNmtEGj6j3"
+    },
+    {
+      "name": "贵州卫视",
+      "url": "http://123.189.36.7:9901/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "hO3Zrc97ZSoE8zFOXKQBd"
+    },
+    {
+      "name": "贵州卫视",
+      "url": "http://123.189.36.155:9901/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "TevFc4BzFt41J0xj9ahYl"
+    },
+    {
+      "name": "辽宁卫视",
+      "url": "http://58.19.38.162:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "m_v-jzK9_CexrLa2Vtdas"
+    },
+    {
+      "name": "辽宁卫视",
+      "url": "http://59.173.243.210:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "Q_Icmm6pqgtqMO4m9wwuQ"
+    },
+    {
+      "name": "辽宁卫视",
+      "url": "http://111.225.49.66:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "eMA68SGBGqooxuS500wo_"
+    },
+    {
+      "name": "辽宁卫视",
+      "url": "http://222.134.245.16:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "WPm2whrj55xyf1Z5aLR2l"
+    },
+    {
+      "name": "辽宁卫视",
+      "url": "http://113.57.20.158:9901/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "mQBBl4zIhro0G8Ig3Wh75"
+    },
+    {
+      "name": "辽宁卫视",
+      "url": "http://175.0.34.214:8081/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "pqIPym456uF25ir2hL8su"
+    },
+    {
+      "name": "辽宁卫视",
+      "url": "http://101.229.227.246:7777/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "fPtg1QjEXdhiUFo_aHoda"
+    },
+    {
+      "name": "辽宁卫视",
+      "url": "http://61.136.172.236:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "QX76H40OLMi3LtQ6-Jwys"
+    },
+    {
+      "name": "重庆卫视",
+      "url": "http://101.229.227.246:7777/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "LDpyrytQ2X6hqqTOYzkrX"
+    },
+    {
+      "name": "重庆卫视",
+      "url": "http://59.173.243.210:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "8LIDIMSLfOYAfF79RyDAP"
+    },
+    {
+      "name": "重庆卫视",
+      "url": "http://111.225.49.176:9901/tsfile/live/faacts/0142_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "ggdZQVSKVZjJ4tFKGYwj5"
+    },
+    {
+      "name": "重庆卫视",
+      "url": "http://118.81.98.130:9999/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "U6S8VOLPpOE556VBksdH2"
+    },
+    {
+      "name": "重庆卫视",
+      "url": "http://202.100.46.58:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "ZhM-Gl3yNIkxmZ3IOqRSQ"
+    },
+    {
+      "name": "重庆卫视",
+      "url": "http://60.12.183.46:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0",
+      "group": "卫视频道",
+      "id": "2xiSMov6ZxTK9Zace8xXk"
+    },
+    {
+      "name": "重庆卫视",
+      "url": "http://36.35.16.98:9901/tsfile/live/0001_7.m3u8?key=txiptv&playlive=0&authid=0",
+      "group": "卫视频道",
+      "id": "WPRzsz73obAdmwK4Zuw-j"
+    },
+    {
+      "name": "重庆卫视",
+      "url": "http://117.27.190.42:9998/tsfile/live/23254_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "HikWmgp2eb5lRzXt-Vdv7"
+    },
+    {
+      "name": "陕西卫视",
+      "url": "http://101.229.227.246:7777/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "GJAJ25OhCkR9RZ2j5S6GZ"
+    },
+    {
+      "name": "陕西卫视",
+      "url": "http://111.225.49.176:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "vHIek6ICzKLBwUrzK3pTZ"
+    },
+    {
+      "name": "陕西卫视",
+      "url": "http://210.22.75.86:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "MA4JdOezh4QJyP_GlMWlY"
+    },
+    {
+      "name": "陕西卫视",
+      "url": "http://111.225.49.66:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "K_G7IjLBF8XhXMJWMvC0f"
+    },
+    {
+      "name": "陕西卫视",
+      "url": "http://222.134.245.16:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "czo01bmgnNodsBoQG6xyN"
+    },
+    {
+      "name": "陕西卫视",
+      "url": "http://58.57.21.166:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "tWLy7TQMcZXFzu4XEDVMw"
+    },
+    {
+      "name": "陕西卫视",
+      "url": "http://175.0.34.214:8081/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "TIGTxPT4XYxwXGNshVZy8"
+    },
+    {
+      "name": "陕西卫视",
+      "url": "http://202.100.46.58:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "uHfks8FTXe34uIwxu5pRh"
+    },
+    {
+      "name": "青海卫视",
+      "url": "http://113.57.20.158:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "pQxq9mQ4l-_kJZAvzyCrv"
+    },
+    {
+      "name": "青海卫视",
+      "url": "http://222.134.245.16:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "dWXkzBQbGN4QvogQ_f5cI"
+    },
+    {
+      "name": "青海卫视",
+      "url": "http://111.225.49.66:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "YoGvGa1_14bdM1kTllCwq"
+    },
+    {
+      "name": "青海卫视",
+      "url": "http://101.229.227.246:7777/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "5fZfpkyh_9jC11NVse6pL"
+    },
+    {
+      "name": "青海卫视",
+      "url": "http://202.100.46.58:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "pInuToWHawPGs4QeuDrpa"
+    },
+    {
+      "name": "青海卫视",
+      "url": "http://123.138.216.44:9902/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "I818NaNE73XrL0mDD8ft6"
+    },
+    {
+      "name": "青海卫视",
+      "url": "http://123.189.36.7:9901/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "qaft77jX0TLu67qct5bII"
+    },
+    {
+      "name": "青海卫视",
+      "url": "http://123.189.36.155:9901/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "TXYTkhkLNfp4dROZccpLU"
+    },
+    {
+      "name": "黑龙江卫视",
+      "url": "http://61.136.172.236:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "3K5hszQZpYZ142yxVvlNE"
+    },
+    {
+      "name": "黑龙江卫视",
+      "url": "http://101.229.227.246:7777/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "-DxicMd5AHLgQf6aSY3sv"
+    },
+    {
+      "name": "黑龙江卫视",
+      "url": "http://58.57.21.166:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "ZjuZ_5bDmF_oTFLrnDmyT"
+    },
+    {
+      "name": "黑龙江卫视",
+      "url": "http://113.57.20.158:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "pGgA8MO5MQOKUDpTvkA0q"
+    },
+    {
+      "name": "黑龙江卫视",
+      "url": "http://175.0.34.214:8081/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "VgKXrbqmrwK17UYtrwpxl"
+    },
+    {
+      "name": "黑龙江卫视",
+      "url": "http://222.134.245.16:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "QL-KJiL3gtO1yJ54CT7Cu"
+    },
+    {
+      "name": "黑龙江卫视",
+      "url": "http://118.81.98.130:9999/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "卫视频道",
+      "id": "gxIaqlW-DBdkfiKI-0_n4"
+    },
+    {
+      "name": "黑龙江卫视",
+      "url": "http://60.12.183.46:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0",
+      "group": "卫视频道",
+      "id": "py5V8-NRNPukJyW4MKUIw"
+    },
+    {
+      "name": "厦门1",
+      "url": "http://117.27.190.42:9998/tsfile/live/23293_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "oLZwDVSS7GDYuPhVjhmHg"
+    },
+    {
+      "name": "CETV2",
+      "url": "http://111.225.112.74:808/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "ypGxJcSGL-SpcwaKDuSyo"
+    },
+    {
+      "name": "厦门2",
+      "url": "http://117.27.190.42:9998/tsfile/live/23294_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "ZuT2MH3JC7LDikflefkB7"
+    },
+    {
+      "name": "武汉5文体",
+      "url": "http://59.173.243.210:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "nd-0W-Cyp_XAyfQpYPmwh"
+    },
+    {
+      "name": "武汉6外语",
+      "url": "http://59.173.243.210:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "7_CJ575-qmEvFPpTkIwLY"
+    },
+    {
+      "name": "BTV卡通",
+      "url": "http://113.57.20.158:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "5dZIktr1rsC4_-X78qBpZ"
+    },
+    {
+      "name": "CETV",
+      "url": "http://101.229.227.246:7777/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "K2OrEVU8rC3Bz_byIyjiP"
+    },
+    {
+      "name": "CGTN",
+      "url": "http://101.229.227.246:7777/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "8i9yGVkCcKqtZEJYj4_1H"
+    },
+    {
+      "name": "CGTN纪录",
+      "url": "http://175.0.34.214:8081/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "6MVbhi0tQyxrfoAVHaIU6"
+    },
+    {
+      "name": "CHC动作电影",
+      "url": "http://58.19.38.162:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "Yxa78JxOM-KHDYQzvfLDo"
+    },
+    {
+      "name": "CHC家庭影院",
+      "url": "http://58.19.38.162:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "Qwf0xelGGGxfnQItoqweE"
+    },
+    {
+      "name": "CHC电影",
+      "url": "http://58.19.38.162:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "HniYAL_X2eP_2IN_tiaZX"
+    },
+    {
+      "name": "ICS",
+      "url": "http://101.229.227.246:7777/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "sqfJn90fjQYzoHlapKhHo"
+    },
+    {
+      "name": "七彩戏剧",
+      "url": "http://101.229.227.246:7777/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "sjOlBshC7WO2JwulXfzHc"
+    },
+    {
+      "name": "三明综合",
+      "url": "http://117.27.190.42:9998/tsfile/live/23298_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "rcZ7yx4UiPI_A7hDgBbmd"
+    },
+    {
+      "name": "上海",
+      "url": "http://123.189.36.7:9901/tsfile/live/1133_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "yPu0O-XdWkcMjPg8ORof6"
+    },
+    {
+      "name": "上海",
+      "url": "http://123.189.36.155:9901/tsfile/live/1133_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "mzsHb9b_bbeSonxzZ0Wmq"
+    },
+    {
+      "name": "上海娱乐",
+      "url": "http://210.22.75.86:9901/tsfile/live/0107_5.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "oDFmz0_OTc61Xk_gAHiv8"
+    },
+    {
+      "name": "上海教育台",
+      "url": "http://101.229.227.246:7777/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "jW78FAW6gVi7ycBSmFmtn"
+    },
+    {
+      "name": "上海电视剧",
+      "url": "http://210.22.75.86:9901/tsfile/live/0107_2.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "faXMyWnxPcdKF89M0fue4"
+    },
+    {
+      "name": "上海都市",
+      "url": "http://222.71.95.178:9901/tsfile/live/0001_18.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "vm9lR6jD5bpCJ6eikZP7J"
+    },
+    {
+      "name": "东南",
+      "url": "http://123.189.36.7:9901/tsfile/live/1147_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "x8KTjKxc1la_zfO-QrKUX"
+    },
+    {
+      "name": "东南",
+      "url": "http://123.189.36.155:9901/tsfile/live/1147_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "yOtkZvOVbzLOLoO-CRucB"
+    },
+    {
+      "name": "东方影视",
+      "url": "http://101.229.227.246:7777/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "Be_yTI3MeiMET4qTe28B3"
+    },
+    {
+      "name": "东方影视",
+      "url": "http://222.71.95.178:9901/tsfile/live/0001_19.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "pO53Ld886z6fqgth1KV4k"
+    },
+    {
+      "name": "东方电影",
+      "url": "http://210.22.75.86:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "427rVeQL53kP3wibKLiPA"
+    },
+    {
+      "name": "东方财经",
+      "url": "http://101.229.227.246:7777/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "dyS8llH_bTbq_ACheGrjN"
+    },
+    {
+      "name": "中国教育",
+      "url": "http://113.57.20.158:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "bWnKM4WkxVnBfS4v62d9c"
+    },
+    {
+      "name": "五星体育",
+      "url": "http://101.229.227.246:7777/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "92wPbOXuQfrHclW0XTBMI"
+    },
+    {
+      "name": "五星体育",
+      "url": "http://210.22.75.86:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "MKWLomdatg7R1-4CrY0pr"
+    },
+    {
+      "name": "优漫卡通",
+      "url": "http://175.0.34.214:8081/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "ifl69WVZcPkIBTxEkJlWp"
+    },
+    {
+      "name": "优漫卡通",
+      "url": "http://123.189.36.7:9901/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "9h9eJdFaMqvXx-QQhlZEl"
+    },
+    {
+      "name": "优漫卡通",
+      "url": "http://123.189.36.155:9901/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "SByeAvTeIiGpKmm36phSP"
+    },
+    {
+      "name": "佳嘉卡通",
+      "url": "http://123.189.36.7:9901/tsfile/live/1091_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "bsZ5Pe45xCs1cHArsado_"
+    },
+    {
+      "name": "佳嘉卡通",
+      "url": "http://123.189.36.155:9901/tsfile/live/1091_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "ZLSJhVV3V_tx_dZ54mmMi"
+    },
+    {
+      "name": "凤凰资讯",
+      "url": "http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "MKBYSlNEABTuYGQk658YC"
+    },
+    {
+      "name": "动作电影",
+      "url": "http://123.189.36.7:9901/tsfile/live/1101_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "ud4h5jln_jtW1KJWrY89y"
+    },
+    {
+      "name": "动作电影",
+      "url": "http://123.189.36.155:9901/tsfile/live/1101_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "wEoEpbm2MZh5dpGOg4ZAz"
+    },
+    {
+      "name": "动漫秀场",
+      "url": "http://101.229.227.246:7777/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "0Vtm-N7XbWLDZE9oXfL2Y"
+    },
+    {
+      "name": "北京",
+      "url": "http://123.189.36.7:9901/tsfile/live/1151_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "dgdwrO9SxoQ5Fu0o-Q8Gu"
+    },
+    {
+      "name": "北京",
+      "url": "http://123.189.36.155:9901/tsfile/live/1151_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "zC43_Nu_A5xf9DikHMHCu"
+    },
+    {
+      "name": "南平综合",
+      "url": "http://117.27.190.42:9998/tsfile/live/23295_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "oCsbrB1X8kcFuYggyPa98"
+    },
+    {
+      "name": "卡酷动漫",
+      "url": "http://123.189.36.7:9901/tsfile/live/1087_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "GnS8HHbFwwVl2Vrla0fMm"
+    },
+    {
+      "name": "卡酷动漫",
+      "url": "http://123.189.36.155:9901/tsfile/live/1087_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "UPqrN-lBzCNG7H35MwzXC"
+    },
+    {
+      "name": "卡酷动画",
+      "url": "http://175.0.34.214:8081/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "K0NDbw29MLeeUpaQaR1YN"
+    },
+    {
+      "name": "卡酷动画",
+      "url": "http://182.117.136.23:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "7UBZQ5OTDQ0fzXGkfYRyI"
+    },
+    {
+      "name": "卡酷卡通",
+      "url": "http://101.229.227.246:7777/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "LtXz3GbN16oAsoPHIdu1E"
+    },
+    {
+      "name": "卡酷少儿",
+      "url": "http://101.229.227.246:7777/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "UV_QE5zcIynpfg9SFByMA"
+    },
+    {
+      "name": "吉林",
+      "url": "http://123.189.36.7:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "ZPh0uHqUUS1YUMkSKNQBk"
+    },
+    {
+      "name": "哈哈炫动",
+      "url": "http://60.12.183.46:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0",
+      "group": "其他频道",
+      "id": "16Md9iS6HJBsSFk52HDIw"
+    },
+    {
+      "name": "嘉佳卡通",
+      "url": "http://101.229.227.246:7777/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "1pl5MUZ-nRHf-9e716Fmh"
+    },
+    {
+      "name": "四川",
+      "url": "http://123.189.36.155:9901/tsfile/live/1130_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "ur6sv4o09XJBw5nrWl3OO"
+    },
+    {
+      "name": "天津",
+      "url": "http://123.189.36.155:9901/tsfile/live/1129_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "e6YniTUhdsTL_hvDIoyCS"
+    },
+    {
+      "name": "宁德综合",
+      "url": "http://117.27.190.42:9998/tsfile/live/23296_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "Dlxw6Cy7EGIqYCfZXShxp"
+    },
+    {
+      "name": "安徽",
+      "url": "http://123.189.36.155:9901/tsfile/live/1152_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "RhFmTq17rPyKQUK5iwdcV"
+    },
+    {
+      "name": "安徽国际",
+      "url": "http://36.35.16.98:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0",
+      "group": "其他频道",
+      "id": "8uNAGauPw-TL_A6TcHkhq"
+    },
+    {
+      "name": "家庭影院",
+      "url": "http://123.189.36.7:9901/tsfile/live/1105_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "NiR8HCfIcIFn3Byx0nZ09"
+    },
+    {
+      "name": "家庭影院",
+      "url": "http://123.189.36.155:9901/tsfile/live/1105_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "HDMrvQLZaWrbe00yXJnUX"
+    },
+    {
+      "name": "山东",
+      "url": "http://123.189.36.155:9901/tsfile/live/1134_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "KCROoJQyib8YvbHfT3hOz"
+    },
+    {
+      "name": "山东体育",
+      "url": "http://222.134.245.16:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "0GGKgB09MiMj0UvDGpSxU"
+    },
+    {
+      "name": "山东少儿",
+      "url": "http://123.129.70.178:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "x0DYOKvwnpRWwLuYC2URf"
+    },
+    {
+      "name": "山东生活",
+      "url": "http://123.129.70.178:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "ok9TdOOm3hPar2ADvPfkY"
+    },
+    {
+      "name": "山东齐鲁",
+      "url": "http://222.134.245.16:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "RuBAw-RZYekSMPCDfaSFU"
+    },
+    {
+      "name": "平潭综合",
+      "url": "http://117.27.190.42:9998/tsfile/live/23299_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "q5307lqLV2zCasgPionuQ"
+    },
+    {
+      "name": "广东",
+      "url": "http://123.189.36.155:9901/tsfile/live/1146_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "u507TPEBcCP2hDoowkKNm"
+    },
+    {
+      "name": "影视",
+      "url": "http://36.35.16.98:9901/tsfile/live/0001_36.m3u8?key=txiptv&playlive=0&authid=0",
+      "group": "其他频道",
+      "id": "dsk6XXacV-svqaTDoZhzU"
+    },
+    {
+      "name": "快乐垂钓",
+      "url": "http://58.19.38.162:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "qOCQYrg4e-mp0nMbQwl32"
+    },
+    {
+      "name": "快乐垂钓",
+      "url": "http://101.229.227.246:7777/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "bV7NraavMufH5NTdS1XT9"
+    },
+    {
+      "name": "新动漫",
+      "url": "http://123.189.36.7:9901/tsfile/live/1086_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "Gol8zdaJQ90ZJLTCuL4t6"
+    },
+    {
+      "name": "新动漫",
+      "url": "http://123.189.36.155:9901/tsfile/live/1086_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "oHhUVx-gN8LQbY6IsoA_s"
+    },
+    {
+      "name": "新闻综合",
+      "url": "http://210.22.75.86:9901/tsfile/live/0107_4.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "99xkwKpKmx_tnCEcrRGt6"
+    },
+    {
+      "name": "新闻综合",
+      "url": "http://101.229.227.246:7777/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "DGbC1YID-9GNi8p4k37Ac"
+    },
+    {
+      "name": "新闻综合",
+      "url": "http://210.22.75.86:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "QdI4oPHpLJ2NzSi5UrVZx"
+    },
+    {
+      "name": "新闻综合",
+      "url": "http://222.71.95.178:9901/tsfile/live/0001_17.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "CR26R5xPiVp2Ggsa0yZG9"
+    },
+    {
+      "name": "武汉教育",
+      "url": "http://59.173.243.210:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "dWkLVGg3fr4WTJijb4L4d"
+    },
+    {
+      "name": "江苏",
+      "url": "http://123.189.36.7:9901/tsfile/live/1140_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "KawzBOGTzjtwwhpRmCuz8"
+    },
+    {
+      "name": "江苏",
+      "url": "http://123.189.36.155:9901/tsfile/live/1140_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "iFOG2OwAYrs3nueG2CieS"
+    },
+    {
+      "name": "江苏城市",
+      "url": "http://58.216.229.130:9901/tsfile/live/0120_3.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "mZdVy0Vhf22KcbMvehyqD"
+    },
+    {
+      "name": "江苏综艺",
+      "url": "http://58.216.229.130:9901/tsfile/live/0120_4.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "wjke3qlIqsoKRiZ4pvwlu"
+    },
+    {
+      "name": "法治天地",
+      "url": "http://101.229.227.246:7777/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "UZPYer_zJLfYT_PZ80LQU"
+    },
+    {
+      "name": "浙江",
+      "url": "http://123.189.36.155:9901/tsfile/live/1128_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "RRTHooEqRYRwOfvlcsSUl"
+    },
+    {
+      "name": "深圳",
+      "url": "http://123.189.36.7:9901/tsfile/live/1132_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "tAofbk7k312iYl_YvHSIS"
+    },
+    {
+      "name": "深圳",
+      "url": "http://123.189.36.155:9901/tsfile/live/1132_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "HS2pxZ6oWTBS-w3OAiQqj"
+    },
+    {
+      "name": "游戏风云",
+      "url": "http://101.229.227.246:7777/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "xTxyb5Eny0SzRVq7cIzXc"
+    },
+    {
+      "name": "湖北",
+      "url": "http://123.189.36.7:9901/tsfile/live/1144_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "ideIHvCReIgomUrhDKXRk"
+    },
+    {
+      "name": "湖北垄上",
+      "url": "http://113.57.20.158:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "LdpVJe8_BO1H3ETkaf3Hg"
+    },
+    {
+      "name": "湖北影视",
+      "url": "http://59.173.243.210:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "lqbQ5aRu7K6b3ZYkCdkn5"
+    },
+    {
+      "name": "湖北影视",
+      "url": "http://113.57.20.158:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "ze1HEhZsBLawBHR2CC8I7"
+    },
+    {
+      "name": "湖北电视台",
+      "url": "http://59.173.243.210:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "4wGpn_i_wA2vfduzPDDX1"
+    },
+    {
+      "name": "湖北经视",
+      "url": "http://113.57.20.158:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "8rLlZOSn94wnEpaZa62qR"
+    },
+    {
+      "name": "湖北经视",
+      "url": "http://59.173.243.210:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "JRwTYyNqHdhfx2wSoOMuG"
+    },
+    {
+      "name": "湖南",
+      "url": "http://123.189.36.7:9901/tsfile/live/1143_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "2njz_enoG7qgB-m70-96U"
+    },
+    {
+      "name": "湖南国际",
+      "url": "http://175.0.34.214:8081/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "snWMfmG4tkA-1h9nCOkDO"
+    },
+    {
+      "name": "湖南娱乐",
+      "url": "http://175.0.34.214:8081/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "EK2WmVllQpWszx_PQ2yWe"
+    },
+    {
+      "name": "湖南电影",
+      "url": "http://175.0.34.214:8081/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "BRge7Ti9CVF_I4jpxUy98"
+    },
+    {
+      "name": "湖南都市",
+      "url": "http://175.0.34.214:8081/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "lGgErLPZEE6fOnim6niDK"
+    },
+    {
+      "name": "湖南金鹰卡通",
+      "url": "http://175.0.34.214:8081/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "i7mZjyE1DzXvlSR0xRag1"
+    },
+    {
+      "name": "炫动卡通",
+      "url": "http://123.189.36.7:9901/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "Mf3ebZ20hsesdabCcDE_D"
+    },
+    {
+      "name": "生活时尚",
+      "url": "http://101.229.227.246:7777/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "YqM892V3XL3bLPjHBEQdZ"
+    },
+    {
+      "name": "电影",
+      "url": "http://123.189.36.155:9901/tsfile/live/1104_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "cSX7bsNy7xo4uGj9RnOrt"
+    },
+    {
+      "name": "福建公共",
+      "url": "http://117.27.190.42:9998/tsfile/live/23285_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "RYCDXR27-AvFN4P8ecgaT"
+    },
+    {
+      "name": "福建少儿",
+      "url": "http://117.27.190.42:9998/tsfile/live/23290_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "cq4mqs9TibMriTGxjakLL"
+    },
+    {
+      "name": "福建文体",
+      "url": "http://117.27.190.42:9998/tsfile/live/23291_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "e-tAHb0CfWjj3f1liiO1_"
+    },
+    {
+      "name": "福建经济",
+      "url": "http://117.27.190.42:9998/tsfile/live/23289_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "9uW7JSjtrnA1XIZhNmmLq"
+    },
+    {
+      "name": "福建综合",
+      "url": "http://117.27.190.42:9998/tsfile/live/23284_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "m1aFYL8NK--7ueWcnrZKM"
+    },
+    {
+      "name": "科教",
+      "url": "http://36.35.16.98:9901/tsfile/live/0001_39.m3u8?key=txiptv&playlive=0&authid=0",
+      "group": "其他频道",
+      "id": "Vy09IkUJxZMXgGXnWZId1"
+    },
+    {
+      "name": "移动电视",
+      "url": "http://123.189.36.7:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "WgjhLMa7QCNel9pSBAeBC"
+    },
+    {
+      "name": "移动电视",
+      "url": "http://123.189.36.155:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "rgiu6c0NpmOytpBjsmBgu"
+    },
+    {
+      "name": "第一剧场",
+      "url": "http://58.19.38.162:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "WD4AVUbZ7CW7KixrocY-2"
+    },
+    {
+      "name": "第一剧场",
+      "url": "http://123.189.36.7:9901/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "uIZzhigkJ9qADRacuuMi2"
+    },
+    {
+      "name": "第一剧场",
+      "url": "http://123.189.36.155:9901/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "_hbTDtmrdNMbn_2S0L9rE"
+    },
+    {
+      "name": "第一财经",
+      "url": "http://101.229.227.246:7777/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "1orY4zPAEnzX2xpkhF91i"
+    },
+    {
+      "name": "纪实",
+      "url": "http://210.22.75.86:9901/tsfile/live/0107_3.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "DIQJ6QOYtBQk5IFa2Olqs"
+    },
+    {
+      "name": "纪实人文",
+      "url": "http://101.229.227.246:7777/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "sPOO0eyvge37xmNcDUF8h"
+    },
+    {
+      "name": "纪实科教",
+      "url": "http://101.229.227.246:7777/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "CtaheOTtUejgOR31qt_4Z"
+    },
+    {
+      "name": "经济生活",
+      "url": "http://36.35.16.98:9901/tsfile/live/0001_35.m3u8?key=txiptv&playlive=0&authid=0",
+      "group": "其他频道",
+      "id": "wWcE8b28Vjlbi-iG7m7AZ"
+    },
+    {
+      "name": "综艺",
+      "url": "http://36.35.16.98:9901/tsfile/live/0001_38.m3u8?key=txiptv&playlive=0&authid=0",
+      "group": "其他频道",
+      "id": "I-KixaeCxKE7mcq8oko60"
+    },
+    {
+      "name": "茶",
+      "url": "http://101.229.227.246:7777/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "hWiD1jq_ntTY5xWiAn7tz"
+    },
+    {
+      "name": "财富天下",
+      "url": "http://101.229.227.246:7777/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "uyewMXIHCOnK98cQ9w4pt"
+    },
+    {
+      "name": "足球",
+      "url": "http://113.57.20.158:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "JTov4mhbn8DxTpmjt-NOn"
+    },
+    {
+      "name": "辽宁体育",
+      "url": "http://123.189.36.155:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "ypoNfjT8wU3O8QL9spwpm"
+    },
+    {
+      "name": "辽宁公共",
+      "url": "http://123.189.36.7:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "CBy_Gw-YUwJTdejSGqKjQ"
+    },
+    {
+      "name": "辽宁公共",
+      "url": "http://123.189.36.155:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "vRbrsRXCXWZQ9mc3Mzv88"
+    },
+    {
+      "name": "辽宁北方",
+      "url": "http://123.189.36.155:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "Cgo30nfTK90GGi2lXQS-l"
+    },
+    {
+      "name": "辽宁影视剧",
+      "url": "http://123.189.36.7:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "fQJFhkeGzumHCcj9kaHpq"
+    },
+    {
+      "name": "辽宁生活",
+      "url": "http://123.189.36.7:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "ThjraoA7XTjVG09KuNGM4"
+    },
+    {
+      "name": "辽宁生活",
+      "url": "http://123.189.36.155:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "6kcKSU-B9An7DcVjQ3A0e"
+    },
+    {
+      "name": "辽宁经济",
+      "url": "http://123.189.36.7:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "5sKtFr0NjwMwTHhofqD1y"
+    },
+    {
+      "name": "辽宁都市",
+      "url": "http://123.189.36.7:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "lY6irh2LoqSULAxN2F2F0"
+    },
+    {
+      "name": "都市",
+      "url": "http://101.229.227.246:7777/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "wEtUAbZoCMI4gc-fXmXto"
+    },
+    {
+      "name": "都市剧场",
+      "url": "http://101.229.227.246:7777/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "IaLaMszytAkjDr8GTTt8r"
+    },
+    {
+      "name": "重庆",
+      "url": "http://123.189.36.155:9901/tsfile/live/1127_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "S5aqGUuTS-lEUPrl2dCfP"
+    },
+    {
+      "name": "金色学堂",
+      "url": "http://101.229.227.246:7777/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "CVffPk9EHKD5ZOy3GZMUj"
+    },
+    {
+      "name": "金鹰卡通",
+      "url": "http://101.229.227.246:7777/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "e8q4riZeXDQ9CNe-2gQ6R"
+    },
+    {
+      "name": "金鹰卡通",
+      "url": "http://58.19.38.162:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "TiJsoMiDmPzqZkXbXq7zI"
+    },
+    {
+      "name": "金鹰卡通",
+      "url": "http://118.81.98.130:9999/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "XIiRMMV_lxQ3HbkNgZ_kV"
+    },
+    {
+      "name": "金鹰卡通",
+      "url": "http://111.225.112.74:808/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "csHTUhLEN01nA5wY5qi-A"
+    },
+    {
+      "name": "金鹰卡通",
+      "url": "http://123.189.36.7:9901/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "I86YX0e0apeypA0vbmbFc"
+    },
+    {
+      "name": "金鹰卡通",
+      "url": "http://60.12.183.46:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=0&authid=0",
+      "group": "其他频道",
+      "id": "l2BPKez_UoB1ftudQCPxg"
+    },
+    {
+      "name": "金鹰纪实",
+      "url": "http://58.19.38.162:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "hEjbTk8RcFWkDaMYcWczE"
+    },
+    {
+      "name": "金鹰纪实",
+      "url": "http://101.229.227.246:7777/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "Wa2lkhR4XBfzb5QOpNc9S"
+    },
+    {
+      "name": "金鹰纪实",
+      "url": "http://117.27.190.42:9998/tsfile/live/23278_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "iTx3iomv5QYeb7Ag_dV8v"
+    },
+    {
+      "name": "风云足球",
+      "url": "http://58.19.38.162:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "Vjng-6lRyTSZ-R_QFojTO"
+    },
+    {
+      "name": "风云足球",
+      "url": "http://123.189.36.7:9901/tsfile/live/1122_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "gxDgFeVNnnbNxoLMT11xc"
+    },
+    {
+      "name": "风云足球",
+      "url": "http://123.189.36.155:9901/tsfile/live/1122_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "qbDnkCmF2uwPPWUNr4mAr"
+    },
+    {
+      "name": "高碑店综合",
+      "url": "http://111.225.49.176:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "P31ONoaJ2LMsO3I3WJkIB"
+    },
+    {
+      "name": "高碑店综合",
+      "url": "http://111.225.49.66:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "1SE9LtZAOYX1VMu3h7jS9"
+    },
+    {
+      "name": "黑龙江",
+      "url": "http://123.189.36.7:9901/tsfile/live/1145_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "cFWLlHrPs1GEjV8Ijea7P"
+    },
+    {
+      "name": "龙岩综合",
+      "url": "http://117.27.190.42:9998/tsfile/live/23297_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "group": "其他频道",
+      "id": "iqD45c3YkVdCgtimJKCAs"
+    }
+  ],
+  "tbl_analyze": [
+    {
+      "id": "ROxAiMJ9CO_cZEp1l_4qX",
+      "name": "虾米",
+      "url": "https://jx.xmflv.com/?url=",
+      "type": 0,
+      "isActive": true
+    },
+    {
+      "id": "Djn1BGOJfgzVAk5MyQnde",
+      "name": "虾米2",
+      "url": "https://jx.xmflv.cc/?url=",
+      "type": 0,
+      "isActive": true
+    },
+    {
+      "id": "7ndZaNJlmNiGhDKy3H9UJ",
+      "name": "红狐",
+      "url": "https://player.mrgaocloud.com/player/?url=",
+      "type": 0,
+      "isActive": true
+    }
+  ],
+  "tbl_drive": [],
+  "tbl_history": [
+    {
+      "date": 1724508285,
+      "title": "世界上最爱我的人",
+      "type": "search",
+      "id": "5f57fd4d-b1d7-4907-90af-4d9229d1adff"
+    }
+  ],
+  "tbl_star": [],
+  "tbl_setting": [
+    {
+      "key": "version",
+      "value": "3.3.7",
+      "id": "95a0bff0-78e8-4649-8107-02b2d5f3ff58"
+    },
+    {
+      "key": "theme",
+      "value": "auto",
+      "id": "7aebac5d-a190-4bca-98eb-c7fbcd631356"
+    },
+    {
+      "key": "lang",
+      "value": "zh_CN",
+      "id": "bb0a740e-ae96-4c9b-95da-16f0d11ac277"
+    },
+    {
+      "key": "defaultHot",
+      "value": "kylive",
+      "id": "bd875616-bde0-4e4f-9001-f90fb96ab0ce"
+    },
+    {
+      "key": "defaultSearchRecommend",
+      "value": "site",
+      "id": "4789cb89-d776-4441-9424-dbef8d4ffdfb"
+    },
+    {
+      "key": "defaultSearchType",
+      "value": "site",
+      "id": "8f84c8cd-bc54-4418-9a95-c6c7dd0e60da"
+    },
+    {
+      "key": "defaultViewCasual",
+      "value": "",
+      "id": "7d76bbad-8d5e-4615-a7d6-b4b8e56de6b2"
+    },
+    {
+      "key": "defaultDanMuKu",
+      "value": "",
+      "id": "e27e5fe1-349f-4399-9cd8-a83cf8d92419"
+    },
+    {
+      "key": "defaultIptvEpg",
+      "value": "http://diyp.112114.xyz/",
+      "id": "436378ca-5e18-4303-a84a-a4fa716d6c12"
+    },
+    {
+      "key": "defaultIptvLogo",
+      "value": "https://epg.112114.eu.org/logo/",
+      "id": "03242d9e-7121-4c03-8032-22a73b188b09"
+    },
+    {
+      "key": "iptvSkipIpv6",
+      "value": true,
+      "id": "cd0140f5-1cbf-4517-afda-ec6a0c909574"
+    },
+    {
+      "key": "iptvThumbnail",
+      "value": false,
+      "id": "cadd1b25-0d7d-43a9-bd06-61d5f78aa103"
+    },
+    {
+      "key": "iptvStatus",
+      "value": false,
+      "id": "b70f9a77-f49f-45bc-8e23-d3b6c1188739"
+    },
+    {
+      "key": "defaultSite",
+      "value": null,
+      "id": "3f8f51b6-8d1f-4df0-b1c4-e58973be4e9b"
+    },
+    {
+      "key": "defaultIptv",
+      "value": "OOu12VaiWN1tcIIEBfhYF",
+      "id": "fd4b527d-a85a-4415-ac66-9ff7deeaccd8"
+    },
+    {
+      "key": "defaultAnalyze",
+      "value": null,
+      "id": "39de0687-7ef3-4686-9066-c2e12adc42b7"
+    },
+    {
+      "key": "analyzeFlag",
+      "value": [
+        "youku",
+        "qq",
+        "iqiyi",
+        "qiyi",
+        "letv",
+        "sohu",
+        "tudou",
+        "pptv",
+        "mgtv"
+      ],
+      "id": "28f91b63-f312-483b-8987-717efa7cc5f2"
+    },
+    {
+      "key": "defaultDrive",
+      "value": "",
+      "id": "aead3947-575b-4c54-b8d3-7b7acaf3b992"
+    },
+    {
+      "key": "softSolution",
+      "value": false,
+      "id": "0aa534a4-d616-4d36-ab36-ddbbb09a3bb9"
+    },
+    {
+      "key": "agreementMask",
+      "value": true,
+      "id": "87885bbe-eac8-468a-9231-7d34563f7074"
+    },
+    {
+      "key": "recordShortcut",
+      "value": "",
+      "id": "2a142eca-0eda-4867-8fb2-9d3b9da60c78"
+    },
+    {
+      "key": "selfBoot",
+      "value": false,
+      "id": "0a398bed-7939-46db-9231-0e343889f280"
+    },
+    {
+      "key": "hardwareAcceleration",
+      "value": true,
+      "id": "8b0c6f6f-d326-40e2-bed5-224ec29afaa3"
+    },
+    {
+      "key": "ua",
+      "value": "Mozilla/5.0 (Linux; Android 11; M2007J3SC Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/77.0.3865.120 MQQBrowser/6.2 TBS/045714 Mobile Safari/537.36",
+      "id": "03c7844c-577f-4615-9417-079f1e25be4e"
+    },
+    {
+      "key": "playerMode",
+      "value": {
+        "type": "dplayer",
+        "external": ""
+      },
+      "id": "df86a855-d8b1-4578-92e7-320a0e5b17a7"
+    },
+    {
+      "key": "snifferMode",
+      "value": {
+        "type": "pie",
+        "url": ""
+      },
+      "id": "9bee0c0a-21dc-4a38-bc8f-05d9ebb3c87c"
+    },
+    {
+      "key": "timeout",
+      "value": 5000,
+      "id": "5bae97a6-8e40-43f1-99a9-588c5519794e"
+    },
+    {
+      "key": "webdev",
+      "value": {
+        "sync": false,
+        "data": {
+          "url": "https://dav.jianguoyun.com/dav/",
+          "username": "",
+          "password": ""
+        }
+      },
+      "id": "89e6fb2b-92be-427d-8f7a-abf0beb6a901"
+    },
+    {
+      "key": "barrage",
+      "value": {
+        "url": "",
+        "key": "",
+        "support": "",
+        "start": "",
+        "mode": "",
+        "color": "",
+        "content": ""
+      },
+      "id": "9e3f4174-8918-40c1-9dfa-0cdac456157e"
+    },
+    {
+      "key": "windowPosition",
+      "value": {
+        "status": false,
+        "position_main": {
+          "x": -8,
+          "y": -8,
+          "width": 1936,
+          "height": 1056
+        },
+        "position_play": {
+          "x": 522,
+          "y": 245,
+          "width": 875,
+          "height": 550
+        }
+      },
+      "id": "241833b0-3f19-458a-a1ff-40d3209e3754"
+    },
+    {
+      "key": "ai",
+      "value": {
+        "server": "",
+        "key": "",
+        "model": ""
+      },
+      "id": "f0a0c014-6a05-48f7-9d8f-b90341ec017f"
+    }
+  ]
+}
