@@ -1,0 +1,827 @@
+{
+  "tbl_site": [
+    {
+      "id": "3uNfF-OK2DyLoEGgHVVEB",
+      "name": "菜狗[官](drpy_t3)",
+      "type": 7,
+      "api": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_js/菜狗[官].js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "2pgql2p1A4yjzE04A136r",
+      "name": "奇珍异兽[官](drpy_t3)",
+      "type": 7,
+      "api": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_js/奇珍异兽[官].js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "M6IC6Dig7dwExNl-g0hYx",
+      "name": "优酷[官](drpy_t3)",
+      "type": 7,
+      "api": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_js/优酷[官].js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "Nl-7em8UKkJbSVKheXRqQ",
+      "name": "腾云驾雾[官](drpy_t3)",
+      "type": 7,
+      "api": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_js/腾云驾雾[官].js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "1zFfYhVP-cLqXH3mh2JXZ",
+      "name": "百忙无果[官](drpy_t3)",
+      "type": 7,
+      "api": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_js/百忙无果[官].js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "oi-nOCB3FG9KbciZjJgOb",
+      "name": "哔哩影视[官](drpy_t3)",
+      "type": 7,
+      "api": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_js/哔哩影视[官].js",
+      "isActive": false,
+      "status": true
+    },
+    {
+      "id": "CJB-Jjw-aMZHeeV6PnhKN",
+      "name": "哔哩教育[官](drpy_t3)",
+      "type": 7,
+      "api": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_js/我的哔哩[官].js?type=url&params=../json/哔哩教育.json",
+      "isActive": false,
+      "status": true
+    },
+    {
+      "id": "EEEW82MX1rf60M1Rxg_ez",
+      "name": "哔哩大全[官](drpy_t3)",
+      "type": 7,
+      "api": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_js/我的哔哩[官].js?type=url&params=../json/哔哩大全.json",
+      "isActive": false,
+      "status": true
+    },
+    {
+      "id": "XYLeRVSp2CS3t-MGw7EoY",
+      "name": "采王道长[合](drpy_t3)",
+      "type": 7,
+      "api": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_js/采集之王[合].js?type=url&params=../json/采集静态.json$1",
+      "isActive": false,
+      "status": true
+    },
+    {
+      "id": "J9ExOOJhdLPeFvE1gehR-",
+      "name": "采王zy[密](drpy_t3)",
+      "type": 7,
+      "api": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_js/采集之王[合].js?type=url&params=../json/采集[zy]静态.json$1",
+      "isActive": false,
+      "status": true
+    },
+    {
+      "id": "DY8CM0TA-o2MOLxcSVb9o",
+      "name": "29片库[密](drpy_t3)",
+      "type": 7,
+      "api": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_js/29片库[密].js",
+      "isActive": false,
+      "status": true
+    },
+    {
+      "id": "l32JUmU1EaZC5Qs9nLv2Q",
+      "name": "阿里土豆[盘](drpy_t3)",
+      "type": 7,
+      "api": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_js/阿里土豆[盘].js",
+      "isActive": false,
+      "status": true
+    },
+    {
+      "id": "FTiWH-R3kSltrLrZtbjJQ",
+      "name": "爱爱影院[密](drpy_t3)",
+      "type": 7,
+      "api": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_js/爱爱影院[密].js",
+      "isActive": false,
+      "status": true
+    },
+    {
+      "id": "XmqkCTId1fbqxQnG4kqoJ",
+      "name": "爱弹幕[漫](drpy_t3)",
+      "type": 7,
+      "api": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_js/爱弹幕[漫].js",
+      "isActive": false,
+      "status": true
+    },
+    {
+      "id": "YF9DBg8B6S8plXgpqGdO0",
+      "name": "包子漫画[画](drpy_t3)",
+      "type": 7,
+      "api": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_js/包子漫画[画].js",
+      "isActive": false,
+      "status": true
+    },
+    {
+      "id": "pt_ZXJlBiN2BdQnQEoih8",
+      "name": "采王成人[密](drpy_t3)",
+      "type": 7,
+      "api": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_js/采集之王[合].js?type=url&params=../json/采集[密]静态.json",
+      "isActive": false,
+      "status": true
+    },
+    {
+      "id": "0msADV2d74QisSGq6HUJR",
+      "name": "地瓜视频[密](drpy_t3)",
+      "type": 7,
+      "api": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_js/地瓜视频[密].js",
+      "isActive": false,
+      "status": true
+    },
+    {
+      "id": "s9KLdMH14qtcsmruL6zJP",
+      "name": "豆瓣[官](drpy_t3)",
+      "type": 7,
+      "api": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_js/豆瓣[官].js",
+      "isActive": false,
+      "status": true
+    },
+    {
+      "id": "4J1NiIHIdlOw9CVchlQ-I",
+      "name": "番号资源[密](drpy_t3)",
+      "type": 7,
+      "api": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_js/番号资源[密].js",
+      "isActive": false,
+      "status": true
+    },
+    {
+      "id": "KKnnxiXJ9FxmgtNMlHy_7",
+      "name": "番茄小说[书](drpy_t3)",
+      "type": 7,
+      "api": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_js/番茄小说[书].js",
+      "isActive": false,
+      "status": true
+    },
+    {
+      "id": "icahvoiBgJk3igSmZgt7r",
+      "name": "狗狗盘[搜](drpy_t3)",
+      "type": 7,
+      "api": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_js/狗狗盘[搜].js",
+      "isActive": false,
+      "status": true
+    },
+    {
+      "id": "5F1CvVgUAXk9v6tTA9tf8",
+      "name": "古风漫画[画](drpy_t3)",
+      "type": 7,
+      "api": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_js/古风漫画[画].js",
+      "isActive": false,
+      "status": true
+    },
+    {
+      "id": "joV2erzjNjGRF5oNUeFO6",
+      "name": "黑木耳资源[资](drpy_t3)",
+      "type": 7,
+      "api": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_js/黑木耳资源[资].js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "74IgMEr7iHu5ZFcvwfuQv",
+      "name": "花子动漫[漫](drpy_t3)",
+      "type": 7,
+      "api": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_js/花子动漫[漫].js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "eOOlh4soy-t9-Jd0W_zUu",
+      "name": "九妖仓库[密](drpy_t3)",
+      "type": 7,
+      "api": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_js/九妖仓库[密].js",
+      "isActive": false,
+      "status": true
+    },
+    {
+      "id": "MK4WvetWQDYasfHdouETG",
+      "name": "橘子柚[盘](drpy_t3)",
+      "type": 7,
+      "api": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_js/橘子柚[盘].js",
+      "isActive": false,
+      "status": true
+    },
+    {
+      "id": "RyMwXgTR5OY4z8W9jWbyV",
+      "name": "看了么(drpy_t3)",
+      "type": 7,
+      "api": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_js/看了么.js",
+      "isActive": false,
+      "status": true
+    },
+    {
+      "id": "0qXre_g9m4jzgX2zYoet3",
+      "name": "蜡笔[盘](drpy_t3)",
+      "type": 7,
+      "api": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_js/蜡笔[盘].js",
+      "isActive": false,
+      "status": true
+    },
+    {
+      "id": "GKUeQAKPFvZnbZlDE5glL",
+      "name": "乐草TV[密](drpy_t3)",
+      "type": 7,
+      "api": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_js/乐草TV[密].js",
+      "isActive": false,
+      "status": true
+    },
+    {
+      "id": "3xG63WQk80MWC4t5GKAzW",
+      "name": "路漫漫[漫](drpy_t3)",
+      "type": 7,
+      "api": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_js/路漫漫[漫].js",
+      "isActive": false,
+      "status": true
+    },
+    {
+      "id": "tD7dB3nWXatIBSIANAFDp",
+      "name": "路视频[密](drpy_t3)",
+      "type": 7,
+      "api": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_js/路视频[密].js",
+      "isActive": false,
+      "status": true
+    },
+    {
+      "id": "mD4_cHrFYkO5SXwOlcgng",
+      "name": "绿色仓库[密](drpy_t3)",
+      "type": 7,
+      "api": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_js/绿色仓库[密].js",
+      "isActive": false,
+      "status": true
+    },
+    {
+      "id": "n5NUA9qvsU08OYxDASsLy",
+      "name": "漫画走廊[画密飞](drpy_t3)",
+      "type": 7,
+      "api": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_js/漫画走廊[画密飞].js",
+      "isActive": false,
+      "status": true
+    },
+    {
+      "id": "k4wR5lotJsStjrdepi_a-",
+      "name": "南瓜影视[优](drpy_t3)",
+      "type": 7,
+      "api": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_js/南瓜影视[优].js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "5XEA5TVZjfi8Dqwl5k_4B",
+      "name": "千百视频[密](drpy_t3)",
+      "type": 7,
+      "api": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_js/千百视频[密].js",
+      "isActive": false,
+      "status": true
+    },
+    {
+      "id": "_IPywV0rX1Ks_qSBdejS1",
+      "name": "色库[密](drpy_t3)",
+      "type": 7,
+      "api": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_js/色库[密].js",
+      "isActive": false,
+      "status": true
+    },
+    {
+      "id": "tcc7SeMf-pbhxOYF_zBTm",
+      "name": "玩偶哥哥[盘](drpy_t3)",
+      "type": 7,
+      "api": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_js/玩偶哥哥[盘].js",
+      "isActive": false,
+      "status": true
+    },
+    {
+      "id": "bgo6TDL7uolO1FUngl_05",
+      "name": "小女18[密](drpy_t3)",
+      "type": 7,
+      "api": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_js/小女18[密].js",
+      "isActive": false,
+      "status": true
+    },
+    {
+      "id": "QMT1KQQPSavRZfucQRg-_",
+      "name": "小站盘[搜](drpy_t3)",
+      "type": 7,
+      "api": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_js/小站盘[搜].js",
+      "isActive": false,
+      "status": true
+    },
+    {
+      "id": "xrp7znzIbLNzwzHTP3BPX",
+      "name": "一点视频[密](drpy_t3)",
+      "type": 7,
+      "api": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_js/一点视频[密].js",
+      "isActive": false,
+      "status": true
+    },
+    {
+      "id": "P3MSijfDCqlLq_oMymXZ6",
+      "name": "一号影院[搜](drpy_t3)",
+      "type": 7,
+      "api": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_js/一号影院[搜].js",
+      "isActive": false,
+      "status": true
+    },
+    {
+      "id": "rScwYYr8PQHrK4Em9LYeV",
+      "name": "易搜[搜](drpy_t3)",
+      "type": 7,
+      "api": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_js/易搜[搜].js",
+      "isActive": false,
+      "status": true
+    },
+    {
+      "id": "AlXoCgdMRIKDqmrvlIvxs",
+      "name": "影搜[搜](drpy_t3)",
+      "type": 7,
+      "api": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_js/影搜[搜].js",
+      "isActive": false,
+      "status": true
+    },
+    {
+      "id": "51jZv9eEyx5O5Q4Ww5_UU",
+      "name": "云盘资源网[盘](drpy_t3)",
+      "type": 7,
+      "api": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_js/云盘资源网[盘].js",
+      "isActive": false,
+      "status": true
+    },
+    {
+      "id": "rZRp24DsJlYnN7KZ1XwDf",
+      "name": "至臻[盘](drpy_t3)",
+      "type": 7,
+      "api": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_js/至臻[盘].js",
+      "isActive": false,
+      "status": true
+    },
+    {
+      "id": "aLuIBYtLe4HvxA_iFmhnq",
+      "name": "FreeOKLOL(drpy_t3)",
+      "type": 7,
+      "api": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "http://127.0.0.1:9978/api/v1/file/drpy_dzlive/drpy_js/FreeOKLOL.js",
+      "isActive": false,
+      "status": true
+    }
+  ],
+  "tbl_iptv": [
+    {
+      "id": "OOu12VaiWN1tcIIEBfhYF",
+      "name": "稳定github直播",
+      "type": "remote",
+      "isActive": true,
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt"
+    }
+  ],
+  "tbl_channel": [],
+  "tbl_analyze": [
+    {
+      "id": "ROxAiMJ9CO_cZEp1l_4qX",
+      "name": "虾米",
+      "url": "https://jx.xmflv.com/?url=",
+      "type": 0,
+      "isActive": true
+    },
+    {
+      "id": "Djn1BGOJfgzVAk5MyQnde",
+      "name": "虾米2",
+      "url": "https://jx.xmflv.cc/?url=",
+      "type": 0,
+      "isActive": true
+    },
+    {
+      "id": "7ndZaNJlmNiGhDKy3H9UJ",
+      "name": "红狐",
+      "url": "https://player.mrgaocloud.com/player/?url=",
+      "type": 0,
+      "isActive": true
+    }
+  ],
+  "tbl_drive": [],
+  "tbl_history": [
+    {
+      "date": 1724503352,
+      "title": "你的名字",
+      "type": "search",
+      "id": "2ae49e81-2f64-4d80-b437-a40ebe301f77"
+    },
+    {
+      "date": 1724503707,
+      "title": "仙剑四",
+      "type": "search",
+      "id": "dd005098-51c0-4904-820e-1b033c678f3e"
+    },
+    {
+      "date": 1724504258,
+      "type": "film",
+      "relateId": "Nl-7em8UKkJbSVKheXRqQ",
+      "siteSource": "qq",
+      "playEnd": true,
+      "videoId": "variety$mzc00200s6d7125",
+      "videoImage": "https://vcover-hz-pic.puui.qpic.cn/vcover_hz_pic/0/mzc00200s6d71251722749296206/0",
+      "videoName": " 2024七夕奇妙游",
+      "videoIndex": "在线播放$https://v.qq.com/x/cover/mzc00200s6d7125/z4100njy8dq.html",
+      "watchTime": 15.104,
+      "duration": 0,
+      "skipTimeInStart": 30,
+      "skipTimeInEnd": 30,
+      "id": "3226a07c-2b4e-48f2-8992-f823b7cc04ab"
+    }
+  ],
+  "tbl_star": [],
+  "tbl_setting": [
+    {
+      "key": "version",
+      "value": "3.3.7",
+      "id": "95a0bff0-78e8-4649-8107-02b2d5f3ff58"
+    },
+    {
+      "key": "theme",
+      "value": "auto",
+      "id": "7aebac5d-a190-4bca-98eb-c7fbcd631356"
+    },
+    {
+      "key": "lang",
+      "value": "zh_CN",
+      "id": "bb0a740e-ae96-4c9b-95da-16f0d11ac277"
+    },
+    {
+      "key": "defaultHot",
+      "value": "kylive",
+      "id": "bd875616-bde0-4e4f-9001-f90fb96ab0ce"
+    },
+    {
+      "key": "defaultSearchRecommend",
+      "value": "site",
+      "id": "4789cb89-d776-4441-9424-dbef8d4ffdfb"
+    },
+    {
+      "key": "defaultSearchType",
+      "value": "site",
+      "id": "8f84c8cd-bc54-4418-9a95-c6c7dd0e60da"
+    },
+    {
+      "key": "defaultViewCasual",
+      "value": "",
+      "id": "7d76bbad-8d5e-4615-a7d6-b4b8e56de6b2"
+    },
+    {
+      "key": "defaultDanMuKu",
+      "value": "",
+      "id": "e27e5fe1-349f-4399-9cd8-a83cf8d92419"
+    },
+    {
+      "key": "defaultIptvEpg",
+      "value": "http://diyp.112114.xyz/",
+      "id": "436378ca-5e18-4303-a84a-a4fa716d6c12"
+    },
+    {
+      "key": "defaultIptvLogo",
+      "value": "https://epg.112114.eu.org/logo/",
+      "id": "03242d9e-7121-4c03-8032-22a73b188b09"
+    },
+    {
+      "key": "iptvSkipIpv6",
+      "value": true,
+      "id": "cd0140f5-1cbf-4517-afda-ec6a0c909574"
+    },
+    {
+      "key": "iptvThumbnail",
+      "value": false,
+      "id": "cadd1b25-0d7d-43a9-bd06-61d5f78aa103"
+    },
+    {
+      "key": "iptvStatus",
+      "value": false,
+      "id": "b70f9a77-f49f-45bc-8e23-d3b6c1188739"
+    },
+    {
+      "key": "defaultSite",
+      "value": null,
+      "id": "3f8f51b6-8d1f-4df0-b1c4-e58973be4e9b"
+    },
+    {
+      "key": "defaultIptv",
+      "value": "OOu12VaiWN1tcIIEBfhYF",
+      "id": "fd4b527d-a85a-4415-ac66-9ff7deeaccd8"
+    },
+    {
+      "key": "defaultAnalyze",
+      "value": null,
+      "id": "39de0687-7ef3-4686-9066-c2e12adc42b7"
+    },
+    {
+      "key": "analyzeFlag",
+      "value": [
+        "youku",
+        "qq",
+        "iqiyi",
+        "qiyi",
+        "letv",
+        "sohu",
+        "tudou",
+        "pptv",
+        "mgtv"
+      ],
+      "id": "28f91b63-f312-483b-8987-717efa7cc5f2"
+    },
+    {
+      "key": "defaultDrive",
+      "value": "",
+      "id": "aead3947-575b-4c54-b8d3-7b7acaf3b992"
+    },
+    {
+      "key": "softSolution",
+      "value": false,
+      "id": "0aa534a4-d616-4d36-ab36-ddbbb09a3bb9"
+    },
+    {
+      "key": "agreementMask",
+      "value": true,
+      "id": "87885bbe-eac8-468a-9231-7d34563f7074"
+    },
+    {
+      "key": "recordShortcut",
+      "value": "",
+      "id": "2a142eca-0eda-4867-8fb2-9d3b9da60c78"
+    },
+    {
+      "key": "selfBoot",
+      "value": false,
+      "id": "0a398bed-7939-46db-9231-0e343889f280"
+    },
+    {
+      "key": "hardwareAcceleration",
+      "value": true,
+      "id": "8b0c6f6f-d326-40e2-bed5-224ec29afaa3"
+    },
+    {
+      "key": "ua",
+      "value": "Mozilla/5.0 (Linux; Android 11; M2007J3SC Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/77.0.3865.120 MQQBrowser/6.2 TBS/045714 Mobile Safari/537.36",
+      "id": "03c7844c-577f-4615-9417-079f1e25be4e"
+    },
+    {
+      "key": "playerMode",
+      "value": {
+        "type": "dplayer",
+        "external": ""
+      },
+      "id": "df86a855-d8b1-4578-92e7-320a0e5b17a7"
+    },
+    {
+      "key": "snifferMode",
+      "value": {
+        "type": "pie",
+        "url": ""
+      },
+      "id": "9bee0c0a-21dc-4a38-bc8f-05d9ebb3c87c"
+    },
+    {
+      "key": "timeout",
+      "value": 5000,
+      "id": "5bae97a6-8e40-43f1-99a9-588c5519794e"
+    },
+    {
+      "key": "webdev",
+      "value": {
+        "sync": false,
+        "data": {
+          "url": "https://dav.jianguoyun.com/dav/",
+          "username": "",
+          "password": ""
+        }
+      },
+      "id": "89e6fb2b-92be-427d-8f7a-abf0beb6a901"
+    },
+    {
+      "key": "barrage",
+      "value": {
+        "url": "",
+        "key": "",
+        "support": "",
+        "start": "",
+        "mode": "",
+        "color": "",
+        "content": ""
+      },
+      "id": "9e3f4174-8918-40c1-9dfa-0cdac456157e"
+    },
+    {
+      "key": "windowPosition",
+      "value": {
+        "status": false,
+        "position_main": {
+          "x": 460,
+          "y": 200,
+          "width": 1000,
+          "height": 640
+        },
+        "position_play": {
+          "x": 405,
+          "y": 245,
+          "width": 875,
+          "height": 550
+        }
+      },
+      "id": "241833b0-3f19-458a-a1ff-40d3209e3754"
+    },
+    {
+      "key": "ai",
+      "value": {
+        "server": "",
+        "key": "",
+        "model": ""
+      },
+      "id": "f0a0c014-6a05-48f7-9d8f-b90341ec017f"
+    }
+  ]
+}
