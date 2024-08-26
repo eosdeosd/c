@@ -24,7 +24,18 @@
 
 
 
-   { "key": "NETFIY","name": "⚡NETFIY┃APP", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1,"ext": "https://www.netfly.tv/api.php/app/" },//⚡NETFIY┃APP
+{
+      "id": "joV2erzjNjGRF5oNUeFO6",
+      "name": "🎬️1080采集",
+      "type": 7,
+      "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/drpy_dzlive2/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/drpy_dzlive2/drpy_js/%E9%BB%91%E6%9C%A8%E8%80%B3%E8%B5%84%E6%BA%90%5B%E8%B5%84%5D.js",
+      "isActive": true,
+      "status": true
+    },
 
 
 
