@@ -1,9 +1,9 @@
 //以下内容为互联网收集，只为自用。
 {
   //注释定义全局jar爬虫文件,先下载一个爬虫文件，然后上传到https://gitee.com/你申请的个人空间里面，然后把地址填入进去如下
-
+//https://gitee.com/huanzi989/self-use---tv-box/raw/master/zy99.jar
   //打开https://www.lige.fit/ua  网址，去里面寻找解密的源，自己复制修改使用。  能够打开的源，就说明有效使用。
-    "spider": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/zy.jar",
+    "spider": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/zy99.jar",
 
   
   
