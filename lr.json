@@ -15,7 +15,7 @@
 
 
 
-	{"key": "花子动漫","name": "⚡花子动漫（1080P日漫）","type": 3,"api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/drpy_dzlive2/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/drpy_dzlive2/drpy_js/%E8%8A%B1%E5%AD%90%E5%8A%A8%E6%BC%AB%5B%E6%BC%AB%5D.js"},
+	
 
 
 
@@ -93,7 +93,7 @@
 
 
 
-     //{"key": "Lib","name": "🌟┃Lib┃直连","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.libvio.fun/"},
+     {"key": "Lib","name": "🌟┃Lib┃直连","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.libvio.fun/"},
 
 
 
