@@ -15,13 +15,13 @@
 
 
 
-	
+     {"key": "Lib","name": "🌟┃Lib┃直连","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://libvio.link/"},	
 
 
 
       
 
-//{"key":"Lib","name":"🌟┃Lib┃推荐（直连","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.libvio.fun/"},//🌟┃Lib┃推荐（直连）
+//{"key":"文采","name":"文采推荐（直连","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.hkybqufgh.com/"},//🌟┃Lib┃推荐（直连）
 
 
 //{ "key": "很厉害的南瓜","name": "🎃┃南瓜┃备用","type": 3, "api": "csp_NanGua", "jar":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/%E5%8D%97%E7%93%9C.txt","playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1 },
@@ -93,7 +93,7 @@
 
 
 
-     {"key": "Lib","name": "🌟┃Lib┃直连","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.libvio.fun/"},
+     {"key": "Lib","name": "🌟┃Lib┃直连","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://libvio.link/"},
 
 
 
