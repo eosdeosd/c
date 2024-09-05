@@ -15,7 +15,13 @@
 
 
 
-     //{"key": "Lib","name": "🌟┃Lib┃直连","type": 3,"api": "csp_Libvio","playerType":3,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://libvio.link/"},	
+
+ {"key": "圣城影视", "name": "🌟┃Lib┃直连","type": 3, "api": "csp_SC1080", "searchable": 1,"quickSearch": 1, "filterable": 1,"jar":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%9C%A3%E5%9F%8E%E5%BD%B1%E8%A7%86.jar"},//圣城影视
+
+
+
+
+     //{"key": "Lib","name": "🌟┃Lib┃直连","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://libvio.link/"},	
 
 
 
