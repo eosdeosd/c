@@ -1,6 +1,6 @@
 
 {
-   "spider": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/zy.jar",
+   "spider": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%9C%A3%E5%9F%8E%E5%BD%B1%E8%A7%86.jar",
  
     "wallpaper": "https://tool.weetai.cn/api",
    "warningText": "此源请搭配月光宝盒MAX3.10版软件使用，软件设置里面开启自动换源。资源来自网络，所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买。",
@@ -16,7 +16,7 @@
 
 
 
- {"key": "Lib", "name": "🌟┃Lib┃推荐（木耳蓝光播放）","type": 3, "api": "csp_SC1080", "searchable": 1,"quickSearch": 1, "filterable": 1,"jar":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%9C%A3%E5%9F%8E%E5%BD%B1%E8%A7%86.jar"},
+ {"key": "Lib", "name": "🌟┃Lib┃推荐（木耳蓝光播放）","type": 3, "api": "csp_SC1080", "searchable": 1,"quickSearch": 1, "filterable": 1},
 
 
 
