@@ -29,7 +29,7 @@
 
 {"key": "csp_KungFu404","name":"🐲阿里设置","type": 3, "api": "csp_KungFu404", "searchable":1,"filterable": 0, "changeable":0,"jar":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E4%BA%91%E7%9B%98%E6%90%9C%E7%B4%A2/alibaba.jar","ext":"http://127.0.0.1:9978/tvbox/tok.txt+4k|fhd|auto"},
 
-
+ {"key": "圣城影视", "name": "🌟┃Lib┃直连","type": 3, "api": "csp_SC1080", "searchable": 1,"quickSearch": 1, "filterable": 1,"jar":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%9C%A3%E5%9F%8E%E5%BD%B1%E8%A7%86.jar"},//圣城影视
 
 
 
@@ -38,7 +38,7 @@
 
 //{"key": "玩偶哥哥","name":"😊玩偶|哥哥4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E4%BA%91%E7%9B%98%E6%90%9C%E7%B4%A2/%E7%8E%A9%E5%81%B6%E5%93%A5%E5%93%A5.json"},
 
-{"key":"Lib","name":"🌟┃Lib┃推荐（秒播无广告）","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.libvio.fun/" },
+//{"key":"Lib","name":"🌟┃Lib┃推荐（秒播无广告）","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.libvio.fun/" },
 
 
 //{ "key": "很厉害的南瓜","name": "🎃很厉害┃南瓜","type": 3, "api": "csp_NanGua", "jar":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/%E5%8D%97%E7%93%9C.txt","playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1 },
