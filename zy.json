@@ -35,11 +35,10 @@
 
 
 
- {"key": "圣域", "name": "┃圣域┃推荐（木耳源）","type": 3, "api": "csp_SC1080", "searchable": 1,"quickSearch": 1, "filterable": 1},
+ {"key": "圣域", "name": "⭐️┃圣域┃推荐（木耳源）","type": 3, "api": "csp_SC1080", "searchable": 1,"quickSearch": 1, "filterable": 1},
 
 
-{ "key": "立播弹幕版", "name": "⭐️立播┃选择BD播放", "type": 3,"api": "csp_Libvio", "jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/Libvio.txt","searchable": 1,"filterable": 1, "changeable": 1, "ext": { "token": "file://TV/ali_token.txt", "cookie": "file://TV/quark_cookie.txt", "uc_cookie": "file://TV/uc_cookie.txt",
-     "site": "https://libvio.link" } },
+//{ "key": "立播弹幕版", "name": "⭐️立播┃选择BD播放", "type": 3,"api": "csp_Libvio", "jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/Libvio.txt","searchable": 1,"filterable": 1, "changeable": 1, "ext": { "token": "file://TV/ali_token.txt", "cookie": "file://TV/quark_cookie.txt", "uc_cookie": "file://TV/uc_cookie.txt","site": "https://libvio.link" } },
 
 
 //{"key": "玩我哥哥","name":"😊玩我|哥哥4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E4%BA%91%E7%9B%98%E6%90%9C%E7%B4%A2/%E7%8E%A9%E6%88%91%E5%93%A5%E5%93%A5.json"},
