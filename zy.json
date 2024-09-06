@@ -29,13 +29,11 @@
 
 {"key": "csp_KungFu404","name":"🐲阿里设置","type": 3, "api": "csp_KungFu404", "searchable":1,"filterable": 0, "changeable":0,"jar":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E4%BA%91%E7%9B%98%E6%90%9C%E7%B4%A2/alibaba.jar","ext":"http://127.0.0.1:9978/tvbox/tok.txt+4k|fhd|auto"},
 
- {"key": "Lib", "name": "🌟┃Lib┃推荐（秒播无广告）","type": 3, "api": "csp_SC1080", "searchable": 1,"quickSearch": 1, "filterable": 1},
 
 
-  { "key": "文采","name": "💮文采┃秒播","type": 3, "api": "csp_Jpys", "playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1 },
+  { "key": "Lib","name": "🌟┃Lib┃推荐（秒播无广告）","type": 3, "api": "csp_Jpys","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E6%96%87%E9%87%87%E2%94%83%E7%A7%92%E6%92%AD.txt", "playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1 },
 
-
-
+ {"key": "圣域", "name": "┃圣域┃推荐（木耳源）","type": 3, "api": "csp_SC1080", "searchable": 1,"quickSearch": 1, "filterable": 1},
 
 
 
