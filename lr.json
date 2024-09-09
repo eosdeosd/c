@@ -21,7 +21,7 @@
 
 
 
-{"key":"js_Lib","name":"🍲Lib影视","type":3,"api":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%B1%86%E7%93%A3/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/libvio.js"},
+{"key":"js_Lib","name":"🍲Lib影视(BD播放)","type":3,"api":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%B1%86%E7%93%A3/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/libvio.js"},
 
 
 
@@ -86,7 +86,7 @@
 
 
 
-  { "key": "heimuer",  "name": "⭐️木耳资源", "type": 1,  "api": "https://json02.heimuer.xyz/api.php/provide/vod/","searchable":1,"quickSearch":1,"playerType": 2,"changeable":1},//木耳资源https://bfzyapi.com/api.php/provide/vod/  "parse_url":"https://hoplayer.com/index.html?url="
+  //{ "key": "heimuer",  "name": "⭐️木耳资源", "type": 1,  "api": "https://json02.heimuer.xyz/api.php/provide/vod/","searchable":1,"quickSearch":1,"playerType": 2,"changeable":1},//木耳资源https://bfzyapi.com/api.php/provide/vod/  "parse_url":"https://hoplayer.com/index.html?url="
 
  
 
