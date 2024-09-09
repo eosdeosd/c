@@ -73,15 +73,15 @@
 
 
 
-   { "key": "华为资源",  "name": "🍦采集资源", "type": 1,  "api": "http://nikanba.live/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1 },//华为资源http://nikanba.live/api.php/provide/vod/
+   //{ "key": "华为资源",  "name": "🍦采集资源", "type": 1,  "api": "http://nikanba.live/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1 },//华为资源http://nikanba.live/api.php/provide/vod/
 
-  //{ "key": "heimuer",  "name": "⭐️木耳资源", "type": 1,  "api": "https://json02.heimuer.xyz/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1 },//木耳资源https://bfzyapi.com/api.php/provide/vod/
+  //{ "key": "heimuer",  "name": "⭐️木耳资源", "type": 1,  "api": "https://bfzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1 },//木耳资源https://bfzyapi.com/api.php/provide/vod/
 
  
 
 
 
-	//{"key": "1080P采集","name": "1080P采集","type": 3,"api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/lr%E9%87%87%E9%9B%86/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/lr%E9%87%87%E9%9B%86/%E9%BB%91%E6%9C%A8%E8%80%B3%E8%B5%84%E6%BA%90%5B%E8%B5%84%5D.js"},
+	{"key": "1080P采集","name": "1080P采集","type": 3,"api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/lr%E9%87%87%E9%9B%86/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E9%87%87%E9%9B%86/%E9%BB%91%E6%9C%A8%E8%80%B3.json"},//https://gitee.com/huanzi989/self-use---tv-box/raw/master/lr%E9%87%87%E9%9B%86/%E9%BB%91%E6%9C%A8%E8%80%B3%E8%B5%84%E6%BA%90%5B%E8%B5%84%5D.js
 
 
 
