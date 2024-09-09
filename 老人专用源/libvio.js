@@ -25,7 +25,7 @@ var rule = {
 		// 'User-Agent':'MOBILE_UA'
 		'User-Agent':'Mozilla/5.0 (Linux; Android 9; ASUS_Z01QD Build/PQ3B.190801.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Safari/537.36'
 	},
-//    class_parse:'.stui-header__menu li:gt(0):lt(7);a&&Text;a&&href;/(\\d+).html',
+   class_parse:'.stui-header__menu li:gt(0):lt(7);a&&Text;a&&href;/(\\d+).html',
 	 class_parse:'.stui-header__menu li;a&&Text;a&&href;/.*_(\\d+).html',
 	tab_exclude:'夸克网盘|百度云盘',
 	pagecount:{"27":1},
