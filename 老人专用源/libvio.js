@@ -38,7 +38,7 @@ var nid = html.nid;
 // var paurl = request("https://libvio.cc/static/player/" + from + ".js").match(/ src="(.*?)'/)[1];
 var paurl = request(HOST + "/static/player/" + from + ".js").match(/ src="(.*?)'/)[1];
 if (/https/.test(paurl)) {
-	var purl = paurl + url + "&next=" + next + "&id=" + id + "&nid=" + nid;
+	var purl = paurl + url + "&next=" + next + "&id=" + id ;
 	input = {
 		jx: 0,
 		url: request(purl).match(/var .* = '(.*?)'/)[1],
@@ -49,5 +49,6 @@ if (/https/.test(paurl)) {
 	detailUrl:'/detail/fyid.html', //非必填,二级详情拼接链接
 	// detailUrl:'/detail_fyid.html', //非必填,二级详情拼接链接
 	// searchUrl:'/search/**----------fypage---.html',
+    //"&nid=" + nid
 	搜索:'json:list;name;pic;;id',
 }
