@@ -1,12 +1,12 @@
 {
   "作者": "",
   "站名": "TVB云播",
-  "主页url": "http://www.tvyb03.com",
+  "主页url": "http://www.tvyb10.com/",
   
   "分类": "电影&电视剧&综艺&动漫",
   "分类值": "1&2&3&4",
   
-  "分类url": "http://www.tvyb03.com/vod/show{area}{by}{class}/id/{cateId}/page/{catePg}{year}.html",
+  "分类url": "http://www.tvyb10.com/vod/show{area}{by}{class}/id/{cateId}/page/{catePg}{year}.html",
   
   "副标题": "#ff9900;\">&&</span>",
   
