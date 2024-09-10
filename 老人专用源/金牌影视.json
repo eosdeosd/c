@@ -4,35 +4,6 @@
     "站名":"金牌影院",
     
     "主页url":"https://www.chrqj.com/",
-    
-    "导演":"导演：&&</div>",
-    
-    "主演":"主演：&&</div>",
-    
-    "影片状态":"集数：&&</div>",
-    
-    "影片类型":"icon-cate-ds\">&&</a>",
-    
-    "图片":"data-src=\"&&\"",
-    
-    "链接":"href=\"&&\"",
-    
-    "搜索url":"/index.php/vod/search.html?wd={wd}",
-    
-    "搜索数组":"lazy lazyload\"&&<h3>[不包含:肥猫不肥#神秘的哥哥]",
-    
-    "搜索标题":"alt=\"&&\"",
-    
-    "搜索副标题":"title=*>&&</a>",
-    
-    "搜索图片":"data-src=\"&&\"",
-    
-    "搜索链接":"href=\"&&\"",
-
-
-
-
-   //"https://www.chrqj.com/vod/show/id/{cateId}/type/{class}/area/{area}/year/{year}/page/{catePg};;d0",
 
 
         "简介": "简介:</div>&&</div></div>",
