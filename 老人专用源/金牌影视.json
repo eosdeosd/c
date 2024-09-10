@@ -3,7 +3,7 @@
   
     "站名":"金牌影院",
     
-    "主页url":"https://sc1080.top/",
+    "主页url":"https://www.chrqj.com/",
     
     "导演":"导演：&&</div>",
     
@@ -42,7 +42,7 @@
         "线路标题": "在线播放",
        "播放数组": "main-list-sections&&</div></div>",
      
-        "分类url": "https://www.chrqj.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类url": "https://www.chrqj.com/vod/show/id/{cateId}/type/{class}/area/{area}/year/{year}/page/{catePg};;d0",
         "分类": "电视剧$2#电影$1#动漫$4#综艺$3",
          
     "筛选":{
