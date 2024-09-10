@@ -5,8 +5,6 @@
     
     "主页url":"https://sc1080.top/",
     
-    "简介":"剧情：</span>&&</span>",
-    
     "导演":"导演：&&</div>",
     
     "主演":"主演：&&</div>",
@@ -14,8 +12,6 @@
     "影片状态":"集数：&&</div>",
     
     "影片类型":"icon-cate-ds\">&&</a>",
-    
-    "数组":"module-item-pic\">&&module-item\">",
     
     "标题":"title=\"&&\"",
     
@@ -43,8 +39,8 @@
    //"https://www.chrqj.com/vod/show/id/{cateId}/type/{class}/area/{area}/year/{year}/page/{catePg};;d0",
 
 
-       // "简介": "简介:</div>&&</div></div>",
-       // "数组": "content-card\">&&</div></div></a></div></div>",
+        "简介": "简介:</div>&&</div></div>",
+        "数组": "content-card\">&&</div></div></a></div></div>",
       //  "标题": "<div class=\"title\">&&</div>",
        // "副标题": "tag\">&&</div>",
         "线路标题": "在线播放",
