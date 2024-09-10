@@ -46,11 +46,11 @@
  {"key": "小苹果弹幕", "name": "🍎苹果(1080P)","type": 3, "api": "csp_Xpg", "searchable": 1, "quickSearch": 1, "filterable": 1,"jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/Xpg.jar" },
 
 
-{"key": "csp_圣城","name": "⭐️┃圣域┃备用（1080P）", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E6%B5%8B%E8%AF%95%E5%9C%A3%E5%9F%8E%E5%BD%B1%E8%A7%86.json"},
+//{"key": "csp_圣城","name": "⭐️┃圣域┃备用（1080P）", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E6%B5%8B%E8%AF%95%E5%9C%A3%E5%9F%8E%E5%BD%B1%E8%A7%86.json"},
 
 
 
- {"key": "圣域", "name": "⭐️┃圣域┃推荐（木耳源）","type": 3, "api": "csp_SC1080", "searchable": 1,"quickSearch": 1, "filterable": 1},
+ //{"key": "圣域", "name": "⭐️┃圣域┃推荐（木耳源）","type": 3, "api": "csp_SC1080", "searchable": 1,"quickSearch": 1, "filterable": 1},
 
 
 
@@ -121,13 +121,12 @@
 
  
 
-//{"key":"剧圈圈","name":"👉剧圈圈","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E5%89%A7%E5%9C%88%E5%9C%88.json"},
+
 
 //{"key":"搜狗","name":"👉搜狗(官)","type":3,"ua": "okhttp/3.15", "playerType": 1,"api":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E6%90%9C%E7%8B%97/drpy2.min.js","ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E6%90%9C%E7%8B%97/%E6%90%9C%E7%8B%97.js"},
 
 
 
-//{ "key": "Free","name": "备用（有广告）", "type": 3, "api": "csp_XBPQ", "searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/Free.json" },
 
 
              {"key": "nangua", "name": "🎃南瓜┃备用", "type": 3, "playerType": "1","ua": "okhttp/3.15",  "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/drpy2.min.js",                                    "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/%E5%8D%97%E7%93%9C.js" },
@@ -160,8 +159,6 @@
 
 //{ "key": "subaibai", "name": "🎬️素白白", "type": 3,"api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E7%8C%AB%E5%BD%B1%E8%A7%86%E5%8D%97%E7%93%9C/subaibai_open.js" },
 
-
- //{ "key": "Zx4k", "name": "专线", "type": 3, "api": "csp_Zx4k", "timeout": 15, "playerType": 2,"jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/cc%EF%BC%88%E4%B8%93%E7%BA%BF%EF%BC%89.jar",  "searchable": 1, "quickSearch": 1,  "changeable": 1 },
 
 
 
