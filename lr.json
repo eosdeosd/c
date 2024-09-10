@@ -37,7 +37,7 @@
 //{ "key": "立播弹幕版", "name": "🐰立播┃在线", "type": 3,"api": "csp_Libvio", "jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/Libvio.txt","searchable": 1,"filterable": 1, "changeable": 1, "ext": { "token": "file://TV/ali_token.txt", "cookie": "file://TV/quark_cookie.txt", "uc_cookie": "file://TV/uc_cookie.txt","site": "https://libvio.link" } },
 
 
-{"key": "csp_圣城","name": "⭐️┃圣域┃推荐（木耳源）", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E5%9C%A3%E5%9F%8E%E5%BD%B1%E8%A7%86.json"},
+{"key": "csp_圣城","name": "⭐️┃圣域┃推荐（木耳源）", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E6%B5%8B%E8%AF%95%E5%9C%A3%E5%9F%8E%E5%BD%B1%E8%A7%86.json"},
 
 
 
