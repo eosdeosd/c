@@ -1,11 +1,5 @@
  {
-      "key": "文采影视",
-      "name": "文采┃秒播",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",
-      "changeable": 0,
-      "ext": {
+    
         "主页url": "https://www.hkybqufgh.com/",
         "简介": "</label>&&</div>",
         "嗅探词": "m3u8",
@@ -19,7 +13,7 @@
         "链接": "https://www.hkybqufgh.com/detail/+vodId\":&&,",
         "导演": "导演:</div>&&主演",
         "主演": "主演:</div>&&别名",
-        "线路标题": "宝盒专享",
+        "线路标题": "1080P",
         "播放数组": "listitem\">&&info\">",
         "播放列表": "<a&&</a>",
         "倒序": "否",
@@ -28,4 +22,4 @@
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
         "分类url": "https://www.hkybqufgh.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"
       }
-    },
+    
