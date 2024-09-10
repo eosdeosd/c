@@ -1,10 +1,4 @@
  {
-      "key": "金牌影视",
-      "name": "金牌|影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",
-      "ext": {
         "请求头": "User-Agent$MOBILE_UA",
         "编码": "UTF-8",
         "简介": "宝盒为您剧情介绍:+简介:</div>&&</div></div>",
@@ -344,6 +338,5 @@
     ]
     }
     ]
-    }
     }
     }
