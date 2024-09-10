@@ -18,7 +18,7 @@
         "播放列表": "<a&&</a>",
         "倒序": "否",
         "搜索url": "https://www.hkybqufgh.com/vod/search/{wd}",
-        "搜索副标题": "class=\"boottom\"*<div>&&</div>",
+        "搜索副标题": "<div>&&</div>",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
         "分类url": "https://www.hkybqufgh.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"
       }
