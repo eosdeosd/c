@@ -13,10 +13,6 @@
     
     "影片类型":"icon-cate-ds\">&&</a>",
     
-    "标题":"title=\"&&\"",
-    
-    "副标题":"module-item-text\"&&</div>",
-    
     "图片":"data-src=\"&&\"",
     
     "链接":"href=\"&&\"",
@@ -41,8 +37,8 @@
 
         "简介": "简介:</div>&&</div></div>",
         "数组": "content-card\">&&</div></div></a></div></div>",
-      //  "标题": "<div class=\"title\">&&</div>",
-       // "副标题": "tag\">&&</div>",
+       "标题": "<div class=\"title\">&&</div>",
+       "副标题": "tag\">&&</div>",
         "线路标题": "在线播放",
        "播放数组": "main-list-sections&&</div></div>",
      
