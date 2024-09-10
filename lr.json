@@ -53,13 +53,13 @@
 
 
 
-//https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E6%B5%8B%E8%AF%95%E9%87%91%E7%89%8C%E5%BD%B1%E8%A7%86.json
+
 
 
 
    {"key": "金牌影视","name": "金牌|影视", "type": 3, "api": "csp_XBPQ",  "searchable": 1, "quickSearch": 1, "changeable": 1, "ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E9%87%91%E7%89%8C%E5%BD%B1%E8%A7%86.json" },
 
-//https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E9%87%91%E7%89%8C%E5%BD%B1%E8%A7%86.json
+
 
 
 //{"key":"yp_Lib","name": "⭐️┃Lib┃推荐(云盘)","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable":1,"jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/Libvio.jar"},
