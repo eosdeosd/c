@@ -41,7 +41,7 @@
 
 
 
- {"key": "圣域", "name": "⭐️┃圣域┃推荐（木耳源）","type": 3, "api": "csp_SC1080", "searchable": 1,"quickSearch": 1, "filterable": 1 },
+ {"key": "圣域", "name": "⭐️┃圣域┃推荐（木耳源）","type": 3, "api": "csp_SC1080", "searchable": 1,"quickSearch": 1, "filterable": 1, "ext": "https://download.kstore.space/download/2883/nzk/圣城影视.json" },
 
 
 
