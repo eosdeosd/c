@@ -10,7 +10,7 @@
         "分类url": "https://www.chrqj.com/vod/show/id/{cateId}/type/{class}/area/{area}/year/{year}/page/{catePg};;d0",
         "分类": "电视剧$2#电影$1#动漫$4#综艺$3",
          
-           "筛选":{
+    "筛选":{
     "1":[
     {"key":"class","name":"剧情","value":[
     {"n":"全部剧情","v":""},
