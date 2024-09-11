@@ -105,7 +105,7 @@
 "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E9%BB%91%E6%9C%A8%E8%80%B3.json"},
 
 
-{ "key": "php_heimuer","name": "┃木耳┃影视", "type": 4, "searchable": 1,"quickSearch": 1, "changeable": 1,"filterable": 1,"api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E9%BB%91%E6%9C%A8%E8%80%B3API.json"},
+{ "key": "php_heimuer","name": "┃木耳┃影视", "type": 4, "jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%A6%82%E6%84%8F.txt","searchable": 1,"quickSearch": 1, "changeable": 1,"filterable": 1,"api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E9%BB%91%E6%9C%A8%E8%80%B3API.json"},
 
 
 
