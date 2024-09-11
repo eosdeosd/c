@@ -99,7 +99,7 @@
 
 
 
-   { "key": "华为资源",  "name": "🍦采集资源", "type": 1,  "api": "http://nikanba.live/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1 },//华为资源http://nikanba.live/api.php/provide/vod/
+   //{ "key": "华为资源",  "name": "🍦采集资源", "type": 1,  "api": "http://nikanba.live/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1 },//华为资源http://nikanba.live/api.php/provide/vod/
 
  {"key": "XBPQ_黑木耳","name": "♠️黑木耳资源", "type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,
 "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E9%BB%91%E6%9C%A8%E8%80%B3.json"},
@@ -160,7 +160,7 @@
 
 
     //🎃┃南瓜┃备用 
-      {   "key": "nangua", "name": "🎃┃南瓜┃备用", "type": 3, "playerType": "1", "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/drpy2.min.js", "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/%E5%8D%97%E7%93%9C.js" },
+      //{   "key": "nangua", "name": "🎃┃南瓜┃备用", "type": 3, "playerType": "1", "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/drpy2.min.js", "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/%E5%8D%97%E7%93%9C.js" },
 
 
 
