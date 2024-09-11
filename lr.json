@@ -38,11 +38,6 @@
 
 
 
- {"key": "小苹果弹幕", "name": "🍎苹果(1080P)","type": 3, "api": "csp_Xpg", "searchable": 1, "quickSearch": 1, "filterable": 1,"jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/Xpg.jar" },
-
-
-
-
  {"key": "csp_xBPQ可可", "name": "⛈可可|影视","type": 3,"api": "csp_XBPQ", "searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E5%8F%AF%E5%8F%AF%E5%BD%B1%E8%A7%86.json"
     },
 
@@ -84,7 +79,7 @@
 
 
 
-//{"key": "csp_圣城","name": "⭐️┃圣域┃备用（1080P）", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E6%B5%8B%E8%AF%95%E5%9C%A3%E5%9F%8E%E5%BD%B1%E8%A7%86.json"},
+{"key": "csp_圣城","name": "⭐️┃圣域┃备用（1080P）", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E6%B5%8B%E8%AF%95%E5%9C%A3%E5%9F%8E%E5%BD%B1%E8%A7%86.json"},
 
 
 
