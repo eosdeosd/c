@@ -4,7 +4,7 @@
 
     "wallpaper": "https://tool.weetai.cn/api",
    "warningText": "此源请搭配月光宝盒MAX3.10版软件使用，软件设置里面开启自动换源。资源来自网络，所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买。",
-    "lives": [  {   "name": "live",  "type": 0,  "url": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E7%9B%B4%E6%92%AD/kx2024.txt", "epg": "http://epg.112114.eu.org/?ch={name}&date={date}" } ],
+    
 
 
     "sites": [
@@ -179,8 +179,7 @@
 
 
 
-    //🎃┃南瓜┃备用 
-      {  "key": "nangua", "name": "🎃┃南瓜┃备用", "type": 3, "playerType": "1","searchable":1,"quickSearch":0,"filterable":0, "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/drpy2.min.js", "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/%E5%8D%97%E7%93%9C.js" },
+ 
 
 
 
@@ -262,12 +261,12 @@
      
     
     ],
+
+
+  //这里是视频解析的地方，不建议修改。
     "parses": [
-       //{"name":"Json并发","type":3,"url":"Parallel"},
-        //{"name":"Json轮询","type":3,"url":"Sequence"},
-         //{"name":"Web聚合","type":3,"url":"Web"},
-      // {"name":"解析聚合","type":3,"url":"Demo"},
-      
+
+
         {"name":"解析聚合","type":3,"url":"Demo"},
         {"name":"Web聚合","type":3,"url":"Web"},
 
@@ -295,7 +294,11 @@
 
 
 
- // {"name":"8090g","type":0,"url":"https://www.8090g.cn/jiexi/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","imgo","rx","ltnb","bilibili","1905","xigua","fun","风行","哔哩","哔哩哔哩","leshi","pptv","PPTV"]}},
+
+
+
+
+
 
 
 
@@ -314,16 +317,7 @@
 
 // { "name": "巧技", "type": 1, "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url=",  "ext": {"flag": [ "qq",  "腾讯", "qiyi",   "爱奇艺",  "奇艺", "youku", "优酷", "sohu", "搜狐", "letv",  "乐视", "mgtv", "芒果", "tnmb",  "seven", "bilibili",  "1905"  ]   } },
 
-   // { "name": "巧技二",  "type": 1, "url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url=",  "ext": {  "flag": [  "qq",  "腾讯",   "qiyi",  "爱奇艺", "奇艺",  "youku", "优酷", "sohu",  "搜狐", "letv",  "乐视", "mgtv",  "芒果", "tnmb", "seven", "bilibili", "1905",  "NetFilx"    ], "header": {  "User-Agent": "okhttp/4.9.1" } } }
-
-
-
-
-
-
-
-
-  
+    //{ "name": "巧技二",  "type": 1, "url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url=",  "ext": {  "flag": [  "qq",  "腾讯",   "qiyi",  "爱奇艺", "奇艺",  "youku", "优酷", "sohu",  "搜狐", "letv",  "乐视", "mgtv",  "芒果", "tnmb", "seven", "bilibili", "1905",  "NetFilx"    ] } }
 
 
 
@@ -335,15 +329,27 @@
 
 
 
+     //   {"name":"Json并发","type":3,"url":"Parallel"},
+      //  {"name":"Json轮询","type":3,"url":"Sequence"},
+      //  {"name":"解析聚合","type":3,"url":"Demo"},
+       // {"name":"Web聚合","type":3,"url":"Web"},
+// {"name": "神秘的哥哥们","type": 1,"url": "http://api.888484.xyz/神秘哥哥/super.php?v=","ext": {  "flag": [    "qq",    "腾讯",    "qiyi",    "爱奇艺",    "奇艺",    "youku",    "优酷",    "tucheng",    "sohu",    "搜狐",    "letv",    "乐视",    "mgtv",    "芒果",    "tnmb",    "seven",    "yzm",    "aliyun",    "RJuMao",    "bilibili",    "1905",    "xinvip",    "XAL",    "qiqi",    "XALS",    "YuMi-vip"  ]}},
+      //  {"name":"-咸鱼-","type":0,"url":"https://jx.xyflv.cc/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36","referer":"https://www.xyflv.cc/"}}},
+      //  {"name":"-虾米-","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"}}},
+
+      //  {"name":"-云解析-","type":0,"url":"https://jx.yparse.com/index.php?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
+     //   {"name":"-777-","type":0,"url":"https://jx.jsonplayer.com/player/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
+ 
+     //   {"name":"-全看-","type":0,"url":"https://jx.quankan.app/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
 
 
-
-
-        
-        
-    ],
-    	
- "doh": [
+//{"name":"虾米","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","imgo","rx","ltnb","bilibili","1905","xigua"]}},
+//{"name": "稻香","type": 0,"url": "https://jx.xmflv.com/?url=","ext": {"flag": [  "mgtv",  "qiyi",  "imgo",  "爱奇艺",  "奇艺",  "qq",  "腾讯",  "youku",  "优酷",  "pptv",  "PPTV",  "letv",  "乐视",  "leshi",  "bilibili",  "哔哩哔哩",  "哔哩",  "mgtv",  "芒果",  "芒果"],"header": {  "User-Agent": "okhttp/3.12.0"}}},
+//{"name": "YuMi-vip🥭","type": 0,"url": "https://jx.xmflv.com/?url=","ext": {"flag": [  "爱奇艺",  "奇艺",  "qq",  "腾讯",  "youku",  "优酷",  "pptv",  "PPTV",  "letv",  "乐视",  "leshi",  "bilibili",  "哔哩哔哩",  "哔哩",  "mgtv",  "芒果",  "芒果"],"header": {  "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36"}}},
+//{"name":"PM","url":"https://www.playm3u8.cn/jiexi.php?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
+// {"name":"-爱豆-","type":0,"url":"https://jx.aidouer.net/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36","referer":"https://jiejie.uk/"}}}
+  ],
+  "doh": [
     {"name": "Google","url": "https://dns.google/dns-query","ips": [  "8.8.4.4",  "8.8.8.8"]},
     {"name": "Cloudflare","url": "https://cloudflare-dns.com/dns-query","ips": [  "1.1.1.1",  "1.0.0.1",  "2606:4700:4700::1111",  "2606:4700:4700::1001"]},
     {"name": "AdGuard","url": "https://dns.adguard.com/dns-query","ips": [  "94.140.14.140",  "94.140.14.141"]},
@@ -362,13 +368,22 @@
     {"name": "dy","hosts": [  "douyin.com"],"regex": [  "is_play_url="]},
     {"name": "nm","hosts": [  "toutiaovod.com"],"regex": [  "video/tos/cn"]},
     {"name": "cl","hosts": [  "magnet"],"regex": [  "最 新",  "直 播",  "更 新"]}
+  ],
+
+
+
+  
+
+
+
+  //这里是直播源，名字可以随便取。 url是直播地址的文件，都是txt后缀。 这里我使用外部地址，你也可以使用自己上传的文件，使用相对路径。
+  "lives": [
+    {"name": "huanzi989","type": 0,"url": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E7%9B%B4%E6%92%AD/kx2024.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"
+    },//http://rihou.vip:55/lib/kx2024.txt
+    {"name": "gat","type": 0,"url": "http://rihou.vip:55/lib/kx2024.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    //这里的url直播地址就使用了相对路径，但是这个地址是空的无效。
+    {"name": "IPV6","type": 0,"url": "./lib/tv/ipv6.m3u","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
   ]
-
- 
-
-
-
-    
-        }
-
-
+}
