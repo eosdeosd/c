@@ -1,0 +1,436 @@
+{
+  "class": [
+    {
+      "type_id": "1",
+      "type_name": "电影"
+    },
+    {
+      "type_id": "2",
+      "type_name": "电视剧"
+    },
+    {
+      "type_id": "3",
+      "type_name": "动漫"
+    },
+    {
+      "type_id": "4",
+      "type_name": "综艺"
+    },
+    {
+      "type_id": "27",
+      "type_name": "短剧"
+    }
+  ],
+  "filters": {
+    "1": {
+      "key": "cid",
+      "name": "分类",
+      "value": [
+        {
+          "n": "全部",
+          "v": "1"
+        },
+        {
+          "n": "剧情片",
+          "v": "6"
+        },
+        {
+          "n": "动作片",
+          "v": "7"
+        },
+        {
+          "n": "冒险片",
+          "v": "8"
+        },
+        {
+          "n": "同性片",
+          "v": "9"
+        },
+        {
+          "n": "喜剧片",
+          "v": "10"
+        },
+        {
+          "n": "奇幻片",
+          "v": "11"
+        },
+        {
+          "n": "恐怖片",
+          "v": "12"
+        },
+        {
+          "n": "悬疑片",
+          "v": "20"
+        },
+        {
+          "n": "惊悚片",
+          "v": "21"
+        },
+        {
+          "n": "灾难片",
+          "v": "22"
+        },
+        {
+          "n": "爱情片",
+          "v": "23"
+        },
+        {
+          "n": "犯罪片",
+          "v": "24"
+        },
+        {
+          "n": "科幻片",
+          "v": "25"
+        },
+        {
+          "n": "动画电影",
+          "v": "26"
+        },
+        {
+          "n": "歌舞片",
+          "v": "33"
+        },
+        {
+          "n": "战争片",
+          "v": "34"
+        },
+        {
+          "n": "经典片",
+          "v": "35"
+        },
+        {
+          "n": "网络电影",
+          "v": "36"
+        },
+        {
+          "n": "其它片",
+          "v": "37"
+        }
+      ]
+    },
+    "2": {
+      "key": "cid",
+      "name": "分类",
+      "value": [
+        {
+          "n": "全部",
+          "v": "2"
+        },
+        {
+          "n": "国产剧",
+          "v": "13"
+        },
+        {
+          "n": "港剧",
+          "v": "14"
+        },
+        {
+          "n": "韩剧",
+          "v": "15"
+        },
+        {
+          "n": "日剧",
+          "v": "16"
+        },
+        {
+          "n": "泰剧",
+          "v": "28"
+        },
+        {
+          "n": "台剧",
+          "v": "29"
+        },
+        {
+          "n": "欧美剧",
+          "v": "30"
+        },
+        {
+          "n": "新马剧",
+          "v": "31"
+        },
+        {
+          "n": "其他剧",
+          "v": "32"
+        }
+      ]
+    },
+    "3": {
+      "key": "cid",
+      "name": "分类",
+      "value": [
+        {
+          "n": "全部",
+          "v": "3"
+        },
+        {
+          "n": "欧美动漫",
+          "v": "57"
+        },
+        {
+          "n": "日本动漫",
+          "v": "58"
+        },
+        {
+          "n": "韩国动漫",
+          "v": "59"
+        },
+        {
+          "n": "国产动漫",
+          "v": "60"
+        },
+        {
+          "n": "港台动漫",
+          "v": "61"
+        },
+        {
+          "n": "新马泰动漫",
+          "v": "62"
+        },
+        {
+          "n": "其它动漫",
+          "v": "63"
+        }
+      ]
+    },
+    "4": {
+      "key": "cid",
+      "name": "分类",
+      "value": [
+        {
+          "n": "全部",
+          "v": "4"
+        },
+        {
+          "n": "国产综艺",
+          "v": "38"
+        },
+        {
+          "n": "港台综艺",
+          "v": "39"
+        },
+        {
+          "n": "韩国综艺",
+          "v": "40"
+        },
+        {
+          "n": "日本综艺",
+          "v": "41"
+        },
+        {
+          "n": "欧美综艺",
+          "v": "42"
+        },
+        {
+          "n": "新马泰综艺",
+          "v": "43"
+        },
+        {
+          "n": "其他综艺",
+          "v": "44"
+        }
+      ]
+    },
+    "27": {
+      "key": "cid",
+      "name": "分类",
+      "value": [
+        {
+          "n": "全部",
+          "v": "27"
+        },
+        {
+          "n": "古装短剧",
+          "v": "45"
+        },
+        {
+          "n": "虐恋短剧",
+          "v": "46"
+        },
+        {
+          "n": "逆袭短剧",
+          "v": "47"
+        },
+        {
+          "n": "悬疑短剧",
+          "v": "48"
+        },
+        {
+          "n": "神豪短剧",
+          "v": "49"
+        },
+        {
+          "n": "重生短剧",
+          "v": "50"
+        },
+        {
+          "n": "复仇短剧",
+          "v": "51"
+        },
+        {
+          "n": "穿越短剧",
+          "v": "52"
+        },
+        {
+          "n": "甜宠短剧",
+          "v": "53"
+        },
+        {
+          "n": "强者短剧",
+          "v": "54"
+        },
+        {
+          "n": "萌宝短剧",
+          "v": "55"
+        },
+        {
+          "n": "其它短剧",
+          "v": "56"
+        }
+      ]
+    }
+  },
+  "jx": 0,
+  "list": [
+    {
+      "vod_id": 20700,
+      "vod_name": "绝世武魂",
+      "vod_pic": "https://assets.heimuer.tv/imgs/2019/03/22/daa76d471e5a4ab397e1528f9d09cd98.jpg",
+      "vod_remarks": "更新至【407】",
+      "vod_year": "2020"
+    },
+    {
+      "vod_id": 43069,
+      "vod_name": "忍者神龟",
+      "vod_pic": "https://assets.heimuer.tv/imgs/2024/09/10/0c3b08916082439aad714b37bb0532bb.jpg",
+      "vod_remarks": "更新至【6】",
+      "vod_year": "2924"
+    },
+    {
+      "vod_id": 35513,
+      "vod_name": "飞天大盗 第一季",
+      "vod_pic": "https://assets.heimuer.tv/imgs/2019/04/13/3b0765b058674066bd76dbe8030daf5a.jpg",
+      "vod_remarks": "更新至【5】",
+      "vod_year": "2004"
+    },
+    {
+      "vod_id": 43068,
+      "vod_name": "异形4",
+      "vod_pic": "https://assets.heimuer.tv/imgs/2019/03/07/0b48547e33ce477ea097082827d51972.jpg",
+      "vod_remarks": "",
+      "vod_year": "1997"
+    },
+    {
+      "vod_id": 43067,
+      "vod_name": "乘船而去",
+      "vod_pic": "https://assets.heimuer.tv/imgs/2024/09/11/4fb38032ac854039915537d6215ead4a.jpg",
+      "vod_remarks": "",
+      "vod_year": "2023"
+    },
+    {
+      "vod_id": 42706,
+      "vod_name": "法官大人",
+      "vod_pic": "https://assets.heimuer.tv/imgs/2024/08/13/d7e52b4ea4bb4b19b91ddd6e4eb0c44b.jpg",
+      "vod_remarks": "更新至【10】",
+      "vod_year": "2024"
+    },
+    {
+      "vod_id": 42157,
+      "vod_name": "魔法少女与恶曾是敌人",
+      "vod_pic": "https://assets.heimuer.tv/imgs/2024/07/10/f900edad19694af6865dd87c3c515a8f.jpg",
+      "vod_remarks": "更新至【10】",
+      "vod_year": "2024"
+    },
+    {
+      "vod_id": 42898,
+      "vod_name": "因为不想吃亏",
+      "vod_pic": "https://assets.heimuer.tv/imgs/2024/08/27/b9e888e86f87410da2db1d51b6f6bcf8.jpg",
+      "vod_remarks": "更新至【6】",
+      "vod_year": "2024"
+    },
+    {
+      "vod_id": 42258,
+      "vod_name": "哎咕岛消失的舔甜歌姬",
+      "vod_pic": "https://assets.heimuer.tv/imgs/2024/07/16/b4931af0f0d543e084d9d10d48ab04ea.jpg",
+      "vod_remarks": "更新至【10】",
+      "vod_year": "2024"
+    },
+    {
+      "vod_id": 42927,
+      "vod_name": "心动的信号 第七季",
+      "vod_pic": "https://assets.heimuer.tv/imgs/2024/08/29/7169ad14ba2c4f8690fe6e0d7a080e63.jpg",
+      "vod_remarks": "更新至【20240910(第2期下)】",
+      "vod_year": "2024"
+    },
+    {
+      "vod_id": 29179,
+      "vod_name": "灵剑尊",
+      "vod_pic": "https://assets.heimuer.tv/imgs/2019/03/01/eefc2c3d6bca461683fc5c0fab832c7d.jpg",
+      "vod_remarks": "更新至【521】",
+      "vod_year": "2019"
+    },
+    {
+      "vod_id": 42745,
+      "vod_name": "脱口秀和Ta的朋友们",
+      "vod_pic": "https://assets.heimuer.tv/imgs/2024/08/14/b943e92fa0ff4e0a8576aa203b110139.jpg",
+      "vod_remarks": "更新至【20240910(纯享版)】",
+      "vod_year": "2024"
+    },
+    {
+      "vod_id": 43065,
+      "vod_name": "山花烂漫时",
+      "vod_pic": "https://assets.heimuer.tv/imgs/2024/09/10/c83133668b7640109e871cf8740ce10d.jpg",
+      "vod_remarks": "更新至【4】",
+      "vod_year": "2024"
+    },
+    {
+      "vod_id": 42895,
+      "vod_name": "长乐曲",
+      "vod_pic": "https://assets.heimuer.tv/imgs/2024/08/27/3ba8aa9b2f984252a3f5b0cfde417508.jpg",
+      "vod_remarks": "更新至【30】",
+      "vod_year": "2024"
+    },
+    {
+      "vod_id": 42912,
+      "vod_name": "春风化雨",
+      "vod_pic": "https://assets.heimuer.tv/imgs/2024/08/28/80330fd3f8cb4346bb6ff85083ac6bee.jpg",
+      "vod_remarks": "更新至【26】",
+      "vod_year": "2024"
+    },
+    {
+      "vod_id": 42960,
+      "vod_name": "凡人歌",
+      "vod_pic": "https://assets.heimuer.tv/imgs/2024/08/31/e54a367971ad408b8a2f4aa5213463a1.jpg",
+      "vod_remarks": "更新至【24】",
+      "vod_year": "2024"
+    },
+    {
+      "vod_id": 42672,
+      "vod_name": "笼中人",
+      "vod_pic": "https://assets.heimuer.tv/imgs/2024/08/10/b88b1cefad9f431f84954af248270e32.jpg",
+      "vod_remarks": "更新至【7】",
+      "vod_year": "2024"
+    },
+    {
+      "vod_id": 42992,
+      "vod_name": "去“湘”当有味的地方 第二季",
+      "vod_pic": "https://assets.heimuer.tv/imgs/2024/09/06/dc3f3bbb1cb643f8af426a3d3c7adebe.jpg",
+      "vod_remarks": "更新至【20240909(湖南话版)】",
+      "vod_year": "2024"
+    },
+    {
+      "vod_id": 43066,
+      "vod_name": "我的天才女友 第四季",
+      "vod_pic": "https://assets.heimuer.tv/imgs/2024/09/10/020df629001146aeb09683c15b92c585.jpg",
+      "vod_remarks": "更新至【1】",
+      "vod_year": "2024"
+    },
+    {
+      "vod_id": 43061,
+      "vod_name": "大炎诡闻录",
+      "vod_pic": "https://assets.heimuer.tv/imgs/2024/09/10/5e1ac675ac164d5683ed781f7bb65b47.jpg",
+      "vod_remarks": "更新至【6】",
+      "vod_year": "2024"
+    }
+  ],
+  "parse": 0
+}
