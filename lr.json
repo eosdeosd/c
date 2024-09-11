@@ -51,7 +51,7 @@
 {"key": "小苹果弹幕", "name": "🍎1080P(播放器为IJK)","type": 3, "api": "csp_Xpg", "searchable": 1, "quickSearch": 1, "filterable": 1,"jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/Xpg.jar" },
 
 
-{"key":"奇优","name":"️💢奇优(修改中)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E5%A5%87%E4%BC%98.json"},
+
 
 
 
@@ -61,6 +61,7 @@
 
 
 
+//{"key":"奇优","name":"️💢奇优(和南瓜一样)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E5%A5%87%E4%BC%98.json"},
   
 
 
