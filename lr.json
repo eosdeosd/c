@@ -60,7 +60,6 @@
 
 
   { "key": "MFKYS", "name": "H┃影视2K┃大全", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1,
-     "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/xbpq.jar",
             "ext": {
                 "站名": "免费看影视",
                 "作者": "yydf",
