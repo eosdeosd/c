@@ -113,7 +113,7 @@
 
 
 
-  { "key": "heimuer",  "name": "⭐️木耳资源", "type": 1,  "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E9%BB%91%E6%9C%A8%E8%80%B3API.json","searchable":1,"quickSearch":1,"playerType": 2,"changeable":1},//木耳资源https://bfzyapi.com/api.php/provide/vod/  "parse_url":"https://hoplayer.com/index.html?url="
+  { "key": "heimuer",  "name": "⭐️木耳资源", "type": 1,  "api": "https://json02.heimuer.xyz/api.php/provide/vod/","searchable":1,"quickSearch":1,"playerType": 2,"changeable":1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E9%BB%91%E6%9C%A8%E8%80%B3API.json"},//木耳资源https://bfzyapi.com/api.php/provide/vod/  "parse_url":"https://hoplayer.com/index.html?url="
 //https://json02.heimuer.xyz/api.php/provide/vod/
  
 
