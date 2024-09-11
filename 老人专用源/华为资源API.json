@@ -1,0 +1,390 @@
+{
+  "class": [
+    {
+      "type_id": "20",
+      "type_name": "电影"
+    },
+    {
+      "type_id": "60",
+      "type_name": "电视剧"
+    },
+    {
+      "type_id": "80",
+      "type_name": "动漫"
+    },
+    {
+      "type_id": "82",
+      "type_name": "综艺"
+    },
+    {
+      "type_id": "86",
+      "type_name": "纪录片"
+    },
+    {
+      "type_id": "120",
+      "type_name": "短剧"
+    }
+  ],
+  "filters": {
+    "20": {
+      "key": "cid",
+      "name": "分类",
+      "value": [
+        {
+          "n": "全部",
+          "v": "20"
+        },
+        {
+          "n": "冒险片",
+          "v": "22"
+        },
+        {
+          "n": "剧情片",
+          "v": "24"
+        },
+        {
+          "n": "动作片",
+          "v": "26"
+        },
+        {
+          "n": "动画电影",
+          "v": "28"
+        },
+        {
+          "n": "喜剧片",
+          "v": "32"
+        },
+        {
+          "n": "奇幻片",
+          "v": "34"
+        },
+        {
+          "n": "恐怖片",
+          "v": "36"
+        },
+        {
+          "n": "悬疑片",
+          "v": "38"
+        },
+        {
+          "n": "惊悚片",
+          "v": "40"
+        },
+        {
+          "n": "歌舞片",
+          "v": "42"
+        },
+        {
+          "n": "灾难片",
+          "v": "44"
+        },
+        {
+          "n": "爱情片",
+          "v": "46"
+        },
+        {
+          "n": "科幻片",
+          "v": "48"
+        },
+        {
+          "n": "犯罪片",
+          "v": "50"
+        },
+        {
+          "n": "经典片",
+          "v": "52"
+        },
+        {
+          "n": "网络电影",
+          "v": "54"
+        },
+        {
+          "n": "战争片",
+          "v": "56"
+        },
+        {
+          "n": "伦理片",
+          "v": "58"
+        }
+      ]
+    },
+    "60": {
+      "key": "cid",
+      "name": "分类",
+      "value": [
+        {
+          "n": "全部",
+          "v": "60"
+        },
+        {
+          "n": "欧美剧",
+          "v": "62"
+        },
+        {
+          "n": "日剧",
+          "v": "64"
+        },
+        {
+          "n": "韩剧",
+          "v": "66"
+        },
+        {
+          "n": "台剧",
+          "v": "68"
+        },
+        {
+          "n": "泰剧",
+          "v": "70"
+        },
+        {
+          "n": "国产剧",
+          "v": "72"
+        },
+        {
+          "n": "港剧",
+          "v": "74"
+        },
+        {
+          "n": "新马剧",
+          "v": "76"
+        },
+        {
+          "n": "其他剧",
+          "v": "78"
+        }
+      ]
+    },
+    "80": {
+      "key": "cid",
+      "name": "分类",
+      "value": [
+        {
+          "n": "全部",
+          "v": "80"
+        },
+        {
+          "n": "欧美动漫",
+          "v": "96"
+        },
+        {
+          "n": "日韩动漫",
+          "v": "98"
+        },
+        {
+          "n": "国产动漫",
+          "v": "100"
+        },
+        {
+          "n": "新马泰动漫",
+          "v": "102"
+        },
+        {
+          "n": "港台动漫",
+          "v": "104"
+        },
+        {
+          "n": "其他动漫",
+          "v": "106"
+        }
+      ]
+    },
+    "82": {
+      "key": "cid",
+      "name": "分类",
+      "value": [
+        {
+          "n": "全部",
+          "v": "82"
+        },
+        {
+          "n": "国产综艺",
+          "v": "108"
+        },
+        {
+          "n": "日韩综艺",
+          "v": "110"
+        },
+        {
+          "n": "欧美综艺",
+          "v": "112"
+        },
+        {
+          "n": "新马泰综艺",
+          "v": "114"
+        },
+        {
+          "n": "港台综艺",
+          "v": "116"
+        },
+        {
+          "n": "其他综艺",
+          "v": "118"
+        }
+      ]
+    },
+    "86": {
+      "key": "cid",
+      "name": "分类",
+      "value": [
+        {
+          "n": "全部",
+          "v": "86"
+        }
+      ]
+    },
+    "120": {
+      "key": "cid",
+      "name": "分类",
+      "value": [
+        {
+          "n": "全部",
+          "v": "120"
+        }
+      ]
+    }
+  },
+  "jx": 0,
+  "list": [
+    {
+      "vod_id": 191206,
+      "vod_name": "乘船而去",
+      "vod_pic": "https://huawei8.live/upload/vod/20240911-1/762d39d97c22e3ea7ad114dcff3ab4b1.webp",
+      "vod_remarks": "已完结",
+      "vod_year": "2023"
+    },
+    {
+      "vod_id": 191200,
+      "vod_name": "鬼府神工",
+      "vod_pic": "https://huawei8.live/upload/vod/20240911-1/388563b75de3eb0bd48c65d93f4be7f2.webp",
+      "vod_remarks": "已完结",
+      "vod_year": "2023"
+    },
+    {
+      "vod_id": 62506,
+      "vod_name": "情爱魔力",
+      "vod_pic": "https://huawei8.live/upload/vod/20240507-32/55f89615692bd377e6f6b96a86645783.jpg",
+      "vod_remarks": "更新至HD",
+      "vod_year": "2002"
+    },
+    {
+      "vod_id": 62510,
+      "vod_name": "生死与共",
+      "vod_pic": "https://huawei8.live/upload/vod/20240507-32/7d34c8bd809b7d37b819e67b5352883e.jpg",
+      "vod_remarks": "更新至HD",
+      "vod_year": "2021"
+    },
+    {
+      "vod_id": 62330,
+      "vod_name": "她的第二个故事",
+      "vod_pic": "https://huawei8.live/upload/vod/20240507-32/50cc81f8d188c6f95c85521faa53fd2a.jpg",
+      "vod_remarks": "更新至HD",
+      "vod_year": "2022"
+    },
+    {
+      "vod_id": 190536,
+      "vod_name": "上瘾泰版",
+      "vod_pic": "https://huawei8.live/upload/vod/20240814-1/80f13352aa13b1e12e702b4e22219a47.webp",
+      "vod_remarks": "更新至05",
+      "vod_year": "2024"
+    },
+    {
+      "vod_id": 62314,
+      "vod_name": "大姐妹",
+      "vod_pic": "https://huawei8.live/upload/vod/20240507-32/3867271c372fbbc86cfe61ec2bf10072.jpg",
+      "vod_remarks": "更新至HD",
+      "vod_year": "2021"
+    },
+    {
+      "vod_id": 62318,
+      "vod_name": "超女 XXX",
+      "vod_pic": "https://huawei8.live/upload/vod/20240507-32/1c357f8771156b3117a5a20b31474f3d.jpg",
+      "vod_remarks": "更新至HD",
+      "vod_year": "2016"
+    },
+    {
+      "vod_id": 62320,
+      "vod_name": "魔性之诱惑",
+      "vod_pic": "https://huawei8.live/upload/vod/20240507-32/0d63db3d6ba8d4789d4a1c1a7bba4fff.jpg",
+      "vod_remarks": "更新至HD",
+      "vod_year": "2008"
+    },
+    {
+      "vod_id": 190978,
+      "vod_name": "幸福终末",
+      "vod_pic": "https://huawei8.live/upload/vod/20240904-1/ef0ed2d7de9b2ce5763b39eca61c1c26.webp",
+      "vod_remarks": "更新至04",
+      "vod_year": "2024"
+    },
+    {
+      "vod_id": 190976,
+      "vod_name": "逆转时光只为你",
+      "vod_pic": "https://huawei8.live/upload/vod/20240904-1/c0d33dbdab998ce603411316fb8c656b.webp",
+      "vod_remarks": "更新至02",
+      "vod_year": "2024"
+    },
+    {
+      "vod_id": 185432,
+      "vod_name": "以泥为妆",
+      "vod_pic": "https://huawei8.live/upload/vod/20240715-1/4b7daa84f5d6ad32dadf02dd4ed11c04.webp",
+      "vod_remarks": "更新至07",
+      "vod_year": "2024"
+    },
+    {
+      "vod_id": 185370,
+      "vod_name": "直到破坏了丈夫的家庭",
+      "vod_pic": "https://huawei8.live/upload/vod/20240714-1/e6213c4b2c036bbe3bab3ac05de6a5be.webp",
+      "vod_remarks": "更新至09",
+      "vod_year": "2024"
+    },
+    {
+      "vod_id": 190630,
+      "vod_name": "战至巅峰 第三季",
+      "vod_pic": "https://huawei8.live/upload/vod/20240818-1/d720596a3a2fcdb53963a69c739438ac.jpg",
+      "vod_remarks": "更新至20240911(瓶子陪看)",
+      "vod_year": "2024"
+    },
+    {
+      "vod_id": 190422,
+      "vod_name": "夏夜秘密",
+      "vod_pic": "https://huawei8.live/upload/vod/20240806-1/cdc2c288214ae5aefab40c6567a495c6.webp",
+      "vod_remarks": "更新至06",
+      "vod_year": "2024"
+    },
+    {
+      "vod_id": 190864,
+      "vod_name": "大楼里只有谋杀 第四季",
+      "vod_pic": "https://huawei8.live/upload/vod/20240828-1/e21294be373b7a5c51fe93aca5322f37.webp",
+      "vod_remarks": "更新至03",
+      "vod_year": "2024"
+    },
+    {
+      "vod_id": 190980,
+      "vod_name": "良师难为",
+      "vod_pic": "https://huawei8.live/upload/vod/20240904-1/ba26f5743cf79563f453b9517428d23e.webp",
+      "vod_remarks": "更新至03",
+      "vod_year": "2024"
+    },
+    {
+      "vod_id": 190708,
+      "vod_name": "法官大人",
+      "vod_pic": "https://huawei8.live/upload/vod/20240821-1/33f900272980b80959854ea069896a90.jpg",
+      "vod_remarks": "已完结",
+      "vod_year": "2024"
+    },
+    {
+      "vod_id": 185302,
+      "vod_name": "魔法少女与恶曾是敌人",
+      "vod_pic": "https://huawei8.live/upload/vod/20240712-1/75c7dad21c1794d7035189e269ecc9f7.webp",
+      "vod_remarks": "更新至10",
+      "vod_year": "2024"
+    },
+    {
+      "vod_id": 190842,
+      "vod_name": "失魂舍伍德 第二季",
+      "vod_pic": "https://huawei8.live/upload/vod/20240827-1/63d487046bc8818654dcd612716f7c08.webp",
+      "vod_remarks": "已完结",
+      "vod_year": "2024"
+    }
+  ],
+  "parse": 0
+}
