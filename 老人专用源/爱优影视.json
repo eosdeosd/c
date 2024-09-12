@@ -21,7 +21,7 @@
 "搜索副标题":"<span class=\"pic-text text-right\">&&</span>",
 "搜索后缀":"/view/",
 "线路数组":"<a data-toggle=\"tab\"&&/a>[排序:VIP线路]",
-"线路标题":">&&<[不包含:FF#LZ#BF#HN#WJ#]",
+"线路标题":"<span>&&</small>[不包含:FF线路#LZ线路#BF线路#HN线路#WJ线路#</span><small>>>共]+集",//>&&<
 "播放数组":"<ul class=\"stui-content__playlist clearfix&&</ul>",
 "影片年代":"年份：&&</p>",
 "影片地区":"地区：&&<span",
