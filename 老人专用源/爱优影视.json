@@ -1,13 +1,13 @@
 {
-
+//"分类url":"https://iuys2.cc/vodshow/{cateid}-{area}-{by}-{calss}-{lang}----{catepg}---{year}.html",vodtype
 
   "站名":"爱优影视", 
     
  "播放标题": ">&&</a>[排序:TX资源>]",
  "分类url":"https://iuys.cc/vodtype/{cateId}.html",
- "分类":"电影$2#电视剧$1#动漫$3#综艺$4"}
-
-
+ "分类":"电影$2#电视剧$1#动漫$3#综艺$4",
+"线路标题":">&&<[不包含:FF线路#LZ线路#BF线路#HN线路#WJ线路#]",//>&&<
+"嗅探词":".m3u8#.mp4#.flv#.mp3#.m4a"
 
 
 
@@ -18,15 +18,15 @@
 
 
 
- //"分类url":"https://iuys2.cc/vodshow/{cateid}-{area}-{by}-{calss}-{lang}----{catepg}---{year}.html",vodtype
 
 
 
 
-//"线路标题":">&&<[不包含:FF线路#LZ线路#BF线路#HN线路#WJ线路#]",//>&&<
 
 
-// "嗅探词":".m3u8#.mp4#.flv#.mp3#.m4a"
+
+
+
 
 
 
