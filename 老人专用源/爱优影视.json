@@ -5,6 +5,38 @@
  "分类url":"https://iuys.cc/vodtype/{cateId}.html",
  "分类":"电影$2#电视剧$1#动漫$3#综艺$4",
  "主页url":"https://iuys.cc/",
+
+
+"数组":"<div class=\"stui-vodlist__box\">&&</div>",
+"图片":"data-original=\"&&\"",
+"标题":"title=\"&&\"",
+"链接":"href=\"&&\"",
+"副标题":"<span class=\"pic-text text-right\">&&</span>",
+"搜索url":"https://iuys.cc/search.php;post;searchword={wd}",
+"搜索模式":"1",
+"搜索数组":"<a class=\"v-thumb stui-vodlist__thumb&&</a>",
+"搜索图片":"data-original=\"&&\"",
+"搜索标题":"title=\"&&\"",
+"搜索链接":"href=\"&&\"",
+"搜索副标题":"<span class=\"pic-text text-right\">&&</span>",
+"搜索后缀":"/view/",
+"线路数组":"<a data-toggle=\"tab\"&&/a>[排序:VIP线路]",
+"线路标题":"<span>&&</small>[不包含:FF线路#LZ线路#BF线路#HN线路#WJ线路#</span><small>>>共]+集",//>&&<
+"播放数组":"<ul class=\"stui-content__playlist clearfix&&</ul>",
+"影片年代":"年份：&&</p>",
+"影片地区":"地区：&&<span",
+"影片类型":"类型：&&</a>",
+"导演":"导演：&&</p>",
+"主演":"主演：&&</p>",
+"简介":"简介：&&</a>",
+"播放列表":"<a&&/a>",
+"播放链接":"href=\"&&\"",
+"播放链接前缀":"https://iuys.cc/",
+
+
+
+
+
  "嗅探词":".m3u8#.mp4#.flv#.mp3#.m4a",
 "筛选":
 {
