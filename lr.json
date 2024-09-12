@@ -55,7 +55,7 @@
 //{ "key": "爱优影视", "name": "🥇┃爱优影视(修改中)", "type":3,"searchable": 1, "quickSearch": 1, "filterable": 1,"api":"csp_XBPQ","ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E7%88%B1%E4%BC%98%E5%BD%B1%E8%A7%86.json"},
 
 
-{"key": "csp_xml_ikun","name": "🥈ikun资源","type": 1,"api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/ikun%E8%B5%84%E6%BA%90.json", "searchable": 1,
+{"key": "csp_xml_ikun","name": "🥈ikun资源","type": 1,"api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/js", "searchable": 1,
     "playUrl": "https://www.ikdmjx.com/?url=","quickSearch": 1,"filterable": 1,"playerType": 2,"categories": [ "日本动漫", "记录片", "国产剧", "欧美剧", "古装片","历史片", "香港剧", "韩国剧", "台湾剧","日本剧", "海外剧","泰国剧", "国产动漫",  "欧美动漫", "大陆综艺", "港台综艺", "日韩综艺","欧美综艺"]},
 //https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json
 
