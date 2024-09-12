@@ -5,7 +5,7 @@
 
   //https://10popwatch.com/vodshow/4-大陆-time-热血-国语----2---更早.html  
   //https://10popwatch.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{catePg}-{year}---.html
-    "分类url": "https://10popwatch.com/vodshow/{cateId}-----------.html",
+    "分类url": "https://10popwatch.com/vodtype/{cateId}.html",
 
     "分类": "动漫",
     "分类值": "4",
