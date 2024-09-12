@@ -47,7 +47,7 @@
    //{ "key": "华为资源",  "name": "🍦采集资源", "type": 1,  "api": "http://nikanba.live/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1 },//华为资源http://nikanba.live/api.php/provide/vod/
 
 
-{"key": "小苹果弹幕", "name": "🍎1080P(设置播放器为IJK)","type": 3, "api": "csp_Xpg", "searchable": 0, "quickSearch": 0, "filterable": 0,"jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/Xpg.jar" },
+{"key": "小苹果弹幕", "name": "🍎1080P（好吃）","type": 3, "api": "csp_Xpg","playerType": 1, "searchable": 0, "quickSearch": 0, "filterable": 0,"jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/Xpg.jar" },
 
 
 
