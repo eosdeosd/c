@@ -1,22 +1,102 @@
-{ 
-  "站名":"爱优影视", 
+{
 
-  "主页url":"https://iuys.cc/",  
+
+"主页url":"https://iuys.cc/",  
+
+  "请求头": "手机",
 
  "播放标题": ">&&</a>[排序:TX资源>]",
 
- "分类url":"https://iuys2.cc/vodtype/{cateid}{area}{by}{year}.html",//"https://iuys2.cc/vodtype/{cateid}-{area}-{by}---------{year}.html",  
+ "分类url":"https://iuys.cc/vodtype/{cateId}.html",
+ //"分类url":"https://iuys2.cc/vodshow/{cateid}-{area}-{by}-{calss}-{lang}----{catepg}---{year}.html",
 
  "分类":"电影$2#电视剧$1#动漫$3#综艺$4",
 
-"线路数组":"<a data-toggle=\"tab\"&&/a>[排序:VIP线路]",
 
 "线路标题":">&&<[不包含:FF线路#LZ线路#BF线路#HN线路#WJ线路#]",//>&&<
 
 
- "嗅探词":".m3u8#.mp4#.flv#.mp3#.m4a"
+ "嗅探词":".m3u8#.mp4#.flv#.mp3#.m4a",
+
+
 
 
     
+
+    "简介":"剧情：</span>&&</span>",
+    
+    "导演":"导演：&&</div>",
+    
+    "主演":"主演：&&</div>",
+    
+    "影片状态":"集数：&&</div>",
+    
+    "影片类型":"icon-cate-ds\">&&</a>",
+    
+    "数组":"module-item-pic\">&&module-item\">",
+    
+    "标题":"title=\"&&\"",
+    
+    "副标题":"module-item-text\"&&</div>",
+    
+    "图片":"data-src=\"&&\"",
+    
+    "链接":"href=\"&&\"",
+    
+    "搜索url":"/index.php/vod/search.html?wd={wd}",
+    
+    "搜索数组":"lazy lazyload\"&&<h3>[不包含:肥猫不肥#神秘的哥哥#重复#]",
+    
+    "搜索标题":"alt=\"&&\"",
+    
+    "搜索副标题":"title=*>&&</a>",
+    
+    "搜索图片":"data-src=\"&&\"",
+    
+    "搜索链接":"href=\"&&\"",
+    "线路数组":"data-dropdown-value=&&</div>[不包含:Cloud#蓝光139#蓝光1#非凡云#资源库#飞速云#新浪云#金鹰云#][排序:闪电蓝光>蓝光BD>夸克浏览器秒播专线]",
+    
   
+    "播放数组":"sort-item\"&&</div>",
+    
+   
+    
+    "播放列表":"<a&&</a>"
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
+  
+
+
+
+ 
