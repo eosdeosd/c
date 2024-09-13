@@ -4,9 +4,9 @@
 {
   "主页url": "https://dylstv.com/",
 
-  //https://dylstv.com/vod/type/id/20.html
+  //https://dylstv.com/vod/show/area/日本/by/hits/class/动作/id/22/lang/日语/page/2/year/更早.html
 
-    "分类url": "https://dylstv.com/vod/type/id/{cateId}.html",
+    "分类url": "https://dylstv.com/vod/show/area/{area}/by/{by}/class/{calss}/id/{cateid}/lang/{lang}/page/{catepg}/year/{year}.html",
 
    
     
