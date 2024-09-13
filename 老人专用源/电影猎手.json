@@ -5,8 +5,8 @@
   "主页url": "https://dylstv.com/",
 
   //https://dylstv.com/vod/show/area/大陆/by/score/class/剧情/id/20/lang/国语/letter/Y/page/2/year/10年代.html
-
- "分类url": "https://dylstv.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateid}/lang/{lang}/letter/{letter}/page/{catepg}/year/{year}.html",
+  //https://dylstv.com/vod/show/area/大陆/by/hits/class/剧情/id/20/lang/国语/letter/Y/page/2/year/10年代.html
+"分类url": "https://dylstv.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateid}/lang/{lang}/letter/{letter}/page/{catepg}/year/{year}.html",
 
    
     
