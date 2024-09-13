@@ -1,1 +1,13 @@
-//https://www.yuhang007.com/index.php/vod/show/area/大陆/by/score/class/动作/id/6/lang/国语/page/2/year/2023.html
+// https://www.yuhang007.com/index.php/vod/show/area/大陆/by/score/class/动作/id/6/lang/国语/page/2/year/2023.html
+
+// https://www.yuhang007.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html
+{
+  "主页url": "https://www.yuhang007.com/",
+    "分类url": "https://www.keke9.app/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
+    "分类": "电影&连续剧&动漫&综艺",
+    "分类值": "1&2&4&3",
+   
+    "线路数组": "source-item\">&&<i[排序:超清>极速蓝光][不包含:FF线路#蓝光2#蓝光9#蓝光7#XL线路#YH线路#HN线路]",
+    "线路标题": ">&&<[不包含:4K#蓝光3#蓝光1#LZ线路#蓝光2#蓝光9#蓝光7#FF#XL线路#YH线路#HN线路#蓝光7#SB线路#蓝光4#IK线路#BD线路#WJ线路#GS线路#JY线路#]"  //>&&<",
+   
+}
