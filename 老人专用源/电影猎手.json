@@ -1,1 +1,23 @@
-https://dylstv.com/vod/type/id/20.html
+
+
+
+{
+  "主页url": "https://dylstv.com/",
+
+  //https://dylstv.com/vod/type/id/20.html
+
+    "分类url": "https://dylstv.com/vod/type/id/{cateId}.html",
+
+   
+    
+     "分类": "电影&剧集&短剧&动漫&综艺",
+    "分类值": "20&21&24&22&23",
+
+
+
+   // "线路数组": "source-item\">&&<i[排序:超清>极速蓝光][不包含:FF线路#蓝光2#蓝光9#蓝光7#XL线路#YH线路#HN线路]",
+   // "线路标题": ">&&<[不包含:4K#蓝光3#蓝光1#LZ线路#蓝光2#蓝光9#蓝光7#FF#XL线路#YH线路#HN线路#蓝光7#SB线路#蓝光4#IK线路#BD线路#WJ线路#GS线路#JY线路#]",  
+   // "嗅探词": ".m3u8#video_mp4#tos-#.mp4#cdn.123pan.cn#huoshanvod.com",
+    "倒序": "否"
+
+}
