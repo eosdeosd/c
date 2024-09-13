@@ -11,10 +11,10 @@
 
 
 
-  //https://dylstv.com/vod/show/area/日本/class/运动/id/22/page/2/year/更早.html
 
 
-"分类url": "https://dylstv.com/vod/show/area/{area}/class/{class}/id/{cateid}/page/{catepg}/year/{year}.html",
+
+"分类url": "https://dylstv.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateid}/lang/{lang}/letter/{letter}/page/{catepg}/year/{year}.html",
 
    
     
