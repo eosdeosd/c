@@ -14,7 +14,7 @@
 
 
 
-"分类url": "https://dylstv.com/vod/type/id/{cateId}.html[firstPage=第一页不含页码的链接]",
+"分类url": "https://dylstv.com/vod/show/id/{cateId}/page/{catepg}.html[firstPage=https://dylstv.com/vod/show/id/{cateId}.html]",
 
    
     
