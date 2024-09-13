@@ -1,9 +1,14 @@
 // https://www.yuhang007.com/index.php/vod/show/area/大陆/by/score/class/动作/id/6/lang/国语/page/2/year/2023.html
 
 // https://www.yuhang007.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html
+
+//https://www.yuhang007.com/index.php/vod/show/area/日本/id/30/page/2/year/2024.html
+
+//https://www.yuhang007.com/index.php/vod/show/id/{cateId}/page/{catePg}/year/{year}.html
+
 {
   "主页url": "https://www.yuhang007.com/",
-    "分类url": "https://www.yuhang007.com/index.php/vod/show/id/{cateId}/page/{catePg}/year/{year}.html",
+    "分类url": "https://www.yuhang007.com/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
     "分类": "电影&连续剧&动漫&综艺",
     "分类值": "1&2&4&3",
    
