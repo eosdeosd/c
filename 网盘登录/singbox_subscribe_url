@@ -1,0 +1,2562 @@
+{
+    "log": {
+        "level": "warn",
+        "timestamp": true
+    },
+    "dns": {
+        "servers": [
+            {
+                "address": "https://94.140.14.14/dns-query",
+                "address_resolver": "dns-direct",
+                "strategy": "prefer_ipv4",
+                "tag": "dns-remote"
+            },
+            {
+                "address": "8.8.8.8",
+                "address_resolver": "dns-local",
+                "strategy": "prefer_ipv4",
+                "detour": "direct",
+                "tag": "dns-direct"
+            },
+            {
+                "address": "local",
+                "tag": "dns-local"
+            },
+            {
+                "address": "rcode://success",
+                "tag": "dns-block"
+            }
+        ],
+        "rules": [
+            {
+                "domain_suffix": ".ir",
+                "server": "dns-direct",
+                "domain": [
+                    "bpb.hx208.top",
+                    "www.speedtest.net"
+                ]
+            },
+            {
+                "disable_cache": true,
+                "rule_set": [
+                    "geosite-category-ads-all",
+                    "geosite-malware",
+                    "geosite-phishing",
+                    "geosite-cryptominers"
+                ],
+                "server": "dns-block"
+            }
+        ],
+        "independent_cache": true
+    },
+    "inbounds": [
+        {
+            "type": "direct",
+            "tag": "dns-in",
+            "listen": "127.0.0.1",
+            "listen_port": 6450,
+            "override_address": "8.8.8.8",
+            "override_port": 53
+        },
+        {
+            "type": "tun",
+            "tag": "tun-in",
+            "inet4_address": "172.19.0.1/28",
+            "inet6_address": "fdfe:dcba:9876::1/126",
+            "mtu": 9000,
+            "auto_route": true,
+            "strict_route": true,
+            "endpoint_independent_nat": true,
+            "stack": "mixed",
+            "sniff": true,
+            "sniff_override_destination": true
+        },
+        {
+            "type": "mixed",
+            "tag": "mixed-in",
+            "listen": "127.0.0.1",
+            "listen_port": 2080,
+            "sniff": true,
+            "sniff_override_destination": true
+        }
+    ],
+    "outbounds": [
+        {
+            "type": "selector",
+            "tag": "proxy",
+            "outbounds": [
+                "💦 Best-Ping 💥",
+                "💦 BPB - Domain_1 : 443",
+                "💦 BPB - Domain_2 : 443",
+                "💦 BPB - IPv4_1 : 443",
+                "💦 BPB - IPv4_2 : 443",
+                "💦 BPB - IPv6_1 : 443",
+                "💦 BPB - IPv6_2 : 443",
+                "💦 BPB - Clean IP_1 : 443",
+                "💦 BPB - Domain_1 : 8443",
+                "💦 BPB - Domain_2 : 8443",
+                "💦 BPB - IPv4_1 : 8443",
+                "💦 BPB - IPv4_2 : 8443",
+                "💦 BPB - IPv6_1 : 8443",
+                "💦 BPB - IPv6_2 : 8443",
+                "💦 BPB - Clean IP_1 : 8443",
+                "💦 BPB - Domain_1 : 2053",
+                "💦 BPB - Domain_2 : 2053",
+                "💦 BPB - IPv4_1 : 2053",
+                "💦 BPB - IPv4_2 : 2053",
+                "💦 BPB - IPv6_1 : 2053",
+                "💦 BPB - IPv6_2 : 2053",
+                "💦 BPB - Clean IP_1 : 2053",
+                "💦 BPB - Domain_1 : 2083",
+                "💦 BPB - Domain_2 : 2083",
+                "💦 BPB - IPv4_1 : 2083",
+                "💦 BPB - IPv4_2 : 2083",
+                "💦 BPB - IPv6_1 : 2083",
+                "💦 BPB - IPv6_2 : 2083",
+                "💦 BPB - Clean IP_1 : 2083",
+                "💦 BPB - Domain_1 : 2087",
+                "💦 BPB - Domain_2 : 2087",
+                "💦 BPB - IPv4_1 : 2087",
+                "💦 BPB - IPv4_2 : 2087",
+                "💦 BPB - IPv6_1 : 2087",
+                "💦 BPB - IPv6_2 : 2087",
+                "💦 BPB - Clean IP_1 : 2087",
+                "💦 BPB - Domain_1 : 2096",
+                "💦 BPB - Domain_2 : 2096",
+                "💦 BPB - IPv4_1 : 2096",
+                "💦 BPB - IPv4_2 : 2096",
+                "💦 BPB - IPv6_1 : 2096",
+                "💦 BPB - IPv6_2 : 2096",
+                "💦 BPB - Clean IP_1 : 2096",
+                "💦 BPB - Domain_1 : 80",
+                "💦 BPB - Domain_2 : 80",
+                "💦 BPB - IPv4_1 : 80",
+                "💦 BPB - IPv4_2 : 80",
+                "💦 BPB - IPv6_1 : 80",
+                "💦 BPB - IPv6_2 : 80",
+                "💦 BPB - Clean IP_1 : 80",
+                "💦 BPB - Domain_1 : 8080",
+                "💦 BPB - Domain_2 : 8080",
+                "💦 BPB - IPv4_1 : 8080",
+                "💦 BPB - IPv4_2 : 8080",
+                "💦 BPB - IPv6_1 : 8080",
+                "💦 BPB - IPv6_2 : 8080",
+                "💦 BPB - Clean IP_1 : 8080",
+                "💦 BPB - Domain_1 : 2052",
+                "💦 BPB - Domain_2 : 2052",
+                "💦 BPB - IPv4_1 : 2052",
+                "💦 BPB - IPv4_2 : 2052",
+                "💦 BPB - IPv6_1 : 2052",
+                "💦 BPB - IPv6_2 : 2052",
+                "💦 BPB - Clean IP_1 : 2052",
+                "💦 BPB - Domain_1 : 2082",
+                "💦 BPB - Domain_2 : 2082",
+                "💦 BPB - IPv4_1 : 2082",
+                "💦 BPB - IPv4_2 : 2082",
+                "💦 BPB - IPv6_1 : 2082",
+                "💦 BPB - IPv6_2 : 2082",
+                "💦 BPB - Clean IP_1 : 2082",
+                "💦 BPB - Domain_1 : 2086",
+                "💦 BPB - Domain_2 : 2086",
+                "💦 BPB - IPv4_1 : 2086",
+                "💦 BPB - IPv4_2 : 2086",
+                "💦 BPB - IPv6_1 : 2086",
+                "💦 BPB - IPv6_2 : 2086",
+                "💦 BPB - Clean IP_1 : 2086",
+                "💦 BPB - Domain_1 : 2095",
+                "💦 BPB - Domain_2 : 2095",
+                "💦 BPB - IPv4_1 : 2095",
+                "💦 BPB - IPv4_2 : 2095",
+                "💦 BPB - IPv6_1 : 2095",
+                "💦 BPB - IPv6_2 : 2095",
+                "💦 BPB - Clean IP_1 : 2095",
+                "💦 BPB - Domain_1 : 8880",
+                "💦 BPB - Domain_2 : 8880",
+                "💦 BPB - IPv4_1 : 8880",
+                "💦 BPB - IPv4_2 : 8880",
+                "💦 BPB - IPv6_1 : 8880",
+                "💦 BPB - IPv6_2 : 8880",
+                "💦 BPB - Clean IP_1 : 8880"
+            ]
+        },
+        {
+            "type": "urltest",
+            "tag": "💦 Best-Ping 💥",
+            "outbounds": [
+                "💦 BPB - Domain_1 : 443",
+                "💦 BPB - Domain_2 : 443",
+                "💦 BPB - IPv4_1 : 443",
+                "💦 BPB - IPv4_2 : 443",
+                "💦 BPB - IPv6_1 : 443",
+                "💦 BPB - IPv6_2 : 443",
+                "💦 BPB - Clean IP_1 : 443",
+                "💦 BPB - Domain_1 : 8443",
+                "💦 BPB - Domain_2 : 8443",
+                "💦 BPB - IPv4_1 : 8443",
+                "💦 BPB - IPv4_2 : 8443",
+                "💦 BPB - IPv6_1 : 8443",
+                "💦 BPB - IPv6_2 : 8443",
+                "💦 BPB - Clean IP_1 : 8443",
+                "💦 BPB - Domain_1 : 2053",
+                "💦 BPB - Domain_2 : 2053",
+                "💦 BPB - IPv4_1 : 2053",
+                "💦 BPB - IPv4_2 : 2053",
+                "💦 BPB - IPv6_1 : 2053",
+                "💦 BPB - IPv6_2 : 2053",
+                "💦 BPB - Clean IP_1 : 2053",
+                "💦 BPB - Domain_1 : 2083",
+                "💦 BPB - Domain_2 : 2083",
+                "💦 BPB - IPv4_1 : 2083",
+                "💦 BPB - IPv4_2 : 2083",
+                "💦 BPB - IPv6_1 : 2083",
+                "💦 BPB - IPv6_2 : 2083",
+                "💦 BPB - Clean IP_1 : 2083",
+                "💦 BPB - Domain_1 : 2087",
+                "💦 BPB - Domain_2 : 2087",
+                "💦 BPB - IPv4_1 : 2087",
+                "💦 BPB - IPv4_2 : 2087",
+                "💦 BPB - IPv6_1 : 2087",
+                "💦 BPB - IPv6_2 : 2087",
+                "💦 BPB - Clean IP_1 : 2087",
+                "💦 BPB - Domain_1 : 2096",
+                "💦 BPB - Domain_2 : 2096",
+                "💦 BPB - IPv4_1 : 2096",
+                "💦 BPB - IPv4_2 : 2096",
+                "💦 BPB - IPv6_1 : 2096",
+                "💦 BPB - IPv6_2 : 2096",
+                "💦 BPB - Clean IP_1 : 2096",
+                "💦 BPB - Domain_1 : 80",
+                "💦 BPB - Domain_2 : 80",
+                "💦 BPB - IPv4_1 : 80",
+                "💦 BPB - IPv4_2 : 80",
+                "💦 BPB - IPv6_1 : 80",
+                "💦 BPB - IPv6_2 : 80",
+                "💦 BPB - Clean IP_1 : 80",
+                "💦 BPB - Domain_1 : 8080",
+                "💦 BPB - Domain_2 : 8080",
+                "💦 BPB - IPv4_1 : 8080",
+                "💦 BPB - IPv4_2 : 8080",
+                "💦 BPB - IPv6_1 : 8080",
+                "💦 BPB - IPv6_2 : 8080",
+                "💦 BPB - Clean IP_1 : 8080",
+                "💦 BPB - Domain_1 : 2052",
+                "💦 BPB - Domain_2 : 2052",
+                "💦 BPB - IPv4_1 : 2052",
+                "💦 BPB - IPv4_2 : 2052",
+                "💦 BPB - IPv6_1 : 2052",
+                "💦 BPB - IPv6_2 : 2052",
+                "💦 BPB - Clean IP_1 : 2052",
+                "💦 BPB - Domain_1 : 2082",
+                "💦 BPB - Domain_2 : 2082",
+                "💦 BPB - IPv4_1 : 2082",
+                "💦 BPB - IPv4_2 : 2082",
+                "💦 BPB - IPv6_1 : 2082",
+                "💦 BPB - IPv6_2 : 2082",
+                "💦 BPB - Clean IP_1 : 2082",
+                "💦 BPB - Domain_1 : 2086",
+                "💦 BPB - Domain_2 : 2086",
+                "💦 BPB - IPv4_1 : 2086",
+                "💦 BPB - IPv4_2 : 2086",
+                "💦 BPB - IPv6_1 : 2086",
+                "💦 BPB - IPv6_2 : 2086",
+                "💦 BPB - Clean IP_1 : 2086",
+                "💦 BPB - Domain_1 : 2095",
+                "💦 BPB - Domain_2 : 2095",
+                "💦 BPB - IPv4_1 : 2095",
+                "💦 BPB - IPv4_2 : 2095",
+                "💦 BPB - IPv6_1 : 2095",
+                "💦 BPB - IPv6_2 : 2095",
+                "💦 BPB - Clean IP_1 : 2095",
+                "💦 BPB - Domain_1 : 8880",
+                "💦 BPB - Domain_2 : 8880",
+                "💦 BPB - IPv4_1 : 8880",
+                "💦 BPB - IPv4_2 : 8880",
+                "💦 BPB - IPv6_1 : 8880",
+                "💦 BPB - IPv6_2 : 8880",
+                "💦 BPB - Clean IP_1 : 8880"
+            ],
+            "url": "https://www.gstatic.com/generate_204",
+            "interval": "30s",
+            "tolerance": 50
+        },
+        {
+            "type": "direct",
+            "tag": "direct"
+        },
+        {
+            "type": "block",
+            "tag": "block"
+        },
+        {
+            "type": "dns",
+            "tag": "dns-out"
+        },
+        {
+            "type": "vless",
+            "server": "bpb.hx208.top",
+            "server_port": 443,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "tls": {
+                "alpn": [
+                    "http/1.1"
+                ],
+                "enabled": true,
+                "insecure": false,
+                "server_name": "BPB.HX208.toP",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            },
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "bPB.Hx208.TOP"
+                },
+                "path": "/3IiKfWmW2jL2QOjx",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - Domain_1 : 443"
+        },
+        {
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 443,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "tls": {
+                "alpn": [
+                    "http/1.1"
+                ],
+                "enabled": true,
+                "insecure": false,
+                "server_name": "BPb.hX208.toP",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            },
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "bpB.hx208.TOP"
+                },
+                "path": "/TiuQi0w2xRR6D5Eu",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - Domain_2 : 443"
+        },
+        {
+            "type": "vless",
+            "server": "172.67.128.99",
+            "server_port": 443,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "tls": {
+                "alpn": [
+                    "http/1.1"
+                ],
+                "enabled": true,
+                "insecure": false,
+                "server_name": "BPb.hx208.ToP",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            },
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "BpB.Hx208.ToP"
+                },
+                "path": "/dKgm5aXsTbw4sxD0",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - IPv4_1 : 443"
+        },
+        {
+            "type": "vless",
+            "server": "104.21.0.235",
+            "server_port": 443,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "tls": {
+                "alpn": [
+                    "http/1.1"
+                ],
+                "enabled": true,
+                "insecure": false,
+                "server_name": "bPB.hx208.tOP",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            },
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "bPB.hX208.Top"
+                },
+                "path": "/SajrhS0alkj2Mz4E",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - IPv4_2 : 443"
+        },
+        {
+            "type": "vless",
+            "server": "[2606:4700:3031::ac43:8063]",
+            "server_port": 443,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "tls": {
+                "alpn": [
+                    "http/1.1"
+                ],
+                "enabled": true,
+                "insecure": false,
+                "server_name": "bPB.Hx208.Top",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            },
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "bPB.HX208.TOP"
+                },
+                "path": "/weUP7NccSmwV8AxW",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - IPv6_1 : 443"
+        },
+        {
+            "type": "vless",
+            "server": "[2606:4700:3034::6815:eb]",
+            "server_port": 443,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "tls": {
+                "alpn": [
+                    "http/1.1"
+                ],
+                "enabled": true,
+                "insecure": false,
+                "server_name": "BPb.hx208.top",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            },
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "BpB.hx208.ToP"
+                },
+                "path": "/oQnYXJqRLShgF5O9",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - IPv6_2 : 443"
+        },
+        {
+            "type": "vless",
+            "server": "104.25.207.242",
+            "server_port": 443,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "tls": {
+                "alpn": [
+                    "http/1.1"
+                ],
+                "enabled": true,
+                "insecure": false,
+                "server_name": "bPb.HX208.toP",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            },
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "Bpb.hX208.tOP"
+                },
+                "path": "/AcWb7gLqzW18w1dI",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - Clean IP_1 : 443"
+        },
+        {
+            "type": "vless",
+            "server": "bpb.hx208.top",
+            "server_port": 8443,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "tls": {
+                "alpn": [
+                    "http/1.1"
+                ],
+                "enabled": true,
+                "insecure": false,
+                "server_name": "BpB.hx208.TOP",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            },
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "BPb.hx208.ToP"
+                },
+                "path": "/3s5vjPtXzoTzELoF",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - Domain_1 : 8443"
+        },
+        {
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 8443,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "tls": {
+                "alpn": [
+                    "http/1.1"
+                ],
+                "enabled": true,
+                "insecure": false,
+                "server_name": "bpB.Hx208.TOp",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            },
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "bpB.Hx208.ToP"
+                },
+                "path": "/lkJ8G9J95yebwolE",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - Domain_2 : 8443"
+        },
+        {
+            "type": "vless",
+            "server": "172.67.128.99",
+            "server_port": 8443,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "tls": {
+                "alpn": [
+                    "http/1.1"
+                ],
+                "enabled": true,
+                "insecure": false,
+                "server_name": "Bpb.Hx208.TOP",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            },
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "BpB.hx208.top"
+                },
+                "path": "/tmFS9QxymWKehRfP",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - IPv4_1 : 8443"
+        },
+        {
+            "type": "vless",
+            "server": "104.21.0.235",
+            "server_port": 8443,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "tls": {
+                "alpn": [
+                    "http/1.1"
+                ],
+                "enabled": true,
+                "insecure": false,
+                "server_name": "bPB.HX208.Top",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            },
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "BpB.hx208.top"
+                },
+                "path": "/NttqMIWu50v82SMU",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - IPv4_2 : 8443"
+        },
+        {
+            "type": "vless",
+            "server": "[2606:4700:3031::ac43:8063]",
+            "server_port": 8443,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "tls": {
+                "alpn": [
+                    "http/1.1"
+                ],
+                "enabled": true,
+                "insecure": false,
+                "server_name": "bPb.hx208.ToP",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            },
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "bPb.hX208.ToP"
+                },
+                "path": "/8pkmZFMJDUr5f1ym",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - IPv6_1 : 8443"
+        },
+        {
+            "type": "vless",
+            "server": "[2606:4700:3034::6815:eb]",
+            "server_port": 8443,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "tls": {
+                "alpn": [
+                    "http/1.1"
+                ],
+                "enabled": true,
+                "insecure": false,
+                "server_name": "BpB.hX208.TOP",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            },
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "BPB.hX208.TOp"
+                },
+                "path": "/WfyVEJy8F4mGaDAk",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - IPv6_2 : 8443"
+        },
+        {
+            "type": "vless",
+            "server": "104.25.207.242",
+            "server_port": 8443,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "tls": {
+                "alpn": [
+                    "http/1.1"
+                ],
+                "enabled": true,
+                "insecure": false,
+                "server_name": "bPB.HX208.Top",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            },
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "bPb.hx208.top"
+                },
+                "path": "/rgHeIONHVhwkOVHu",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - Clean IP_1 : 8443"
+        },
+        {
+            "type": "vless",
+            "server": "bpb.hx208.top",
+            "server_port": 2053,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "tls": {
+                "alpn": [
+                    "http/1.1"
+                ],
+                "enabled": true,
+                "insecure": false,
+                "server_name": "bpb.HX208.TOp",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            },
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "BPB.Hx208.tOP"
+                },
+                "path": "/haxjauREFim7zyu4",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - Domain_1 : 2053"
+        },
+        {
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 2053,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "tls": {
+                "alpn": [
+                    "http/1.1"
+                ],
+                "enabled": true,
+                "insecure": false,
+                "server_name": "bpB.HX208.TOp",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            },
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "BPB.hx208.tOp"
+                },
+                "path": "/cvEPsAv0ckkFyQH8",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - Domain_2 : 2053"
+        },
+        {
+            "type": "vless",
+            "server": "172.67.128.99",
+            "server_port": 2053,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "tls": {
+                "alpn": [
+                    "http/1.1"
+                ],
+                "enabled": true,
+                "insecure": false,
+                "server_name": "bPb.HX208.TOp",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            },
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "bPb.HX208.toP"
+                },
+                "path": "/f0iSQpuUPf3s2mTE",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - IPv4_1 : 2053"
+        },
+        {
+            "type": "vless",
+            "server": "104.21.0.235",
+            "server_port": 2053,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "tls": {
+                "alpn": [
+                    "http/1.1"
+                ],
+                "enabled": true,
+                "insecure": false,
+                "server_name": "bpB.hx208.Top",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            },
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "bPB.hX208.toP"
+                },
+                "path": "/lW6NKoNtXO35lkCX",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - IPv4_2 : 2053"
+        },
+        {
+            "type": "vless",
+            "server": "[2606:4700:3031::ac43:8063]",
+            "server_port": 2053,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "tls": {
+                "alpn": [
+                    "http/1.1"
+                ],
+                "enabled": true,
+                "insecure": false,
+                "server_name": "bPB.Hx208.top",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            },
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "bpB.hx208.Top"
+                },
+                "path": "/dTIbbkONFZvBHV0H",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - IPv6_1 : 2053"
+        },
+        {
+            "type": "vless",
+            "server": "[2606:4700:3034::6815:eb]",
+            "server_port": 2053,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "tls": {
+                "alpn": [
+                    "http/1.1"
+                ],
+                "enabled": true,
+                "insecure": false,
+                "server_name": "BpB.HX208.top",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            },
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "BPB.Hx208.ToP"
+                },
+                "path": "/u1qAeQQZVu7ixtcU",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - IPv6_2 : 2053"
+        },
+        {
+            "type": "vless",
+            "server": "104.25.207.242",
+            "server_port": 2053,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "tls": {
+                "alpn": [
+                    "http/1.1"
+                ],
+                "enabled": true,
+                "insecure": false,
+                "server_name": "Bpb.Hx208.tOP",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            },
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "BPb.Hx208.Top"
+                },
+                "path": "/93FMTXQhtSqureiF",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - Clean IP_1 : 2053"
+        },
+        {
+            "type": "vless",
+            "server": "bpb.hx208.top",
+            "server_port": 2083,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "tls": {
+                "alpn": [
+                    "http/1.1"
+                ],
+                "enabled": true,
+                "insecure": false,
+                "server_name": "BpB.hx208.tOP",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            },
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "BPB.HX208.tOp"
+                },
+                "path": "/MRURXZ5vthR53QmD",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - Domain_1 : 2083"
+        },
+        {
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 2083,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "tls": {
+                "alpn": [
+                    "http/1.1"
+                ],
+                "enabled": true,
+                "insecure": false,
+                "server_name": "Bpb.Hx208.TOp",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            },
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "BPB.HX208.tOp"
+                },
+                "path": "/YqdhYpRdLbkf8oYP",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - Domain_2 : 2083"
+        },
+        {
+            "type": "vless",
+            "server": "172.67.128.99",
+            "server_port": 2083,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "tls": {
+                "alpn": [
+                    "http/1.1"
+                ],
+                "enabled": true,
+                "insecure": false,
+                "server_name": "bpb.hx208.toP",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            },
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "bPB.hX208.tOP"
+                },
+                "path": "/pphDlJogoCjgeJXv",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - IPv4_1 : 2083"
+        },
+        {
+            "type": "vless",
+            "server": "104.21.0.235",
+            "server_port": 2083,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "tls": {
+                "alpn": [
+                    "http/1.1"
+                ],
+                "enabled": true,
+                "insecure": false,
+                "server_name": "BpB.HX208.top",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            },
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "bPB.hX208.tOP"
+                },
+                "path": "/bzkz4Xcw1rJ1Yqdn",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - IPv4_2 : 2083"
+        },
+        {
+            "type": "vless",
+            "server": "[2606:4700:3031::ac43:8063]",
+            "server_port": 2083,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "tls": {
+                "alpn": [
+                    "http/1.1"
+                ],
+                "enabled": true,
+                "insecure": false,
+                "server_name": "BPb.hX208.ToP",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            },
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "bPb.HX208.ToP"
+                },
+                "path": "/UifKllGukehSZUsa",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - IPv6_1 : 2083"
+        },
+        {
+            "type": "vless",
+            "server": "[2606:4700:3034::6815:eb]",
+            "server_port": 2083,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "tls": {
+                "alpn": [
+                    "http/1.1"
+                ],
+                "enabled": true,
+                "insecure": false,
+                "server_name": "bpB.HX208.ToP",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            },
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "bPb.hx208.tOP"
+                },
+                "path": "/P0MG64R0hZ5KNGxE",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - IPv6_2 : 2083"
+        },
+        {
+            "type": "vless",
+            "server": "104.25.207.242",
+            "server_port": 2083,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "tls": {
+                "alpn": [
+                    "http/1.1"
+                ],
+                "enabled": true,
+                "insecure": false,
+                "server_name": "bPB.hx208.toP",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            },
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "bPB.hX208.TOp"
+                },
+                "path": "/sTpyR09C7zVa0EWs",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - Clean IP_1 : 2083"
+        },
+        {
+            "type": "vless",
+            "server": "bpb.hx208.top",
+            "server_port": 2087,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "tls": {
+                "alpn": [
+                    "http/1.1"
+                ],
+                "enabled": true,
+                "insecure": false,
+                "server_name": "bpB.HX208.tOP",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            },
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "BPb.HX208.Top"
+                },
+                "path": "/oy2eKY7RNZzkeySJ",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - Domain_1 : 2087"
+        },
+        {
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 2087,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "tls": {
+                "alpn": [
+                    "http/1.1"
+                ],
+                "enabled": true,
+                "insecure": false,
+                "server_name": "bpb.hX208.Top",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            },
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "bpB.HX208.Top"
+                },
+                "path": "/p26CAMKjSIj0oREc",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - Domain_2 : 2087"
+        },
+        {
+            "type": "vless",
+            "server": "172.67.128.99",
+            "server_port": 2087,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "tls": {
+                "alpn": [
+                    "http/1.1"
+                ],
+                "enabled": true,
+                "insecure": false,
+                "server_name": "BpB.HX208.ToP",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            },
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "BpB.hx208.top"
+                },
+                "path": "/mlax3lchfwjRg97x",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - IPv4_1 : 2087"
+        },
+        {
+            "type": "vless",
+            "server": "104.21.0.235",
+            "server_port": 2087,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "tls": {
+                "alpn": [
+                    "http/1.1"
+                ],
+                "enabled": true,
+                "insecure": false,
+                "server_name": "bpb.Hx208.TOp",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            },
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "bpB.HX208.toP"
+                },
+                "path": "/Sbsb4CvPSr0IkeUG",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - IPv4_2 : 2087"
+        },
+        {
+            "type": "vless",
+            "server": "[2606:4700:3031::ac43:8063]",
+            "server_port": 2087,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "tls": {
+                "alpn": [
+                    "http/1.1"
+                ],
+                "enabled": true,
+                "insecure": false,
+                "server_name": "BpB.Hx208.TOp",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            },
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "Bpb.HX208.Top"
+                },
+                "path": "/npShh1dxZhrSxYnD",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - IPv6_1 : 2087"
+        },
+        {
+            "type": "vless",
+            "server": "[2606:4700:3034::6815:eb]",
+            "server_port": 2087,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "tls": {
+                "alpn": [
+                    "http/1.1"
+                ],
+                "enabled": true,
+                "insecure": false,
+                "server_name": "bpB.HX208.ToP",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            },
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "Bpb.HX208.tOp"
+                },
+                "path": "/YtK2JiZNEQEZG7FQ",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - IPv6_2 : 2087"
+        },
+        {
+            "type": "vless",
+            "server": "104.25.207.242",
+            "server_port": 2087,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "tls": {
+                "alpn": [
+                    "http/1.1"
+                ],
+                "enabled": true,
+                "insecure": false,
+                "server_name": "bpB.hx208.tOp",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            },
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "Bpb.Hx208.TOP"
+                },
+                "path": "/eplIC1Rtvti3oYa8",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - Clean IP_1 : 2087"
+        },
+        {
+            "type": "vless",
+            "server": "bpb.hx208.top",
+            "server_port": 2096,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "tls": {
+                "alpn": [
+                    "http/1.1"
+                ],
+                "enabled": true,
+                "insecure": false,
+                "server_name": "bpb.hX208.ToP",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            },
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "bpB.hX208.TOP"
+                },
+                "path": "/6w8egRztt0QBV3HR",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - Domain_1 : 2096"
+        },
+        {
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 2096,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "tls": {
+                "alpn": [
+                    "http/1.1"
+                ],
+                "enabled": true,
+                "insecure": false,
+                "server_name": "Bpb.hX208.TOp",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            },
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "BPB.Hx208.TOp"
+                },
+                "path": "/GxlVOfb1R0py9a6O",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - Domain_2 : 2096"
+        },
+        {
+            "type": "vless",
+            "server": "172.67.128.99",
+            "server_port": 2096,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "tls": {
+                "alpn": [
+                    "http/1.1"
+                ],
+                "enabled": true,
+                "insecure": false,
+                "server_name": "bpB.Hx208.TOp",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            },
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "BpB.HX208.TOp"
+                },
+                "path": "/jqrWPStqCCohfwap",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - IPv4_1 : 2096"
+        },
+        {
+            "type": "vless",
+            "server": "104.21.0.235",
+            "server_port": 2096,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "tls": {
+                "alpn": [
+                    "http/1.1"
+                ],
+                "enabled": true,
+                "insecure": false,
+                "server_name": "BpB.Hx208.ToP",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            },
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "bpB.HX208.tOP"
+                },
+                "path": "/LdhrkurCijEWrVIK",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - IPv4_2 : 2096"
+        },
+        {
+            "type": "vless",
+            "server": "[2606:4700:3031::ac43:8063]",
+            "server_port": 2096,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "tls": {
+                "alpn": [
+                    "http/1.1"
+                ],
+                "enabled": true,
+                "insecure": false,
+                "server_name": "bpB.hx208.tOP",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            },
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "BPB.HX208.TOp"
+                },
+                "path": "/iNa7ivWSIbccEoOv",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - IPv6_1 : 2096"
+        },
+        {
+            "type": "vless",
+            "server": "[2606:4700:3034::6815:eb]",
+            "server_port": 2096,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "tls": {
+                "alpn": [
+                    "http/1.1"
+                ],
+                "enabled": true,
+                "insecure": false,
+                "server_name": "BpB.HX208.toP",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            },
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "bpB.hx208.tOp"
+                },
+                "path": "/GSSLHtEOCkQr9Eqq",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - IPv6_2 : 2096"
+        },
+        {
+            "type": "vless",
+            "server": "104.25.207.242",
+            "server_port": 2096,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "tls": {
+                "alpn": [
+                    "http/1.1"
+                ],
+                "enabled": true,
+                "insecure": false,
+                "server_name": "bPb.Hx208.tOP",
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                }
+            },
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "BpB.hx208.tOP"
+                },
+                "path": "/BtBb4L7bsQyVJr0e",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - Clean IP_1 : 2096"
+        },
+        {
+            "type": "vless",
+            "server": "bpb.hx208.top",
+            "server_port": 80,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "BPb.hx208.Top"
+                },
+                "path": "/2VcH3Q5ZijCB9kCU",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - Domain_1 : 80"
+        },
+        {
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 80,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "bpb.hX208.ToP"
+                },
+                "path": "/AqQZGtr8NC2Wcist",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - Domain_2 : 80"
+        },
+        {
+            "type": "vless",
+            "server": "172.67.128.99",
+            "server_port": 80,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "bPb.Hx208.tOp"
+                },
+                "path": "/kzE03FsKSpErGJme",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - IPv4_1 : 80"
+        },
+        {
+            "type": "vless",
+            "server": "104.21.0.235",
+            "server_port": 80,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "bpB.Hx208.ToP"
+                },
+                "path": "/mCBtgGfcDLtiI6CZ",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - IPv4_2 : 80"
+        },
+        {
+            "type": "vless",
+            "server": "[2606:4700:3031::ac43:8063]",
+            "server_port": 80,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "bPB.hx208.tOp"
+                },
+                "path": "/l4ijEZd5vMwhNMrQ",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - IPv6_1 : 80"
+        },
+        {
+            "type": "vless",
+            "server": "[2606:4700:3034::6815:eb]",
+            "server_port": 80,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "BPB.HX208.Top"
+                },
+                "path": "/L0CA3bZj56gj3s5B",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - IPv6_2 : 80"
+        },
+        {
+            "type": "vless",
+            "server": "104.25.207.242",
+            "server_port": 80,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "BpB.hx208.TOp"
+                },
+                "path": "/xlSwLnYyhmtcNqxU",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - Clean IP_1 : 80"
+        },
+        {
+            "type": "vless",
+            "server": "bpb.hx208.top",
+            "server_port": 8080,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "BpB.HX208.toP"
+                },
+                "path": "/1GgGg4zJckEsknUV",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - Domain_1 : 8080"
+        },
+        {
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 8080,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "bPb.HX208.TOp"
+                },
+                "path": "/1HxaW78zTsEsN7zF",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - Domain_2 : 8080"
+        },
+        {
+            "type": "vless",
+            "server": "172.67.128.99",
+            "server_port": 8080,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "bPb.hx208.top"
+                },
+                "path": "/pYGxk6sYVVGA6Qj0",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - IPv4_1 : 8080"
+        },
+        {
+            "type": "vless",
+            "server": "104.21.0.235",
+            "server_port": 8080,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "bpb.Hx208.top"
+                },
+                "path": "/iLTrSPZxi3pYcoji",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - IPv4_2 : 8080"
+        },
+        {
+            "type": "vless",
+            "server": "[2606:4700:3031::ac43:8063]",
+            "server_port": 8080,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "bPB.Hx208.tOP"
+                },
+                "path": "/amYmS93hscQYQlkR",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - IPv6_1 : 8080"
+        },
+        {
+            "type": "vless",
+            "server": "[2606:4700:3034::6815:eb]",
+            "server_port": 8080,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "BPb.hx208.ToP"
+                },
+                "path": "/5BEslb4zNXSoa0NJ",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - IPv6_2 : 8080"
+        },
+        {
+            "type": "vless",
+            "server": "104.25.207.242",
+            "server_port": 8080,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "bPB.Hx208.tOp"
+                },
+                "path": "/6SH9JysBKGB2pW9R",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - Clean IP_1 : 8080"
+        },
+        {
+            "type": "vless",
+            "server": "bpb.hx208.top",
+            "server_port": 2052,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "bPb.Hx208.top"
+                },
+                "path": "/wxGFpJwIQR6twvGh",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - Domain_1 : 2052"
+        },
+        {
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 2052,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "bPB.HX208.Top"
+                },
+                "path": "/BABaBAK2jIDhJACQ",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - Domain_2 : 2052"
+        },
+        {
+            "type": "vless",
+            "server": "172.67.128.99",
+            "server_port": 2052,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "bpB.hx208.tOp"
+                },
+                "path": "/zpKD36ThAyu21dFm",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - IPv4_1 : 2052"
+        },
+        {
+            "type": "vless",
+            "server": "104.21.0.235",
+            "server_port": 2052,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "bPB.hx208.top"
+                },
+                "path": "/rENbduDHluD0JICJ",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - IPv4_2 : 2052"
+        },
+        {
+            "type": "vless",
+            "server": "[2606:4700:3031::ac43:8063]",
+            "server_port": 2052,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "BPB.hx208.tOP"
+                },
+                "path": "/Cmikiryow2zN0GyU",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - IPv6_1 : 2052"
+        },
+        {
+            "type": "vless",
+            "server": "[2606:4700:3034::6815:eb]",
+            "server_port": 2052,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "BpB.hx208.tOp"
+                },
+                "path": "/hqKik88n5L2mxjqO",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - IPv6_2 : 2052"
+        },
+        {
+            "type": "vless",
+            "server": "104.25.207.242",
+            "server_port": 2052,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "BPB.hx208.Top"
+                },
+                "path": "/oFLZEeidCVL0zY6e",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - Clean IP_1 : 2052"
+        },
+        {
+            "type": "vless",
+            "server": "bpb.hx208.top",
+            "server_port": 2082,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "BPB.hX208.ToP"
+                },
+                "path": "/8nRxIh0umJ9gg02v",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - Domain_1 : 2082"
+        },
+        {
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 2082,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "BpB.hX208.toP"
+                },
+                "path": "/CiR3uFSLUzC6rQn7",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - Domain_2 : 2082"
+        },
+        {
+            "type": "vless",
+            "server": "172.67.128.99",
+            "server_port": 2082,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "BPB.HX208.toP"
+                },
+                "path": "/YkSpIwj36sUT8wjF",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - IPv4_1 : 2082"
+        },
+        {
+            "type": "vless",
+            "server": "104.21.0.235",
+            "server_port": 2082,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "Bpb.hx208.ToP"
+                },
+                "path": "/51TapCTmch7rioCj",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - IPv4_2 : 2082"
+        },
+        {
+            "type": "vless",
+            "server": "[2606:4700:3031::ac43:8063]",
+            "server_port": 2082,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "BPb.HX208.tOp"
+                },
+                "path": "/jcdXsr8asmQfnguY",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - IPv6_1 : 2082"
+        },
+        {
+            "type": "vless",
+            "server": "[2606:4700:3034::6815:eb]",
+            "server_port": 2082,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "bpB.hX208.toP"
+                },
+                "path": "/AeiehWD0dgZYahiz",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - IPv6_2 : 2082"
+        },
+        {
+            "type": "vless",
+            "server": "104.25.207.242",
+            "server_port": 2082,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "bpb.hX208.top"
+                },
+                "path": "/KL1oG417C8RZgyAI",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - Clean IP_1 : 2082"
+        },
+        {
+            "type": "vless",
+            "server": "bpb.hx208.top",
+            "server_port": 2086,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "Bpb.HX208.TOp"
+                },
+                "path": "/auJh83csfaz7A8S3",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - Domain_1 : 2086"
+        },
+        {
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 2086,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "BPb.Hx208.top"
+                },
+                "path": "/zc2XrOiOlZ8rqcJf",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - Domain_2 : 2086"
+        },
+        {
+            "type": "vless",
+            "server": "172.67.128.99",
+            "server_port": 2086,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "BPb.Hx208.TOp"
+                },
+                "path": "/nXJdygky6rPXQ8ee",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - IPv4_1 : 2086"
+        },
+        {
+            "type": "vless",
+            "server": "104.21.0.235",
+            "server_port": 2086,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "Bpb.HX208.ToP"
+                },
+                "path": "/9vyvlIKOqhpW4I2L",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - IPv4_2 : 2086"
+        },
+        {
+            "type": "vless",
+            "server": "[2606:4700:3031::ac43:8063]",
+            "server_port": 2086,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "bpB.Hx208.toP"
+                },
+                "path": "/naHKFUTFNz5fvWzM",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - IPv6_1 : 2086"
+        },
+        {
+            "type": "vless",
+            "server": "[2606:4700:3034::6815:eb]",
+            "server_port": 2086,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "bpb.Hx208.tOP"
+                },
+                "path": "/OKeL8n4ocFO5L4jT",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - IPv6_2 : 2086"
+        },
+        {
+            "type": "vless",
+            "server": "104.25.207.242",
+            "server_port": 2086,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "bPB.Hx208.TOP"
+                },
+                "path": "/7q1fzdh6H1z3sINA",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - Clean IP_1 : 2086"
+        },
+        {
+            "type": "vless",
+            "server": "bpb.hx208.top",
+            "server_port": 2095,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "bpB.hx208.top"
+                },
+                "path": "/mFxwvDluMn11Z3O5",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - Domain_1 : 2095"
+        },
+        {
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 2095,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "Bpb.hX208.Top"
+                },
+                "path": "/mBTj804cRGjb7Ci2",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - Domain_2 : 2095"
+        },
+        {
+            "type": "vless",
+            "server": "172.67.128.99",
+            "server_port": 2095,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "Bpb.hX208.Top"
+                },
+                "path": "/T5x3qY4Be4oq1N8L",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - IPv4_1 : 2095"
+        },
+        {
+            "type": "vless",
+            "server": "104.21.0.235",
+            "server_port": 2095,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "BPB.hx208.ToP"
+                },
+                "path": "/57tqEMcT0zDuxXCY",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - IPv4_2 : 2095"
+        },
+        {
+            "type": "vless",
+            "server": "[2606:4700:3031::ac43:8063]",
+            "server_port": 2095,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "Bpb.HX208.tOp"
+                },
+                "path": "/RuYrLC8t0sFq3b0H",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - IPv6_1 : 2095"
+        },
+        {
+            "type": "vless",
+            "server": "[2606:4700:3034::6815:eb]",
+            "server_port": 2095,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "Bpb.HX208.tOP"
+                },
+                "path": "/aCQ2lfDH5PHj9J4o",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - IPv6_2 : 2095"
+        },
+        {
+            "type": "vless",
+            "server": "104.25.207.242",
+            "server_port": 2095,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "bPb.hX208.TOp"
+                },
+                "path": "/PAoj1eyrVgc3UKiH",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - Clean IP_1 : 2095"
+        },
+        {
+            "type": "vless",
+            "server": "bpb.hx208.top",
+            "server_port": 8880,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "Bpb.hx208.tOP"
+                },
+                "path": "/fcPWuDe368ZmHXex",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - Domain_1 : 8880"
+        },
+        {
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 8880,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "BPB.hx208.top"
+                },
+                "path": "/l0igmzPc50ZpJzeA",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - Domain_2 : 8880"
+        },
+        {
+            "type": "vless",
+            "server": "172.67.128.99",
+            "server_port": 8880,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "bPb.hx208.TOp"
+                },
+                "path": "/D23JBW771sXaNVLF",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - IPv4_1 : 8880"
+        },
+        {
+            "type": "vless",
+            "server": "104.21.0.235",
+            "server_port": 8880,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "bPb.Hx208.TOp"
+                },
+                "path": "/cm51SF69LzrwJRQW",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - IPv4_2 : 8880"
+        },
+        {
+            "type": "vless",
+            "server": "[2606:4700:3031::ac43:8063]",
+            "server_port": 8880,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "bpB.HX208.tOP"
+                },
+                "path": "/gB6fnenS93nhyNhP",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - IPv6_1 : 8880"
+        },
+        {
+            "type": "vless",
+            "server": "[2606:4700:3034::6815:eb]",
+            "server_port": 8880,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "bpB.Hx208.TOP"
+                },
+                "path": "/f8W6fVGqUYctxk4k",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - IPv6_2 : 8880"
+        },
+        {
+            "type": "vless",
+            "server": "104.25.207.242",
+            "server_port": 8880,
+            "uuid": "9c6b85bb-3a1f-4962-8a12-6c47c14ef628",
+            "domain_strategy": "prefer_ipv6",
+            "packet_encoding": "",
+            "transport": {
+                "early_data_header_name": "Sec-WebSocket-Protocol",
+                "max_early_data": 2560,
+                "headers": {
+                    "Host": "BpB.HX208.Top"
+                },
+                "path": "/aN9GZc70wY3ujuUQ",
+                "type": "ws"
+            },
+            "tag": "💦 BPB - Clean IP_1 : 8880"
+        }
+    ],
+    "route": {
+        "rules": [
+            {
+                "port": 53,
+                "outbound": "dns-out"
+            },
+            {
+                "inbound": "dns-in",
+                "outbound": "dns-out"
+            },
+            {
+                "network": "udp",
+                "port": 443,
+                "protocol": "quic",
+                "outbound": "block"
+            },
+            {
+                "ip_is_private": true,
+                "outbound": "direct"
+            },
+            {
+                "rule_set": [
+                    "geosite-category-ads-all",
+                    "geosite-malware",
+                    "geosite-phishing",
+                    "geosite-cryptominers",
+                    "geoip-malware",
+                    "geoip-phishing"
+                ],
+                "outbound": "block"
+            },
+            {
+                "rule_set": [
+                    "geosite-ir",
+                    "geoip-ir"
+                ],
+                "outbound": "direct"
+            },
+            {
+                "ip_cidr": [
+                    "224.0.0.0/3",
+                    "ff00::/8"
+                ],
+                "source_ip_cidr": [
+                    "224.0.0.0/3",
+                    "ff00::/8"
+                ],
+                "outbound": "block"
+            }
+        ],
+        "rule_set": [
+            {
+                "type": "remote",
+                "tag": "geosite-ir",
+                "format": "binary",
+                "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geosite-ir.srs",
+                "download_detour": "direct"
+            },
+            {
+                "type": "remote",
+                "tag": "geosite-category-ads-all",
+                "format": "binary",
+                "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geosite-category-ads-all.srs",
+                "download_detour": "direct"
+            },
+            {
+                "type": "remote",
+                "tag": "geosite-malware",
+                "format": "binary",
+                "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geosite-malware.srs",
+                "download_detour": "direct"
+            },
+            {
+                "type": "remote",
+                "tag": "geosite-phishing",
+                "format": "binary",
+                "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geosite-phishing.srs",
+                "download_detour": "direct"
+            },
+            {
+                "type": "remote",
+                "tag": "geosite-cryptominers",
+                "format": "binary",
+                "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geosite-cryptominers.srs",
+                "download_detour": "direct"
+            },
+            {
+                "type": "remote",
+                "tag": "geoip-ir",
+                "format": "binary",
+                "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geoip-ir.srs",
+                "download_detour": "direct"
+            },
+            {
+                "type": "remote",
+                "tag": "geoip-malware",
+                "format": "binary",
+                "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geoip-malware.srs",
+                "download_detour": "direct"
+            },
+            {
+                "type": "remote",
+                "tag": "geoip-phishing",
+                "format": "binary",
+                "url": "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geoip-phishing.srs",
+                "download_detour": "direct"
+            }
+        ],
+        "auto_detect_interface": true,
+        "override_android_vpn": true,
+        "final": "proxy"
+    },
+    "experimental": {
+        "cache_file": {
+            "enabled": true
+        },
+        "clash_api": {
+            "external_controller": "0.0.0.0:9090",
+            "external_ui": "yacd",
+            "external_ui_download_url": "https://github.com/MetaCubeX/Yacd-meta/archive/gh-pages.zip",
+            "external_ui_download_detour": "direct",
+            "secret": "",
+            "default_mode": "rule"
+        }
+    }
+}
