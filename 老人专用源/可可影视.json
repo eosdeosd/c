@@ -1,6 +1,13 @@
 {
   "主页url": "https://www.keke9.app/",
-    "分类url": "https://www.keke9.app/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
+//https://www.keke9.app/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html
+//https://www.keke9.app/show/{cateId}-{class}-{area}-{lang}-{year}-{year}-{catePg}.html
+
+
+//https://www.keke9.app/show/3-动画-日本-日语-2024-2-6.html
+
+
+    "分类url": "https://www.keke9.app/show/{cateId}-{class}-{area}-{lang}-{year}-{year}-{catePg}.html",
     "分类": "电影&连续剧&动漫&综艺纪录&短剧",
     "分类值": "1&2&3&4&6",
     "数组": "module-item\">&&\"v-item-footer\">",
