@@ -22,7 +22,7 @@
 
 
 
- //{ "key": "Lib","name": "🌟┃Lib┃推荐1（秒播无广告）","type": 3, "api": "csp_Jpys","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E6%96%87%E9%87%87%E2%94%83%E7%A7%92%E6%92%AD.txt", "playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1 },
+ { "key": "Lib","name": "🌟┃Lib┃推荐1（秒播无广告）","type": 3, "api": "csp_Jpys","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E6%96%87%E9%87%87%E2%94%83%E7%A7%92%E6%92%AD.txt", "playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1 },
 
 
 
@@ -39,7 +39,7 @@
 //{"key": "影视TV","name": "影视TV（先放着）", "type": 3, "playerType": 2,"api": "csp_XBPQ",  "searchable": 1, "quickSearch": 1, "changeable": 1, "ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E5%BD%B1%E8%A7%86TV%EF%BC%881080P%EF%BC%89.json" },
 
 
-{"key": "csp_NO视频V","name": "NO视频）", "type": 3, "playerType": 2,"api": "csp_XBPQ",  "searchable": 1, "quickSearch": 1, "changeable": 1, "ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/NO%E8%A7%86%E9%A2%91.json" },
+//{"key": "csp_NO视频V","name": "NO视频先放着）", "type": 3, "playerType": 2,"api": "csp_XBPQ",  "searchable": 1, "quickSearch": 1, "changeable": 1, "ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/NO%E8%A7%86%E9%A2%91.json" },
  
 
 
@@ -102,7 +102,7 @@
 
 
     //🎃┃南瓜┃备用 
-      {  "key": "nangua", "name": "🎃┃南瓜┃备用（难吃）", "type": 3,"playerType": 2, "searchable":0,"quickSearch":0,"filterable":0, "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/drpy2.min.js", "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/%E5%8D%97%E7%93%9C.js" },
+      //{  "key": "nangua", "name": "🎃┃南瓜┃备用（难吃）", "type": 3,"playerType": 2, "searchable":0,"quickSearch":0,"filterable":0, "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/drpy2.min.js", "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/%E5%8D%97%E7%93%9C.js" },
 
 
 
