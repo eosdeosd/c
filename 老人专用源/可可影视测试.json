@@ -1,0 +1,9 @@
+{
+  "主页url": "https://www.keke9.app/",
+    "分类url": "https://www.keke9.app/show/{cateId}-{class}-{area}-{lang}-{year}-{year}-{catePg}.html",
+    "分类": "电影&连续剧&动漫&综艺纪录&短剧",
+    "分类值": "1&2&3&4&6",
+   
+    "线路数组": "source-item\">&&<i[排序:超清>极速蓝光][不包含:FF线路#蓝光2#蓝光9#蓝光7#XL线路#YH线路#HN线路]",
+    "线路标题": ">&&<[不包含:4K#蓝光3#蓝光1#LZ线路#蓝光2#蓝光9#蓝光7#FF#XL线路#YH线路#HN线路#蓝光7#SB线路#蓝光4#IK线路#BD线路#WJ线路#GS线路#JY线路#]" 
+}
