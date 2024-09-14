@@ -20,7 +20,7 @@
 
 
 
-{"key": "网盘配置","name": "线路配置中心","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E7%BD%91%E7%9B%98%E7%99%BB%E5%BD%95/%E7%BD%91%E7%9B%98%E7%99%BB%E5%BD%95.json",
+{"key": "网盘配置","name": "线路配置中心","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E7%BD%91%E7%9B%98%E7%99%BB%E5%BD%95/%E7%BD%91%E7%9B%98%E7%99%BB%E5%BD%95.jart","ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E7%BD%91%E7%9B%98%E7%99%BB%E5%BD%95/%E7%BD%91%E7%9B%98%E7%99%BB%E5%BD%95.json",
 	"style": {"type": "rect","ratio": 1.5}},
 
 
