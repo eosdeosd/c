@@ -22,7 +22,7 @@
         "播放列表": "class=\"btn btn-primary&&</a>",
         "播放标题": ">&&</a>[不包含:蓝光]",
         "播放链接": "href=\"&&\"",
-        "分类url": "https://www.dgjiawu.com/mo-1zxgt/{cateId}/{by}/0/0/0/0/{catePg}",
+        "分类url": "https://www.dgjiawu.com/mo-1zxgt/{cateId}/{catePg}",
         "分类": "电影$5738#电视剧$5749#综艺$5758#动漫$5767"   //"分类":"电影$1#剧集$2#综艺$3#动漫$4#记录片$5#Netflix$20",
     }
     }
