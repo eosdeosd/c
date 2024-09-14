@@ -39,7 +39,7 @@
 //{"key": "影视TV","name": "影视TV（先放着）", "type": 3, "playerType": 2,"api": "csp_XBPQ",  "searchable": 1, "quickSearch": 1, "changeable": 1, "ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E5%BD%B1%E8%A7%86TV%EF%BC%881080P%EF%BC%89.json" },
 
 
-//{"key": "csp_NO视频V","name": "NO视频先放着）", "type": 3, "playerType": 2,"api": "csp_XBPQ",  "searchable": 1, "quickSearch": 1, "changeable": 1, "ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/NO%E8%A7%86%E9%A2%91.json" },
+{"key": "csp_NO视频V","name": "NO视频先放着）", "type": 3, "playerType": 2,"api": "csp_XBPQ",  "searchable": 1, "quickSearch": 1, "changeable": 1, "ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/NO%E8%A7%86%E9%A2%91(1080P).json" },
  
 
 
