@@ -1,0 +1,27 @@
+	{
+        "key": "csp_NO视频",
+        "name": "NO视频",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "./lib/XBPQ.jar",
+        "ext": {
+        "数组": "class=\"stui-vodlist__box&&</div>",
+        "图片": "data-original=\"&&\"",
+        "标题": "title=\"&&\"",
+        "副标题": "text-right\">&&</span>",
+        "链接": "href=\"&&\"",
+        "搜索url": "https://www.dgjiawu.com/se-1zxgt/{wd}-{pg}",
+        "搜索数组": "class=\"stui-vodlist__box&&</div>",
+        "搜索图片": "data-original=\"&&\"",
+        "搜索标题": "title=\"&&\"",
+        "搜索副标题": "text-right\">&&</span>",
+        "搜索链接": "href=\"&&\"",
+        "起始页":"2",
+        "线路标题": "class=\"v*\">&&</a[排序:线路2>>]",
+        "播放数组": "class=\"*-div&&</div>",
+        "播放列表": "class=\"btn btn-primary&&</a>",
+        "播放标题": ">&&</a>[不包含:蓝光]",
+        "播放链接": "href=\"&&\"",
+        "分类url": "https://www.dgjiawu.com/{cateId}/0/0/0/0/{catePg}[https://www.dgjiawu.com/{cateId}]",
+        "分类": "电影$mo-1zxgt/5738/1#电视剧$mo-1zxgt/5749/1#综艺$mo-1zxgt/5758/1#动漫$mo-1zxgt/5767/1"
+    }
