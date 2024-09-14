@@ -1,9 +1,11 @@
-//https://www.yingshi.tv/vod/show/by/time/id/{cateId}.html
+//https://www.yingshi.tv/index/type/id/1
 
-//https://www.yingshi.tv/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/year/{year}.html
+//https://www.yingshi.tv/index/type/id//{cateId}.html
+
+
 {
   "主页url": "https://www.yingshi.tv/",
-    "分类url": "https://www.yingshi.tv/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/year/{year}.html",
+    "分类url": "https://www.yingshi.tv/index/type/id//{cateId}.html",
     "分类": "动漫",
     "分类值": "4"
 
