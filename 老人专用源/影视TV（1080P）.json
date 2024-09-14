@@ -3,7 +3,7 @@
 //https://www.yingshi.tv/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/year/{year}
 {
   "主页url": "https://www.yingshi.tv/",
-    "分类url": "https://www.yingshi.tv/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/year/{year}",
+    "分类url": "https://www.yingshi.tv/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/year/{year}.html",
     "分类": "电视剧&电影&动漫&综艺&纪录片&短剧",
     "分类值": "1&2&4&3&5&6"
 
