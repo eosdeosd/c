@@ -1,10 +1,11 @@
 //“playerType”： 1， // 新增字段，用来为该爬虫指定播放器 0：system， 1：ijk， 2：exo， 10：mx，11：Reex，12：Kodi.默认-1为配置页面设置的播放器（app/src/main/java/com/github/tvbox/osc/util/PlayerHelper.java...161行)exo会清晰点。exo不能播阿里系，小苹果。
 //https://gitee.com/huanzi989/self-use---tv-box/raw/master/zy.jar
+//https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E7%BD%91%E7%9B%98%E7%99%BB%E5%BD%95/pg.jar
 
 {
 
 
-    "spider": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E7%BD%91%E7%9B%98%E7%99%BB%E5%BD%95/pg.jar",
+    "spider": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/zy.jar",
 
    "wallpaper": "",
    "warningText": "此源请搭配月光宝盒MAX3.10版软件使用。资源来自网络，所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买。",
