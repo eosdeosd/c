@@ -112,11 +112,11 @@
 
 
     //🎃┃南瓜┃备用 
-      {  "key": "nangua", "name": "🎃┃南瓜┃备用（难吃）", "type": 3,"playerType": 2, "searchable":0,"quickSearch":0,"filterable":0, "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/drpy2.min.js", "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/%E5%8D%97%E7%93%9C.js" },
+      {  "key": "nangua", "name": "🎃┃南瓜┃备用（难吃）", "type": 3,"playerType": 2, "searchable":1,"quickSearch":1,"filterable":1, "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/drpy2.min.js", "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/%E5%8D%97%E7%93%9C.js" },
 
 
 
-//{"key":"奇优","name":"️💢奇优(和南瓜一样)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E5%A5%87%E4%BC%98.json"},
+{"key":"奇优","name":"️💢奇优(和南瓜一样)","type":3,"playerType": 2, "api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E5%A5%87%E4%BC%98.json"},
   
 
 
