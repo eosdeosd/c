@@ -17,11 +17,12 @@
         "播放列表": "class=\"btn btn-primary&&</a>",
         "播放标题": ">&&</a>[不包含:蓝光]",
         "播放链接": "href=\"&&\"",
-        "分类url": "https://www.dgjiawu.com/mo-1zxgt/{cateId}/{by}/{calss}/{area}/{year}/{letter}/{catepg}",
+        "分类url": "https://www.dgjiawu.com/mo-1zxgt/{cateId}/{by}/{calss}/{area}/{year}/{lang}/{catepg}",
          "分类": "电影$5738/1#电视剧$5749/1#综艺$5758/1#动漫$5767/1"  
          //"分类":"电影$1#剧集$2#综艺$3#动漫$4#记录片$5#Netflix$20",
     }
 //https://www.dgjiawu.com/mo-1zxgt/{cateId}/{by}/{calss}/{area}/{year}/0/{catepg}
     //https://www.dgjiawu.com/mo-1zxgt/5738/2/5744/dalu/2023/0/2
+    //https://www.dgjiawu.com/mo-1zxgt/5738/2/5739/dalu/2024/0/1
     //https://www.dgjiawu.com/mo-1zxgt/{cateId}/{by}/0/0/0/0/{catePg}"https://www.dgjiawu.com/mo-1zxgt/{cateId}/{catePg}",
     // https://www.dgjiawu.com/{cateId}/0/0/0/0/{catePg}[https://www.dgjiawu.com/{cateId}]
