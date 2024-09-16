@@ -15,7 +15,7 @@
 
 
 
-{"key":"年轻人豆瓣","name":"海报墙😘 | 请设置为默认首页","type":3, "playerType": "2","api":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%B1%86%E7%93%A3/drpy2.min.js","ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%B1%86%E7%93%A3/%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%B1%86%E7%93%A3.js"},
+{"key":"年轻人豆瓣","name":"海报墙😘 | 请设置为默认首页","type":3, "api":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%B1%86%E7%93%A3/drpy2.min.js","ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%B1%86%E7%93%A3/%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%B1%86%E7%93%A3.js"},
 
 
 
@@ -33,7 +33,14 @@
 
 
 
- { "key": "Lib","name": "🌟┃Lib┃推荐1（秒播无广告）","type": 3, "api": "csp_Jpys","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E6%96%87%E9%87%87%E2%94%83%E7%A7%92%E6%92%AD.txt","playerType": "2", "searchable": 1, "quickSearch": 1, "changeable": 1 },
+ //{ "key": "Lib","name": "🌟┃Lib┃推荐1（秒播无广告）","type": 3, "api": "csp_Jpys","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E6%96%87%E9%87%87%E2%94%83%E7%A7%92%E6%92%AD.txt","playerType": "2", "searchable": 1, "quickSearch": 1, "changeable": 1 },
+
+
+ {"key": "金牌", "name": "🍷┃酸梅汁（秒播无广告）", "type": 3, "searchable": 1, "quickSearch": 1, "changeable": 1 ,"api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E7%93%9C%E5%AD%90APP/drpy2.min.js", "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E9%87%91%E7%89%8C%E5%BD%B1%E9%99%A2/jpys.js" },
+
+
+
+
 
 
 
@@ -80,15 +87,28 @@
   // { "key": "华为资源",  "name": "🍦采集资源（好吃）", "type": 1, "api": "http://nikanba.live/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1 },//华为资源http://nikanba.live/api.php/provide/vod/
 
 
-{"key": "小苹果弹幕", "name": "🍎1080P（不被搜索）","type": 3, "api": "csp_Xpg","playerType": 1, "searchable": 0, "quickSearch": 0, "filterable": 0,"jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/Xpg.jar" },
+//{"key": "小苹果弹幕", "name": "🍎1080P（不被搜索）","type": 3, "api": "csp_Xpg","playerType": 1, "searchable": 0, "quickSearch": 0, "filterable": 0,"jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/Xpg.jar" },
 
 
- {"key": "csp_xBPQLIVIO", "name": "⛈LIVIO（不被搜索）","type": 3,"api": "csp_XBPQ", "searchable": 0,"quickSearch": 0,"filterable":0 ,"ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/LIBVIO.json" },
 
- 
+  {"key": "闪雷影院", "name": "🍋┃柠檬┃配料（备用）", "type": 3,  "searchable":1,"quickSearch":1,"filterable":1, "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E7%93%9C%E5%AD%90APP/drpy2.min.js","ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E9%97%AA%E9%9B%B7%E5%BD%B1%E9%99%A2/shanlei.js" },
 
 
-      {  "key": "nangua", "name": "🎃┃南瓜┃备用（难吃）", "type": 3, "playerType": "2","searchable":1,"quickSearch":1,"filterable":1, "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/drpy2.min.js", "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/%E5%8D%97%E7%93%9C.js" },
+
+
+ {"key": "瓜子app","name": "🍇┃瓜子┃没图（720P高码率）", "type": 3,  "searchable":1,"quickSearch":1,"filterable":1, "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E7%93%9C%E5%AD%90APP/drpy2.min.js", "ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E7%93%9C%E5%AD%90APP/guazi.js" },
+
+
+
+
+
+
+
+   {  "key": "nangua", "name": "🎃┃南瓜┃难吃（720P）", "type": 3,"searchable":1,"quickSearch":1,"filterable":1, "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/drpy2.min.js", "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/%E5%8D%97%E7%93%9C.js" },
+
+
+ {"key": "csp_xBPQLIVIO", "name": "🍏青苹果┃不够成熟（不被搜索）","type": 3,"api": "csp_XBPQ", "searchable": 0,"quickSearch": 0,"filterable":0 ,"ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/LIBVIO.json" },
+
 
 
 
