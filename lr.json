@@ -27,7 +27,7 @@
 
 
 
- {"key": "文采影视","name": "🌟┃Lib┃推荐2（秒播无广告）","type": 3,"api": "csp_XBPQ","ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E6%96%87%E9%87%87%E5%BD%B1%E8%A7%86.json","playerType": "2", "searchable":1, "quickSearch": 1, "changeable": 1},
+ //{"key": "文采影视","name": "🌟┃Lib┃推荐2（秒播无广告）","type": 3,"api": "csp_XBPQ","ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E6%96%87%E9%87%87%E5%BD%B1%E8%A7%86.json","playerType": "2", "searchable":1, "quickSearch": 1, "changeable": 1},
 
 
  
@@ -69,7 +69,7 @@
 
 
 
-{"key": "csp_xBPQ宇航影视", "name": "⛈黑木耳资源（有分页列表）","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E5%AE%87%E8%88%AA%E5%BD%B1%E8%A7%86%EF%BC%88%E6%97%A0%E5%B9%BF%E5%91%8A1080P%EF%BC%89.json" },
+//{"key": "csp_xBPQ宇航影视", "name": "⛈黑木耳资源（有分页列表）","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E5%AE%87%E8%88%AA%E5%BD%B1%E8%A7%86%EF%BC%88%E6%97%A0%E5%B9%BF%E5%91%8A1080P%EF%BC%89.json" },
 
 
 
