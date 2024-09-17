@@ -12,7 +12,7 @@ var rule = {
   filterable: 0,
   class_name: '电影&电视剧&综艺&动漫',
   class_url: '1&2&3&4',
- //filter_url:'&area={{fl.area}}&year={{fl.year}}&type={{fl.class}}&total={{fl.total or "状态"}}&order={{fl.by or "新上线"}}',
+ filter_url:'https://www.chrqj.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}',
 
 
 
