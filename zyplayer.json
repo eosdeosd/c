@@ -13,7 +13,19 @@
       "status": true
     },
    
- 
+   {
+      "name": "LIBVIO[选择BD线路]",
+      "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%B1%86%E7%93%A3/drpy2.min.js",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "isActive": true,
+      "type": 7,
+      "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/drpy_dzlive2/drpy_js/LIBVIO%5B%E4%BC%98%5D.js",
+      "categories": "",
+      "id": "c6d32925-62e9-43b1-a6de-b703bd44dc4f",
+      "resource": 0
+    }
 
 
 
