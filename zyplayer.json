@@ -8,22 +8,11 @@
       "group": "hipy",
       "search": 1,
       "categories": null,
-      "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/drpy_dzlive2/drpy_js/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86%5B%E4%BC%98%5D.js",
+      "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/%E5%8D%97%E7%93%9C.js",
       "isActive": true,
       "status": true
     },
-    {
-      "id": "74IgMEr7iHu5ZFcvwfuQv",
-      "name": "⚡花子动漫（1080P日漫）",
-      "type": 7,
-      "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/drpy_dzlive2/drpy_libs/drpy2.min.js",
-      "group": "hipy",
-      "search": 1,
-      "categories": null,
-      "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/drpy_dzlive2/drpy_js/%E8%8A%B1%E5%AD%90%E5%8A%A8%E6%BC%AB%5B%E6%BC%AB%5D.js",
-      "isActive": true,
-      "status": true
-    },
+   
     {
       "id": "joV2erzjNjGRF5oNUeFO6",
       "name": "去南瓜里面找影片名称",
