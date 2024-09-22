@@ -477,12 +477,12 @@
 
   //这里是直播源，名字可以随便取。 url是直播地址的文件，都是txt后缀。 这里我使用外部地址，你也可以使用自己上传的文件，使用相对路径。
   "lives": [
-    {"name": "huanzi989","type": 0,"url": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E7%9B%B4%E6%92%AD/kx2024.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"
+    {"name": "huanzi989","type": 0,"url": "http://ttkx.live:55/lib/kx2024.txt","playerType": 2,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"
     },//http://rihou.vip:55/lib/kx2024.txt
-    {"name": "gat","type": 0,"url": "http://rihou.vip:55/lib/kx2024.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"
+    {"name": "gat","type": 0,"url": "http://ttkx.live:55/lib/kx2024.txt","playerType": 2,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     //这里的url直播地址就使用了相对路径，但是这个地址是空的无效。
-    {"name": "IPV6","type": 0,"url": "./lib/tv/ipv6.m3u","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"
+    {"name": "IPV6","type": 0,"url": "http://ttkx.live:55/lib/kx2024.txt","playerType": 2,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ]
 }
