@@ -27,7 +27,7 @@ var rule = {
 	},
    class_parse:'.stui-header__menu li:gt(0):lt(7);a&&Text;a&&href;/(\\d+).html',
 	// class_parse:'.stui-header__menu li;a&&Text;a&&href;/.*_(\\d+).html',
-	tab_exclude:'夸克网盘|百度云盘|HD5',
+	//tab_exclude:'夸克网盘|百度云盘|HD5',
 	pagecount:{"27":1},
 	lazy:`js: var html = JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);
 var url = html.url;
