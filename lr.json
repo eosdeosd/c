@@ -37,7 +37,7 @@
       "name": "🎃┃南瓜┃影视",
       "type": 3,
       "playerType": "2",
-       "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/ng_open.js" },
+       "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/douban_open.js" },
  
 
 
@@ -49,7 +49,6 @@
 
 
 
-  //{"key": "Wexxpgtv","name": "🍎苹果┃1080P","type": 3,"jar": "","api": "csp_Wexxpgtv","searchable": 1,"quickSearch": 1,"filterable": 0},
 
 
 
