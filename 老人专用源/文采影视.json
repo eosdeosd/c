@@ -1,9 +1,12 @@
  {
-        "站名":"界界影视",
-        "主页url": "https://www.hkybqufgh.com/",
+        "站名":"金牌影视",
+       //https://www.cfkj86.com/vod/show/id/4/area/日本/year/2024/sortType/1/sortOrder/0/type/76/class/冒险/page/2
+        "主页url": "https://www.cfkj86.com/",
+        //"主页url": "https://www.hkybqufgh.com/",
         "简介": "</label>&&</div>",
         "嗅探词": ".m3u8#video_mp4#tos-#.mp4",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
-        "分类url": "https://www.hkybqufgh.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"
-      }
-    
+"分类url": "https://www.cfkj86.com/vod/show/id/{cateId}/area/{area}/year/{year}/sortType/{by}/sortOrder/0/type/{type}/class/{class}/page/{catePg}"
+}
+//https://www.cfkj86.com/vod/show/id/{cateId}/area/{area}/year/{year}/sortType/{by}/sortOrder/0/type/{type}/class/{class}/page/{catePg}
+//https://www.cfkj86.com/vod/show/id/4/area/日本/year/2024/sortType/1/sortOrder/0/type/76/class/冒险/page/2
