@@ -40,7 +40,7 @@
 
 
 
-
+ {"key": "csp_xBPQ可可", "name": "🍲可可|影视（1080P）","type": 3,"api": "csp_XBPQ", "searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E5%8F%AF%E5%8F%AF%E5%BD%B1%E8%A7%86.json"},
 
 
 
@@ -70,8 +70,6 @@
 
 
 
- //{"key": "csp_xBPQ可可", "name": "⛈可可|影视（微广）","type": 3,"api": "csp_XBPQ", "searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E5%8F%AF%E5%8F%AF%E5%BD%B1%E8%A7%86.json"},
-
 
  //{"key": "XBPQ_黑木耳","name": "♠️黑木耳资源（迟早换掉）", "type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E9%BB%91%E6%9C%A8%E8%80%B3.json"},
 
@@ -96,7 +94,7 @@
 
 
 
- {"key": "瓜子app","name": "🍇┃瓜子┃没图（720P高码率）", "type": 3,  "searchable":1,"quickSearch":1,"filterable":1, "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E7%93%9C%E5%AD%90APP/drpy2.min.js", "ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E7%93%9C%E5%AD%90APP/guazi.js" },
+// {"key": "瓜子app","name": "🍇┃瓜子┃没图（720P高码率）", "type": 3,  "searchable":1,"quickSearch":1,"filterable":1, "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E7%93%9C%E5%AD%90APP/drpy2.min.js", "ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E7%93%9C%E5%AD%90APP/guazi.js" },
 
 
 
