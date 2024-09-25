@@ -31,13 +31,22 @@
  {"key": "金牌", "name": "🍷┃酸梅汁（秒播无广告）", "type": 3, "searchable": 1, "quickSearch": 1, "changeable": 1 ,"api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E7%93%9C%E5%AD%90APP/drpy2.min.js", "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E9%87%91%E7%89%8C%E5%BD%B1%E9%99%A2/jpys.js" },
 
 
+ {"key": "csp_xBPQ可可", "name": "⛈可可|影视（还行）","type": 3,"api": "csp_XBPQ", "searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E5%8F%AF%E5%8F%AF%E5%BD%B1%E8%A7%86.json"},
 
- {
-      "key": "nanguaGG",
-      "name": "🎃┃南瓜┃影视",
-      "type": 3,
-      "playerType": "2",
-       "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/ng_open.js" },
+
+
+
+
+
+
+
+
+
+
+
+
+
+ //{"key": "nanguaGG","name": "🎃┃南瓜┃影视","type": 3,"playerType": "2","api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/ng_open.js" },
  
 
 
@@ -46,15 +55,6 @@
 
 
  // { "key": "白嫖者联盟2（重要）", "name": "🏅️白嫖","type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1,"ext": {"分类url": "https://www.6699z.cn/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html", "分类": "电影&剧集&综艺&动漫&短剧", "分类值": "1&2&3&4&58", "类型": "动作片$6#喜剧片$7#爱情片$8#高分经典科幻片$9#恐怖片$10#剧情片$11#战争片$12||国产剧$13#香港剧$28#恋爱不分国度$29#台湾剧$27#美国剧$31#泰国剧$33#其它剧$35||无||无||无" } },
-
-
-
-
-
- 
-
-
-
 
 
 
@@ -100,8 +100,6 @@
 //{"key":"js_Lib","name":"🍲┃Lib┃推荐4(秒播无广告)","type":3,"playerType": 2,"api":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%B1%86%E7%93%A3/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/libvio.js"},
 
 
-
- {"key": "csp_xBPQ可可", "name": "⛈可可|影视（还行）","type": 3,"api": "csp_XBPQ", "searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E5%8F%AF%E5%8F%AF%E5%BD%B1%E8%A7%86.json"},
     
 
  //{"key": "XBPQ_黑木耳","name": "♠️黑木耳资源（迟早换掉）", "type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E9%BB%91%E6%9C%A8%E8%80%B3.json"},
