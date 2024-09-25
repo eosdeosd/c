@@ -1,6 +1,7 @@
 var rule = {
   title: '金牌影院',
   host: 'https://www.cfkj86.com/',
+  //https://www.cfkj86.com/vod/show/id/4/area/日本/year/2024/sortType/1/sortOrder/0/type/76/class/冒险/page/2
   url: '/api/mw-movie/anonymous/video/list?pageNum=fypage&pageSize=30&sort=1&sortBy=1&type1=fyclass',
   searchUrl: '/api/mw-movie/anonymous/video/searchByWordPageable?keyword=**&pageNum=fypage&pageSize=12&type=false',
   headers: {
