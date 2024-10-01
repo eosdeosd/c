@@ -1,5 +1,8 @@
 //https://www.cfkj86.com/vod/show/id/4/class/冒险/area/日本/type/76/lang/日语/year/2024/sortType/3/sortOrder/0/page/2
-//https://www.cfkj86.com/vod/show/id/{cateId}/area/{area}/year/{year}/page/{catePg}
+
+//https://www.cfkj86.com/vod/show/id/4/class/冒险/area/日本/year/2024/lang/日语/sortType/2/sortOrder/0/page/2
+
+//https://www.cfkj86.com/vod/show/id/{cateId}/class/{class}/area/{area}/year/{year}/lang/{lang}/sortType/{by}/sortOrder/0/page/{catePg}
 
 //https://www.cfkj86.com/vod/show/id/{cateId}/class/{class}/area/{area}/type/76/lang/{lang}/year/{year}/sortType/{by}/sortOrder/0/page/{catePg}
 {
@@ -9,15 +12,8 @@
 
  "主页url": "https://www.cfkj86.com/",
 
- "分类url": "https://www.cfkj86.com/vod/show/id/{cateId}/area/{area}/year/{year}/page/{catePg}",
-
+ "分类url": "https://www.cfkj86.com/vod/show/id/{cateId}/class/{class}/area/{area}/year/{year}/lang/{lang}/sortType/{by}/sortOrder/0/page/{catePg}",
   
-  
-
-  
-  
-
-
 
   "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
 
