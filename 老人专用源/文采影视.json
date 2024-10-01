@@ -12,6 +12,8 @@
 
  "分类url": "https://www.chrqj.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}",
   
+ "嗅探词": "m3u8",
+
 
   "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
 
