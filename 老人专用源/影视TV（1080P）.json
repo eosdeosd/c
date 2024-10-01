@@ -10,7 +10,7 @@
 {
   "主页url": "https://www.yingshi.tv/",
 
-    "分类url": "https://www.yingshi.tv/vod/show/area/{area}/by/{by}/id/{cateId}/lang/{lang}/year/{year}/{catepg}",
+    "分类url": "https://www.yingshi.tv/vod/show/area/{area}/by/{by}/id/{cateId}/lang/{lang}/year/{year}/page/{catepg}",
 
      "分类": "电影&电视剧&动漫&综艺",
 
