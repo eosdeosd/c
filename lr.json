@@ -28,7 +28,7 @@
  //{ "key": "Lib","name": "🌟┃Lib┃推荐0（秒播无广告）","type": 3, "api": "csp_Jpys","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E6%96%87%E9%87%87%E2%94%83%E7%A7%92%E6%92%AD.txt","playerType": "2", "searchable": 1, "quickSearch": 1, "changeable": 1 },
 
 
- {"key": "金牌", "name": "🍷┃酸梅汁（秒播无广告）", "type": 3, "searchable": 1, "quickSearch": 1, "changeable": 1 ,"api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E7%93%9C%E5%AD%90APP/drpy2.min.js", "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E9%87%91%E7%89%8C%E5%BD%B1%E9%99%A2/jpys.js" },
+ {"key": "金牌", "name": "🍷┃酸梅汁（秒播无广告）", "type": 3, "playerType": "2","searchable": 1, "quickSearch": 1, "changeable": 1 ,"api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E7%93%9C%E5%AD%90APP/drpy2.min.js", "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E9%87%91%E7%89%8C%E5%BD%B1%E9%99%A2/jpys.js" },
 
 
 //{"key": "csp_xBPQ可可", "name": "🍲可可|影视（微广）","type": 3,"api": "csp_XBPQ", "searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E5%8F%AF%E5%8F%AF%E5%BD%B1%E8%A7%86.json"},
@@ -151,21 +151,21 @@
 
 
 
-  {"key": "子子影视","name": "🍋┃zz┃1080P","type": 3, "api": "csp_XYQHiker","searchable": 1,"quickSearch": 1, "filterable": 1,
+  {"key": "子子影视","name": "🍋┃zz┃1080P","type": 3,"playerType": "2", "api": "csp_XYQHiker","searchable": 1,"quickSearch": 1, "filterable": 1,
     "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/zz%E5%BD%B1%E8%A7%86.json" },
 
 
 
 
 
- {"key": "瓜子app","name": "🍇┃瓜子┃没图", "type": 3,  "searchable":1,"quickSearch":1,"filterable":1, "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E7%93%9C%E5%AD%90APP/drpy2.min.js", "ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E7%93%9C%E5%AD%90APP/guazi.js" },
+ {"key": "瓜子app","name": "🍇┃瓜子┃没图", "type": 3, "playerType": "2", "searchable":1,"quickSearch":1,"filterable":1, "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E7%93%9C%E5%AD%90APP/drpy2.min.js", "ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E7%93%9C%E5%AD%90APP/guazi.js" },
 
 
     //🎃┃南瓜┃备用 
-      {  "key": "nangua", "name": "🎃┃南瓜┃难吃（720P）", "type": 3,"searchable":1,"quickSearch":1,"filterable":1, "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/drpy2.min.js", "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/%E5%8D%97%E7%93%9C.js" },
+      {  "key": "nangua", "name": "🎃┃南瓜┃难吃（720P）", "playerType": "2","type": 3,"searchable":1,"quickSearch":1,"filterable":1, "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/drpy2.min.js", "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/%E5%8D%97%E7%93%9C.js" },
 
 
- {"key": "csp_xBPQLIVIO", "name": "🍏青苹果┃1080P（不被搜索）","type": 3,"api": "csp_XBPQ", "searchable": 0,"quickSearch": 0,"filterable":0 ,"ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/LIBVIO.json" },
+ {"key": "csp_xBPQLIVIO", "name": "🍏青苹果┃1080P（不被搜索）","playerType": "2","type": 3,"api": "csp_XBPQ", "searchable": 0,"quickSearch": 0,"filterable":0 ,"ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/LIBVIO.json" },
 
   
 
