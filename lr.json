@@ -107,7 +107,7 @@
 //{"key":"yp_Lib","name": "⭐️┃Lib┃推荐(云盘)","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable":1,"jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/Libvio.jar"},
 
 
-{"key":"js_Lib","name":"🍲┃libvio(秒播无广告)","type":3,"playerType": 2,"api":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%B1%86%E7%93%A3/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/libvio.js"},
+//{"key":"js_Lib","name":"🍲┃libvio(秒播无广告)","type":3,"playerType": 2,"api":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%B1%86%E7%93%A3/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/libvio.js"},
 
 
     
@@ -161,7 +161,7 @@
       {  "key": "nangua", "name": "🎃┃南瓜┃难吃（720P）", "type": 3,"searchable":1,"quickSearch":1,"filterable":1, "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/drpy2.min.js", "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/%E5%8D%97%E7%93%9C.js" },
 
 
- {"key": "csp_xBPQLIVIO", "name": "🍏青苹果┃不够成熟（不被搜索）","type": 3,"api": "csp_XBPQ", "searchable": 0,"quickSearch": 0,"filterable":0 ,"ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/LIBVIO.json" },
+ {"key": "csp_xBPQLIVIO", "name": "🍏青苹果┃1080P（不被搜索）","type": 3,"api": "csp_XBPQ", "searchable": 0,"quickSearch": 0,"filterable":0 ,"ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/LIBVIO.json" },
 
   
 
