@@ -27,6 +27,7 @@
         "搜索副标题": "<div>&&</div>",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4", 
         "分类url": "https://www.chrqj.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}" 
+        //https://www.chrqj.com/vod/show/id/4/class/冒险/year/2024/area/日本/page/2
         
         }
 
