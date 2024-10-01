@@ -3,7 +3,7 @@
 
 
 
- {    
+  {    
      
         "站名":"金牌影视",
         "主页url": "https://www.chrqj.com/", 
@@ -16,12 +16,18 @@
         "图片": "https+://ywxohs.com+obs.gduamoe.com&&\",", 
         "标题": "vodName\":\"&&\"",
         "副标题": "vodRemarks\":\"&&\"", 
-   
+        "链接": "https://www.chrqj.com/detail/+vodId\":&&,",
+        "导演": "导演:</div>&&主演",
+        "主演": "主演:</div>&&别名",
+        "线路标题": "蓝光BD", 
+        "播放数组": "listitem\">&&info\">", 
+        "播放列表": "<a&&</a>",
         "倒序": "否",
-
+        "搜索url": "https://www.chrqj.com/vod/search/{wd}", 
         "搜索副标题": "<div>&&</div>",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4", 
         "分类url": "https://www.chrqj.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}" 
         
         }
+
 
