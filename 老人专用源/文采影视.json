@@ -4,7 +4,7 @@
 
 //https://www.cfkj86.com/vod/show/id/{cateId}/class/{class}/area/{area}/year/{year}/lang/{lang}/sortType/{by}/sortOrder/0/page/{catePg}
 
-//https://www.cfkj86.com/vod/show/id/{cateId}/class/{class}/area/{area}/type/76/lang/{lang}/year/{year}/sortType/{by}/sortOrder/0/page/{catePg}
+//https://www.cfkj86.com/vod/show/id/{cateId}/class/{class}/area/{area}/type/{type}/lang/{lang}/year/{year}/sortType/{by}/sortOrder/0/page/{catePg}
 {
   "作者": "",
 
@@ -12,7 +12,7 @@
 
  "主页url": "https://www.cfkj86.com/",
 
- "分类url": "https://www.cfkj86.com/vod/show/id/{cateId}/class/{class}/area/{area}/year/{year}/lang/{lang}/sortType/{by}/sortOrder/0/page/{catePg}",
+ "分类url": "https://www.cfkj86.com/vod/show/id/{cateId}/class/{class}/area/{area}/type/{type}/lang/{lang}/year/{year}/sortType/{by}/sortOrder/0/page/{catePg}",
   
 
   "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
