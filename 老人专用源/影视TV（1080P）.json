@@ -5,12 +5,12 @@
 //https://www.yingshi.tv/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/year/{year}.html
 
 
-//https://www.yingshi.tv/vod/show/area/大陆/by/hits_day/class/动作/id/2/lang/国语/year/2024
+//https://www.yingshi.tv/vod/show/area/日本/by/time/id/4/lang/日语/year/2024
 
 {
   "主页url": "https://www.yingshi.tv/",
 
-    "分类url": "https://www.yingshi.tv/topic/detail/id/{cateId}",
+    "分类url": "https://www.yingshi.tv/vod/show/area/{area}/by/time/id/{cateId}/lang/{lang}/year/{year}",
 
      "分类": "电影&电视剧&动漫&综艺",
 
