@@ -149,7 +149,8 @@
 
 
 
- {"key": "饺子影视","name": "🥟饺子","type": 3,"api": "csp_Jiaozi","searchable": 1,"quickSearch": 1,"filterable": 1},
+ {"key": "饺子影视","name": "🥟饺子","type": 3,"api": "csp_Jiaozi", "searchable": 1,"quickSearch": 1,"filterable": 1,
+ "jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E4%BA%91%E7%9B%98/danmu.jar"},
 
 
 
