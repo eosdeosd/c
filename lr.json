@@ -31,10 +31,10 @@
  {"key": "金牌", "name": "🍷┃酸梅汁（秒播无广告）", "type": 3, "searchable": 1, "quickSearch": 1, "changeable": 1 ,"api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E7%93%9C%E5%AD%90APP/drpy2.min.js", "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E9%87%91%E7%89%8C%E5%BD%B1%E9%99%A2/jpys.js" },
 
 
-{"key": "csp_xBPQ可可", "name": "🍲可可|影视（微广）","type": 3,"api": "csp_XBPQ", "searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E5%8F%AF%E5%8F%AF%E5%BD%B1%E8%A7%86.json"},
+//{"key": "csp_xBPQ可可", "name": "🍲可可|影视（微广）","type": 3,"api": "csp_XBPQ", "searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E5%8F%AF%E5%8F%AF%E5%BD%B1%E8%A7%86.json"},
 
 
- {"key": "毒舌电影","name": "🍲可可2|影视（微广）","type": 3,"api": "csp_XBPQ", "searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%EF%BC%88%E7%8B%AC%E7%89%B9%EF%BC%89%E6%AF%92%E8%88%8C%E7%94%B5%E5%BD%B1.json" },
+ //{"key": "毒舌电影","name": "🍲可可2|影视（微广）","type": 3,"api": "csp_XBPQ", "searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%EF%BC%88%E7%8B%AC%E7%89%B9%EF%BC%89%E6%AF%92%E8%88%8C%E7%94%B5%E5%BD%B1.json" },
 
 
 
