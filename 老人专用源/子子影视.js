@@ -1,4 +1,4 @@
-// 筛选页功能关闭中
+// 筛选页功能关闭中    
 muban.mxone5.二级.desc = '.video-info-items:eq(6)&&Text;;;.video-info-actor:eq(1)&&Text;.video-info-actor:eq(0)&&Text';
 var rule={
     title:'子子影视',
