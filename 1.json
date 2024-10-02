@@ -30,6 +30,14 @@
 
 
 
+{"key": "测试","name": "测试","type": 3,"api": "csp_XBPQ","ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E6%B5%8B%E8%AF%95.json","playerType": "2", "searchable":1, "quickSearch": 1, "changeable": 1},
+
+
+
+
+
+
+
 
 { "key": "白嫖者", "name": "👶白嫖者联盟", "type": 3, "api": "csp_XBPQ", "jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69",
   "ext": {  "分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html", "分类": "电影$1#电视剧$2#动漫$4#综艺$3", "副标题": "class=\"pic-text text-right\"&&</span>", "简介": "+剧情介绍：&&</p >"  }  },
