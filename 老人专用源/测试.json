@@ -51,7 +51,7 @@
         "线路标题": "蓝光BD",   
       //"线路标题": "蓝光BD", 
 
-        "线路数组": "listitem\"><a href=\"&&\">&</a></div>",     //listitem\"><a href=\"&&\">&</a></div>
+        "线路数组": "<a href=\"&&\">&</a></div>",     //listitem\"><a href=\"&&\">&</a></div>
       //"播放数组": "listitem\">&&info\">", 
 
 
