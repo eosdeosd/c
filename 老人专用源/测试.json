@@ -1,4 +1,5 @@
 //https://www.chrqj.com/vod/show/id/4/class/冒险/year/2024/area/日本/page/2
+//https://www.jxshdzs.com/
 
   {    
      
@@ -8,7 +9,7 @@
         "站名":"金牌影视",        
       //"站名":"金牌影视",
 
-        "主页url": "https://www.chrqj.com/", 
+        "主页url": "https://www.jxshdzs.com/", 
       //"主页url": "https://www.chrqj.com/",
 
         "简介": "</label>&&</div>",   
@@ -38,7 +39,7 @@
         "副标题": "vodRemarks\":\"&&\"", 
       //"副标题": "vodRemarks\":\"&&\"", 
 
-        "链接": "https://www.chrqj.com/detail/+vodId\":&&,",
+        "链接": "https://www.jxshdzs.com/detail/+vodId\":&&,",
       //"链接": "https://www.chrqj.com/detail/+vodId\":&&,",
 
         "导演": "导演:</div>&&主演", 
@@ -60,7 +61,7 @@
         "倒序": "否",
       //"倒序": "否",
 
-        "搜索url": "https://www.chrqj.com/vod/search/{wd}",   
+        "搜索url": "https://www.jxshdzs.com/vod/search/{wd}",   
       //"搜索url": "https://www.chrqj.com/vod/search/{wd}", 
 
         "搜索副标题": "<div>&&</div>",
@@ -69,7 +70,7 @@
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4",  
       //"分类": "电影$1#电视剧$2#综艺$3#动漫$4", 
 
-        "分类url": "https://www.chrqj.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}" 
+        "分类url": "https://www.jxshdzs.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}" 
       //"分类url": "https://www.chrqj.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}" 
 
  }
