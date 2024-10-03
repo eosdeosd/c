@@ -12,7 +12,7 @@
     "分类url": "https://www.yuhang007.com/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html",
     "分类": "电影&连续剧&动漫&综艺",
     "分类值": "1&2&4&3",
-    "简介": "video-info-item video-info-content vod_content>\"&&</span>",
+    "简介": "剧情：&&</span>",
      "线路标题": "h3&&heimuer",
     "线路数组": "source-item\">&&<i[排序:超清>极速蓝光][不包含:FF线路#蓝光2#蓝光9#蓝光7#XL线路#YH线路#HN线路]"
     // "线路标题": ">&&<[不包含:4K#蓝光3#蓝光1#LZ线路#蓝光2#蓝光9#蓝光7#FF#XL线路#YH线路#HN线路#蓝光7#SB线路#蓝光4#IK线路#BD线路#WJ线路#GS线路#JY线路#]" 
