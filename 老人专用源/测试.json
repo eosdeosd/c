@@ -50,7 +50,7 @@
         "线路标题": "蓝光BD",   
       //"线路标题": "蓝光BD", 
 
-        "播放数组": "listitem\">&&info\">", 
+        "线路数组":"data-dropdown-value=&&</div>",
       //"播放数组": "listitem\">&&info\">", 
 
 
