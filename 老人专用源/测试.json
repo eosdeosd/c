@@ -2,8 +2,6 @@
 
   {    
      
-      "播放数组":"main-list-sections__Container-sc-8bb7334b-0 inCsGl\">&&</div>",  
-     
 
 
 
@@ -31,7 +29,7 @@
         "数组": "{&&}[不包含:伦理剧]",
       //"数组": "{&&}[不包含:伦理剧]", 数组必须有。
 
-        "图片": "https+://ywxohs.com+obs.gduamoe.com&&\",",
+        "图片": "card-img\">&&</div>",
        //"图片": "https+://ywxohs.com+obs.gduamoe.com&&\",", 
 
         "标题": "vodName\":\"&&\"",
@@ -52,7 +50,7 @@
         "线路标题": "蓝光BD",   
       //"线路标题": "蓝光BD", 
 
-       // "播放数组": "listitem\">&&info\">", 
+        "播放数组": "listitem\">&&info\">", 
       //"播放数组": "listitem\">&&info\">", 
 
 
