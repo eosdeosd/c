@@ -51,9 +51,9 @@
         "线路标题": "蓝光BD",   
       //"线路标题": "蓝光BD", 
 
-        "线路数组": "player-detail__Title-sc-402fefdb-1 feXkaf\">&&</h1>",    
+       // "线路数组": "player-detail__Title-sc-402fefdb-1 feXkaf\">&&</h1>",  //player-detail__Title-sc-402fefdb-1 feXkaf\">&&</h1>  
 
-        "播放数组": "listitem\">&&\">", 
+        "播放数组": "player-detail__Title-sc-402fefdb-1 feXkaf\">&&</h1>",    
 
 
         "播放列表": "<a&&</a>",
