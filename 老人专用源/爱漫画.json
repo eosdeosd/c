@@ -8,8 +8,7 @@
   {
         "主页url": "https://m3u8.girigirilove.com/",
         "分类url": "https://m3u8.girigirilove.com/show/{cateId}--------{catepg}---{year}/",
-          "图片": "https+://ywxohs.com+obs.gduamoe.com&&\",", 
-       // "图片": "data-src=\"&&\"",
+        "图片": "data-src=\"&&\"/>",
          //图片https://m3u8.girigirilove.com/upload/vod/20240928-1/56e4d017a6722cd03a1a801dfbb8d459.webp
         "分类":"日番$1#美番$2"
   
