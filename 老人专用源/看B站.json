@@ -10,6 +10,10 @@
 
 //https://kanb.tv/Show/{cateId}K{area}KKKKKKK{catePg}KKK.html
 
+//https://kanb.tv/Show/bilibiliK日本KtimeKKKKKK2KKK.html
+
+//https://kanb.tv/Show/{cateId}K{area}K{by}KKKKKK{catePg}KKK.html
+
 {
   
   "播放数组":"hl-plays-list\">&&</ul>",
