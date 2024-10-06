@@ -8,6 +8,7 @@
   {
         "主页url": "https://m3u8.girigirilove.com/",
         "分类url": "https://m3u8.girigirilove.com/show/{cateId}--------{catepg}---{year}/",
+        "播放数组": "listitem\">&&info\">", 
         "分类":"日番$1#美番$2"
   
     }
