@@ -2,6 +2,8 @@
 
 //https://www.ncat2.com/show/{cateId}--{area}--{year}-{by}-{catePg}.html
 
+//和可可影视一样
+
 {
   "作者": "",
 
@@ -11,12 +13,12 @@
 
   "分类url": "https://www.ncat2.com/show/{cateId}--{area}--{year}-{by}-{catePg}.html",
   
- "线路数组": "source-item\">&&<i",
-  "线路标题": ">&&<",
+   "线路数组": "source-item\">&&<i",
+   "线路标题": ">&&<",
    "播放数组": "episode-list\"&&</div",
     "播放列表": "<a&&/a",
-    "播放标题": ">&&<",
-    "播放链接": "href=\"&&\"",
+  //  "播放标题": ">&&<",
+   // "播放链接": "href=\"&&\"",
     "嗅探词": ".m3u8#video_mp4#tos-#.mp4#cdn.123pan.cn#huoshanvod.com",
 
 
