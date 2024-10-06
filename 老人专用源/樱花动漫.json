@@ -1,0 +1,15 @@
+ //https://www.857yhw.com/show/ribendongman--------2---2024.html等于下面的分类URL
+
+//https://www.857yhw.com/show/{cateId}--------{catepg}---{year}.html
+
+//有这三个，只要打开页面可以播放，就可以利用搜索把片源，搜索出来了，有豆瓣主页就行了。
+
+ 
+ 
+ 
+  {
+        "主页url": "https://www.857yhw.com/",
+        "分类url": "https://www.857yhw.com/show/{cateId}--------{catepg}---{year}.html",
+        "分类":"日本动漫$ribendongman#国产动漫$guochandongman#动漫电影$dongmandianying#欧美动漫$omeidongman"
+  
+    }
