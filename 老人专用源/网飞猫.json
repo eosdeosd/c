@@ -1,4 +1,4 @@
-//https://www.ncat2.com/show/3--日本--2024-3-2.html
+//https://www.ncat2.com/show/3--%E6%97%A5%E6%9C%AC--2024-3-2.html
 
 //https://www.ncat2.com/show/{cateId}--{area}--{year}-{by}-{catePg}.html
 
@@ -27,13 +27,13 @@
     "搜索标题": "class=\"title\">&&</div>",
     "搜索副标题": "search-result-item-header\">&&</div>",
     "搜索链接": "href=\"&&\"",
-    "线路数组": "source-item\">&&<i[排序:#kkys01.com可可影视提供1][不包含:kkys01.com可可影视提供2#kkys01.com可可影视提供3#kkys01.com可可影视提供4#kkys01.com可可影视提供5#kkys01.com可可影视提供6#kkys01.com可可影视提供7#kkys01.com可可影视提供8#kkys01.com可可影视提供9#kkys01.com可可影视提供10]",
-    "线路标题": ">&&<[不包含:kkys01.com可可影视提供2#kkys01.com可可影视提供3#kkys01.com可可影视提供4#kkys01.com可可影视提供5#kkys01.com可可影视提供6#kkys01.com可可影视提供7#kkys01.com可可影视提供8#kkys01.com可可影视提供9#kkys01.com可可影视提供10#]",  
+    "线路数组": "source-item\">&&<i",
+    "线路标题": ">&&<",  
     "播放数组": "episode-list\"&&</div",
     "播放列表": "<a&&/a",
     "播放标题": ">&&<",
     "播放链接": "href=\"&&\"",
-    "嗅探词": ".m3u8#video_mp4#tos-#.mp4#cdn.123pan.cn#huoshanvod.com",
+    "嗅探词": ".m3u8#video_mp4#.mp4",
     "导演": "导演:</div>&&</div>",
     "主演": "演员:</div>&&</div>",
     "倒序": "否",
