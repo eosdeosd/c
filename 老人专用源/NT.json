@@ -1,8 +1,9 @@
-//https://www.ntdm9.com/show/riben--------3---2024.html	
+//https://www.ntdm9.com/show/riben--------3---2024.html	https://www.ntdm9.com/show/{area}--------{catepg}---{year}.html
+//https://www.ntdm9.com/type/riben-7.html
 //   
     {
         "主页url": "https://www.ntdm9.com/",
-        "分类url": "https://www.ntdm9.com/show/{area}--------{catepg}---{year}.html",
+        "分类url": "https://www.ntdm9.com/type/{cateId}-{catepg}.html",
         "分类":"日本$1#中国$2"
   
          //"分类":"电影$1#剧集$2#综艺$3#动漫$4#记录片$5#Netflix$20",
