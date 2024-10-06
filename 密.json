@@ -19,48 +19,9 @@
       {  "key": "nangua", "name": "🎃┃南瓜┃难吃（720P）", "playerType": "2","type": 3,"searchable":1,"quickSearch":1,"filterable":1, "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/drpy2.min.js", "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/%E5%8D%97%E7%93%9C.js" },
 
 
- {"key": "csp_xBPQLIVIO", "name": "🍏LIVIO┃1080P（不被搜索）","type": 3,"api": "csp_XBPQ", "searchable": 0,"quickSearch": 0,"filterable":0 ,"ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/LIBVIO.json" },
+ {"key": "csp_xBPQLIVIO", "name": "🍏LIVIO┃1080P（不被搜索）","type": 3,"api": "csp_XBPQ", "searchable": 0,"quickSearch": 0,"filterable":0 ,"ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/LIBVIO.json" }
 
   
-{"key":"drpy_js/29片库[密]","name":"29片库[密]","type":3,"playerType": "2","api":"./drpy_libs/drpy2.min.js","ext":"./drpy_js/29片库[密].js"},
-
-{"key":"drpy_js/36直播[密]","name":"36直播[密]","type":3,"playerType": "2","api":"./drpy_libs/drpy2.min.js","ext":"./drpy_js/36直播[密].js"},
-
-{"key":"drpy_js/Pornhub[密]","name":"Pornhub[密]","type":3,"playerType": "2","api":"./drpy_libs/drpy2.min.js","ext":"./drpy_js/Pornhub[密].js"},
-
-{"key":"drpy_js/十八[密]","name":"十八[密]","type":3,"playerType": "2","api":"./drpy_libs/drpy2.min.js","ext":"./drpy_js/十八[密].js"},
-
-{"key":"drpy_js/UAA[密]","name":"UAA[密]","type":3,"playerType": "2","api":"./drpy_libs/drpy2.min.js","ext":"./drpy_js/UAA[密].js"},
-
-{"key":"drpy_js/一点视频[密]","name":"一点视频[密]","type":3,"playerType": "2","api":"./drpy_libs/drpy2.min.js","ext":"./drpy_js/一点视频[密].js"},
-
-{"key":"drpy_js/九妖仓库[密]","name":"九妖仓库[密]","type":3,"playerType": "2","api":"./drpy_libs/drpy2.min.js","ext":"./drpy_js/九妖仓库[密].js"},
-
-{"key":"drpy_js/千百视频[密]","name":"千百视频[密]","type":3,"playerType": "2","api":"./drpy_libs/drpy2.min.js","ext":"./drpy_js/千百视频[密].js"},
-
-{"key":"drpy_js/地瓜视频[密]","name":"地瓜视频[密]","type":3,"playerType": "2","api":"./drpy_libs/drpy2.min.js","ext":"./drpy_js/地瓜视频[密].js"},
-
-{"key":"drpy_js/小女18[密]","name":"小女18[密]","type":3,"playerType": "2","api":"./drpy_libs/drpy2.min.js","ext":"./drpy_js/小女18[密].js"},
-
-{"key":"drpy_js/恒大影视[密]","name":"恒大影视[密]","type":3,"playerType": "2","api":"./drpy_libs/drpy2.min.js","ext":"./drpy_js/恒大影视[密].js"},
-
-{"key":"drpy_js/爱爱影院[密]","name":"爱爱影院[密]","type":3,"playerType": "2","api":"./drpy_libs/drpy2.min.js","ext":"./drpy_js/爱爱影院[密].js"},
-
-{"key":"drpy_js/番号资源[密]","name":"番号资源[密]","type":3,"playerType": "2","api":"./drpy_libs/drpy2.min.js","ext":"./drpy_js/番号资源[密].js"},
-
-{"key":"drpy_js/绿色仓库[密]","name":"绿色仓库[密]","type":3,"playerType": "2","api":"./drpy_libs/drpy2.min.js","ext":"./drpy_js/绿色仓库[密].js"},
-
-{"key":"drpy_js/老司视频[密]","name":"老司视频[密]","type":3,"playerType": "2","api":"./drpy_libs/drpy2.min.js","ext":"./drpy_js/老司视频[密].js"},
-
-{"key":"drpy_js/草莓秒播[密]","name":"草莓秒播[密]","type":3,"playerType": "2","api":"./drpy_libs/drpy2.min.js","ext":"./drpy_js/草莓秒播[密].js"},
-
-{"key":"drpy_js/路视频[密]","name":"路视频[密]","type":3,"playerType": "2","api":"./drpy_libs/drpy2.min.js","ext":"./drpy_js/路视频[密].js"},
-
-{"key":"drpy_js/飞狗影院[密]","name":"飞狗影院[密]","type":3,"playerType": "2","api":"./drpy_libs/drpy2.min.js","ext":"./drpy_js/飞狗影院[密].js"},
-
-{"key":"drpy_js/黑料不打烊[密]","name":"黑料不打烊[密]","type":3,"playerType": "2","api":"./drpy_libs/drpy2.min.js","ext":"./drpy_js/黑料不打烊[密].js"}
-
-
 
 
 
