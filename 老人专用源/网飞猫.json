@@ -1,0 +1,43 @@
+//https://www.ncat2.com/show/3--日本--2024-3-2.html
+
+//https://www.ncat2.com/show/{cateId}--{area}--{year}-{by}-{catePg}.html
+
+{
+  "作者": "",
+
+  "站名": "网飞猫",
+
+  "主页url": "https://www.ncat2.com/",
+
+  "分类url": "https://www.ncat2.com/show/{cateId}--{area}--{year}-{by}-{catePg}.html",
+  
+  
+"副标题": "text-right\">&&</span>",
+  
+ "搜索模式": "0",
+
+  "搜索后缀": "/detail/[不包含:4K#网盘#云盘]",
+  
+"影片地区": "地区：&&/",
+
+ "影片类型": "类型：&&/",
+
+"导演": "导演：&&</p>",
+
+ "主演": "主演：&&/",
+
+ "简介": "display: none;\">&&</span>",
+  
+ "线路数组": "<h3 class=\"iconfont&&</div>[替换:HD5>>BD5]",//[替换:HD5>>BD5]
+
+  "线路标题": ">&&<[不包含:视频下载]",//[不包含:#视频下载#]
+  
+ "播放数组": "<ul class=\"stui-content&&</ul>",
+
+
+   "分类": "电影&连续剧&动漫&综艺记录&短剧",
+
+  "分类值": "1&2&3&4&6"
+
+ 
+}
