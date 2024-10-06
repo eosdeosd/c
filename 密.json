@@ -1,0 +1,95 @@
+
+{
+   "spider": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/zy.jar",
+
+    "wallpaper": "https://tool.weetai.cn/api",
+   "warningText": "资源来自网络，所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买。",
+    
+
+
+    "sites": [
+     
+{"key":"drpy_js_老人豆瓣","name":"🍽️菜谱|请点餐","type":3,"playerType": "2","api":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%B1%86%E7%93%A3/drpy2.min.js","ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%B1%86%E7%93%A3/%E8%80%81%E4%BA%BA%E8%B1%86%E7%93%A3.js"},
+  
+
+ {"key": "金牌", "name": "🍷┃酸梅汁（秒播无广告）", "type": 3, "searchable": 1, "quickSearch": 1, "changeable": 1 ,"api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E7%93%9C%E5%AD%90APP/drpy2.min.js", "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E9%87%91%E7%89%8C%E5%BD%B1%E9%99%A2/jpys.js", "playerType": "2"},
+
+
+    //🎃┃南瓜┃备用 
+      {  "key": "nangua", "name": "🎃┃南瓜┃难吃（720P）", "playerType": "2","type": 3,"searchable":1,"quickSearch":1,"filterable":1, "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/drpy2.min.js", "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/%E5%8D%97%E7%93%9C.js" },
+
+
+ {"key": "csp_xBPQLIVIO", "name": "🍏LIVIO┃1080P（不被搜索）","type": 3,"api": "csp_XBPQ", "searchable": 0,"quickSearch": 0,"filterable":0 ,"ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/LIBVIO.json" },
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ],
+
+
+  //这里是视频解析的地方，不建议修改。
+    "parses": [
+
+
+        {"name":"解析聚合","type":3,"url":"Demo"},
+        {"name":"Web聚合","type":3,"url":"Web"},
+
+
+
+ {
+    "name": "虾米1", "url": "https://jx.xmflv.cc/?url=", "type": 0, "ext": { "flag": [  "qiyi",  "imgo", "搜狐","爱奇艺", "奇艺",   "qq", "qq 预告及花絮","腾讯", "youku",  "优酷", "pptv", "PPTV","letv", "乐视","rx","1905","ltnb","哔哩","哔哩哔哩","bilibili", "leshi", "mgtv", "芒果", "sohu","xigua", "fun","风行","木耳","可可" ] } },
+
+
+  {"name":"虾米2","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","imgo","rx","ltnb","bilibili","1905","xigua","fun","风行","哔哩","哔哩哔哩","leshi","pptv","PPTV","木耳","可可"]}}
+
+
+ ],
+
+
+  
+  "doh": [
+    {"name": "Google","url": "https://dns.google/dns-query","ips": [  "8.8.4.4",  "8.8.8.8"]},
+    {"name": "Cloudflare","url": "https://cloudflare-dns.com/dns-query","ips": [  "1.1.1.1",  "1.0.0.1",  "2606:4700:4700::1111",  "2606:4700:4700::1001"]},
+    {"name": "AdGuard","url": "https://dns.adguard.com/dns-query","ips": [  "94.140.14.140",  "94.140.14.141"]},
+    {"name": "DNSWatch","url": "https://resolver2.dns.watch/dns-query","ips": [  "84.200.69.80",  "84.200.70.40"]},
+    {"name": "Quad9","url": "https://dns.quad9.net/dns-quer","ips": [  "9.9.9.9",  "149.112.112.112"]}
+  ],
+
+
+  "rules": [
+    {"name": "hwk","hosts": [  "haiwaikan"],"regex": [  "10.0099",  "10.3333",  "16.0599",  "8.1748",  "10.85"]},
+    {"name": "yqk","hosts": [  "yqk88"],"regex": [  "18.4",  "15.1666"]},
+    {"name": "sn","hosts": [  "suonizy"],"regex": [  "15.1666",  "15.2666"]},
+    {"name": "bf","hosts": [  "bfzy"],"regex": [  "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+    {"name": "xx","hosts": [  "aws.ulivetv.net"],"regex": [  "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+    {"name": "lz","hosts": [  "vip.lz",  "hd.lz",  "v.cdnlz1",  "v.cdnlz"],"regex": [  "18.5333"]},
+    {"name": "非凡","hosts": [  "vip.ffzy",  "hd.ffzy"],"regex": [  "25.0666"]},
+    {"name": "hs","hosts": [  "huoshan.com"],"regex": [  "item_id="]},
+    {"name": "dy","hosts": [  "douyin.com"],"regex": [  "is_play_url="]},
+    {"name": "nm","hosts": [  "toutiaovod.com"],"regex": [  "video/tos/cn"]},
+    {"name": "cl","hosts": [  "magnet"],"regex": [  "最 新",  "直 播",  "更 新"]}
+
+  ]
+
+}
