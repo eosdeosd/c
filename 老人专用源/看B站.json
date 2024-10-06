@@ -11,8 +11,9 @@
 {
   
   "播放数组":"hl-plays-list\">&&</ul>",
+  "线路标题": ">&&<[不包含:看B尊享#百度云]",
 	"分类数组":"class=\"hl-nav-item hl-slide-swiper\">&&</li>",
-	"分类标题": ">&&<[不包含:看B尊享]",
+	"分类标题": ">&&<",
 	"分类ID": "Category/&&K.html",
 	"分类url":"https://kanb.tv/Show/{cateId}K{area}K{by}K{class}KKKKK{catePg}KKK{year}.html"
     
