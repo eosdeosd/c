@@ -6,13 +6,7 @@
 
 //https://kanb.tv/Show/{cateId}K{area}K{by}K{class}KKKKK{catePg}KKK{year}.html
 
-//https://kanb.tv/Show/bilibiliK日本KKKKKKK2KKK.html
 
-//https://kanb.tv/Show/{cateId}K{area}KKKKKKK{catePg}KKK.html
-
-//https://kanb.tv/Show/bilibiliK日本KtimeKKKKKK2KKK.html
-
-//https://kanb.tv/Show/{cateId}K{area}K{by}KKKKKK{catePg}KKK.html
 
 {
   
@@ -20,7 +14,7 @@
 	"分类数组":"class=\"hl-nav-item hl-slide-swiper\">&&</li>",
 	"分类标题": ">&&<",
 	"分类ID": "Category/&&K.html",
-	"分类url":"https://kanb.tv/Show/{cateId}K{area}KKKKKKK{catePg}KKK.html"
+	"分类url":"https://kanb.tv/Show/{cateId}K{area}K{by}K{class}KKKKK{catePg}KKK{year}.html"
     
     
     
