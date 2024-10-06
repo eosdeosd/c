@@ -2,7 +2,7 @@
 //https://www.ntdm9.com/type/riben-7.html
 //https://www.ntdm9.com/show/riben--------4---2024.html   
     {
-        "主页url": "https://www.ntdm9.com/",
+        "主页url": "https://www.ntdm9.com/type/riben.html",
         "分类url": "https://www.ntdm9.com/show/{cateId}--------{catepg}---{year}.html",
         "分类":"日本$1#中国$2"
   
