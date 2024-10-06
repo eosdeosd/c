@@ -1,10 +1,15 @@
+//https://kanb.tv/Show/bilibiliK日本KhitsKKKKKK2KKK2024.html
+
+//https://kanb.tv/Show/{cateId}K{area}K{by}KKKKKK{catePg}KKK{year}.html
+
+//https://kanb.tv/Show/{cateId}K{area}K{by}K{class}KKKKK{catePg}KKK{year}.html
 {
   
   "播放数组":"hl-plays-list\">&&</ul>",
 	"分类数组":"class=\"hl-nav-item hl-slide-swiper\">&&</li>",
 	"分类标题": ">&&<",
 	"分类ID": "Category/&&K.html",
-	"分类url":"https://kanb.tv/Show/{cateId}K{area}K{by}K{class}KKKKK{catePg}KKK{year}.html"
+	"分类url":"https://kanb.tv/Show/{cateId}K{area}K{by}KKKKKK{catePg}KKK{year}.html"
     
     
     
