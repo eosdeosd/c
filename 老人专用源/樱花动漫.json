@@ -6,7 +6,7 @@
 
     {
         "主页url": "https://www.857yhw.com/",
-        "分类url": "https://www.857yhw.com/show/{cateId}--------{catepg}---{year}.html",
+        "分类url": "https://www.857yhw.com/show/{cateId}---{class}-----{catepg}---{year}.html",
         "分类":"日本动漫$ribendongman#国产动漫$guochandongman#动漫电影$dongmandianying#欧美动漫$omeidongman"
   
          //"分类":"电影$1#剧集$2#综艺$3#动漫$4#记录片$5#Netflix$20",
