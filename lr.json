@@ -44,6 +44,12 @@
 
 
 
+  {"key": "csp_柠檬","name": "🍋柠檬","type": 3, "api": "csp_Nmvod","ua": "okhttp/10.04",
+      "ext": "eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ==",
+      "jar": "http://cdn.qiaoji8.com/fix24914.jar;md5;df8acabafdc6aa94c11ecb3da25188e1" },
+
+
+
 
  
 
