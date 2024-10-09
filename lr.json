@@ -31,11 +31,8 @@
 
 
 
-
- {"key": "全网影视","name": "🎃┃东瓜（长得像南瓜的东瓜）","type": 3, "api": "csp_Quanwk","ext": "https://fm666.qkw1.cc"},
-
-
-             
+  { "key": "瓜子｜影视","name": "🎃┃东瓜（长得像南瓜的东瓜）","type": 3,"api": "csp_Gz360","searchable": 1,"quickSearch": 1,"filterable": 1},
+          
 
 
  {"key": "采集360","name": "🎃┃北瓜（不知道哪里冒出来）","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,
