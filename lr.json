@@ -31,8 +31,7 @@
 
 
 
-  { "key": "瓜子｜影视","name": "🎃┃东瓜（长得像南瓜的东瓜）","type": 3,"api": "csp_Gz360","searchable": 1,"quickSearch": 1,"filterable": 1,
-   "jar":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/老人专用源/spider.jar"},
+  { "key": "瓜子｜影视","name": "🎃┃东瓜（长得像南瓜的东瓜）","type": 3,"api": "csp_Gz360","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/老人专用源/spider.jar"},
 
           
 
