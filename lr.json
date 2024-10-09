@@ -32,7 +32,8 @@
 
 
 
-
+ {"key": "采集","name": "🎃┃东瓜（不知道哪里冒出来）","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,
+    "api": "https://360zy.com/api.php/provide/vod/from/360m3u8/at/json","playUrl": "json:http://110.42.3.99:880/rmm.php/?url=" },
 
 
           
