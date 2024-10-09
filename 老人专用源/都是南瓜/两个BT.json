@@ -1,0 +1,9 @@
+//https://www.bttwo.org/new-movie/page/2
+
+//https://www.bttwo.org/{cateId}/page/{catePg}
+
+{
+    "分类url": "https://www.bttwo.org/{cateId}/page/{catePg}",
+   
+     "分类": "最新电影$new-movie#本月热门$hot-month#国产剧$zgjun#美剧$meiju#日韩剧$jpsrtv"
+}
