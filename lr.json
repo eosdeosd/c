@@ -28,19 +28,17 @@
 
 
 
-  {"key": "nm农民","name": "🎃┃也是南瓜（我说它是南瓜就是南瓜）", "type": 3,"api": "csp_WebNM","playerType": "2",
-  "searchable": 1, "quickSearch": 1, "filterable": 1,
+  {"key": "nm农民","name": "🎃┃也是南瓜（我说它是南瓜就是南瓜）", "type": 3,"api": "csp_WebNM", "searchable": 1, "quickSearch": 1, "filterable": 1,
       "ext": "KhY021WelCEl+6MsvwnzaPussky2SxwF+jGY9QfkR6FIscbQFBNrsBC14jS6S+j98J+Fgoc0h0KhTaflmU0qx3+zLiwpVDkQ16x093uHK3w=" },
 
 
 
 
-   {"key": "cz厂长","name": "🎃┃都是南瓜（我说它是南瓜就是南瓜）","type": 3,"api": "csp_WebCzApp", "playerType": "2",
-   "searchable": 1,"quickSearch": 0,"filterable": 0, "ext": "KhY021WelCEl+6MsvwnzaPussky4HxELszjf4gzkR6FvvdeATVllJ/oSMZV62RIoZioJgQHLUd8zri0aAROuFbc0582riNidAk/7NYCvemmPE5jrRNKbaElV0iTBIVGBcLdvRBJ3FgMGXIgPUDLrPBV6qVjhiDLB/4XM5vg6ETWCwFMW/MKC5D5sfVzmlhkM8Q29hejujKelAj5N+RiHDRIx9njotC3YBJ5q" },
+   {"key": "cz厂长","name": "🎃┃都是南瓜（我说它是南瓜就是南瓜）","type": 3,"api": "csp_WebCzApp", "searchable": 1,"quickSearch": 0,"filterable": 0, 
+   "ext": "KhY021WelCEl+6MsvwnzaPussky4HxELszjf4gzkR6FvvdeATVllJ/oSMZV62RIoZioJgQHLUd8zri0aAROuFbc0582riNidAk/7NYCvemmPE5jrRNKbaElV0iTBIVGBcLdvRBJ3FgMGXIgPUDLrPBV6qVjhiDLB/4XM5vg6ETWCwFMW/MKC5D5sfVzmlhkM8Q29hejujKelAj5N+RiHDRIx9njotC3YBJ5q" },
 
 
-   {"key": "人人影视", "name": "🎃┃全是南瓜（我说它是南瓜就是南瓜）","type": 3,"api": "csp_XBPQ",
-   "searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": "2",
+   {"key": "人人影视", "name": "🎃┃全是南瓜（我说它是南瓜就是南瓜）","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
       "ext": {"简介": "请勿相信影片中的广告，以免上当受骗。+<div class=\"stui-pannel_bd\"&&</div>",
         "分类url": "https://www.567dyy.com/list/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
         "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$5" } },
