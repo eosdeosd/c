@@ -1,4 +1,7 @@
-//https://www.qkw1.com/show/4-日本-time------2---2024.html
+//https://www.qkw1.com/type/4-3.html
+
+
+//https://www.qkw1.com/type/{cateId}-{catePg}.html
 
 //https://www.qkw1.com/show/{cateId}-{area}-{by}------{catePg}---{year}.html
 
@@ -9,10 +12,8 @@
      
         "站名":"全网看",
         "主页url": "https://www.qkw1.com/", 
-        "嗅探词": "m3u8",
        // "线路标题": "蓝光BD", 
-        "倒序": "否",
-        "分类url": "https://www.qkw1.com/show/{cateId}-{area}-{by}------{catePg}---{year}.html" 
+        "分类url": "https://www.qkw1.com/type/{cateId}-{catePg}.html" 
         
         }
 
