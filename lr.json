@@ -239,7 +239,7 @@
 
 
 
-{"key":"搜狗","name":"👉搜狗(官)","type":3,"ua": "okhttp/3.15", "playerType": 1,"api":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E6%90%9C%E7%8B%97/drpy2.min.js","ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E6%90%9C%E7%8B%97/%E6%90%9C%E7%8B%97.js"},
+//{"key":"搜狗","name":"👉搜狗(官)","type":3,"ua": "okhttp/3.15", "playerType": 1,"api":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E6%90%9C%E7%8B%97/drpy2.min.js","ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E6%90%9C%E7%8B%97/%E6%90%9C%E7%8B%97.js"},
 
 
 
@@ -251,12 +251,12 @@
 
 
 
-     {"key":"drpy_js_优酷","name":"优酷","type":3,"api":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E4%BC%98%E9%85%B7/drpy2.min.js","ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E4%BC%98%E9%85%B7/%E4%BC%98%E9%85%B7.js"},
+     //{"key":"drpy_js_优酷","name":"优酷","type":3,"api":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E4%BC%98%E9%85%B7/drpy2.min.js","ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E4%BC%98%E9%85%B7/%E4%BC%98%E9%85%B7.js"},
 
 
 
 
-     {"key":"drpy_js_爱奇艺","name":"爱奇艺","type":3, "api":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E7%88%B1%E5%A5%87%E8%89%BA/drpy2.min.js","ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E7%88%B1%E5%A5%87%E8%89%BA/%E7%88%B1%E5%A5%87%E8%89%BA.js"},
+     //{"key":"drpy_js_爱奇艺","name":"爱奇艺","type":3, "api":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E7%88%B1%E5%A5%87%E8%89%BA/drpy2.min.js","ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E7%88%B1%E5%A5%87%E8%89%BA/%E7%88%B1%E5%A5%87%E8%89%BA.js"},
      
 
 
@@ -264,7 +264,7 @@
 
 
 
- //{ "key": "素白白", "name": "⛈┃素白白┃影视", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 1,"ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E7%B4%A0%E7%99%BD%E7%99%BD.json" },
+ { "key": "素白白", "name": "⛈┃素白白┃影视", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 1,"ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E7%B4%A0%E7%99%BD%E7%99%BD.json" },
 
 
 
