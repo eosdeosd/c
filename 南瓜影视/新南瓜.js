@@ -39,7 +39,7 @@ var rule = {
 	timeout:3000,
 	class_name:'电视剧&电影&动漫&综艺&海外精选', // /api.php/provide/home_nav  //46
 	class_url:'2&1&4&3',
-	limit:20,
+	limit:100,
 	play_parse:true,
 	lazy:`js:
         try {
