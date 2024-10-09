@@ -29,30 +29,30 @@
  { "key": "Lib","name": "🍓┃草莓┃LibV出品（秒播无广告）","type": 3, "api": "csp_Jpys","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E6%96%87%E9%87%87%E2%94%83%E7%A7%92%E6%92%AD.txt","playerType": "2", "searchable": 1, "quickSearch": 1, "changeable": 1 },
 
 
- {"key": "金牌", "name": "🍷┃酸梅汁（秒播无广告）", "type": 3, "searchable": 1, "quickSearch": 1, "changeable": 1 ,"api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E7%93%9C%E5%AD%90APP/drpy2.min.js", "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E9%87%91%E7%89%8C%E5%BD%B1%E9%99%A2/jpys.js" },
+ {"key": "金牌", "name": "🍷┃酸梅汁（秒播无广告）", "type": 3, "searchable": 1, "quickSearch": 1, "changeable": 1 ,"api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E7%93%9C%E5%AD%90APP/drpy2.min.js", "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E9%87%91%E7%89%8C%E5%BD%B1%E9%99%A2/jpys.js","playerType": "2"},
 
 
-
-{"key": "AppGZ瓜子","name": "🎃┃南瓜（长得像南瓜的南瓜）","type": 3,"api": "csp_AppGZ", "searchable": 1,"quickSearch": 1,"filterable": 1,
- "ext": "KhY021WelCEl+6MsvwnzaPussky6FQJcpCjT9V7/D61ft9vQAhNEPOYSMZVJSODd/JOOSOwUzim+9qfvgpNz7SvUPpAkXAweyrp76WY8s5EBwW7DBMY="},
-
-
-
-
- {"key": "全网影视","name": "🎃┃东瓜（长得像南瓜的东瓜）","type": 3, "api": "csp_Quanwk","ext": "https://fm666.qkw1.cc"},
-
-
-             
+ {"key": "南瓜APP", "name": "🎃┃南瓜（长得像南瓜的南瓜）","type": 3,"api": "csp_NanGua","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 1,"jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/fix24108.jar","ext": ""},
 
 
  {"key": "采集360","name": "🎃┃北瓜（不知道哪里冒出来）","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,
     "api": "https://360zy.com/api.php/provide/vod","playUrl": "json:http://110.42.3.99:880/rmm.php/?url=" },
 
 
+ {"key": "比特","name": "🎃┃东瓜（不知道哪里冒出来）","type": 3, "api": "csp_Bttwo","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/Yoursmile.jar"},
+
+
+ {"key": "AppGZ瓜子","name": "🎃┃西瓜（长得像南瓜的西瓜）","type": 3,"api": "csp_AppGZ", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "KhY021WelCEl+6MsvwnzaPussky6FQJcpCjT9V7/D61ft9vQAhNEPOYSMZVJSODd/JOOSOwUzim+9qfvgpNz7SvUPpAkXAweyrp76WY8s5EBwW7DBMY="},
+
+       
+ {"key": "天天APP","name": "🎃┃胡瓜（长得像南瓜的胡瓜）","type": 3,"api": "csp_TTian","playerType": 1,
+ "jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/fix24108.jar",
+ "ext": "baHR0cDovL29wLnlzZHFqcy5jbg=="},
+
 
  
 
-  //{  "key": "nangua", "name": "🎃┃西瓜（长得像南瓜的西瓜）", "playerType": "2","type": 3,"searchable":1,"quickSearch":1,"filterable":1, "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/drpy2.min.js", "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/%E6%96%B0%E5%8D%97%E7%93%9C.js" },
+  //{  "key": "nangua", "name": "🎃┃南瓜（真南瓜）", "playerType": "2","type": 3,"searchable":1,"quickSearch":1,"filterable":1, "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/drpy2.min.js", "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/%E6%96%B0%E5%8D%97%E7%93%9C.js" },
 
 
  {"key": "csp_xBPQLIVIO", "name": "🍏LIVIO┃1080P（不被搜索）","type": 3,"api": "csp_XBPQ", "searchable": 0,"quickSearch": 0,"filterable":0 ,
