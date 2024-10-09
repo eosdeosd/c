@@ -27,13 +27,13 @@
 
 
  {"key": "AppGZ瓜子","name": "🎃┃南瓜（长得像南瓜的南瓜）","type": 3,"api": "csp_AppGZ", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "KhY021WelCEl+6MsvwnzaPussky6FQJcpCjT9V7/D61ft9vQAhNEPOYSMZVJSODd/JOOSOwUzim+9qfvgpNz7SvUPpAkXAweyrp76WY8s5EBwW7DBMY="},
-
-
-          
-
+       
 
  {"key": "采集360","name": "🎃┃北瓜（不知道哪里冒出来）","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,
     "api": "https://360zy.com/api.php/provide/vod","playUrl": "json:http://110.42.3.99:880/rmm.php/?url=" },
+
+
+    {"key": "比特", "name": "✌️比特","type": 3,"api": "csp_Bttwo","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 
 
