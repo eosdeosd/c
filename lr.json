@@ -21,7 +21,8 @@
 
 {"key":"drpy_js_老人豆瓣","name":"🍽️菜谱|请点餐","type":3,"playerType": "2","api":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%B1%86%E7%93%A3/drpy2.min.js","ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%B1%86%E7%93%A3/%E8%80%81%E4%BA%BA%E8%B1%86%E7%93%A3.js"},
 
-  
+   {"key": "bro","name": "🎃┃南瓜（我说它是南瓜就是南瓜）","type": 3,"api": "csp_WebBr","searchable": 1,"quickSearch": 1,"filterable": 1,
+"ext": "KhY021WelCEl+6MsvwnzaPusskysEhxc/znZ4AaiReBTtZTeDEVZJbQKKez3K+OxlrjAIMdUpAUxP8fGystYn0Hss098UFVR69Qm2ARgmeZN86q8Ww=="}, 
 
 
 
