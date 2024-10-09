@@ -26,12 +26,12 @@
  {"key": "金牌", "name": "🍷┃酸梅汁（秒播无广告）", "type": 3, "searchable": 1, "quickSearch": 0, "changeable": 0 ,"api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E7%93%9C%E5%AD%90APP/drpy2.min.js", "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E9%87%91%E7%89%8C%E5%BD%B1%E9%99%A2/jpys.js","playerType": "2"},
 
 
- {"key": "AppGZ瓜子","name": "🎃┃南瓜（长得像南瓜的南瓜）","type": 3,"api": "csp_AppGZ", "searchable": 1,"quickSearch": 1,"filterable": 1,
+ //{"key": "AppGZ瓜子","name": "🎃┃南瓜（长得像南瓜的南瓜）","type": 3,"api": "csp_AppGZ", "searchable": 1,"quickSearch": 1,"filterable": 1,
  "ext": "KhY021WelCEl+6MsvwnzaPussky6FQJcpCjT9V7/D61ft9vQAhNEPOYSMZVJSODd/JOOSOwUzim+9qfvgpNz7SvUPpAkXAweyrp76WY8s5EBwW7DBMY="},
 
 
 
-
+{ "key": "瓜子｜影视","name": "🎃┃东瓜（长得像南瓜的东瓜）","type": 3,"api": "csp_Gz360","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/老人专用源/spider.jar"},
 
 
 
