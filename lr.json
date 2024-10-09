@@ -21,8 +21,9 @@
 
 {"key":"drpy_js_老人豆瓣","name":"🍽️菜谱|请点餐","type":3,"playerType": "2","api":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%B1%86%E7%93%A3/drpy2.min.js","ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%B1%86%E7%93%A3/%E8%80%81%E4%BA%BA%E8%B1%86%E7%93%A3.js"},
 
-   {"key": "bro","name": "🎃┃南瓜（我说它是南瓜就是南瓜）","type": 3,"api": "csp_WebBr","searchable": 1,"quickSearch": 1,"filterable": 1,
-"ext": "KhY021WelCEl+6MsvwnzaPusskysEhxc/znZ4AaiReBTtZTeDEVZJbQKKez3K+OxlrjAIMdUpAUxP8fGystYn0Hss098UFVR69Qm2ARgmeZN86q8Ww=="}, 
+   {"key": "bro","name": "🎃┃南瓜（我说它是南瓜就是南瓜）","type": 3,"playerType": "2","api": "csp_WebBr",
+   "searchable": 1,"quickSearch":1,"filterable": 1,
+   "ext": "KhY021WelCEl+6MsvwnzaPusskysEhxc/znZ4AaiReBTtZTeDEVZJbQKKez3K+OxlrjAIMdUpAUxP8fGystYn0Hss098UFVR69Qm2ARgmeZN86q8Ww=="}, 
 
 
 
@@ -31,16 +32,18 @@
  //{ "key": "Lib","name": "🌟┃Lib┃推荐0（秒播无广告）","type": 3, "api": "csp_Jpys","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E6%96%87%E9%87%87%E2%94%83%E7%A7%92%E6%92%AD.txt","playerType": "2", "searchable": 1, "quickSearch": 1, "changeable": 1 },
 
 
- {"key": "金牌", "name": "🍷┃酸梅汁（秒播无广告）", "type": 3, "searchable": 1, "quickSearch": 1, "changeable": 1 ,"api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E7%93%9C%E5%AD%90APP/drpy2.min.js", "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E9%87%91%E7%89%8C%E5%BD%B1%E9%99%A2/jpys.js", "playerType": "2"},
+ {"key": "金牌", "name": "🍷┃酸梅汁（秒播无广告）", "type": 3, "searchable": 1, "quickSearch": 0, "changeable": 0 ,"api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E7%93%9C%E5%AD%90APP/drpy2.min.js", "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E9%87%91%E7%89%8C%E5%BD%B1%E9%99%A2/jpys.js","playerType": "2"},
 
 
-   {"key": "JP","name": "🍷┃酸梅汁2（秒播无广告）","type": 3,"api": "csp_WebJP", "searchable": 1, "quickSearch": 0,"filterable": 0,
+   {"key": "JP","name": "🍷┃酸梅汁2（秒播无广告）","type": 3,"api": "csp_WebJP", "playerType": "2",
+   "searchable": 1, "quickSearch": 0,"filterable": 0,
    "ext": "KhY021WelCEl+6MsvwnzaPusskysEhxc/i3d/FHwReBTtZTeDEVZJbQKKez3K+OxlrjAIMdUpAUxP8fGystYn0Hss098UFVR69Qm2ARgmeZN86q8Ww=="},
 
 
  //{ "key": "guazi","name": "🎃┃南瓜影视（我说它是南瓜就是南瓜）","type": 3,"api": "csp_WebGZ","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-  {"key": "nm","name": "🎃┃南瓜影视（我说它是南瓜就是南瓜）", "type": 3,"api": "csp_WebNM","searchable": 1, "quickSearch": 0, "filterable": 0,
+  {"key": "nm","name": "🎃┃南瓜影视（我说它是南瓜就是南瓜）", "type": 3,"api": "csp_WebNM","playerType": "2",
+  "searchable": 1, "quickSearch": 1, "filterable": 1,
       "ext": "KhY021WelCEl+6MsvwnzaPussky2SxwF+jGY9QfkR6FIscbQFBNrsBC14jS6S+j98J+Fgoc0h0KhTaflmU0qx3+zLiwpVDkQ16x093uHK3w=" },
 
 
