@@ -7,6 +7,8 @@
 
     "主页url": "https://www.bttwo.org/", 
 
+     "搜索url": "https://www.bttwo.org/xssssearch?q={wd}",
+
     "分类url": "https://www.bttwo.org/{cateId}/page/{catePg}",
    
      "分类": "最新电影$new-movie#本月热门$hot-month#国产剧$zgjun#美剧$meiju#日韩剧$jpsrtv"
