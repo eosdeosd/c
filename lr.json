@@ -27,24 +27,13 @@
 
 
 
-
- {"key": "bro铁剧", "name": "🎃┃南瓜（我说它是南瓜就是南瓜）","type": 3,"api": "csp_WebBr","searchable": 1,"quickSearch": 0, "filterable": 0,
-"ext": "KhY021WelCEl+6MsvwnzaPusskysEhxc/znZ4AaiReBTtZTeDEVZJbQKKez3K+OxlrjAIMdUpAUxP8fGystYn0Hss098UFVR69Qm2ARgmeZN86q8Ww=="},
-
-
-
-
-
-
-
-
   {"key": "nm农民","name": "🎃┃也是南瓜（我说它是南瓜就是南瓜）", "type": 3,"api": "csp_WebNM", "searchable": 1, "quickSearch": 1, "filterable": 1,
       "ext": "KhY021WelCEl+6MsvwnzaPussky2SxwF+jGY9QfkR6FIscbQFBNrsBC14jS6S+j98J+Fgoc0h0KhTaflmU0qx3+zLiwpVDkQ16x093uHK3w=" },
 
 
 
 
-   {"key": "cz厂长","name": "🎃┃都是南瓜（我说它是南瓜就是南瓜）","type": 3,"api": "csp_WebCzApp", "searchable": 1,"quickSearch": 0,"filterable": 0, 
+   {"key": "cz厂长","name": "🎃┃都是南瓜（我说它是南瓜就是南瓜）","type": 3,"api": "csp_WebCzApp", "searchable": 1,"quickSearch": 1,"filterable": 1, 
    "ext": "KhY021WelCEl+6MsvwnzaPussky4HxELszjf4gzkR6FvvdeATVllJ/oSMZV62RIoZioJgQHLUd8zri0aAROuFbc0582riNidAk/7NYCvemmPE5jrRNKbaElV0iTBIVGBcLdvRBJ3FgMGXIgPUDLrPBV6qVjhiDLB/4XM5vg6ETWCwFMW/MKC5D5sfVzmlhkM8Q29hejujKelAj5N+RiHDRIx9njotC3YBJ5q" },
 
 
