@@ -36,6 +36,11 @@
                "线路标题": ">&&<[不包含:#线路播放1#线路播放2]",
                "分类url": "https://www.567dyy.com/list/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
                "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$5" } },
+               
+
+
+ {"key": "采集360","name": "🎃┃加入南瓜（我说它是南瓜就是南瓜）","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,
+    "api": "https://360zy.com/api.php/provide/vod","playUrl": "json:http://110.42.3.99:880/rmm.php/?url=" },
 
 
 
