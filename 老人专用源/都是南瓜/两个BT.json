@@ -7,7 +7,7 @@
 
     "主页url": "https://www.bttwo.org/", 
 
-     "搜索url": "https://www.bttwo.org/xssssearch?q={wd}",
+     "搜索url": "https://www.bttwo.org/xssssearch?q={&&}",
 
     "分类url": "https://www.bttwo.org/{cateId}/page/{catePg}",
    
