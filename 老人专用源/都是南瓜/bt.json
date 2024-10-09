@@ -1,0 +1,17 @@
+//https://www.bttwo.org/zgjun/page/2
+
+//https://www.bttwo.org/{cateId}/page/{catePg}
+
+
+
+
+  {    
+     
+        "站名":"两个BT",
+        "主页url": "https://www.bttwo.org/", 
+       // "线路标题": "蓝光BD", 
+        "分类url": "https://www.bttwo.org/{cateId}/page/{catePg}" 
+        
+        }
+
+
