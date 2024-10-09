@@ -37,7 +37,8 @@
 
 
 
- {"key": "全网影视","name": "🎆全网","type": 3, "api": "csp_Quanwk"},//      "ext": "https://fm666.qkw1.cc"
+ {"key": "全网影视","name": "🎆全网","type": 3, "api": "csp_Quanwk","ext": "https://fm666.qkw1.cc"},
+ //"ext": "https://fm666.qkw1.cc"
 
 
                
