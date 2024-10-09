@@ -43,7 +43,8 @@
 
 
 
-{ "key": "猫咪资源","name": "🎃┃西瓜（长得像南瓜的西瓜）", "type": 1,"api": "http://zy.xiaomaomi.cc/api.php/provide/vod"},
+{ "key": "猫咪资源","name": "🎃┃西瓜（长得像南瓜的西瓜）", "type": 1,"api": "http://zy.xiaomaomi.cc/api.php/provide/vod",
+   "playUrl": "json:https://jx.xmflv.cc/?url="},
 
 
 
