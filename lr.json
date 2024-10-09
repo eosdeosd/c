@@ -31,7 +31,10 @@
 
 
 
-  { "key": "瓜子｜影视","name": "🎃┃东瓜（长得像南瓜的东瓜）","type": 3,"api": "csp_Gz360","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/老人专用源/spider.jar"},
+
+
+
+
 
           
 
@@ -49,7 +52,7 @@
 
 
     
- 
+ // { "key": "瓜子｜影视","name": "🎃┃东瓜（长得像南瓜的东瓜）","type": 3,"api": "csp_Gz360","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/老人专用源/spider.jar"},
 
   //{  "key": "nangua", "name": "🎃┃南瓜（真南瓜）", "playerType": "2","type": 3,"searchable":1,"quickSearch":1,"filterable":1, "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/drpy2.min.js", "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/%E6%96%B0%E5%8D%97%E7%93%9C.js" },
 
