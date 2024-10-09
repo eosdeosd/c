@@ -201,8 +201,8 @@
 
 
 
-    //🎃┃南瓜┃备用   https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/%E6%96%B0%E5%8D%97%E7%93%9C.js
-   //   {  "key": "nangua", "name": "🎃┃南瓜┃难吃（720P）", "playerType": "2","type": 3,"searchable":1,"quickSearch":1,"filterable":1, "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/drpy2.min.js", "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/%E6%96%B0%E5%8D%97%E7%93%9C.js" },
+    
+   {  "key": "nangua", "name": "🎃┃西瓜（长得像南瓜的西瓜）", "playerType": "2","type": 3,"searchable":1,"quickSearch":1,"filterable":1, "api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/drpy2.min.js", "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86/%E6%96%B0%E5%8D%97%E7%93%9C.js" },
 
 
  {"key": "csp_xBPQLIVIO", "name": "🍏LIVIO┃1080P（不被搜索）","type": 3,"api": "csp_XBPQ", "searchable": 0,"quickSearch": 0,"filterable":0 ,
