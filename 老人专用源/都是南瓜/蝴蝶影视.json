@@ -12,5 +12,5 @@
 
     "分类url": "https://www.tqpipa.com/vodshow/{cateId}-{area}-------{catePg}---{year}/",
    
-     "分类": "最新电影$new-movie#本月热门$hot-month#国产剧$zgjun#美剧$meiju#日韩剧$jpsrtv"
+     "分类": "电影$dianying#电视剧$dsj#动漫$dongman#综艺$zongyi"
 }
