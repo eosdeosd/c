@@ -1,0 +1,9 @@
+//https://yingqu.net/vodshow/24--------2---2024.html
+//https://yingqu.net/vodshow/{cateId}--------{catePg}---{year}.html
+
+{
+    "分类url": "https://yingqu.net/vodshow/{cateId}--------{catePg}---{year}.html",
+   // "线路标题": "无广不卡[不包含:#线路播放1#线路播放2]",
+     "分类": "电影$1#电视剧$2#动漫$3#综艺$4"
+}
+
