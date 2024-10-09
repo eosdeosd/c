@@ -33,17 +33,6 @@
     "api": "https://360zy.com/api.php/provide/vod","playUrl": "json:http://110.42.3.99:880/rmm.php/?url=" },
 
 
- {
-      "key": "比特",
-      "name": "✌️比特",
-      "type": 3,
-      "api": "csp_Bt",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-
-
 
 
 
