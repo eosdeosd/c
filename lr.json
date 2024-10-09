@@ -21,13 +21,51 @@
 
 {"key":"drpy_js_老人豆瓣","name":"🍽️菜谱|请点餐","type":3,"playerType": "2","api":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%B1%86%E7%93%A3/drpy2.min.js","ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%B1%86%E7%93%A3/%E8%80%81%E4%BA%BA%E8%B1%86%E7%93%A3.js"},
 
-   {"key": "bro","name": "🎃┃南瓜（我说它是南瓜就是南瓜）","type": 3,"playerType": "2","api": "csp_WebBr",
+
+
+ {"key": "金牌", "name": "🍷┃酸梅汁（秒播无广告）", "type": 3, "searchable": 1, "quickSearch": 0, "changeable": 0 ,"api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E7%93%9C%E5%AD%90APP/drpy2.min.js", "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E9%87%91%E7%89%8C%E5%BD%B1%E9%99%A2/jpys.js","playerType": "2"},
+
+
+
+
+   {"key": "bro铁剧","name": "🎃┃南瓜（我说它是南瓜就是南瓜）","type": 3,"playerType": "2","api": "csp_WebBr",
    "searchable": 1,"quickSearch":1,"filterable": 1,
    "ext": "KhY021WelCEl+6MsvwnzaPusskysEhxc/znZ4AaiReBTtZTeDEVZJbQKKez3K+OxlrjAIMdUpAUxP8fGystYn0Hss098UFVR69Qm2ARgmeZN86q8Ww=="}, 
 
 
- {"key": "4K","name": "🍷┃超好喝酸梅汁（4K）","type": 3, "searchable": 1, "quickSearch": 1,"changeable": 1,"playerType": "2","api": "csp_XBPQ",
-"ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/4K.json"}, 
+
+
+  {"key": "nm农民","name": "🎃┃也是南瓜（我说它是南瓜就是南瓜）", "type": 3,"api": "csp_WebNM","playerType": "2",
+  "searchable": 1, "quickSearch": 1, "filterable": 1,
+      "ext": "KhY021WelCEl+6MsvwnzaPussky2SxwF+jGY9QfkR6FIscbQFBNrsBC14jS6S+j98J+Fgoc0h0KhTaflmU0qx3+zLiwpVDkQ16x093uHK3w=" },
+
+
+
+
+   {"key": "cz厂长","name": "🎃┃都是南瓜（我说它是南瓜就是南瓜）","type": 3,"api": "csp_WebCzApp", "searchable": 1,"quickSearch": 0,"filterable": 0,
+ "ext": "KhY021WelCEl+6MsvwnzaPussky4HxELszjf4gzkR6FvvdeATVllJ/oSMZV62RIoZioJgQHLUd8zri0aAROuFbc0582riNidAk/7NYCvemmPE5jrRNKbaElV0iTBIVGBcLdvRBJ3FgMGXIgPUDLrPBV6qVjhiDLB/4XM5vg6ETWCwFMW/MKC5D5sfVzmlhkM8Q29hejujKelAj5N+RiHDRIx9njotC3YBJ5q" },
+
+
+   {"key": "人人影视", "name": "🧿人人","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
+      "ext": {"简介": "请勿相信影片中的广告，以免上当受骗。+<div class=\"stui-pannel_bd\"&&</div>",
+        "分类url": "https://www.567dyy.com/list/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$5" } },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -48,43 +86,8 @@
  //{ "key": "Lib","name": "🌟┃Lib┃推荐0（秒播无广告）","type": 3, "api": "csp_Jpys","jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E6%96%87%E9%87%87%E2%94%83%E7%A7%92%E6%92%AD.txt","playerType": "2", "searchable": 1, "quickSearch": 1, "changeable": 1 },
 
 
- {"key": "金牌", "name": "🍷┃酸梅汁（秒播无广告）", "type": 3, "searchable": 1, "quickSearch": 0, "changeable": 0 ,"api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E7%93%9C%E5%AD%90APP/drpy2.min.js", "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E9%87%91%E7%89%8C%E5%BD%B1%E9%99%A2/jpys.js","playerType": "2"},
 
-
-  // {"key": "JP","name": "🍷┃酸梅汁2（秒播无广告）","type": 3,"api": "csp_WebJP", "playerType": "2",
-   "searchable": 1, "quickSearch": 1,"filterable": 1,
-   "ext": "KhY021WelCEl+6MsvwnzaPusskysEhxc/i3d/FHwReBTtZTeDEVZJbQKKez3K+OxlrjAIMdUpAUxP8fGystYn0Hss098UFVR69Qm2ARgmeZN86q8Ww=="},
-
-
- //{ "key": "guazi","name": "🎃┃南瓜影视（我说它是南瓜就是南瓜）","type": 3,"api": "csp_WebGZ","searchable": 1,"quickSearch": 1,"filterable": 1},
-
-  {"key": "nm","name": "🎃┃也是南瓜（我说它是南瓜就是南瓜）", "type": 3,"api": "csp_WebNM","playerType": "2",
-  "searchable": 1, "quickSearch": 1, "filterable": 1,
-      "ext": "KhY021WelCEl+6MsvwnzaPussky2SxwF+jGY9QfkR6FIscbQFBNrsBC14jS6S+j98J+Fgoc0h0KhTaflmU0qx3+zLiwpVDkQ16x093uHK3w=" },
-
-   {"key": "cz","name": "🎃┃都是南瓜（我说它是南瓜就是南瓜）","type": 3,"api": "csp_WebCzApp", "searchable": 1,"quickSearch": 0,"filterable": 0,
- "ext": "KhY021WelCEl+6MsvwnzaPussky4HxELszjf4gzkR6FvvdeATVllJ/oSMZV62RIoZioJgQHLUd8zri0aAROuFbc0582riNidAk/7NYCvemmPE5jrRNKbaElV0iTBIVGBcLdvRBJ3FgMGXIgPUDLrPBV6qVjhiDLB/4XM5vg6ETWCwFMW/MKC5D5sfVzmlhkM8Q29hejujKelAj5N+RiHDRIx9njotC3YBJ5q" },
-
- 
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  // {"key": "JP","name": "🍷┃酸梅汁2（秒播无广告）","type": 3,"api": "csp_WebJP", "playerType": "2", "searchable": 1, "quickSearch": 1,"filterable": 1,"ext": "KhY021WelCEl+6MsvwnzaPusskysEhxc/i3d/FHwReBTtZTeDEVZJbQKKez3K+OxlrjAIMdUpAUxP8fGystYn0Hss098UFVR69Qm2ARgmeZN86q8Ww=="},
 
 
 
