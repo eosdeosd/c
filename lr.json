@@ -8,7 +8,7 @@
 
 
 {
-   "spider": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/老人专用源/zy3.jar",
+   "spider": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/老人专用源/zy2.jar",
 
     "wallpaper": "https://tool.weetai.cn/api",
    "warningText": "此源请搭配月光宝盒MAX3.10版软件使用，软件设置里面开启自动换源。资源来自网络，所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买。",
@@ -31,7 +31,9 @@
 
 
 
-  { "key": "瓜子｜影视","name": "🎃┃东瓜（长得像南瓜的东瓜）","type": 3,"api": "csp_Gz360","searchable": 1,"quickSearch": 1,"filterable": 1},
+  { "key": "瓜子｜影视","name": "🎃┃东瓜（长得像南瓜的东瓜）","type": 3,"api": "csp_Gz360","searchable": 1,"quickSearch": 1,"filterable": 1,
+   "jar":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/老人专用源/spider.jar"},
+
           
 
 
