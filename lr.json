@@ -35,12 +35,21 @@
 
 
 
- { "key": "AppYs_君君","name": "🎃┃也是南瓜（我说它是南瓜就是南瓜）","type": 3, "searchable": 1,"quickSearch": 1,"filterable": 1, 
+    {
+      "key": "AppYs_君君",
+      "name": "🎃┃也是南瓜（我说它是南瓜就是南瓜）",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
       "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/CATJS/js/appys.js",
       "ext": {
         "host": "http://122.228.85.203:1000/api.php/app/",
-        "*": [ "https://xcoo.vip/xiaojun/xiaojunjiexi.php?url=" ]
-             }},
+        "*": [
+          "https://xcoo.vip/xiaojun/xiaojunjiexi.php?url="
+        ]
+      }
+    },
+
 
 
 
