@@ -1,0 +1,6 @@
+{ 
+    "简介": "请勿相信影片中的广告，以免上当受骗。+<div class=\"stui-pannel_bd\"&&</div>",
+    "线路标题": ">&&<[不包含:#线路播放1#线路播放2]",
+     "分类url": "https://www.567dyy.com/list/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+     "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$5"
+ }
