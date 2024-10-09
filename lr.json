@@ -26,7 +26,7 @@
  {"key": "金牌", "name": "🍷┃酸梅汁（秒播无广告）", "type": 3, "searchable": 1, "quickSearch": 1, "changeable": 1 ,"api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E7%93%9C%E5%AD%90APP/drpy2.min.js", "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E9%87%91%E7%89%8C%E5%BD%B1%E9%99%A2/jpys.js","playerType": "2"},
 
 
- {"key": "南瓜", "name": "🎃┃南瓜（720P）","type": 3,"api": "csp_NanGua","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 1,"jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/fix24108.jar","ext": ""},
+ {"key": "南瓜APP", "name": "🎃┃南瓜（长得像南瓜的南瓜）","type": 3,"api": "csp_NanGua","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 1,"jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/fix24108.jar","ext": ""},
 
 
  {"key": "采集360","name": "🎃┃北瓜（不知道哪里冒出来）","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,
@@ -39,14 +39,9 @@
  {"key": "AppGZ瓜子","name": "🎃┃西瓜（长得像南瓜的西瓜）","type": 3,"api": "csp_AppGZ", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "KhY021WelCEl+6MsvwnzaPussky6FQJcpCjT9V7/D61ft9vQAhNEPOYSMZVJSODd/JOOSOwUzim+9qfvgpNz7SvUPpAkXAweyrp76WY8s5EBwW7DBMY="},
 
        
- {
-      "key": "天天",
-      "name": "天天┃App",
-      "type": 3,
-      "api": "csp_TTian",
-      "playerType": 1,"jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/fix24108.jar",
-      "ext": "baHR0cDovL29wLnlzZHFqcy5jbg=="
-    },
+ {"key": "天天APP","name": "🎃┃胡瓜（长得像南瓜的胡瓜）","type": 3,"api": "csp_TTian","playerType": 1,
+ "jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/fix24108.jar",
+ "ext": "baHR0cDovL29wLnlzZHFqcy5jbg=="},
 
 
   
