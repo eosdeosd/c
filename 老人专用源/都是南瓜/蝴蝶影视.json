@@ -1,0 +1,16 @@
+//https://www.tqpipa.com/vodshow/dianying-香港-------2---2005/
+
+//https://www.tqpipa.com/vodshow/{cateId}-{area}-------{catePg}---{year}/
+
+
+
+{
+    "站名":"蝴蝶影视",
+
+    "主页url": "https://www.tqpipa.com/", 
+
+
+    "分类url": "https://www.tqpipa.com/vodshow/{cateId}-{area}-------{catePg}---{year}/",
+   
+     "分类": "最新电影$new-movie#本月热门$hot-month#国产剧$zgjun#美剧$meiju#日韩剧$jpsrtv"
+}
