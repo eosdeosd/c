@@ -43,7 +43,12 @@
 
 
 
- {"key": "星星资源","name": "🎃┃西瓜（长得像南瓜的西瓜）","type": 1,"api": "http://vip.smzj6.vip/api.php/provide/vod/"},
+ {
+      "key": "农民资源",
+      "name": "🌀农民采集",
+      "type": 1,
+      "api": "https://www.xncnews.com/api.php/provide/vod/"
+    },
 
 
 
