@@ -40,7 +40,7 @@
     "api": "https://360zy.com/api.php/provide/vod","playUrl": "json:http://110.42.3.99:880/rmm.php/?url=" },
 
 
-//{"key": "趣影","name": "🎃┃第四南瓜（我说它是南瓜就是南瓜）","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E9%83%BD%E6%98%AF%E5%8D%97%E7%93%9C/%E8%B6%A3%E5%BD%B1.json" },
+{"key": "趣影","name": "🎃┃第四南瓜（我说它是南瓜就是南瓜）","type": 1,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E9%83%BD%E6%98%AF%E5%8D%97%E7%93%9C/%E8%B6%A3%E5%BD%B1.json" },
 
 
 
