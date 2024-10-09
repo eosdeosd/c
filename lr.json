@@ -34,7 +34,17 @@
 
  {"key": "比特","name": "🎃┃东瓜（不知道哪里冒出来）","type": 3, "api": "csp_Bttwo","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/Yoursmile.jar"},
 
-
+ {
+      "key": "南瓜",
+      "name": "南瓜┃App",
+      "type": 3,
+      "api": "csp_NanGua",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 1,
+      "filterable": 1,
+      "ext": ""
+    },
 
 
 
