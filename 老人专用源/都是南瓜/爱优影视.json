@@ -1,1 +1,24 @@
-https://iuys.cc/vodshow/3-日本--动画-----2---2024.html
+//https://iuys.cc/vodshow/3-日本--动画-----2---2024.html
+
+//https://iuys.cc/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html
+
+
+
+
+
+
+  {    
+     
+        "站名":"爱优影视",
+        "主页url": "https://iuys.cc/", 
+        "分类": "电视剧&电影&动漫&综艺",
+        "分类值": "1&2&3&4",
+        "线路数组": "一键三联[不包含:高清线路#]",
+        "线路标题": "[不包含:巨卡绅士线路#高清线路]",  
+
+        "分类url": "https://iuys.cc/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html" 
+
+        
+        }
+
+
