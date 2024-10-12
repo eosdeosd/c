@@ -37,6 +37,8 @@
 "ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E7%88%B1%E6%BC%AB%E7%94%BB%5B%E6%BC%AB%5D.js"},
 
 
+{"key": "采集360","name": " 🥩┃烤肉","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "https://360zy.com/api.php/provide/vod","playUrl": "json:http://110.42.3.99:880/rmm.php/?url=" },
+
 
 
  {"key": "南瓜APP", "name": "🎃┃南瓜（长得像南瓜的南瓜）","type": 3,"api": "csp_NanGua","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 1,"jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/fix24108.jar","ext": ""},
