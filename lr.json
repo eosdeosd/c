@@ -31,19 +31,12 @@
 "ext":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E7%88%B1%E6%BC%AB%E7%94%BB%5B%E6%BC%AB%5D.js"},
 
 
-
- {"key": "动漫库[漫]", "name": " 🍕┃披萨（动漫库）","type": 3,"api": "csp_XBPQ", "searchable": 1,"quickSearch": 1,"filterable":1 ,
-   "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E5%8A%A8%E6%BC%AB%E5%BA%93.json" },
-
-
-    {"key": "爱优影视", "name": " 🍖┃烤肉（1080P）","type": 3,"api": "csp_XBPQ", "searchable": 1,"quickSearch": 1,"filterable":1 ,
-   "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E9%83%BD%E6%98%AF%E5%8D%97%E7%93%9C/%E7%88%B1%E4%BC%98%E5%BD%B1%E8%A7%86.json" },
+{"key": "采集360","name": " 🥩┃烤肉","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "https://360zy.com/api.php/provide/vod","playUrl": "json:http://110.42.3.99:880/rmm.php/?url=" },
 
 
 
 
  {"key": "南瓜APP", "name": "🎃┃南瓜（长得像南瓜的南瓜）","type": 3,"api": "csp_NanGua","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 1,"jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/fix24108.jar","ext": ""},
-
 
 
  {"key": "比特","name": "🎃┃东瓜（不知道哪里冒出来）","type": 3, "api": "csp_Bttwo","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/Yoursmile.jar"},
@@ -55,7 +48,7 @@
 { "key": "华为资源",  "name": "🎃┃北瓜（长得像南瓜的胡瓜）", "type": 1,  "api": "http://nikanba.live/api.php/provide/vod/","searchable":1,
 "quickSearch":1,"changeable":1 },  
 
- //{"key": "采集360","name": "采集360","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "https://360zy.com/api.php/provide/vod","playUrl": "json:http://110.42.3.99:880/rmm.php/?url=" },
+
   
 
 
