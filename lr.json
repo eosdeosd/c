@@ -32,6 +32,11 @@
 
 
 
+ {"key": "动漫库", "name": "动漫库","type": 3,"api": "csp_XBPQ", "searchable": 1,"quickSearch": 1,"filterable":1 ,
+   "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E5%8A%A8%E6%BC%AB%E5%BA%93.json" },
+
+
+
  {"key": "南瓜APP", "name": "🎃┃南瓜（长得像南瓜的南瓜）","type": 3,"api": "csp_NanGua","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 1,"jar": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/fix24108.jar","ext": ""},
 
 
