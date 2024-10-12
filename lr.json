@@ -23,7 +23,7 @@
 
 
 
- {"key": "金牌", "name": "🍷┃酸梅汁（秒播无广告）", "type": 3, "searchable": 1, "quickSearch": 1, "changeable": 1 ,"api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E7%93%9C%E5%AD%90APP/drpy2.min.js", "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E9%87%91%E7%89%8C%E5%BD%B1%E9%99%A2/jpys.js","playerType": "2"},
+  {"key": "金牌", "name": "🍷┃酸梅汁（秒播无广告）", "type": 3, "searchable": 1, "quickSearch": 1, "changeable": 1 ,"api": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E7%93%9C%E5%AD%90APP/drpy2.min.js", "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E9%87%91%E7%89%8C%E5%BD%B1%E9%99%A2/jpys.js","playerType": "2"},
 
 
 {"key": "爱漫画[漫]","name": " 🍰┃蛋糕（爱动漫）","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,
@@ -36,9 +36,8 @@
    "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E5%8A%A8%E6%BC%AB%E5%BA%93.json" },
 
 
-    {"key": "爱优影视", "name": " 🍖┃烤肉（看动漫）","type": 3,"api": "csp_XBPQ", "searchable": 1,"quickSearch": 1,"filterable":1 ,
+    {"key": "爱优影视", "name": " 🍖┃烤肉（1080P）","type": 3,"api": "csp_XBPQ", "searchable": 1,"quickSearch": 1,"filterable":1 ,
    "ext": "https://gitee.com/huanzi989/self-use---tv-box/raw/master/%E8%80%81%E4%BA%BA%E4%B8%93%E7%94%A8%E6%BA%90/%E9%83%BD%E6%98%AF%E5%8D%97%E7%93%9C/%E7%88%B1%E4%BC%98%E5%BD%B1%E8%A7%86.json" },
-
 
 
 
@@ -54,8 +53,7 @@
  
 
 { "key": "华为资源",  "name": "🎃┃北瓜（长得像南瓜的胡瓜）", "type": 1,  "api": "http://nikanba.live/api.php/provide/vod/","searchable":1,
-"quickSearch":1,"changeable":1 },   
-
+"quickSearch":1,"changeable":1 },  
 
  //{"key": "采集360","name": "采集360","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "https://360zy.com/api.php/provide/vod","playUrl": "json:http://110.42.3.99:880/rmm.php/?url=" },
   
