@@ -11,7 +11,7 @@
         "主页url": "https://www.omofun.icu/", 
         "分类": "电影&连续剧&动漫&综艺",
         "分类值": "1&2&4&3",
-        "线路数组": "[排序:独家超清#][不包含:高清线路#]",
+        "线路数组": "一键三联[不包含:高清线路#]",
         "线路标题": "[不包含:巨卡绅士线路#高清线路]",  
 
         "分类url": "https://www.omofun.icu/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html" 
